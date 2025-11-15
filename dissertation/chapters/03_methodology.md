@@ -1,1 +1,2 @@
 ## 3. Methodology
+Methodology
