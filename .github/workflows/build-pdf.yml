@@ -19,8 +19,8 @@ jobs:
 
     - name: Build PDF using Pandoc
       run: |
-        FILES=$(printf dissertation/chapters/*.md | sort -V)
-        echo $FILES
+        mapfile -d '' FILES < <(find dissertation/chapters -name "*.md" -print0 | sort -zV)
+        printf "%s\n" "${FILES[@]}"
         docker run --rm -v "$PWD":/data pandoc/latex:3.8 \
           --pdf-engine=xelatex \
           --citeproc \
@@ -28,7 +28,7 @@ jobs:
           --csl=dissertation/harvard-leeds-beckett-university.csl \
           --metadata=link-citations:true \
           --output=dissertation/main.pdf \
-          $FILES
+          "${FILES[@]}"
 
     - name: Upload PDF Artifact
       uses: actions/upload-artifact@v5
