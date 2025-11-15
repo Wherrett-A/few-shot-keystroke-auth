@@ -20,6 +20,7 @@ jobs:
     - name: Build PDF using Pandoc
       run: |
         FILES=$(printf dissertation/chapters/*.md | sort -V)
+        echo $FILES
         docker run --rm -v "$PWD":/data pandoc/latex:3.8 \
           --pdf-engine=xelatex \
           --citeproc \
