@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title></title>
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/solarized.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+	<link rel="stylesheet" href="css/layout.css" />
+	<link rel="stylesheet" href="plugin/customcontrols/style.css">
+
+
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+	<script type="text/javascript">
+		var forgetPop = true;
+		function onPopState(event) {
+			if(forgetPop){
+				forgetPop = false;
+			} else {
+				parent.postMessage(event.target.location.href, "app://obsidian.md");
+			}
+        }
+		window.onpopstate = onPopState;
+		window.onmessage = event => {
+			if(event.data == "reload"){
+				window.document.location.reload();
+			}
+			forgetPop = true;
+		}
+
+		function fitElements(){
+			const itemsToFit = document.getElementsByClassName('fitText');
+			for (const item in itemsToFit) {
+				if (Object.hasOwnProperty.call(itemsToFit, item)) {
+					var element = itemsToFit[item];
+					fitElement(element,1, 1000);
+					element.classList.remove('fitText');
+				}
+			}
+		}
+
+		function fitElement(element, start, end){
+
+			let size = (end + start) / 2;
+			element.style.fontSize = `${size}px`;
+
+			if(Math.abs(start - end) < 1){
+				while(element.scrollHeight > element.offsetHeight){
+					size--;
+					element.style.fontSize = `${size}px`;
+				}
+				return;
+			}
+
+			if(element.scrollHeight > element.offsetHeight){
+				fitElement(element, start, size);
+			} else {
+				fitElement(element, size, end);
+			}		
+		}
+
+
+		document.onreadystatechange = () => {
+			fitElements();
+			if (document.readyState === 'complete') {
+				if (window.location.href.indexOf("?export") != -1){
+					parent.postMessage(event.target.location.href, "app://obsidian.md");
+				}
+				if (window.location.href.indexOf("print-pdf") != -1){
+					let stateCheck = setInterval(() => {
+						clearInterval(stateCheck);
+						window.print();
+					}, 250);
+				}
+			}
+	};
+
+
+        </script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides"><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+# WIP Presentation
+#### Using an Adaptive Metric Learning Approach for few-shot, Free-text Continuous Authentication with a Physical Keyboard. 
+Adam Wherrett | 33657085 \
+Tom Shaw, Oleg Illiashenko
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Research Questions
+- Can a metric-learning approach result in accurate few-shot enrolment?
+- Will an adaptive fine-tuning mechanism mitigate behavioural drift without increasing **FAR**?
+- How does the proposed system compare to a baseline **KD** model?
+</div>
+
+<aside class="notes"><ul>
+<li><strong>FAR:</strong> False Activation Rate</li>
+<li><strong>KD:</strong> Keystroke Dynamics</li>
+</ul>
+<p><strong>Problem Statement:</strong></p>
+<ul>
+<li>Traditional keystroke authentication requires large training datasets (1000+ keystrokes)</li>
+<li>User typing patterns drift over time due to fatigue, injury, or habit changes</li>
+<li>Current systems fail with limited enrolment data and long-term usage
+<strong>Research Significance:</strong></li>
+<li>Addresses critical gap in behavioural biometrics for practical deployment</li>
+<li>Potential to enable secure authentication with minimal user friction</li>
+<li>Applications in remote work security, financial services, and sensitive systems
+<strong>Innovation Focus:</strong></li>
+<li>Novel combination of metric learning + adaptive fine-tuning</li>
+<li>Free-text approach (no fixed passphrases required)</li>
+<li>Continuous authentication rather than one-time verification</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" fade-up="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Literature Review & Gap Analysis
+### Free-text Keystroke dynamics
+- **Lu et al. (2020)** - "Continuous authentication by free-text keystroke based on CNN and RNN"
+- **Bellet et al (2015)** - "Metric Learning"
+
+notes:
+- Lu et al
+	- will act as a baseline model for comparison
+	- uses CNN-RNN hybrid models (CNN extract higher level keystroke data)
+	- EER 2.67-5.97%
+	- requires large volumes of enrolment data
+- Bellet et al
+	- provides the foundation for out approach
+	- books covers basic concepts - advanced applications
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Literature Review & Gap Analysis
+### Few-Shot Learning
+- **Koch et al. (2015)** - "Siamese Neural Networks for One-shot Image Recognition"
+- **Snell et al. (2017)** - "Prototypical Networks for Few-shot Learning"
+- **Finn et al. (2017)** - "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
+
+notes:
+- Koch et al
+	- introduces use of Siamese networks for meta learning
+	- metric based meta-learning
+- Snell et al
+	- uses Prototypical Network
+	- less suited as would require imposter samples
+	- could be useful for adaptive finetuning mechanism
+- Finn et al
+	- MAML
+	- **Optimization-Based** meta-learning approach
+	- can be applied to any gradient-based model
+	- trains models to be easily adaptable
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Literature Review & Gap Analysis
+### Behavioural Drift
+- **Ali & Hassan. (2025)** - "Enhancing User-Centric Security using Machine Learning Techniques for Continuous Authentication using Keystroke Dynamics"
+- **Mondal & Bours. (2017)** - "A study on continuous authentication using a combination of keystroke and mouse biometrics"
+- **Finn et al. (2017)** - "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
+
+notes:
+- Ali & Hassan
+	- Uses LSTM-CNN (combats memory loss over time)
+	- long short term memory (type of RNN)
+	- Convolutional neural network
+	- Recurrent neural network
+	- improves behavioural dynamics
+- Mondal & Bours
+	- uses a dynamic trust model
+	- that reacts to user actions and can account for short-term behavioural drift (posture change/ fatigue)
+- Finn et al
+	- MAML models are made to be very generalisable and therefore can easily adapt
+
+(CNN-LSTM-SNN?)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Literature Review & Gap Analysis
+### Recent Multi-Modal Approaches
+- **S & k. (2024)** - "FacekeyID: an adaptive weighted sum score-based fusion framework for continuous user authentication"
+- **S & k. (2025)** - "Enhancing security and usability with context aware multi-biometric fusion for continuous user authentication"
+
+notes:
+- 2024
+	- 3.02% Equal Error Rate
+- 2025
+	- 2.35% Equal Error Rate
+- both multi-modal
+- good baseline for what more modern multi-modal systems achieve
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Literature Review & Gap Analysis
+### Research Gap
+- Current high-performing systems are multi-modal
+- Limited adaption to changing user patterns
+- Large volumes of enrolment data needed adds friction
+
+notes:
+1. multi-modal systems often require extra hardware such as web-cam
+2. lots of research doesn't currently account for behavioural drift
+	- when looking not many papers were highly cited
+3. not currently adoptable in the real world as it adds too much friction, users don't want to enter large volumes of enrolment data (time-consuming)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Literature Review & Gap Analysis
+### Research contributions
+- Adaptive metric learning for continuous authentication
+- Advances in single-modal systems
+- Practical implementation
+
+notes:
+- research will use metric learning, few-shot techniques & adaptive fine tuning mechanisms to make a single-modal system that combats the 2 core problems to make it more practical
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Methodologies
+### 5-phase approach
+1. &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Data Analysis
+1. &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Base Model Development
+1. &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Meta Learning Adaptation
+1. &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Adaptive Fine-Tuning mechanism
+1. &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Long-term testing
+
+notes:
+1. phase 1
+	1. Aalto Dataset
+		- 136M Keystrokes from 168,000 volunteers
+		- collected over 4 weeks
+		- free-text
+	2. CMU Dataset
+		- 51 subjects 400 repetitions each of password
+	- data cleaning & normalisation
+2. phase 2
+	1. Replicate a model such as Lu et al
+	2. conduct base tests for EER etc...
+3. phase 3
+	1. introduce a meta learning model
+	2. such as MAML or SNN
+4. phase 4
+	1. implement adaptive fine-tuning mechanisms
+	2. Prototypical network?
+5. phase 5
+	1. test adapted model for 15 minute sessions (weekly?) over 4 week period
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Methodologies
+### Agile Kanban development
+
+<img src="Pasted image 20251203212050.png" alt="" style="object-fit: scale-down">
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Methodologies
+### Evaluation Framework
+- EER (Equal Error Rate)
+- FRR (False Rejection Rate)
+- FAR (False Acceptance Rate)
+
+baseline comparison
+
+notes:
+EER is the point where FRR = FAR
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Current Progress
+- **Done** \
+`✅` Review Literature \
+`✅` Ethics approval submitted \
+`✅` Datasets acquired \
+`✅` Github Repo set up \
+`✅` Methodologies established
+- **In Progress** \
+` 🔄` Write literature review & methodologies \
+` 🔄` Baseline Model development \
+` 🔄` Dataset Cleaning and normalisation
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Challenges & Solutions
+- Data pre-processing complexities
+- Time constraints
+- algorithm complexities 
+
+<div class="block">
+
+<!-- .element: class=" fragment fade-up" -->
+**Solutions**
+- 5-phase approach
+- regular supervisor contact
+- Modular architecture
+</div>
+
+
+
+notes:
+- challenges
+	- Aalto is large dataset
+	- large project not an overly large amount of time (less room for road bumps)
+	- involves complex algorithms that may be difficult to implement
+- Solutions
+	- broken down to be more manageable, able to adjust to focus on 1 challenge if both are too much
+	- ensure progress is within the scope
+	- separate modules for different functionality. easily change from RNN to SNN
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Timeline
+- 25/12/2025 - Baseline model implemented
+- 15/01/2026 - Meta Learning and adaptive fine-tuning mechanisms implemented
+- 27/01/2026 - Final Write-up and defence preparation
+
+<img src="Pasted image 20251203222120.png" alt="" style="width: 900px; object-fit: fill">
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+# Questions?
+</div></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/math/math.js"></script>
+	<script src="plugin/mermaid/mermaid.js"></script>
+	<script src="plugin/chart/chart.min.js"></script>
+	<script src="plugin/chart/plugin.js"></script>
+	<script src="plugin/customcontrols/plugin.js"></script>
+
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+	  function isLight(color) {
+		let hex = color.replace('#', '');
+
+		// convert #fff => #ffffff
+		if(hex.length == 3){
+			hex = `${hex[0]}${hex[0]}${hex[1]}${hex[1]}${hex[2]}${hex[2]}`;
+		}
+
+		const c_r = parseInt(hex.substr(0, 2), 16);
+		const c_g = parseInt(hex.substr(2, 2), 16);
+		const c_b = parseInt(hex.substr(4, 2), 16);
+		const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+		return brightness > 155;
+	}
+
+	var bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+	var isLight = isLight(bgColor);
+
+	if(isLight){
+		document.body.classList.add('has-light-background');
+	} else {
+		document.body.classList.add('has-dark-background');
+	}
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        plugins: [
+          RevealMarkdown,
+          RevealHighlight,
+          RevealZoom,
+          RevealNotes,
+          RevealMath.MathJax3,
+		  RevealMermaid,
+		  RevealChart,
+		  RevealCustomControls,
+        ],
+
+
+    	allottedTime: 120 * 1000,
+
+		mathjax3: {
+			mathjax: 'plugin/math/mathjax/tex-mml-chtml.js',
+		},
+		markdown: {
+		  gfm: true,
+		  mangle: true,
+		  pedantic: false,
+		  smartLists: false,
+		  smartypants: false,
+		},
+
+		mermaid: {
+			theme: isLight ? 'default' : 'dark',
+		},
+
+		customcontrols: {
+			controls: [
+			]
+		},
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal().getQueryHash() || {};
+
+      var options = extend(defaultOptions, {"width":960,"height":700,"margin":0.04,"controls":true,"progress":true,"slideNumber":false,"transition":"slide","transitionSpeed":"default"}, queryOptions);
+    </script>
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+
+  <!-- created with Advanced Slides -->
+</html>
