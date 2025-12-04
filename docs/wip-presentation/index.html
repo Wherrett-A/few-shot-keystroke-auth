@@ -94,39 +94,80 @@ Tom Shaw, Oleg Illiashenko
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
+## Agenda
+- Research Questions
+- Current Progress
+- Literature review & Gap Analysis
+- Ethics
+- Methodologies
+- Github Repo
+- Pandoc
+- Challenges & Solutions
+- Timeline
+- Questions?
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
 ## Research Questions
-- Can a metric-learning approach result in accurate few-shot enrolment?
+- Can metric learning achieve <3% **EER** with <50 enrolment samples?
 - Will an adaptive fine-tuning mechanism mitigate behavioural drift without increasing **FAR**?
 - How does the proposed system compare to a baseline **KD** model?
 </div>
 
 <aside class="notes"><ul>
-<li><strong>FAR:</strong> False Activation Rate</li>
+<li><strong>EER:</strong> Equal Error Rate</li>
+<li><strong>FAR:</strong> False Acceptance Rate</li>
 <li><strong>KD:</strong> Keystroke Dynamics</li>
 </ul>
 <p><strong>Problem Statement:</strong></p>
 <ul>
 <li>Traditional keystroke authentication requires large training datasets (1000+ keystrokes)</li>
 <li>User typing patterns drift over time due to fatigue, injury, or habit changes</li>
-<li>Current systems fail with limited enrolment data and long-term usage
-<strong>Research Significance:</strong></li>
-<li>Addresses critical gap in behavioural biometrics for practical deployment</li>
-<li>Potential to enable secure authentication with minimal user friction</li>
-<li>Applications in remote work security, financial services, and sensitive systems
-<strong>Innovation Focus:</strong></li>
-<li>Novel combination of metric learning + adaptive fine-tuning</li>
-<li>Free-text approach (no fixed passphrases required)</li>
-<li>Continuous authentication rather than one-time verification</li>
+<li>Current systems fail with limited enrolment data and long-term usage</li>
 </ul>
-</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" fade-up="true" -->
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Current Progress
+- **Done** \
+`✅` Review Literature \
+`✅` Ethics approval submitted \
+`✅` Datasets acquired \
+`✅` Methodologies established \
+`✅` Github Repo set up 
+- **In Progress** \
+` 🔄` Write literature review & methodologies \
+` 🔄` Baseline Model development \
+` 🔄` Dataset Cleaning and normalisation
+
+notes:
+- I have spend lots of time looking into literature around the subject and understanding different ML algorithms and approaches
+- I have submitted my ethics however it needs a few tweeks
+- 2 Data sets
+	- Aalto university - longitudinal (4 weeks)
+	- Killourhy & Maxion - repeated passwords
+- Github set up for version control and project management
+- looked at methodologies I will follow to have a feasible end product
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" fade-up="true" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
 ## Literature Review & Gap Analysis
-### Free-text Keystroke dynamics
+- Foundational Work
+- Few-shot Learning
+- Behavioural Drift
+- Multi-Modal Research
+- Research Gap
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" fade-up="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Literature Review & Gap Analysis
+### Foundational Work
 - **Lu et al. (2020)** - "Continuous authentication by free-text keystroke based on CNN and RNN"
 - **Bellet et al (2015)** - "Metric Learning"
 
 notes:
+CNN - Convolutional Neural Network
+RNN - Recurrent Neural Network
 - Lu et al
 	- will act as a baseline model for comparison
 	- uses CNN-RNN hybrid models (CNN extract higher level keystroke data)
@@ -153,7 +194,7 @@ notes:
 	- less suited as would require imposter samples
 	- could be useful for adaptive finetuning mechanism
 - Finn et al
-	- MAML
+	- MAML (Model-Agnostic Meta-Learning)
 	- **Optimization-Based** meta-learning approach
 	- can be applied to any gradient-based model
 	- trains models to be easily adaptable
@@ -220,6 +261,18 @@ notes:
 
 notes:
 - research will use metric learning, few-shot techniques & adaptive fine tuning mechanisms to make a single-modal system that combats the 2 core problems to make it more practical
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Ethics
+
+<img src="Pasted image 20251204001238.png" alt="" style="object-fit: scale-down">
+
+
+notes:
+- As of current standing this research will be a self study and will only be using publicly available datasets
+- during data cleaning and normalisation, unnecessary data will be removed (so that unnecessary data associated with a dataset participant is not stored)
+- all personal KD data will be encrypted when I am not actively using it
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
@@ -258,6 +311,10 @@ notes:
 ### Agile Kanban development
 
 <img src="Pasted image 20251203212050.png" alt="" style="object-fit: scale-down">
+
+
+notes:
+using Github projects for kanban along with milestones and issues to track progress
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
@@ -271,20 +328,90 @@ baseline comparison
 
 notes:
 EER is the point where FRR = FAR
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Github
+
+```
+code/
+data/
+dissertation/
+|	chapters/
+|	|	00_frontmatter.md
+|	|	01_introduction.md
+|	|	02_literature_review.md
+|	|	03_methodology.md
+|	|	04_results.md
+|	|	05_disscussion.md
+|	|	06_conclusion.md
+|	|	99_appedices.md
+|	figures/
+|	harvard-leeds-beckett-university.csl
+|	main.pdf
+|	references.bib
+docs/
+models
+LICENSE
+```
+
+notes:
+- code
+	- Source Code & Scripts. This directory holds all the Python/ML code necessary to execute your research. This is your project's logic.
+- Data
+	- Data Management. Used for storing small, processed data samples or scripts required to retrieve and clean the main keystroke dynamics dataset. README for accessing main datasets
+- dissertation
+	- uses pandoc
+	- breaks down dissertation into smaller manageable pieces
+	- easier to navigate and focus on one section at a time
+- docs
+	- Non 'thesis' documentation
+	- internal notes, supervisor meeting notes
+	- this presentation
+- models
+	- Trained models & weights for specific checkpoints
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" data-auto-animate="true" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Github
+
+<div class="mermaid">
+gitGraph
+	commit
+	commit
+	branch docs/6-draft-chapter-2-lit-review
+	checkout docs/6-draft-chapter-2-lit-review
+	commit
+	checkout main
+	branch feat/10-impliment-snn-algorithm
+	checkout feat/10-impliment-snn-algorithm
+	commit
+	commit
+	checkout main
+	merge docs/6-draft-chapter-2-lit-review
+	checkout feat/10-impliment-snn-algorithm
+	commit
+	commit
+	checkout main
+	merge feat/10-impliment-snn-algorithm
+	commit
+
+</div>
+
+notes:
+- I will be using a github branching workflow allowing for better agile development
+- work on different features simultaneously
+- use pull requests to force self code review
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
-## Current Progress
-- **Done** \
-`✅` Review Literature \
-`✅` Ethics approval submitted \
-`✅` Datasets acquired \
-`✅` Github Repo set up \
-`✅` Methodologies established
-- **In Progress** \
-` 🔄` Write literature review & methodologies \
-` 🔄` Baseline Model development \
-` 🔄` Dataset Cleaning and normalisation
+## Pandoc
+markdown → LaTex → pdf
+
+notes:
+- I have spent considerable time experimenting with Pandoc
+- write dissertation is manageable md files, no though about format
+- use a build script to compile to a pdf using a LaTex engine
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
@@ -319,13 +446,21 @@ notes:
 ## Timeline
 - 25/12/2025 - Baseline model implemented
 - 15/01/2026 - Meta Learning and adaptive fine-tuning mechanisms implemented
-- 27/01/2026 - Final Write-up and defence preparation
+- 27/02/2026 - Final Write-up and defence preparation
 
 <img src="Pasted image 20251203222120.png" alt="" style="width: 900px; object-fit: fill">
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
 # Questions?
+
+notes:
+- CNN - Convolutional - spatial data (images/ grid like data)
+- RNN - Recurrent - sequential data
+- CNN looks at features RNN looks at sequence of features
+**"How does your <3% EER target compare to current single-modal systems?"**
+   - *Answer:* Current single-modal systems achieve 5-10% EER, so 3% would be significant improvement.
+RTX 5090 (24GB VRAM), 96GB RAM, and 16-core CPU
 </div></script></section></div>
     </div>
 
