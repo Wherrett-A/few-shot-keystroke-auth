@@ -1,0 +1,520 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	001	3300000	3300146	a	97
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	002	3300122	3300176	r	114
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	003	3300284	3300420	t	116
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	004	3300468	3300524	i	105
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	005	3300532	3300632	f	102
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	006	3300515	3300566	i	105
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	007	3300666	3300745	c	99
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	008	3301239	3301387	i	105
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	009	3300944	3301033	a	97
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	010	3301017	3301146	l	108
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	011	3301080	3301178	 	32
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	012	3301199	3301278	l	108
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	013	3302160	3302213	e	101
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	014	3302431	3302523	a	97
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	015	3302604	3302735	r	114
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	016	3301890	3302008	n	110
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	017	3302800	3302894	i	105
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	018	3303026	3303091	n	110
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	019	3302520	3302668	g	103
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	020	3301976	3302047	 	32
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	021	3303420	3303569	l	108
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	022	3303843	3303952	e	101
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	023	3303850	3303944	a	97
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	024	3304255	3304316	r	114
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	025	3303432	3303488	n	110
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	026	3304400	3304541	i	105
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	027	3303510	3303657	n	110
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	028	3303429	3303513	g	103
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	029	3304340	3304437	 	32
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	030	3304698	3304838	h	104
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	031	3305880	3306005	e	101
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	032	3305332	3305460	l	108
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	033	3306272	3306420	l	108
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	034	3304488	3304590	o	111
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	035	3304998	3305080	 	32
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	036	3306825	3306897	j	106
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	037	3305220	3305303	u	117
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	038	3304588	3304698	m	109
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	039	3304332	3304447	p	112
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	040	3307722	3307789	s	115
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	041	3307280	3307399	 	32
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	042	3306191	3306287	d	100
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	043	3304956	3305018	o	111
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	044	3305676	3305775	g	103
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	045	3306864	3306993	 	32
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	046	3305805	3305938	b	98
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	047	3305704	3305831	r	114
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	048	3306298	3306419	o	111
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	049	3305376	3305492	w	119
+034	001	artificial learning learning hello jumps dog brown	artificial learning learning hello jumps dog brown	050	3305145	3305239	n	110
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	001	3301000	3301084	t	116
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	002	3301190	3301275	h	104
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	003	3301270	3301353	e	101
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	004	3301453	3301528	 	32
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	005	3301412	3301491	l	108
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	006	3301540	3301682	e	101
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	007	3301936	3301992	a	97
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	008	3301973	3302093	r	114
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	009	3302448	3302523	n	110
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	010	3302116	3302232	i	105
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	011	3302050	3302175	n	110
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	012	3302661	3302774	g	103
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	013	3303088	3303226	 	32
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	014	3303431	3303493	b	98
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	015	3302638	3302769	r	114
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	016	3302770	3302822	o	111
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	017	3302728	3302798	w	119
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	018	3304128	3304218	n	110
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	019	3302944	3303071	 	32
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	020	3304002	3304081	p	112
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	021	3303980	3304068	y	121
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	022	3303604	3303716	t	116
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	023	3304234	3304358	h	104
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	024	3304565	3304700	o	111
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	025	3305584	3305672	n	110
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	026	3303800	3303915	 	32
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	027	3305784	3305842	o	111
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	028	3304105	3304236	v	118
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	029	3306152	3306245	e	101
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	030	3305466	3305533	r	114
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	031	3306400	3306505	 	32
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	032	3306580	3306699	p	112
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	033	3306088	3306192	y	121
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	034	3306643	3306786	t	116
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	035	3305590	3305646	h	104
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	036	3307125	3307208	o	111
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	037	3305572	3305658	n	110
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	038	3306994	3307060	 	32
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	039	3305750	3305800	w	119
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	040	3307006	3307089	o	111
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	041	3308440	3308586	r	114
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	042	3307314	3307376	l	108
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	043	3308854	3308911	d	100
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	044	3306762	3306888	 	32
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	045	3309316	3309369	p	112
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	046	3308470	3308619	r	114
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	047	3306428	3306485	o	111
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	048	3306217	3306287	g	103
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	049	3308776	3308921	r	114
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	050	3306488	3306612	a	97
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	051	3309300	3309367	m	109
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	052	3309415	3309550	m	109
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	053	3310308	3310456	i	105
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	054	3308049	3308160	n	110
+034	002	the learning brown python over python world programming	the learning brown python over python world programming	055	3309640	3309758	g	103
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	001	3302000	3302139	w	119
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	002	3302168	3302316	o	111
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	003	3302216	3302292	r	114
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	004	3302480	3302585	l	108
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	005	3302484	3302601	d	100
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	006	3302890	3303016	 	32
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	007	3303146	3303207	d	100
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	008	3303204	3303298	a	97
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	009	3303424	3303561	t	116
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	010	3303233	3303337	a	97
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	011	3303500	3303569	 	32
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	012	3303419	3303520	q	113
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	013	3304280	3304337	u	117
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	014	3304496	3304589	i	105
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	015	3304702	3304771	c	99
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	016	3303860	3303921	k	107
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	017	3303616	3303706	 	32
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	018	3304720	3304778	s	115
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	019	3305060	3305127	c	99
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	020	3303919	3303981	i	105
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	021	3305200	3305324	e	101
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	022	3305507	3305581	n	110
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	023	3305608	3305752	c	99
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	024	3306301	3306447	e	101
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	025	3305024	3305138	 	32
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	026	3304925	3305057	l	108
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	027	3305874	3305929	a	97
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	028	3306887	3307028	z	122
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	029	3306508	3306597	y	121
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	030	3305654	3305708	 	32
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	031	3307550	3307675	j	106
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	032	3306867	3306928	u	117
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	033	3307056	3307153	m	109
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	034	3305630	3305726	p	112
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	035	3308698	3308831	s	115
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	036	3307425	3307527	 	32
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	037	3307004	3307105	i	105
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	038	3305737	3305884	n	110
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	039	3306028	3306095	t	116
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	040	3307304	3307387	e	101
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	041	3309520	3309627	l	108
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	042	3309503	3309625	l	108
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	043	3306746	3306882	i	105
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	044	3308923	3309011	g	103
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	045	3308996	3309121	e	101
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	046	3309065	3309180	n	110
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	047	3309498	3309617	c	99
+034	003	world data quick science lazy jumps intelligence	world data quick science lazy jumps intelligence	048	3310178	3310315	e	101
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	001	3303000	3303125	b	98
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	002	3303117	3303190	r	114
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	003	3303344	3303451	o	111
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	004	3303525	3303592	w	119
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	005	3303796	3303869	n	110
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	006	3303725	3303861	 	32
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	007	3303846	3303971	f	102
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	008	3304183	3304309	o	111
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	009	3304168	3304219	x	120
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	010	3304395	3304481	 	32
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	011	3304230	3304343	a	97
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	012	3304518	3304568	r	114
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	013	3304740	3304873	t	116
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	014	3304924	3305066	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	015	3305744	3305889	f	102
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	016	3305745	3305795	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	017	3305976	3306079	c	99
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	018	3305074	3305155	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	019	3306564	3306691	a	97
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	020	3306724	3306832	l	108
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	021	3305920	3306063	 	32
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	022	3305604	3305743	a	97
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	023	3305772	3305897	r	114
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	024	3307209	3307355	t	116
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	025	3307776	3307923	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	026	3305525	3305634	f	102
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	027	3306380	3306505	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	028	3305727	3305814	c	99
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	029	3307620	3307676	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	030	3307901	3307977	a	97
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	031	3308730	3308800	l	108
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	032	3306379	3306495	 	32
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	033	3308472	3308610	l	108
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	034	3308676	3308777	a	97
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	035	3306570	3306633	z	122
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	036	3308740	3308846	y	121
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	037	3307104	3307234	 	32
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	038	3308587	3308655	d	100
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	039	3310258	3310312	a	97
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	040	3308148	3308210	t	116
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	041	3310960	3311109	a	97
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	042	3309724	3309861	 	32
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	043	3309426	3309516	s	115
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	044	3310267	3310346	c	99
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	045	3307708	3307771	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	046	3308220	3308275	e	101
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	047	3309716	3309790	n	110
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	048	3312118	3312202	c	99
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	049	3310056	3310123	e	101
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	050	3310007	3310100	 	32
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	051	3312150	3312282	a	97
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	052	3310089	3310227	r	114
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	053	3311736	3311798	t	116
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	054	3309572	3309663	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	055	3309696	3309767	f	102
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	056	3313285	3313429	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	057	3309216	3309296	c	99
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	058	3313602	3313723	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	059	3308800	3308932	a	97
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	060	3312263	3312328	l	108
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	061	3312660	3312766	 	32
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	062	3310320	3310410	m	109
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	063	3314346	3314424	a	97
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	064	3314970	3315076	c	99
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	065	3311896	3312009	h	104
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	066	3313660	3313779	i	105
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	067	3312306	3312368	n	110
+034	004	brown fox artificial artificial lazy data science artificial machine	brown fox artificial artificial lazy data science artificial machine	068	3312313	3312419	e	101
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	001	3304000	3304134	f	102
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	002	3304199	3304257	o	111
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	003	3304386	3304436	x	120
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	004	3304363	3304487	 	32
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	005	3304440	3304589	i	105
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	006	3304905	3305027	n	110
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	007	3305146	3305211	t	116
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	008	3305141	3305282	e	101
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	009	3305216	3305330	l	108
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	010	3305035	3305115	l	108
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	011	3305980	3306072	i	105
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	012	3305320	3305436	g	103
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	013	3305656	3305741	e	101
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	014	3305599	3305692	n	110
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	015	3305932	3306014	c	99
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	016	3306100	3306178	e	101
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	017	3307088	3307147	 	32
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	018	3306822	3306962	o	111
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	019	3305854	3305960	v	118
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	020	3307515	3307643	e	101
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	021	3307800	3307881	r	114
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	022	3306289	3306386	 	32
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	023	3308070	3308189	j	106
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	024	3306714	3306795	u	117
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	025	3308080	3308144	m	109
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	026	3306750	3306836	p	112
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	027	3308758	3308891	s	115
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	028	3309049	3309158	 	32
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	029	3306800	3306866	q	113
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	030	3308756	3308837	u	117
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	031	3307060	3307119	i	105
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	032	3307224	3307371	c	99
+034	005	fox intelligence over jumps quick	fox intelligence over jumps quick	033	3309984	3310118	k	107
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	001	3305000	3305147	h	104
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	002	3305196	3305273	e	101
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	003	3305356	3305495	l	108
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	004	3305318	3305397	l	108
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	005	3305456	3305537	o	111
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	006	3305735	3305824	 	32
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	007	3305810	3305883	i	105
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	008	3306197	3306304	n	110
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	009	3305896	3306003	t	116
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	010	3306602	3306684	e	101
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	011	3306030	3306105	l	108
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	012	3306683	3306827	l	108
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	013	3307292	3307431	i	105
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	014	3306885	3306977	g	103
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	015	3307380	3307446	e	101
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	016	3307175	3307278	n	110
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	017	3306984	3307062	c	99
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	018	3307601	3307692	e	101
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	019	3308348	3308489	 	32
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	020	3307546	3307679	s	115
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	021	3307780	3307893	c	99
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	022	3309032	3309100	i	105
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	023	3307838	3307950	e	101
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	024	3308588	3308678	n	110
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	025	3308048	3308137	c	99
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	026	3309075	3309129	e	101
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	027	3308770	3308904	 	32
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	028	3307862	3307993	m	109
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	029	3310040	3310143	a	97
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	030	3309843	3309948	c	99
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	031	3308360	3308503	h	104
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	032	3308162	3308256	i	105
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	033	3310664	3310729	n	110
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	034	3309917	3310029	e	101
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	035	3308774	3308862	 	32
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	036	3311230	3311360	i	105
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	037	3309896	3309972	n	110
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	038	3311290	3311383	t	116
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	039	3310434	3310583	e	101
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	040	3311708	3311848	l	108
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	041	3309600	3309723	l	108
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	042	3312749	3312812	i	105
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	043	3310670	3310793	g	103
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	044	3311149	3311219	e	101
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	045	3312040	3312121	n	110
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	046	3313055	3313115	c	99
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	047	3312406	3312525	e	101
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	048	3310640	3310735	 	32
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	049	3310472	3310563	w	119
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	050	3310243	3310362	o	111
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	051	3314400	3314456	r	114
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	052	3313415	3313535	l	108
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	053	3313008	3313090	d	100
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	054	3311890	3311996	 	32
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	055	3312020	3312072	p	112
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	056	3313195	3313327	r	114
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	057	3313512	3313612	o	111
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	058	3311384	3311476	g	103
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	059	3315788	3315905	r	114
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	060	3315325	3315412	a	97
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	061	3314300	3314386	m	109
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	062	3316346	3316420	m	109
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	063	3313928	3314064	i	105
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	064	3317411	3317488	n	110
+034	006	hello intelligence science machine intelligence world programming	hello intelligence science machine intelligence world programming	065	3314152	3314214	g	103
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	001	3306000	3306147	i	105
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	002	3306172	3306318	n	110
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	003	3306230	3306369	t	116
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	004	3306486	3306573	e	101
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	005	3306568	3306694	l	108
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	006	3306715	3306809	l	108
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	007	3306948	3307015	i	105
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	008	3306770	3306820	g	103
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	009	3307168	3307263	e	101
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	010	3307746	3307819	n	110
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	011	3307000	3307134	c	99
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	012	3308090	3308175	e	101
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	013	3308280	3308347	 	32
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	014	3308405	3308507	h	104
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	015	3308324	3308458	e	101
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	016	3307560	3307670	l	108
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	017	3308416	3308466	l	108
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	018	3308482	3308616	o	111
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	019	3309420	3309476	 	32
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	020	3308280	3308355	t	116
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	021	3308760	3308822	h	104
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	022	3308982	3309127	e	101
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	023	3308508	3308589	 	32
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	024	3310531	3310638	l	108
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	025	3309000	3309110	e	101
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	026	3308700	3308826	a	97
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	027	3311018	3311164	r	114
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	028	3310671	3310737	n	110
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	029	3311320	3311454	i	105
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	030	3309625	3309767	n	110
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	031	3310020	3310086	g	103
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	032	3312076	3312175	 	32
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	033	3310256	3310401	p	112
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	034	3309630	3309682	r	114
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	035	3312086	3312211	o	111
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	036	3310305	3310434	g	103
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	037	3312660	3312748	r	114
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	038	3313252	3313369	a	97
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	039	3310256	3310399	m	109
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	040	3313098	3313182	m	109
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	041	3313840	3313921	i	105
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	042	3310592	3310733	n	110
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	043	3310284	3310339	g	103
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	044	3310730	3310780	 	32
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	045	3311236	3311331	m	109
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	046	3313425	3313538	a	97
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	047	3313222	3313279	c	99
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	048	3314178	3314321	h	104
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	049	3313248	3313362	i	105
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	050	3312174	3312266	n	110
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	051	3313800	3313870	e	101
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	052	3313038	3313170	 	32
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	053	3313072	3313144	w	119
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	054	3311459	3311592	o	111
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	055	3312318	3312369	r	114
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	056	3313590	3313676	l	108
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	057	3312944	3313033	d	100
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	058	3314778	3314898	 	32
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	059	3312496	3312574	s	115
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	060	3317505	3317565	c	99
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	061	3314820	3314882	i	105
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	062	3317712	3317774	e	101
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	063	3312882	3312950	n	110
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	064	3312804	3312897	c	99
+034	007	intelligence hello the learning programming machine world science	intelligence hello the learning programming machine world science	065	3317392	3317452	e	101
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	001	3307000	3307122	l	108
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	002	3307170	3307235	e	101
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	003	3307364	3307485	a	97
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	004	3307348	3307487	r	114
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	005	3307712	3307780	n	110
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	006	3307980	3308085	i	105
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	007	3308038	3308110	n	110
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	008	3308092	3308218	g	103
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	009	3307888	3307985	 	32
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	010	3308161	3308304	q	113
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	011	3308850	3308959	u	117
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	012	3308309	3308443	i	105
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	013	3308548	3308679	c	99
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	014	3308768	3308902	k	107
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	015	3309548	3309653	 	32
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	016	3309760	3309822	j	106
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	017	3309000	3309130	u	117
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	018	3309601	3309703	m	109
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	019	3309574	3309693	p	112
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	020	3309565	3309709	s	115
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	021	3309960	3310102	 	32
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	022	3309919	3309991	h	104
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	023	3310124	3310177	e	101
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	024	3309990	3310045	l	108
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	025	3309400	3309492	l	108
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	026	3310275	3310350	o	111
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	027	3310562	3310711	 	32
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	028	3310483	3310628	l	108
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	029	3311060	3311140	e	101
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	030	3311669	3311792	a	97
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	031	3310570	3310699	r	114
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	032	3310379	3310521	n	110
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	033	3310680	3310793	i	105
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	034	3313204	3313269	n	110
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	035	3310706	3310830	g	103
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	036	3310710	3310837	 	32
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	037	3314056	3314136	w	119
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	038	3312032	3312131	o	111
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	039	3312814	3312897	r	114
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	040	3314722	3314826	l	108
+034	008	learning quick jumps hello learning world	learning quick jumps hello learning world	041	3312760	3312841	d	100
+034	009	python the world learning data science	python the world learning data science	001	3308000	3308104	p	112
+034	009	python the world learning data science	python the world learning data science	002	3308113	3308189	y	121
+034	009	python the world learning data science	python the world learning data science	003	3308366	3308492	t	116
+034	009	python the world learning data science	python the world learning data science	004	3308333	3308433	h	104
+034	009	python the world learning data science	python the world learning data science	005	3308776	3308859	o	111
+034	009	python the world learning data science	python the world learning data science	006	3308540	3308673	n	110
+034	009	python the world learning data science	python the world learning data science	007	3308786	3308864	 	32
+034	009	python the world learning data science	python the world learning data science	008	3308854	3308926	t	116
+034	009	python the world learning data science	python the world learning data science	009	3309200	3309344	h	104
+034	009	python the world learning data science	python the world learning data science	010	3309071	3309156	e	101
+034	009	python the world learning data science	python the world learning data science	011	3309620	3309745	 	32
+034	009	python the world learning data science	python the world learning data science	012	3309210	3309321	w	119
+034	009	python the world learning data science	python the world learning data science	013	3310100	3310207	o	111
+034	009	python the world learning data science	python the world learning data science	014	3310249	3310322	r	114
+034	009	python the world learning data science	python the world learning data science	015	3310660	3310739	l	108
+034	009	python the world learning data science	python the world learning data science	016	3310415	3310508	d	100
+034	009	python the world learning data science	python the world learning data science	017	3310688	3310750	 	32
+034	009	python the world learning data science	python the world learning data science	018	3310890	3310954	l	108
+034	009	python the world learning data science	python the world learning data science	019	3310358	3310495	e	101
+034	009	python the world learning data science	python the world learning data science	020	3311211	3311287	a	97
+034	009	python the world learning data science	python the world learning data science	021	3311080	3311215	r	114
+034	009	python the world learning data science	python the world learning data science	022	3311024	3311102	n	110
+034	009	python the world learning data science	python the world learning data science	023	3311894	3311997	i	105
+034	009	python the world learning data science	python the world learning data science	024	3312186	3312245	n	110
+034	009	python the world learning data science	python the world learning data science	025	3311744	3311796	g	103
+034	009	python the world learning data science	python the world learning data science	026	3311625	3311727	 	32
+034	009	python the world learning data science	python the world learning data science	027	3312784	3312924	d	100
+034	009	python the world learning data science	python the world learning data science	028	3312266	3312352	a	97
+034	009	python the world learning data science	python the world learning data science	029	3311472	3311565	t	116
+034	009	python the world learning data science	python the world learning data science	030	3310929	3311070	a	97
+034	009	python the world learning data science	python the world learning data science	031	3311660	3311754	 	32
+034	009	python the world learning data science	python the world learning data science	032	3312495	3312630	s	115
+034	009	python the world learning data science	python the world learning data science	033	3312352	3312419	c	99
+034	009	python the world learning data science	python the world learning data science	034	3312389	3312538	i	105
+034	009	python the world learning data science	python the world learning data science	035	3313508	3313617	e	101
+034	009	python the world learning data science	python the world learning data science	036	3311885	3311988	n	110
+034	009	python the world learning data science	python the world learning data science	037	3314840	3314936	c	99
+034	009	python the world learning data science	python the world learning data science	038	3315141	3315210	e	101
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	001	3309000	3309055	s	115
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	002	3309121	3309244	c	99
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	003	3309362	3309457	i	105
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	004	3309597	3309688	e	101
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	005	3309456	3309591	n	110
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	006	3309985	3310121	c	99
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	007	3309756	3309885	e	101
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	008	3310085	3310225	 	32
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	009	3309928	3309979	p	112
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	010	3310683	3310736	r	114
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	011	3310560	3310680	o	111
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	012	3310727	3310786	g	103
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	013	3310512	3310622	r	114
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	014	3311288	3311410	a	97
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	015	3310974	3311108	m	109
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	016	3311655	3311778	m	109
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	017	3311048	3311170	i	105
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	018	3311856	3311913	n	110
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	019	3311016	3311089	g	103
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	020	3311242	3311300	 	32
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	021	3312860	3312917	h	104
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	022	3312990	3313128	e	101
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	023	3312652	3312785	l	108
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	024	3313393	3313528	l	108
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	025	3313728	3313797	o	111
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	026	3313025	3313151	 	32
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	027	3313992	3314071	f	102
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	028	3314265	3314393	o	111
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	029	3313788	3313854	x	120
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	030	3314481	3314571	 	32
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	031	3314190	3314257	j	106
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	032	3314301	3314389	u	117
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	033	3315208	3315337	m	109
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	034	3313455	3313598	p	112
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	035	3315460	3315575	s	115
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	036	3313165	3313287	 	32
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	037	3316164	3316267	p	112
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	038	3314994	3315051	y	121
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	039	3314624	3314678	t	116
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	040	3315708	3315787	h	104
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	041	3315000	3315078	o	111
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	042	3313141	3313256	n	110
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	043	3315216	3315358	 	32
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	044	3316740	3316814	l	108
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	045	3315160	3315291	e	101
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	046	3313590	3313641	a	97
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	047	3317372	3317474	r	114
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	048	3314311	3314374	n	110
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	049	3316392	3316497	i	105
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	050	3318163	3318291	n	110
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	051	3314750	3314880	g	103
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	052	3315936	3316059	 	32
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	053	3317216	3317286	d	100
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	054	3315519	3315605	a	97
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	055	3316398	3316514	t	116
+034	010	science programming hello fox jumps python learning data	science programming hello fox jumps python learning data	056	3315105	3315245	a	97

@@ -1,0 +1,495 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+008	001	learning programming programming data world dog	learning programming programming data world dog	001	700000	700078	l	108
+008	001	learning programming programming data world dog	learning programming programming data world dog	002	700152	700266	e	101
+008	001	learning programming programming data world dog	learning programming programming data world dog	003	700360	700438	a	97
+008	001	learning programming programming data world dog	learning programming programming data world dog	004	700393	700530	r	114
+008	001	learning programming programming data world dog	learning programming programming data world dog	005	700600	700736	n	110
+008	001	learning programming programming data world dog	learning programming programming data world dog	006	700920	701045	i	105
+008	001	learning programming programming data world dog	learning programming programming data world dog	007	701056	701150	n	110
+008	001	learning programming programming data world dog	learning programming programming data world dog	008	701176	701264	g	103
+008	001	learning programming programming data world dog	learning programming programming data world dog	009	700840	700989	 	32
+008	001	learning programming programming data world dog	learning programming programming data world dog	010	701233	701319	p	112
+008	001	learning programming programming data world dog	learning programming programming data world dog	011	701000	701091	r	114
+008	001	learning programming programming data world dog	learning programming programming data world dog	012	701386	701522	o	111
+008	001	learning programming programming data world dog	learning programming programming data world dog	013	702364	702511	g	103
+008	001	learning programming programming data world dog	learning programming programming data world dog	014	701599	701660	r	114
+008	001	learning programming programming data world dog	learning programming programming data world dog	015	701862	701948	a	97
+008	001	learning programming programming data world dog	learning programming programming data world dog	016	701770	701849	m	109
+008	001	learning programming programming data world dog	learning programming programming data world dog	017	702272	702403	m	109
+008	001	learning programming programming data world dog	learning programming programming data world dog	018	703213	703305	i	105
+008	001	learning programming programming data world dog	learning programming programming data world dog	019	702106	702210	n	110
+008	001	learning programming programming data world dog	learning programming programming data world dog	020	703230	703323	g	103
+008	001	learning programming programming data world dog	learning programming programming data world dog	021	702980	703079	 	32
+008	001	learning programming programming data world dog	learning programming programming data world dog	022	702394	702527	p	112
+008	001	learning programming programming data world dog	learning programming programming data world dog	023	704268	704364	r	114
+008	001	learning programming programming data world dog	learning programming programming data world dog	024	703013	703104	o	111
+008	001	learning programming programming data world dog	learning programming programming data world dog	025	702472	702585	g	103
+008	001	learning programming programming data world dog	learning programming programming data world dog	026	702800	702910	r	114
+008	001	learning programming programming data world dog	learning programming programming data world dog	027	704628	704748	a	97
+008	001	learning programming programming data world dog	learning programming programming data world dog	028	704131	704233	m	109
+008	001	learning programming programming data world dog	learning programming programming data world dog	029	704172	704307	m	109
+008	001	learning programming programming data world dog	learning programming programming data world dog	030	704292	704391	i	105
+008	001	learning programming programming data world dog	learning programming programming data world dog	031	704650	704791	n	110
+008	001	learning programming programming data world dog	learning programming programming data world dog	032	704278	704374	g	103
+008	001	learning programming programming data world dog	learning programming programming data world dog	033	706144	706209	 	32
+008	001	learning programming programming data world dog	learning programming programming data world dog	034	706336	706463	d	100
+008	001	learning programming programming data world dog	learning programming programming data world dog	035	703536	703669	a	97
+008	001	learning programming programming data world dog	learning programming programming data world dog	036	704095	704148	t	116
+008	001	learning programming programming data world dog	learning programming programming data world dog	037	706444	706554	a	97
+008	001	learning programming programming data world dog	learning programming programming data world dog	038	706031	706124	 	32
+008	001	learning programming programming data world dog	learning programming programming data world dog	039	703914	703999	w	119
+008	001	learning programming programming data world dog	learning programming programming data world dog	040	707683	707741	o	111
+008	001	learning programming programming data world dog	learning programming programming data world dog	041	705000	705091	r	114
+008	001	learning programming programming data world dog	learning programming programming data world dog	042	705494	705574	l	108
+008	001	learning programming programming data world dog	learning programming programming data world dog	043	704872	704923	d	100
+008	001	learning programming programming data world dog	learning programming programming data world dog	044	706020	706087	 	32
+008	001	learning programming programming data world dog	learning programming programming data world dog	045	708184	708320	d	100
+008	001	learning programming programming data world dog	learning programming programming data world dog	046	707470	707537	o	111
+008	001	learning programming programming data world dog	learning programming programming data world dog	047	708648	708772	g	103
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	001	701000	701129	l	108
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	002	701171	701308	a	97
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	003	701272	701417	z	122
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	004	701450	701585	y	121
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	005	701696	701839	 	32
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	006	701685	701809	o	111
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	007	701924	702030	v	118
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	008	702106	702237	e	101
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	009	701960	702039	r	114
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	010	702638	702693	 	32
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	011	702530	702638	h	104
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	012	702496	702610	e	101
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	013	702836	702962	l	108
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	014	702729	702874	l	108
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	015	703464	703613	o	111
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	016	702590	702716	 	32
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	017	704056	704126	t	116
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	018	702972	703092	h	104
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	019	703430	703575	e	101
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	020	704268	704371	 	32
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	021	704080	704137	l	108
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	022	703856	703984	e	101
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	023	703970	704082	a	97
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	024	705186	705274	r	114
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	025	704288	704429	n	110
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	026	705825	705948	i	105
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	027	706174	706268	n	110
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	028	705131	705250	g	103
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	029	704472	704596	 	32
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	030	705698	705809	m	109
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	031	706070	706200	a	97
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	032	705588	705651	c	99
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	033	705608	705731	h	104
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	034	704366	704499	i	105
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	035	707426	707575	n	110
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	036	704920	705013	e	101
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	037	707732	707787	 	32
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	038	707216	707352	b	98
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	039	707194	707320	r	114
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	040	708527	708592	o	111
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	041	706640	706716	w	119
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	042	707683	707757	n	110
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	043	709190	709283	 	32
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	044	706848	706904	p	112
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	045	706720	706832	y	121
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	046	708875	709019	t	116
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	047	706336	706446	h	104
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	048	707016	707154	o	111
+008	002	lazy over hello the learning machine brown python	lazy over hello the learning machine brown python	049	705896	705997	n	110
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	001	702000	702057	l	108
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	002	702148	702289	e	101
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	003	702362	702470	a	97
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	004	702549	702616	r	114
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	005	702516	702612	n	110
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	006	702790	702875	i	105
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	007	702774	702904	n	110
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	008	702938	703001	g	103
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	009	703312	703412	 	32
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	010	703071	703162	d	100
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	011	703420	703524	a	97
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	012	703254	703397	t	116
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	013	703848	703955	a	97
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	014	704366	704498	 	32
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	015	704072	704218	l	108
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	016	704670	704738	e	101
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	017	703792	703896	a	97
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	018	704652	704801	r	114
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	019	704934	704988	n	110
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	020	704869	704972	i	105
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	021	704040	704099	n	110
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	022	705108	705179	g	103
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	023	705432	705550	 	32
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	024	706255	706350	t	116
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	025	704496	704565	h	104
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	026	705150	705263	e	101
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	027	705406	705477	 	32
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	028	707049	707182	p	112
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	029	706872	706995	y	121
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	030	705335	705449	t	116
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	031	706080	706131	h	104
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	032	706836	706924	o	111
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	033	706704	706833	n	110
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	034	708072	708197	 	32
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	035	708154	708238	m	109
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	036	706410	706524	a	97
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	037	706536	706610	c	99
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	038	706884	706952	h	104
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	039	709106	709187	i	105
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	040	706368	706469	n	110
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	041	707960	708098	e	101
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	042	707863	707922	 	32
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	043	709350	709410	h	104
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	044	706429	706557	e	101
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	045	709568	709715	l	108
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	046	708345	708442	l	108
+008	003	learning data learning the python machine hello	learning data learning the python machine hello	047	708486	708561	o	111
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	001	703000	703102	l	108
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	002	703159	703299	e	101
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	003	703362	703508	a	97
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	004	703564	703622	r	114
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	005	703480	703605	n	110
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	006	703570	703674	i	105
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	007	703732	703881	n	110
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	008	704036	704156	g	103
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	009	704360	704455	 	32
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	010	704278	704364	w	119
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	011	704740	704865	o	111
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	012	704859	704953	r	114
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	013	705280	705416	l	108
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	014	705184	705314	d	100
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	015	704638	704737	 	32
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	016	704530	704650	q	113
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	017	705848	705973	u	117
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	018	705924	706048	i	105
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	019	706438	706565	c	99
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	020	705223	705275	k	107
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	021	706520	706626	 	32
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	022	706843	706943	o	111
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	023	705464	705544	v	118
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	024	707048	707143	e	101
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	025	706312	706436	r	114
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	026	705900	706049	 	32
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	027	707914	707998	l	108
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	028	707914	708000	e	101
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	029	706024	706086	a	97
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	030	706306	706407	r	114
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	031	707050	707175	n	110
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	032	706224	706278	i	105
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	033	707288	707371	n	110
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	034	708445	708590	g	103
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	035	706740	706887	 	32
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	036	706955	707080	i	105
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	037	708580	708646	n	110
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	038	706700	706761	t	116
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	039	707636	707747	e	101
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	040	710293	710391	l	108
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	041	710600	710730	l	108
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	042	708453	708521	i	105
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	043	707662	707766	g	103
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	044	710611	710755	e	101
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	045	707884	707993	n	110
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	046	709030	709169	c	99
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	047	708244	708305	e	101
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	048	711742	711792	 	32
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	049	711208	711281	w	119
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	050	711379	711477	o	111
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	051	708250	708349	r	114
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	052	711109	711256	l	108
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	053	711320	711453	d	100
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	054	709996	710136	 	32
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	055	708994	709121	s	115
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	056	710645	710777	c	99
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	057	710896	711040	i	105
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	058	708871	709018	e	101
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	059	712280	712388	n	110
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	060	711732	711874	c	99
+008	004	learning world quick over learning intelligence world science	learning world quick over learning intelligence world science	061	713860	714004	e	101
+008	005	programming lazy learning world science	programming lazy learning world science	001	704000	704132	p	112
+008	005	programming lazy learning world science	programming lazy learning world science	002	704159	704280	r	114
+008	005	programming lazy learning world science	programming lazy learning world science	003	704310	704434	o	111
+008	005	programming lazy learning world science	programming lazy learning world science	004	704357	704488	g	103
+008	005	programming lazy learning world science	programming lazy learning world science	005	704660	704760	r	114
+008	005	programming lazy learning world science	programming lazy learning world science	006	704700	704833	a	97
+008	005	programming lazy learning world science	programming lazy learning world science	007	704948	705030	m	109
+008	005	programming lazy learning world science	programming lazy learning world science	008	704896	705008	m	109
+008	005	programming lazy learning world science	programming lazy learning world science	009	705368	705483	i	105
+008	005	programming lazy learning world science	programming lazy learning world science	010	704918	704979	n	110
+008	005	programming lazy learning world science	programming lazy learning world science	011	705840	705928	g	103
+008	005	programming lazy learning world science	programming lazy learning world science	012	706101	706177	 	32
+008	005	programming lazy learning world science	programming lazy learning world science	013	705464	705574	l	108
+008	005	programming lazy learning world science	programming lazy learning world science	014	706366	706498	a	97
+008	005	programming lazy learning world science	programming lazy learning world science	015	706422	706563	z	122
+008	005	programming lazy learning world science	programming lazy learning world science	016	706220	706332	y	121
+008	005	programming lazy learning world science	programming lazy learning world science	017	706016	706075	 	32
+008	005	programming lazy learning world science	programming lazy learning world science	018	706244	706353	l	108
+008	005	programming lazy learning world science	programming lazy learning world science	019	706934	707063	e	101
+008	005	programming lazy learning world science	programming lazy learning world science	020	706337	706467	a	97
+008	005	programming lazy learning world science	programming lazy learning world science	021	707580	707650	r	114
+008	005	programming lazy learning world science	programming lazy learning world science	022	706373	706458	n	110
+008	005	programming lazy learning world science	programming lazy learning world science	023	708268	708355	i	105
+008	005	programming lazy learning world science	programming lazy learning world science	024	707496	707595	n	110
+008	005	programming lazy learning world science	programming lazy learning world science	025	707408	707508	g	103
+008	005	programming lazy learning world science	programming lazy learning world science	026	707425	707573	 	32
+008	005	programming lazy learning world science	programming lazy learning world science	027	708654	708794	w	119
+008	005	programming lazy learning world science	programming lazy learning world science	028	709265	709342	o	111
+008	005	programming lazy learning world science	programming lazy learning world science	029	706884	707005	r	114
+008	005	programming lazy learning world science	programming lazy learning world science	030	707538	707624	l	108
+008	005	programming lazy learning world science	programming lazy learning world science	031	707300	707423	d	100
+008	005	programming lazy learning world science	programming lazy learning world science	032	708340	708416	 	32
+008	005	programming lazy learning world science	programming lazy learning world science	033	709344	709396	s	115
+008	005	programming lazy learning world science	programming lazy learning world science	034	707465	707520	c	99
+008	005	programming lazy learning world science	programming lazy learning world science	035	707434	707550	i	105
+008	005	programming lazy learning world science	programming lazy learning world science	036	707990	708129	e	101
+008	005	programming lazy learning world science	programming lazy learning world science	037	710696	710756	n	110
+008	005	programming lazy learning world science	programming lazy learning world science	038	711363	711485	c	99
+008	005	programming lazy learning world science	programming lazy learning world science	039	710916	710971	e	101
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	001	705000	705084	d	100
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	002	705142	705237	o	111
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	003	705362	705419	g	103
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	004	705444	705494	 	32
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	005	705724	705786	l	108
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	006	705890	706015	a	97
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	007	706026	706098	z	122
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	008	705777	705846	y	121
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	009	705808	705951	 	32
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	010	705927	706045	q	113
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	011	706960	707021	u	117
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	012	706441	706511	i	105
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	013	706524	706596	c	99
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	014	707366	707469	k	107
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	015	707156	707241	 	32
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	016	706860	706995	b	98
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	017	707960	708059	r	114
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	018	707737	707852	o	111
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	019	707268	707389	w	119
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	020	707508	707559	n	110
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	021	707520	707581	 	32
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	022	708213	708272	p	112
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	023	708146	708221	y	121
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	024	709255	709385	t	116
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	025	708384	708509	h	104
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	026	709925	710010	o	111
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	027	708588	708698	n	110
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	028	708483	708614	 	32
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	029	710348	710444	f	102
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	030	708857	708967	o	111
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	031	710520	710574	x	120
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	032	709712	709813	 	32
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	033	708456	708518	a	97
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	034	710742	710795	r	114
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	035	709896	709993	t	116
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	036	708605	708659	i	105
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	037	708636	708759	f	102
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	038	711401	711548	i	105
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	039	709142	709277	c	99
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	040	711786	711875	i	105
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	041	710960	711039	a	97
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	042	710207	710356	l	108
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	043	713148	713276	 	32
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	044	710332	710400	q	113
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	045	713624	713768	u	117
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	046	713100	713200	i	105
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	047	712544	712611	c	99
+008	006	dog lazy quick brown python fox artificial quick	dog lazy quick brown python fox artificial quick	048	713225	713278	k	107
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	001	706000	706118	t	116
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	002	706147	706259	h	104
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	003	706224	706284	e	101
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	004	706525	706626	 	32
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	005	706580	706685	i	105
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	006	706760	706900	n	110
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	007	707170	707241	t	116
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	008	707071	707164	e	101
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	009	706976	707048	l	108
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	010	707539	707661	l	108
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	011	707700	707818	i	105
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	012	708178	708262	g	103
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	013	707764	707858	e	101
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	014	708366	708504	n	110
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	015	707484	707559	c	99
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	016	708550	708645	e	101
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	017	708896	709042	 	32
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	018	708057	708179	a	97
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	019	707980	708047	r	114
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	020	709211	709357	t	116
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	021	709480	709606	i	105
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	022	709129	709263	f	102
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	023	710180	710290	i	105
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	024	709450	709566	c	99
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	025	709528	709647	i	105
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	026	709975	710031	a	97
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	027	709380	709470	l	108
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	028	710104	710197	 	32
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	029	708800	708867	q	113
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	030	709161	709273	u	117
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	031	711010	711071	i	105
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	032	712076	712152	c	99
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	033	709584	709649	k	107
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	034	710785	710928	 	32
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	035	710964	711071	l	108
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	036	710970	711027	e	101
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	037	711292	711364	a	97
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	038	711032	711125	r	114
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	039	711624	711677	n	110
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	040	712864	712961	i	105
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	041	713240	713356	n	110
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	042	710838	710911	g	103
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	043	712090	712141	 	32
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	044	713310	713448	l	108
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	045	710796	710853	e	101
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	046	714685	714746	a	97
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	047	713958	714022	r	114
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	048	713708	713783	n	110
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	049	712384	712479	i	105
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	050	714232	714322	n	110
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	051	714350	714472	g	103
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	052	716047	716174	 	32
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	053	712864	712985	l	108
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	054	714056	714127	e	101
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	055	713938	714060	a	97
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	056	715790	715932	r	114
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	057	716696	716793	n	110
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	058	716089	716165	i	105
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	059	712206	712271	n	110
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	060	717387	717494	g	103
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	061	713920	714020	 	32
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	062	715638	715724	w	119
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	063	712758	712831	o	111
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	064	716962	717080	r	114
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	065	712720	712798	l	108
+008	007	the intelligence artificial quick learning learning learning world	the intelligence artificial quick learning learning learning world	066	717830	717968	d	100
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	001	707000	707082	d	100
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	002	707142	707268	a	97
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	003	707242	707384	t	116
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	004	707399	707485	a	97
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	005	707676	707732	 	32
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	006	707635	707696	w	119
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	007	707732	707853	o	111
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	008	707889	707984	r	114
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	009	708376	708430	l	108
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	010	708512	708642	d	100
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	011	708430	708508	 	32
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	012	708474	708610	b	98
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	013	708536	708645	r	114
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	014	709561	709613	o	111
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	015	709156	709241	w	119
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	016	709595	709647	n	110
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	017	709320	709451	 	32
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	018	710332	710398	h	104
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	019	710402	710520	e	101
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	020	709907	709975	l	108
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	021	710440	710561	l	108
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	022	709394	709522	o	111
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	023	711180	711269	 	32
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	024	711094	711163	p	112
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	025	711224	711367	r	114
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	026	711400	711460	o	111
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	027	712148	712198	g	103
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	028	710672	710817	r	114
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	029	710948	711066	a	97
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	030	711002	711091	m	109
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	031	711800	711949	m	109
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	032	710720	710803	i	105
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	033	713016	713160	n	110
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	034	711686	711752	g	103
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	035	712848	712925	 	32
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	036	712040	712111	h	104
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	037	712544	712608	e	101
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	038	710811	710922	l	108
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	039	712814	712925	l	108
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	040	711095	711177	o	111
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	041	713120	713226	 	32
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	042	714503	714636	l	108
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	043	712334	712404	a	97
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	044	712031	712118	z	122
+008	008	data world brown hello programming hello lazy	data world brown hello programming hello lazy	045	713072	713195	y	121
+008	009	over the hello machine machine hello	over the hello machine machine hello	001	708000	708129	o	111
+008	009	over the hello machine machine hello	over the hello machine machine hello	002	708145	708288	v	118
+008	009	over the hello machine machine hello	over the hello machine machine hello	003	708360	708458	e	101
+008	009	over the hello machine machine hello	over the hello machine machine hello	004	708417	708559	r	114
+008	009	over the hello machine machine hello	over the hello machine machine hello	005	708412	708471	 	32
+008	009	over the hello machine machine hello	over the hello machine machine hello	006	708540	708621	t	116
+008	009	over the hello machine machine hello	over the hello machine machine hello	007	708906	708982	h	104
+008	009	over the hello machine machine hello	over the hello machine machine hello	008	708770	708867	e	101
+008	009	over the hello machine machine hello	over the hello machine machine hello	009	708896	708984	 	32
+008	009	over the hello machine machine hello	over the hello machine machine hello	010	709044	709103	h	104
+008	009	over the hello machine machine hello	over the hello machine machine hello	011	709920	710014	e	101
+008	009	over the hello machine machine hello	over the hello machine machine hello	012	710046	710169	l	108
+008	009	over the hello machine machine hello	over the hello machine machine hello	013	709716	709824	l	108
+008	009	over the hello machine machine hello	over the hello machine machine hello	014	709950	710045	o	111
+008	009	over the hello machine machine hello	over the hello machine machine hello	015	710128	710240	 	32
+008	009	over the hello machine machine hello	over the hello machine machine hello	016	710370	710447	m	109
+008	009	over the hello machine machine hello	over the hello machine machine hello	017	710272	710387	a	97
+008	009	over the hello machine machine hello	over the hello machine machine hello	018	711349	711405	c	99
+008	009	over the hello machine machine hello	over the hello machine machine hello	019	709944	710013	h	104
+008	009	over the hello machine machine hello	over the hello machine machine hello	020	710489	710541	i	105
+008	009	over the hello machine machine hello	over the hello machine machine hello	021	711180	711299	n	110
+008	009	over the hello machine machine hello	over the hello machine machine hello	022	710772	710839	e	101
+008	009	over the hello machine machine hello	over the hello machine machine hello	023	710926	711066	 	32
+008	009	over the hello machine machine hello	over the hello machine machine hello	024	712508	712571	m	109
+008	009	over the hello machine machine hello	over the hello machine machine hello	025	712464	712555	a	97
+008	009	over the hello machine machine hello	over the hello machine machine hello	026	710650	710729	c	99
+008	009	over the hello machine machine hello	over the hello machine machine hello	027	712004	712146	h	104
+008	009	over the hello machine machine hello	over the hello machine machine hello	028	713157	713237	i	105
+008	009	over the hello machine machine hello	over the hello machine machine hello	029	711136	711275	n	110
+008	009	over the hello machine machine hello	over the hello machine machine hello	030	711480	711538	e	101
+008	009	over the hello machine machine hello	over the hello machine machine hello	031	713520	713584	 	32
+008	009	over the hello machine machine hello	over the hello machine machine hello	032	712991	713057	h	104
+008	009	over the hello machine machine hello	over the hello machine machine hello	033	711776	711890	e	101
+008	009	over the hello machine machine hello	over the hello machine machine hello	034	712092	712163	l	108
+008	009	over the hello machine machine hello	over the hello machine machine hello	035	712488	712591	l	108
+008	009	over the hello machine machine hello	over the hello machine machine hello	036	713670	713805	o	111
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	001	709000	709089	w	119
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	002	709169	709282	o	111
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	003	709292	709440	r	114
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	004	709414	709478	l	108
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	005	709528	709633	d	100
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	006	709660	709738	 	32
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	007	709714	709848	h	104
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	008	709952	710093	e	101
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	009	710056	710164	l	108
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	010	710179	710258	l	108
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	011	710710	710819	o	111
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	012	710672	710752	 	32
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	013	711100	711160	s	115
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	014	710716	710835	c	99
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	015	710778	710909	i	105
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	016	711160	711238	e	101
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	017	712024	712143	n	110
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	018	712145	712207	c	99
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	019	711790	711934	e	101
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	020	711527	711586	 	32
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	021	711120	711210	j	106
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	022	713053	713170	u	117
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	023	712190	712333	m	109
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	024	712335	712393	p	112
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	025	711400	711519	s	115
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	026	712975	713122	 	32
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	027	713628	713698	a	97
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	028	712888	713021	r	114
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	029	713452	713552	t	116
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	030	712915	713049	i	105
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	031	712720	712846	f	102
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	032	712224	712277	i	105
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	033	714632	714726	c	99
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	034	715468	715615	i	105
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	035	712604	712716	a	97
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	036	712955	713017	l	108
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	037	715444	715554	 	32
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	038	715808	715897	d	100
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	039	716372	716423	a	97
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	040	714967	715020	t	116
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	041	715400	715487	a	97
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	042	715519	715630	 	32
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	043	716644	716724	l	108
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	044	715493	715561	e	101
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	045	716524	716636	a	97
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	046	715480	715538	r	114
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	047	714152	714271	n	110
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	048	715862	715939	i	105
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	049	717352	717478	n	110
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	050	715713	715862	g	103
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	051	718200	718345	 	32
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	052	717874	717938	h	104
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	053	718516	718636	e	101
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	054	714512	714649	l	108
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	055	714616	714678	l	108
+008	010	world hello science jumps artificial data learning hello	world hello science jumps artificial data learning hello	056	719780	719839	o	111

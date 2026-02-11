@@ -1,0 +1,488 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	001	1600000	1600145	b	98
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	002	1600106	1600212	r	114
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	003	1600358	1600475	o	111
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	004	1600483	1600563	w	119
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	005	1600608	1600671	n	110
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	006	1600900	1600984	 	32
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	007	1600906	1600975	d	100
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	008	1601169	1601258	a	97
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	009	1601360	1601507	t	116
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	010	1601323	1601423	a	97
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	011	1601280	1601394	 	32
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	012	1601738	1601845	s	115
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	013	1601560	1601612	c	99
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	014	1601612	1601691	i	105
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	015	1602436	1602546	e	101
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	016	1602520	1602658	n	110
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	017	1603008	1603076	c	99
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	018	1602380	1602464	e	101
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	019	1603564	1603663	 	32
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	020	1602128	1602260	p	112
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	021	1602040	1602121	r	114
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	022	1603150	1603233	o	111
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	023	1602574	1602642	g	103
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	024	1604554	1604645	r	114
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	025	1602952	1603034	a	97
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	026	1602525	1602597	m	109
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	027	1604160	1604304	m	109
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	028	1604347	1604466	i	105
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	029	1603164	1603257	n	110
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	030	1604901	1605050	g	103
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	031	1604440	1604502	 	32
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	032	1605394	1605483	m	109
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	033	1603296	1603395	a	97
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	034	1605016	1605108	c	99
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	035	1606018	1606084	h	104
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	036	1605110	1605192	i	105
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	037	1604248	1604389	n	110
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	038	1606993	1607120	e	101
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	039	1606992	1607138	 	32
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	040	1605694	1605780	s	115
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	041	1605920	1606041	c	99
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	042	1605576	1605725	i	105
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	043	1606342	1606474	e	101
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	044	1608170	1608265	n	110
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	045	1604400	1604538	c	99
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	046	1605670	1605767	e	101
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	047	1606072	1606153	 	32
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	048	1607473	1607590	s	115
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	049	1608112	1608170	c	99
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	050	1606419	1606504	i	105
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	051	1605000	1605134	e	101
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	052	1608976	1609054	n	110
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	053	1609412	1609470	c	99
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	054	1606731	1606862	e	101
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	055	1609342	1609456	 	32
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	056	1610560	1610670	d	100
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	057	1610360	1610499	a	97
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	058	1605985	1606086	t	116
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	059	1606032	1606086	a	97
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	060	1608614	1608671	 	32
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	061	1611100	1611222	o	111
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	062	1609211	1609270	v	118
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	063	1607936	1608075	e	101
+017	001	brown data science programming machine science science data over	brown data science programming machine science science data over	064	1606678	1606774	r	114
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	001	1601000	1601062	d	100
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	002	1601158	1601235	a	97
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	003	1601308	1601396	t	116
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	004	1601591	1601714	a	97
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	005	1601408	1601522	 	32
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	006	1601815	1601922	q	113
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	007	1602182	1602263	u	117
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	008	1602323	1602421	i	105
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	009	1601888	1602032	c	99
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	010	1601945	1602036	k	107
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	011	1602120	1602259	 	32
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	012	1602661	1602726	j	106
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	013	1602440	1602532	u	117
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	014	1603340	1603411	m	109
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	015	1603226	1603352	p	112
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	016	1603715	1603864	s	115
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	017	1603528	1603629	 	32
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	018	1603312	1603455	w	119
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	019	1603682	1603769	o	111
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	020	1603337	1603405	r	114
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	021	1604160	1604224	l	108
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	022	1604150	1604295	d	100
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	023	1603530	1603671	 	32
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	024	1604473	1604580	f	102
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	025	1604336	1604397	o	111
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	026	1604500	1604590	x	120
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	027	1606018	1606164	 	32
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	028	1604159	1604213	m	109
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	029	1604752	1604815	a	97
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	030	1604538	1604657	c	99
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	031	1604720	1604818	h	104
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	032	1605278	1605406	i	105
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	033	1605192	1605298	n	110
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	034	1605125	1605243	e	101
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	035	1605216	1605339	 	32
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	036	1606460	1606580	a	97
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	037	1605932	1606024	r	114
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	038	1605255	1605331	t	116
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	039	1605332	1605407	i	105
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	040	1605875	1605983	f	102
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	041	1608360	1608454	i	105
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	042	1606002	1606058	c	99
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	043	1608182	1608299	i	105
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	044	1606891	1606972	a	97
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	045	1607336	1607421	l	108
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	046	1608470	1608592	 	32
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	047	1610108	1610197	i	105
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	048	1608379	1608486	n	110
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	049	1607672	1607766	t	116
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	050	1608448	1608572	e	101
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	051	1607700	1607845	l	108
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	052	1607375	1607471	l	108
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	053	1611244	1611388	i	105
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	054	1610222	1610362	g	103
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	055	1610666	1610754	e	101
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	056	1607820	1607886	n	110
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	057	1609176	1609324	c	99
+017	002	data quick jumps world fox machine artificial intelligence	data quick jumps world fox machine artificial intelligence	058	1612286	1612398	e	101
+017	003	brown the brown science over the	brown the brown science over the	001	1602000	1602074	b	98
+017	003	brown the brown science over the	brown the brown science over the	002	1602161	1602215	r	114
+017	003	brown the brown science over the	brown the brown science over the	003	1602360	1602459	o	111
+017	003	brown the brown science over the	brown the brown science over the	004	1602519	1602577	w	119
+017	003	brown the brown science over the	brown the brown science over the	005	1602772	1602892	n	110
+017	003	brown the brown science over the	brown the brown science over the	006	1602950	1603084	 	32
+017	003	brown the brown science over the	brown the brown science over the	007	1602990	1603073	t	116
+017	003	brown the brown science over the	brown the brown science over the	008	1603064	1603206	h	104
+017	003	brown the brown science over the	brown the brown science over the	009	1602848	1602936	e	101
+017	003	brown the brown science over the	brown the brown science over the	010	1602927	1603004	 	32
+017	003	brown the brown science over the	brown the brown science over the	011	1603780	1603921	b	98
+017	003	brown the brown science over the	brown the brown science over the	012	1603111	1603162	r	114
+017	003	brown the brown science over the	brown the brown science over the	013	1604376	1604501	o	111
+017	003	brown the brown science over the	brown the brown science over the	014	1604028	1604078	w	119
+017	003	brown the brown science over the	brown the brown science over the	015	1603960	1604022	n	110
+017	003	brown the brown science over the	brown the brown science over the	016	1604145	1604219	 	32
+017	003	brown the brown science over the	brown the brown science over the	017	1604016	1604117	s	115
+017	003	brown the brown science over the	brown the brown science over the	018	1603836	1603889	c	99
+017	003	brown the brown science over the	brown the brown science over the	019	1604718	1604823	i	105
+017	003	brown the brown science over the	brown the brown science over the	020	1604242	1604327	e	101
+017	003	brown the brown science over the	brown the brown science over the	021	1605700	1605778	n	110
+017	003	brown the brown science over the	brown the brown science over the	022	1604121	1604175	c	99
+017	003	brown the brown science over the	brown the brown science over the	023	1606158	1606243	e	101
+017	003	brown the brown science over the	brown the brown science over the	024	1604392	1604468	 	32
+017	003	brown the brown science over the	brown the brown science over the	025	1604976	1605124	o	111
+017	003	brown the brown science over the	brown the brown science over the	026	1605850	1605973	v	118
+017	003	brown the brown science over the	brown the brown science over the	027	1606212	1606265	e	101
+017	003	brown the brown science over the	brown the brown science over the	028	1605942	1606001	r	114
+017	003	brown the brown science over the	brown the brown science over the	029	1606508	1606620	 	32
+017	003	brown the brown science over the	brown the brown science over the	030	1607510	1607585	t	116
+017	003	brown the brown science over the	brown the brown science over the	031	1605870	1605986	h	104
+017	003	brown the brown science over the	brown the brown science over the	032	1607673	1607793	e	101
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	001	1603000	1603076	w	119
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	002	1603196	1603300	o	111
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	003	1603340	1603447	r	114
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	004	1603519	1603645	l	108
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	005	1603588	1603714	d	100
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	006	1603945	1604007	 	32
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	007	1603846	1603977	j	106
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	008	1604288	1604394	u	117
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	009	1604176	1604282	m	109
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	010	1604224	1604285	p	112
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	011	1604420	1604541	s	115
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	012	1604243	1604309	 	32
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	013	1605148	1605293	b	98
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	014	1604664	1604811	r	114
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	015	1604820	1604919	o	111
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	016	1605010	1605123	w	119
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	017	1605256	1605372	n	110
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	018	1604972	1605055	 	32
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	019	1606402	1606527	q	113
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	020	1606743	1606817	u	117
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	021	1606640	1606707	i	105
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	022	1607137	1607245	c	99
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	023	1605948	1606050	k	107
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	024	1605369	1605477	 	32
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	025	1607224	1607292	p	112
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	026	1607000	1607055	y	121
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	027	1608070	1608176	t	116
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	028	1607914	1607980	h	104
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	029	1607312	1607427	o	111
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	030	1608626	1608738	n	110
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	031	1607890	1607979	 	32
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	032	1606441	1606588	h	104
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	033	1608888	1609012	e	101
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	034	1607785	1607852	l	108
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	035	1607012	1607161	l	108
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	036	1608355	1608421	o	111
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	037	1609552	1609629	 	32
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	038	1609882	1609973	m	109
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	039	1608472	1608563	a	97
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	040	1610059	1610118	c	99
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	041	1609280	1609330	h	104
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	042	1611118	1611232	i	105
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	043	1607242	1607347	n	110
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	044	1611084	1611147	e	101
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	045	1611712	1611861	 	32
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	046	1609435	1609549	l	108
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	047	1611372	1611520	e	101
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	048	1610755	1610830	a	97
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	049	1609432	1609529	r	114
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	050	1608782	1608856	n	110
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	051	1609800	1609871	i	105
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	052	1612486	1612589	n	110
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	053	1611216	1611283	g	103
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	054	1613070	1613168	 	32
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	055	1610128	1610244	p	112
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	056	1609765	1609883	r	114
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	057	1610280	1610369	o	111
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	058	1609099	1609169	g	103
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	059	1608916	1609060	r	114
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	060	1609785	1609843	a	97
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	061	1614640	1614730	m	109
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	062	1612394	1612531	m	109
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	063	1613044	1613150	i	105
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	064	1615096	1615206	n	110
+017	004	world jumps brown quick python hello machine learning programming	world jumps brown quick python hello machine learning programming	065	1613752	1613842	g	103
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	001	1604000	1604122	d	100
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	002	1604129	1604227	a	97
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	003	1604398	1604461	t	116
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	004	1604579	1604654	a	97
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	005	1604536	1604625	 	32
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	006	1604575	1604639	a	97
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	007	1604912	1604986	r	114
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	008	1605127	1605210	t	116
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	009	1605304	1605389	i	105
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	010	1604936	1605007	f	102
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	011	1605540	1605643	i	105
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	012	1605980	1606119	c	99
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	013	1605764	1605872	i	105
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	014	1606483	1606570	a	97
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	015	1606114	1606199	l	108
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	016	1606835	1606967	 	32
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	017	1607104	1607235	l	108
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	018	1607383	1607454	e	101
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	019	1606178	1606292	a	97
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	020	1607059	1607161	r	114
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	021	1606600	1606737	n	110
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	022	1607570	1607712	i	105
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	023	1606310	1606390	n	110
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	024	1607519	1607596	g	103
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	025	1608176	1608313	 	32
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	026	1608000	1608108	p	112
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	027	1608004	1608130	y	121
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	028	1607996	1608084	t	116
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	029	1607444	1607506	h	104
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	030	1609162	1609222	o	111
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	031	1608380	1608458	n	110
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	032	1610045	1610124	 	32
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	033	1609664	1609764	b	98
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	034	1608785	1608836	r	114
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	035	1609984	1610118	o	111
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	036	1610685	1610744	w	119
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	037	1609040	1609178	n	110
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	038	1608662	1608770	 	32
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	039	1608484	1608592	j	106
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	040	1611761	1611871	u	117
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	041	1610040	1610158	m	109
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	042	1608838	1608916	p	112
+017	005	data artificial learning python brown jumps	data artificial learning python brown jumps	043	1608452	1608565	s	115
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	001	1605000	1605069	i	105
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	002	1605182	1605257	n	110
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	003	1605250	1605306	t	116
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	004	1605462	1605521	e	101
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	005	1605536	1605642	l	108
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	006	1605865	1606001	l	108
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	007	1605660	1605747	i	105
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	008	1606316	1606432	g	103
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	009	1606576	1606680	e	101
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	010	1606512	1606564	n	110
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	011	1606590	1606728	c	99
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	012	1607189	1607250	e	101
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	013	1607040	1607147	 	32
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	014	1607301	1607392	t	116
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	015	1606932	1607055	h	104
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	016	1606725	1606799	e	101
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	017	1607080	1607222	 	32
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	018	1607550	1607670	d	100
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	019	1606872	1606944	a	97
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	020	1607793	1607936	t	116
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	021	1607200	1607286	a	97
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	022	1607856	1607937	 	32
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	023	1607992	1608052	m	109
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	024	1607553	1607617	a	97
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	025	1608336	1608444	c	99
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	026	1608525	1608590	h	104
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	027	1608640	1608749	i	105
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	028	1608132	1608188	n	110
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	029	1610096	1610218	e	101
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	030	1610365	1610500	 	32
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	031	1610670	1610811	m	109
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	032	1610580	1610641	a	97
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	033	1610024	1610147	c	99
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	034	1611468	1611588	h	104
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	035	1610746	1610799	i	105
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	036	1610425	1610529	n	110
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	037	1611840	1611903	e	101
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	038	1611512	1611649	 	32
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	039	1611612	1611756	l	108
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	040	1608939	1609060	a	97
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	041	1611120	1611242	z	122
+017	006	intelligence the data machine machine lazy	intelligence the data machine machine lazy	042	1612913	1613013	y	121
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	001	1606000	1606100	f	102
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	002	1606167	1606237	o	111
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	003	1606328	1606413	x	120
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	004	1606369	1606448	 	32
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	005	1606740	1606889	j	106
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	006	1606865	1606981	u	117
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	007	1607074	1607145	m	109
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	008	1607267	1607360	p	112
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	009	1606864	1606979	s	115
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	010	1607692	1607839	 	32
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	011	1607850	1607906	s	115
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	012	1608079	1608181	c	99
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	013	1607764	1607842	i	105
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	014	1607365	1607487	e	101
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	015	1608520	1608585	n	110
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	016	1608700	1608782	c	99
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	017	1608256	1608395	e	101
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	018	1608040	1608165	 	32
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	019	1608826	1608955	b	98
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	020	1609230	1609299	r	114
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	021	1609480	1609624	o	111
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	022	1609675	1609813	w	119
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	023	1609432	1609494	n	110
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	024	1608714	1608789	 	32
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	025	1610776	1610826	p	112
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	026	1609475	1609559	r	114
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	027	1610212	1610345	o	111
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	028	1609456	1609517	g	103
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	029	1609752	1609817	r	114
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	030	1609538	1609609	a	97
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	031	1609300	1609416	m	109
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	032	1609224	1609298	m	109
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	033	1611376	1611519	i	105
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	034	1611907	1612041	n	110
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	035	1611440	1611559	g	103
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	036	1610760	1610834	 	32
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	037	1613164	1613295	m	109
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	038	1612401	1612508	a	97
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	039	1612840	1612942	c	99
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	040	1612669	1612760	h	104
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	041	1612840	1612938	i	105
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	042	1613462	1613535	n	110
+017	007	fox jumps science brown programming machine	fox jumps science brown programming machine	043	1611124	1611187	e	101
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	001	1607000	1607091	l	108
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	002	1607155	1607241	e	101
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	003	1607324	1607447	a	97
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	004	1607594	1607704	r	114
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	005	1607480	1607530	n	110
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	006	1607515	1607584	i	105
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	007	1607630	1607775	n	110
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	008	1607742	1607848	g	103
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	009	1608440	1608545	 	32
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	010	1608476	1608529	p	112
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	011	1608280	1608405	r	114
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	012	1608782	1608878	o	111
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	013	1608896	1608949	g	103
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	014	1608677	1608796	r	114
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	015	1609534	1609620	a	97
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	016	1608755	1608901	m	109
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	017	1610024	1610091	m	109
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	018	1610366	1610496	i	105
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	019	1609754	1609863	n	110
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	020	1609774	1609842	g	103
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	021	1609440	1609527	 	32
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	022	1609352	1609495	o	111
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	023	1609684	1609824	v	118
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	024	1610818	1610928	e	101
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	025	1610000	1610093	r	114
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	026	1609975	1610037	 	32
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	027	1610224	1610346	d	100
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	028	1612292	1612343	a	97
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	029	1610808	1610878	t	116
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	030	1609929	1610058	a	97
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	031	1611410	1611503	 	32
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	032	1611588	1611728	d	100
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	033	1611480	1611617	o	111
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	034	1611752	1611831	g	103
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	035	1610604	1610708	 	32
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	036	1613545	1613616	d	100
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	037	1612184	1612282	o	111
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	038	1612661	1612750	g	103
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	039	1612092	1612144	 	32
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	040	1611641	1611751	w	119
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	041	1613160	1613231	o	111
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	042	1611592	1611725	r	114
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	043	1613594	1613708	l	108
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	044	1612590	1612704	d	100
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	045	1613644	1613702	 	32
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	046	1614335	1614467	h	104
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	047	1616154	1616269	e	101
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	048	1616165	1616295	l	108
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	049	1612424	1612539	l	108
+017	008	learning programming over data dog dog world hello	learning programming over data dog dog world hello	050	1616065	1616185	o	111
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	001	1608000	1608128	i	105
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	002	1608146	1608203	n	110
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	003	1608268	1608362	t	116
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	004	1608519	1608620	e	101
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	005	1608404	1608463	l	108
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	006	1608720	1608837	l	108
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	007	1608762	1608900	i	105
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	008	1609127	1609223	g	103
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	009	1609200	1609345	e	101
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	010	1609251	1609387	n	110
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	011	1609720	1609796	c	99
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	012	1609320	1609433	e	101
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	013	1609764	1609866	 	32
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	014	1609495	1609573	t	116
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	015	1609484	1609611	h	104
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	016	1610670	1610746	e	101
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	017	1611056	1611128	 	32
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	018	1611247	1611324	w	119
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	019	1610538	1610667	o	111
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	020	1610698	1610845	r	114
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	021	1610680	1610744	l	108
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	022	1612053	1612125	d	100
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	023	1611542	1611644	 	32
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	024	1612462	1612579	q	113
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	025	1612656	1612708	u	117
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	026	1610850	1610957	i	105
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	027	1611822	1611959	c	99
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	028	1611078	1611158	k	107
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	029	1612200	1612280	 	32
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	030	1611248	1611301	b	98
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	031	1612890	1612953	r	114
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	032	1611224	1611298	o	111
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	033	1613248	1613389	w	119
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	034	1614534	1614659	n	110
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	035	1614018	1614082	 	32
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	036	1613390	1613487	d	100
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	037	1613760	1613852	a	97
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	038	1612921	1613045	t	116
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	039	1615524	1615655	a	97
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	040	1612797	1612853	 	32
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	041	1613320	1613445	d	100
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	042	1612879	1612941	a	97
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	043	1615980	1616106	t	116
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	044	1613418	1613490	a	97
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	045	1615700	1615819	 	32
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	046	1613535	1613597	f	102
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	047	1616280	1616395	o	111
+017	009	intelligence the world quick brown data data fox	intelligence the world quick brown data data fox	048	1616977	1617091	x	120
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	001	1609000	1609064	b	98
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	002	1609145	1609216	r	114
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	003	1609218	1609295	o	111
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	004	1609498	1609581	w	119
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	005	1609568	1609654	n	110
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	006	1609675	1609774	 	32
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	007	1609900	1610047	a	97
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	008	1609805	1609942	r	114
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	009	1610240	1610310	t	116
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	010	1609954	1610064	i	105
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	011	1610630	1610682	f	102
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	012	1611112	1611258	i	105
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	013	1610836	1610972	c	99
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	014	1611379	1611526	i	105
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	015	1611380	1611454	a	97
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	016	1611880	1611994	l	108
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	017	1611464	1611525	 	32
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	018	1611720	1611846	d	100
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	019	1612312	1612437	o	111
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	020	1610995	1611105	g	103
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	021	1611760	1611881	 	32
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	022	1611583	1611716	l	108
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	023	1612344	1612475	a	97
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	024	1613117	1613246	z	122
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	025	1611400	1611454	y	121
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	026	1611925	1611991	 	32
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	027	1611938	1612041	i	105
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	028	1613536	1613618	n	110
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	029	1612248	1612352	t	116
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	030	1613930	1614015	e	101
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	031	1614670	1614816	l	108
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	032	1613929	1613979	l	108
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	033	1614024	1614103	i	105
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	034	1613422	1613525	g	103
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	035	1613386	1613514	e	101
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	036	1615510	1615603	n	110
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	037	1615012	1615095	c	99
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	038	1615216	1615313	e	101
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	039	1612914	1612985	 	32
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	040	1615123	1615250	f	102
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	041	1616680	1616752	o	111
+017	010	brown artificial dog lazy intelligence fox	brown artificial dog lazy intelligence fox	042	1614330	1614457	x	120

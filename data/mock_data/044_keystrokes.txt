@@ -1,0 +1,509 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+044	001	python dog data python data brown hello	python dog data python data brown hello	001	4300000	4300079	p	112
+044	001	python dog data python data brown hello	python dog data python data brown hello	002	4300166	4300282	y	121
+044	001	python dog data python data brown hello	python dog data python data brown hello	003	4300326	4300455	t	116
+044	001	python dog data python data brown hello	python dog data python data brown hello	004	4300576	4300675	h	104
+044	001	python dog data python data brown hello	python dog data python data brown hello	005	4300652	4300775	o	111
+044	001	python dog data python data brown hello	python dog data python data brown hello	006	4300945	4301051	n	110
+044	001	python dog data python data brown hello	python dog data python data brown hello	007	4300888	4300943	 	32
+044	001	python dog data python data brown hello	python dog data python data brown hello	008	4300952	4301007	d	100
+044	001	python dog data python data brown hello	python dog data python data brown hello	009	4301232	4301300	o	111
+044	001	python dog data python data brown hello	python dog data python data brown hello	010	4301638	4301704	g	103
+044	001	python dog data python data brown hello	python dog data python data brown hello	011	4301270	4301405	 	32
+044	001	python dog data python data brown hello	python dog data python data brown hello	012	4301507	4301572	d	100
+044	001	python dog data python data brown hello	python dog data python data brown hello	013	4302148	4302291	a	97
+044	001	python dog data python data brown hello	python dog data python data brown hello	014	4302184	4302320	t	116
+044	001	python dog data python data brown hello	python dog data python data brown hello	015	4301526	4301633	a	97
+044	001	python dog data python data brown hello	python dog data python data brown hello	016	4302910	4303006	 	32
+044	001	python dog data python data brown hello	python dog data python data brown hello	017	4302976	4303046	p	112
+044	001	python dog data python data brown hello	python dog data python data brown hello	018	4302057	4302175	y	121
+044	001	python dog data python data brown hello	python dog data python data brown hello	019	4302052	4302197	t	116
+044	001	python dog data python data brown hello	python dog data python data brown hello	020	4303135	4303195	h	104
+044	001	python dog data python data brown hello	python dog data python data brown hello	021	4303360	4303418	o	111
+044	001	python dog data python data brown hello	python dog data python data brown hello	022	4303171	4303235	n	110
+044	001	python dog data python data brown hello	python dog data python data brown hello	023	4303564	4303668	 	32
+044	001	python dog data python data brown hello	python dog data python data brown hello	024	4303749	4303866	d	100
+044	001	python dog data python data brown hello	python dog data python data brown hello	025	4304200	4304277	a	97
+044	001	python dog data python data brown hello	python dog data python data brown hello	026	4304325	4304469	t	116
+044	001	python dog data python data brown hello	python dog data python data brown hello	027	4304160	4304247	a	97
+044	001	python dog data python data brown hello	python dog data python data brown hello	028	4303456	4303538	 	32
+044	001	python dog data python data brown hello	python dog data python data brown hello	029	4303192	4303276	b	98
+044	001	python dog data python data brown hello	python dog data python data brown hello	030	4304234	4304345	r	114
+044	001	python dog data python data brown hello	python dog data python data brown hello	031	4304890	4305002	o	111
+044	001	python dog data python data brown hello	python dog data python data brown hello	032	4303813	4303946	w	119
+044	001	python dog data python data brown hello	python dog data python data brown hello	033	4303648	4303700	n	110
+044	001	python dog data python data brown hello	python dog data python data brown hello	034	4303366	4303504	 	32
+044	001	python dog data python data brown hello	python dog data python data brown hello	035	4306358	4306438	h	104
+044	001	python dog data python data brown hello	python dog data python data brown hello	036	4304900	4304999	e	101
+044	001	python dog data python data brown hello	python dog data python data brown hello	037	4307128	4307261	l	108
+044	001	python dog data python data brown hello	python dog data python data brown hello	038	4306882	4306961	l	108
+044	001	python dog data python data brown hello	python dog data python data brown hello	039	4304332	4304411	o	111
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	001	4301000	4301117	w	119
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	002	4301164	4301245	o	111
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	003	4301268	4301399	r	114
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	004	4301306	4301405	l	108
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	005	4301580	4301656	d	100
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	006	4301905	4302027	 	32
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	007	4302104	4302223	h	104
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	008	4301840	4301941	e	101
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	009	4302360	4302459	l	108
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	010	4302422	4302571	l	108
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	011	4302610	4302706	o	111
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	012	4302199	4302332	 	32
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	013	4302308	4302394	l	108
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	014	4302586	4302654	e	101
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	015	4303562	4303685	a	97
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	016	4303850	4303961	r	114
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	017	4302760	4302903	n	110
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	018	4303907	4303960	i	105
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	019	4303232	4303368	n	110
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	020	4304743	4304887	g	103
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	021	4304260	4304371	 	32
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	022	4304360	4304473	s	115
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	023	4304982	4305097	c	99
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	024	4303346	4303463	i	105
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	025	4304912	4304999	e	101
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	026	4303850	4303944	n	110
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	027	4306070	4306140	c	99
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	028	4304672	4304745	e	101
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	029	4304080	4304186	 	32
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	030	4305930	4306069	l	108
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	031	4304720	4304861	a	97
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	032	4304658	4304720	z	122
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	033	4304744	4304794	y	121
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	034	4306082	4306172	 	32
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	035	4305114	4305239	q	113
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	036	4307545	4307659	u	117
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	037	4307516	4307590	i	105
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	038	4308178	4308256	c	99
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	039	4308448	4308564	k	107
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	040	4306304	4306413	 	32
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	041	4307880	4308017	p	112
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	042	4306822	4306969	r	114
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	043	4308896	4308988	o	111
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	044	4308396	4308531	g	103
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	045	4307116	4307167	r	114
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	046	4305500	4305557	a	97
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	047	4309142	4309223	m	109
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	048	4309037	4309111	m	109
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	049	4309160	4309212	i	105
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	050	4309771	4309841	n	110
+044	002	world hello learning science lazy quick programming	world hello learning science lazy quick programming	051	4306150	4306234	g	103
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	001	4302000	4302109	b	98
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	002	4302102	4302170	r	114
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	003	4302260	4302325	o	111
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	004	4302450	4302560	w	119
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	005	4302584	4302684	n	110
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	006	4302740	4302818	 	32
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	007	4302630	4302713	s	115
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	008	4303085	4303154	c	99
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	009	4303192	4303322	i	105
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	010	4303359	4303409	e	101
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	011	4303090	4303174	n	110
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	012	4304035	4304159	c	99
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	013	4303332	4303417	e	101
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	014	4304392	4304455	 	32
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	015	4304478	4304619	p	112
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	016	4303530	4303673	y	121
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	017	4304016	4304147	t	116
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	018	4304669	4304746	h	104
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	019	4304484	4304577	o	111
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	020	4304584	4304711	n	110
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	021	4305120	4305269	 	32
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	022	4306179	4306316	w	119
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	023	4305278	4305381	o	111
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	024	4304484	4304605	r	114
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	025	4305696	4305800	l	108
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	026	4304550	4304646	d	100
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	027	4304990	4305059	 	32
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	028	4306050	4306105	a	97
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	029	4307180	4307309	r	114
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	030	4305857	4306004	t	116
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	031	4306740	4306819	i	105
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	032	4306898	4306978	f	102
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	033	4305680	4305828	i	105
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	034	4307214	4307297	c	99
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	035	4307916	4308065	i	105
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	036	4307530	4307619	a	97
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	037	4305816	4305868	l	108
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	038	4307772	4307915	 	32
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	039	4308574	4308653	j	106
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	040	4306641	4306789	u	117
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	041	4309800	4309897	m	109
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	042	4308519	4308628	p	112
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	043	4308342	4308430	s	115
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	044	4310385	4310449	 	32
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	045	4309260	4309408	h	104
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	046	4307085	4307220	e	101
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	047	4309544	4309608	l	108
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	048	4310742	4310847	l	108
+044	003	brown science python world artificial jumps hello	brown science python world artificial jumps hello	049	4310688	4310779	o	111
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	001	4303000	4303136	i	105
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	002	4303116	4303214	n	110
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	003	4303274	4303328	t	116
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	004	4303357	4303427	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	005	4303672	4303745	l	108
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	006	4303940	4304064	l	108
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	007	4304146	4304259	i	105
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	008	4304008	4304085	g	103
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	009	4303848	4303949	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	010	4304530	4304673	n	110
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	011	4304020	4304101	c	99
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	012	4304518	4304604	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	013	4304200	4304277	 	32
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	014	4305431	4305508	m	109
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	015	4305240	4305337	a	97
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	016	4305520	4305595	c	99
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	017	4305112	4305224	h	104
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	018	4306128	4306223	i	105
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	019	4305736	4305824	n	110
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	020	4306097	4306237	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	021	4306080	4306194	 	32
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	022	4306570	4306709	q	113
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	023	4305816	4305905	u	117
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	024	4306335	4306436	i	105
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	025	4307488	4307621	c	99
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	026	4307275	4307380	k	107
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	027	4306874	4306996	 	32
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	028	4307752	4307815	i	105
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	029	4306556	4306673	n	110
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	030	4307205	4307311	t	116
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	031	4306030	4306098	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	032	4308518	4308633	l	108
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	033	4309272	4309359	l	108
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	034	4308643	4308749	i	105
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	035	4307522	4307623	g	103
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	036	4307270	4307377	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	037	4308652	4308763	n	110
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	038	4310030	4310178	c	99
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	039	4310144	4310290	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	040	4310605	4310706	 	32
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	041	4308840	4308943	i	105
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	042	4309724	4309872	n	110
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	043	4307242	4307364	t	116
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	044	4307300	4307414	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	045	4311096	4311206	l	108
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	046	4311235	4311323	l	108
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	047	4307830	4307904	i	105
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	048	4311319	4311403	g	103
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	049	4309336	4309480	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	050	4308439	4308491	n	110
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	051	4309050	4309171	c	99
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	052	4308661	4308728	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	053	4312152	4312236	 	32
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	054	4310685	4310799	f	102
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	055	4313098	4313153	o	111
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	056	4310040	4310170	x	120
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	057	4312800	4312855	 	32
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	058	4313431	4313561	s	115
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	059	4313498	4313569	c	99
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	060	4309903	4309981	i	105
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	061	4310560	4310612	e	101
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	062	4310808	4310935	n	110
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	063	4313788	4313873	c	99
+044	004	intelligence machine quick intelligence intelligence fox science	intelligence machine quick intelligence intelligence fox science	064	4313773	4313825	e	101
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	001	4304000	4304142	a	97
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	002	4304159	4304277	r	114
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	003	4304236	4304288	t	116
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	004	4304429	4304483	i	105
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	005	4304440	4304551	f	102
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	006	4304530	4304608	i	105
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	007	4304990	4305043	c	99
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	008	4304847	4304977	i	105
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	009	4304840	4304898	a	97
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	010	4305638	4305770	l	108
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	011	4305650	4305764	 	32
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	012	4305419	4305478	t	116
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	013	4306016	4306145	h	104
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	014	4305950	4306068	e	101
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	015	4305778	4305849	 	32
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	016	4306565	4306669	o	111
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	017	4305888	4305973	v	118
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	018	4306295	4306348	e	101
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	019	4306970	4307025	r	114
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	020	4307135	4307281	 	32
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	021	4306280	4306394	o	111
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	022	4307633	4307747	v	118
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	023	4307344	4307475	e	101
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	024	4307933	4308050	r	114
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	025	4306976	4307099	 	32
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	026	4308200	4308311	f	102
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	027	4306678	4306738	o	111
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	028	4307753	4307856	x	120
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	029	4307668	4307787	 	32
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	030	4308901	4308961	q	113
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	031	4309610	4309732	u	117
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	032	4307131	4307238	i	105
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	033	4307200	4307298	c	99
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	034	4310534	4310600	k	107
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	035	4308148	4308233	 	32
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	036	4307745	4307813	d	100
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	037	4309112	4309201	a	97
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	038	4308403	4308463	t	116
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	039	4310384	4310524	a	97
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	040	4308290	4308409	 	32
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	041	4310680	4310751	h	104
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	042	4310437	4310517	e	101
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	043	4308578	4308681	l	108
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	044	4310794	4310891	l	108
+044	005	artificial the over over fox quick data hello	artificial the over over fox quick data hello	045	4309016	4309130	o	111
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	001	4305000	4305085	m	109
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	002	4305158	4305305	a	97
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	003	4305230	4305335	c	99
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	004	4305480	4305561	h	104
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	005	4305636	4305689	i	105
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	006	4305505	4305626	n	110
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	007	4305756	4305898	e	101
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	008	4306204	4306308	 	32
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	009	4306416	4306494	l	108
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	010	4306305	4306420	e	101
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	011	4306330	4306447	a	97
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	012	4306474	4306589	r	114
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	013	4307100	4307176	n	110
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	014	4306508	4306572	i	105
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	015	4306400	4306518	n	110
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	016	4307445	4307499	g	103
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	017	4306920	4307049	 	32
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	018	4307618	4307686	w	119
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	019	4306800	4306943	o	111
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	020	4307033	4307159	r	114
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	021	4308300	4308373	l	108
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	022	4307919	4308065	d	100
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	023	4308806	4308946	 	32
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	024	4308818	4308925	h	104
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	025	4307448	4307502	e	101
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	026	4307775	4307851	l	108
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	027	4309368	4309470	l	108
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	028	4309806	4309858	o	111
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	029	4309788	4309932	 	32
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	030	4310713	4310792	i	105
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	031	4309170	4309246	n	110
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	032	4309991	4310100	t	116
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	033	4308840	4308945	e	101
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	034	4308795	4308894	l	108
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	035	4308502	4308590	l	108
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	036	4308570	4308711	i	105
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	037	4311156	4311228	g	103
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	038	4311697	4311823	e	101
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	039	4310928	4311035	n	110
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	040	4312761	4312867	c	99
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	041	4310760	4310838	e	101
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	042	4309797	4309941	 	32
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	043	4311678	4311780	t	116
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	044	4312052	4312169	h	104
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	045	4310192	4310326	e	101
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	046	4312830	4312936	 	32
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	047	4312774	4312861	i	105
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	048	4313883	4313977	n	110
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	049	4310280	4310389	t	116
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	050	4313526	4313618	e	101
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	051	4314800	4314856	l	108
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	052	4313058	4313199	l	108
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	053	4315088	4315201	i	105
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	054	4311731	4311823	g	103
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	055	4312236	4312342	e	101
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	056	4315780	4315864	n	110
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	057	4311328	4311398	c	99
+044	006	machine learning world hello intelligence the intelligence	machine learning world hello intelligence the intelligence	058	4316172	4316303	e	101
+044	007	machine science world lazy learning	machine science world lazy learning	001	4306000	4306109	m	109
+044	007	machine science world lazy learning	machine science world lazy learning	002	4306143	4306283	a	97
+044	007	machine science world lazy learning	machine science world lazy learning	003	4306358	4306410	c	99
+044	007	machine science world lazy learning	machine science world lazy learning	004	4306441	4306567	h	104
+044	007	machine science world lazy learning	machine science world lazy learning	005	4306680	4306749	i	105
+044	007	machine science world lazy learning	machine science world lazy learning	006	4306995	4307105	n	110
+044	007	machine science world lazy learning	machine science world lazy learning	007	4306954	4307022	e	101
+044	007	machine science world lazy learning	machine science world lazy learning	008	4307050	4307159	 	32
+044	007	machine science world lazy learning	machine science world lazy learning	009	4307480	4307592	s	115
+044	007	machine science world lazy learning	machine science world lazy learning	010	4307206	4307302	c	99
+044	007	machine science world lazy learning	machine science world lazy learning	011	4307500	4307640	i	105
+044	007	machine science world lazy learning	machine science world lazy learning	012	4307529	4307637	e	101
+044	007	machine science world lazy learning	machine science world lazy learning	013	4308304	4308368	n	110
+044	007	machine science world lazy learning	machine science world lazy learning	014	4308132	4308265	c	99
+044	007	machine science world lazy learning	machine science world lazy learning	015	4308492	4308571	e	101
+044	007	machine science world lazy learning	machine science world lazy learning	016	4308580	4308717	 	32
+044	007	machine science world lazy learning	machine science world lazy learning	017	4308864	4308989	w	119
+044	007	machine science world lazy learning	machine science world lazy learning	018	4308397	4308467	o	111
+044	007	machine science world lazy learning	machine science world lazy learning	019	4307872	4307986	r	114
+044	007	machine science world lazy learning	machine science world lazy learning	020	4308983	4309105	l	108
+044	007	machine science world lazy learning	machine science world lazy learning	021	4308200	4308323	d	100
+044	007	machine science world lazy learning	machine science world lazy learning	022	4309360	4309448	 	32
+044	007	machine science world lazy learning	machine science world lazy learning	023	4309982	4310112	l	108
+044	007	machine science world lazy learning	machine science world lazy learning	024	4308645	4308726	a	97
+044	007	machine science world lazy learning	machine science world lazy learning	025	4310032	4310113	z	122
+044	007	machine science world lazy learning	machine science world lazy learning	026	4309375	4309490	y	121
+044	007	machine science world lazy learning	machine science world lazy learning	027	4309484	4309568	 	32
+044	007	machine science world lazy learning	machine science world lazy learning	028	4310347	4310467	l	108
+044	007	machine science world lazy learning	machine science world lazy learning	029	4311292	4311359	e	101
+044	007	machine science world lazy learning	machine science world lazy learning	030	4309770	4309864	a	97
+044	007	machine science world lazy learning	machine science world lazy learning	031	4310260	4310366	r	114
+044	007	machine science world lazy learning	machine science world lazy learning	032	4310960	4311102	n	110
+044	007	machine science world lazy learning	machine science world lazy learning	033	4309552	4309660	i	105
+044	007	machine science world lazy learning	machine science world lazy learning	034	4310785	4310854	n	110
+044	007	machine science world lazy learning	machine science world lazy learning	035	4309570	4309679	g	103
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	001	4307000	4307125	f	102
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	002	4307156	4307296	o	111
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	003	4307242	4307367	x	120
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	004	4307393	4307516	 	32
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	005	4307496	4307645	i	105
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	006	4307665	4307769	n	110
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	007	4307738	4307808	t	116
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	008	4308176	4308234	e	101
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	009	4308008	4308124	l	108
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	010	4308494	4308570	l	108
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	011	4308020	4308134	i	105
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	012	4309024	4309122	g	103
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	013	4308296	4308347	e	101
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	014	4309210	4309336	n	110
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	015	4309296	4309384	c	99
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	016	4309730	4309784	e	101
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	017	4309368	4309429	 	32
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	018	4310315	4310456	o	111
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	019	4310330	4310468	v	118
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	020	4310078	4310138	e	101
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	021	4309540	4309654	r	114
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	022	4310360	4310439	 	32
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	023	4309508	4309606	b	98
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	024	4311439	4311553	r	114
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	025	4310576	4310654	o	111
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	026	4310825	4310894	w	119
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	027	4310874	4310955	n	110
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	028	4309997	4310132	 	32
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	029	4312320	4312401	t	116
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	030	4312046	4312131	h	104
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	031	4311380	4311450	e	101
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	032	4310782	4310853	 	32
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	033	4311256	4311327	b	98
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	034	4310399	4310474	r	114
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	035	4313596	4313734	o	111
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	036	4311550	4311664	w	119
+044	008	fox intelligence over brown the brown	fox intelligence over brown the brown	037	4313876	4313981	n	110
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	001	4308000	4308053	b	98
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	002	4308139	4308261	r	114
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	003	4308358	4308491	o	111
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	004	4308453	4308532	w	119
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	005	4308728	4308875	n	110
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	006	4308915	4309001	 	32
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	007	4309152	4309231	l	108
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	008	4309085	4309166	e	101
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	009	4309000	4309092	a	97
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	010	4309476	4309563	r	114
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	011	4309920	4309989	n	110
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	012	4309551	4309664	i	105
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	013	4310064	4310147	n	110
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	014	4309612	4309747	g	103
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	015	4309792	4309888	 	32
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	016	4310445	4310508	d	100
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	017	4309824	4309955	a	97
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	018	4310278	4310415	t	116
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	019	4311474	4311571	a	97
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	020	4311705	4311854	 	32
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	021	4310160	4310263	b	98
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	022	4311528	4311578	r	114
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	023	4311014	4311084	o	111
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	024	4311726	4311872	w	119
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	025	4311168	4311273	n	110
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	026	4310775	4310888	 	32
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	027	4311042	4311143	t	116
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	028	4311078	4311211	h	104
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	029	4312648	4312714	e	101
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	030	4311741	4311889	 	32
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	031	4313280	4313377	j	106
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	032	4312898	4313021	u	117
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	033	4313984	4314121	m	109
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	034	4313412	4313525	p	112
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	035	4312760	4312895	s	115
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	036	4312760	4312879	 	32
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	037	4312572	4312623	i	105
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	038	4312699	4312770	n	110
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	039	4315068	4315201	t	116
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	040	4312095	4312146	e	101
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	041	4312320	4312404	l	108
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	042	4315831	4315966	l	108
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	043	4316232	4316286	i	105
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	044	4313332	4313407	g	103
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	045	4313896	4313954	e	101
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	046	4315200	4315336	n	110
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	047	4313336	4313436	c	99
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	048	4313593	4313737	e	101
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	049	4315056	4315142	 	32
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	050	4315987	4316054	q	113
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	051	4317550	4317615	u	117
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	052	4317129	4317209	i	105
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	053	4316320	4316436	c	99
+044	009	brown learning data brown the jumps intelligence quick	brown learning data brown the jumps intelligence quick	054	4313883	4313952	k	107
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	001	4309000	4309062	f	102
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	002	4309164	4309217	o	111
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	003	4309316	4309403	x	120
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	004	4309525	4309617	 	32
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	005	4309608	4309658	j	106
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	006	4309505	4309593	u	117
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	007	4309768	4309829	m	109
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	008	4310267	4310365	p	112
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	009	4309848	4309910	s	115
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	010	4310629	4310729	 	32
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	011	4310780	4310843	l	108
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	012	4311046	4311178	e	101
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	013	4311124	4311240	a	97
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	014	4310755	4310833	r	114
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	015	4310960	4311104	n	110
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	016	4311055	4311105	i	105
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	017	4311512	4311564	n	110
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	018	4311873	4311926	g	103
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	019	4311268	4311378	 	32
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	020	4311261	4311406	h	104
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	021	4312580	4312704	e	101
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	022	4311877	4312005	l	108
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	023	4312036	4312145	l	108
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	024	4312680	4312757	o	111
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	025	4311544	4311614	 	32
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	026	4313275	4313330	d	100
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	027	4311730	4311854	o	111
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	028	4312672	4312751	g	103
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	029	4313984	4314042	 	32
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	030	4312335	4312390	a	97
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	031	4313560	4313652	r	114
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	032	4312100	4312176	t	116
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	033	4314184	4314266	i	105
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	034	4315501	4315619	f	102
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	035	4313760	4313877	i	105
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	036	4312745	4312832	c	99
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	037	4313896	4313960	i	105
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	038	4316289	4316422	a	97
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	039	4315042	4315118	l	108
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	040	4316254	4316313	 	32
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	041	4316880	4316980	p	112
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	042	4317159	4317253	r	114
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	043	4316896	4316982	o	111
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	044	4316439	4316562	g	103
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	045	4315820	4315960	r	114
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	046	4313860	4313926	a	97
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	047	4315348	4315420	m	109
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	048	4318353	4318486	m	109
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	049	4317544	4317633	i	105
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	050	4317624	4317714	n	110
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	051	4314600	4314716	g	103
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	052	4317619	4317724	 	32
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	053	4314356	4314454	i	105
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	054	4318911	4319017	n	110
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	055	4319098	4319233	t	116
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	056	4315545	4315678	e	101
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	057	4317232	4317297	l	108
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	058	4316980	4317038	l	108
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	059	4318338	4318419	i	105
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	060	4319207	4319281	g	103
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	061	4320220	4320306	e	101
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	062	4318394	4318448	n	110
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	063	4319168	4319267	c	99
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	064	4320088	4320234	e	101
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	065	4319112	4319229	 	32
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	066	4319205	4319314	p	112
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	067	4317250	4317340	r	114
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	068	4317911	4317993	o	111
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	069	4318248	4318392	g	103
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	070	4322386	4322472	r	114
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	071	4318030	4318156	a	97
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	072	4319153	4319276	m	109
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	073	4319008	4319087	m	109
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	074	4318636	4318758	i	105
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	075	4319434	4319495	n	110
+044	010	fox jumps learning hello dog artificial programming intelligence programming	fox jumps learning hello dog artificial programming intelligence programming	076	4318675	4318796	g	103

@@ -1,0 +1,495 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	001	1000000	1000083	s	115
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	002	1000158	1000266	c	99
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	003	1000306	1000387	i	105
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	004	1000423	1000561	e	101
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	005	1000572	1000710	n	110
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	006	1000990	1001043	c	99
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	007	1000822	1000888	e	101
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	008	1000707	1000809	 	32
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	009	1001320	1001388	a	97
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	010	1001305	1001379	r	114
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	011	1001040	1001169	t	116
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	012	1002112	1002191	i	105
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	013	1002376	1002467	f	102
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	014	1002405	1002482	i	105
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	015	1002002	1002134	c	99
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	016	1002430	1002559	i	105
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	017	1002384	1002443	a	97
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	018	1001904	1001955	l	108
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	019	1003132	1003258	 	32
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	020	1003420	1003532	h	104
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	021	1002780	1002845	e	101
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	022	1002415	1002512	l	108
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	023	1003762	1003841	l	108
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	024	1002921	1003033	o	111
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	025	1003288	1003416	 	32
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	026	1004375	1004518	b	98
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	027	1003146	1003290	r	114
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	028	1004995	1005068	o	111
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	029	1005572	1005693	w	119
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	030	1004292	1004360	n	110
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	031	1005070	1005153	 	32
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	032	1005146	1005235	i	105
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	033	1006176	1006310	n	110
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	034	1004521	1004571	t	116
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	035	1004420	1004541	e	101
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	036	1003675	1003807	l	108
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	037	1006156	1006296	l	108
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	038	1005698	1005755	i	105
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	039	1004370	1004476	g	103
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	040	1005694	1005812	e	101
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	041	1004680	1004802	n	110
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	042	1005535	1005668	c	99
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	043	1004410	1004482	e	101
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	044	1008299	1008353	 	32
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	045	1008184	1008312	p	112
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	046	1006570	1006665	y	121
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	047	1007314	1007422	t	116
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	048	1007802	1007938	h	104
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	049	1006192	1006339	o	111
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	050	1009261	1009373	n	110
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	051	1009900	1010027	 	32
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	052	1009435	1009504	d	100
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	053	1007592	1007651	a	97
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	054	1006784	1006882	t	116
+011	001	science artificial hello brown intelligence python data	science artificial hello brown intelligence python data	055	1006588	1006674	a	97
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	001	1001000	1001070	a	97
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	002	1001198	1001260	r	114
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	003	1001200	1001294	t	116
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	004	1001480	1001598	i	105
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	005	1001540	1001648	f	102
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	006	1001620	1001688	i	105
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	007	1001696	1001746	c	99
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	008	1002330	1002405	i	105
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	009	1002296	1002417	a	97
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	010	1002350	1002452	l	108
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	011	1002290	1002438	 	32
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	012	1002529	1002625	w	119
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	013	1002968	1003112	o	111
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	014	1003366	1003467	r	114
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	015	1003450	1003574	l	108
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	016	1003760	1003901	d	100
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	017	1003192	1003335	 	32
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	018	1002887	1003027	s	115
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	019	1002908	1003040	c	99
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	020	1004534	1004655	i	105
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	021	1003020	1003112	e	101
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	022	1004885	1004953	n	110
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	023	1004212	1004334	c	99
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	024	1005071	1005135	e	101
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	025	1003928	1004046	 	32
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	026	1003975	1004077	j	106
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	027	1003886	1004028	u	117
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	028	1004726	1004869	m	109
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	029	1005340	1005413	p	112
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	030	1004915	1005048	s	115
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	031	1004810	1004913	 	32
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	032	1004782	1004838	b	98
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	033	1005800	1005906	r	114
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	034	1005653	1005771	o	111
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	035	1005352	1005451	w	119
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	036	1006845	1006903	n	110
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	037	1007084	1007181	 	32
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	038	1004922	1005017	h	104
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	039	1007422	1007538	e	101
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	040	1005290	1005353	l	108
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	041	1008120	1008200	l	108
+011	002	artificial world science jumps brown hello	artificial world science jumps brown hello	042	1007191	1007263	o	111
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	001	1002000	1002125	f	102
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	002	1002165	1002224	o	111
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	003	1002278	1002333	x	120
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	004	1002582	1002705	 	32
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	005	1002528	1002632	s	115
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	006	1002505	1002651	c	99
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	007	1002672	1002806	i	105
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	008	1003288	1003371	e	101
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	009	1003032	1003145	n	110
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	010	1002972	1003044	c	99
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	011	1003230	1003365	e	101
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	012	1004002	1004140	 	32
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	013	1003356	1003455	f	102
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	014	1004587	1004678	o	111
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	015	1003428	1003496	x	120
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	016	1004910	1004985	 	32
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	017	1005120	1005189	s	115
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	018	1003836	1003912	c	99
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	019	1004628	1004702	i	105
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	020	1004337	1004408	e	101
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	021	1005940	1006088	n	110
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	022	1004814	1004933	c	99
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	023	1004794	1004911	e	101
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	024	1004553	1004700	 	32
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	025	1005552	1005659	t	116
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	026	1006050	1006135	h	104
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	027	1005718	1005807	e	101
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	028	1006158	1006266	 	32
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	029	1007208	1007327	h	104
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	030	1006611	1006758	e	101
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	031	1007760	1007882	l	108
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	032	1007921	1008033	l	108
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	033	1007152	1007285	o	111
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	034	1007808	1007871	 	32
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	035	1008698	1008788	p	112
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	036	1007600	1007681	y	121
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	037	1008732	1008877	t	116
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	038	1007735	1007835	h	104
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	039	1006674	1006807	o	111
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	040	1008240	1008338	n	110
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	041	1008480	1008628	 	32
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	042	1008724	1008794	p	112
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	043	1009434	1009487	r	114
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	044	1006816	1006922	o	111
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	045	1010008	1010063	g	103
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	046	1007670	1007782	r	114
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	047	1008578	1008727	a	97
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	048	1008721	1008789	m	109
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	049	1010688	1010751	m	109
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	050	1007390	1007529	i	105
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	051	1007850	1007950	n	110
+011	003	fox science fox science the hello python programming	fox science fox science the hello python programming	052	1008783	1008839	g	103
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	001	1003000	1003087	d	100
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	002	1003163	1003250	o	111
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	003	1003390	1003510	g	103
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	004	1003393	1003518	 	32
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	005	1003740	1003884	p	112
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	006	1003975	1004079	y	121
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	007	1003882	1003954	t	116
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	008	1004092	1004241	h	104
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	009	1003936	1004034	o	111
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	010	1004647	1004723	n	110
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	011	1004780	1004851	 	32
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	012	1004122	1004222	p	112
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	013	1004896	1004947	r	114
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	014	1005587	1005659	o	111
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	015	1005618	1005669	g	103
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	016	1004620	1004762	r	114
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	017	1005640	1005743	a	97
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	018	1004768	1004864	m	109
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	019	1005448	1005539	m	109
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	020	1005736	1005841	i	105
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	021	1005320	1005447	n	110
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	022	1006906	1006998	g	103
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	023	1007092	1007164	 	32
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	024	1005369	1005460	i	105
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	025	1006936	1007003	n	110
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	026	1007750	1007810	t	116
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	027	1007654	1007791	e	101
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	028	1008103	1008188	l	108
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	029	1007060	1007129	l	108
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	030	1005900	1005986	i	105
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	031	1008220	1008339	g	103
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	032	1006131	1006260	e	101
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	033	1006392	1006508	n	110
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	034	1006696	1006843	c	99
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	035	1007216	1007360	e	101
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	036	1008670	1008776	 	32
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	037	1007752	1007829	l	108
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	038	1010252	1010318	a	97
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	039	1007636	1007727	z	122
+011	004	dog python programming intelligence lazy	dog python programming intelligence lazy	040	1008304	1008419	y	121
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	001	1004000	1004116	a	97
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	002	1004197	1004318	r	114
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	003	1004330	1004445	t	116
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	004	1004351	1004447	i	105
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	005	1004728	1004781	f	102
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	006	1004505	1004639	i	105
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	007	1004882	1005008	c	99
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	008	1005239	1005386	i	105
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	009	1004840	1004958	a	97
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	010	1004945	1005031	l	108
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	011	1005390	1005458	 	32
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	012	1005914	1006042	d	100
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	013	1005848	1005906	o	111
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	014	1006366	1006416	g	103
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	015	1005414	1005552	 	32
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	016	1005995	1006081	m	109
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	017	1006144	1006209	a	97
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	018	1005870	1005998	c	99
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	019	1006178	1006288	h	104
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	020	1007382	1007454	i	105
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	021	1007820	1007913	n	110
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	022	1007612	1007711	e	101
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	023	1007278	1007408	 	32
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	024	1007979	1008034	q	113
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	025	1007240	1007337	u	117
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	026	1008725	1008849	i	105
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	027	1006834	1006904	c	99
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	028	1007024	1007077	k	107
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	029	1009040	1009160	 	32
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	030	1006929	1007064	o	111
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	031	1008410	1008486	v	118
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	032	1008867	1008978	e	101
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	033	1007264	1007326	r	114
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	034	1008521	1008593	 	32
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	035	1010596	1010677	o	111
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	036	1007780	1007840	v	118
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	037	1008752	1008842	e	101
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	038	1009920	1010028	r	114
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	039	1009814	1009867	 	32
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	040	1009538	1009626	q	113
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	041	1011200	1011315	u	117
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	042	1011954	1012047	i	105
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	043	1010384	1010485	c	99
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	044	1011955	1012022	k	107
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	045	1012756	1012846	 	32
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	046	1011425	1011555	d	100
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	047	1009704	1009779	o	111
+011	005	artificial dog machine quick over over quick dog	artificial dog machine quick over over quick dog	048	1012554	1012680	g	103
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	001	1005000	1005050	b	98
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	002	1005176	1005324	r	114
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	003	1005234	1005322	o	111
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	004	1005423	1005534	w	119
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	005	1005440	1005521	n	110
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	006	1005575	1005644	 	32
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	007	1006050	1006151	a	97
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	008	1005826	1005971	r	114
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	009	1006080	1006168	t	116
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	010	1006683	1006786	i	105
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	011	1006210	1006309	f	102
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	012	1006804	1006919	i	105
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	013	1006464	1006611	c	99
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	014	1006872	1006938	i	105
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	015	1007184	1007330	a	97
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	016	1006560	1006702	l	108
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	017	1007848	1007944	 	32
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	018	1007295	1007386	d	100
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	019	1008510	1008588	o	111
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	020	1007356	1007480	g	103
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	021	1007820	1007923	 	32
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	022	1008969	1009096	o	111
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	023	1008212	1008278	v	118
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	024	1008243	1008359	e	101
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	025	1008624	1008757	r	114
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	026	1009125	1009201	 	32
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	027	1008068	1008194	a	97
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	028	1009374	1009432	r	114
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	029	1008780	1008919	t	116
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	030	1008509	1008614	i	105
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	031	1008660	1008746	f	102
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	032	1010394	1010518	i	105
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	033	1009992	1010066	c	99
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	034	1008894	1008950	i	105
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	035	1009828	1009889	a	97
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	036	1010215	1010311	l	108
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	037	1009572	1009699	 	32
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	038	1009329	1009443	i	105
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	039	1008990	1009102	n	110
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	040	1010655	1010728	t	116
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	041	1011760	1011866	e	101
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	042	1009510	1009608	l	108
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	043	1010712	1010776	l	108
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	044	1010719	1010769	i	105
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	045	1010632	1010688	g	103
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	046	1012245	1012388	e	101
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	047	1013004	1013137	n	110
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	048	1014212	1014292	c	99
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	049	1014072	1014205	e	101
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	050	1013428	1013537	 	32
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	051	1012050	1012114	p	112
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	052	1012752	1012880	y	121
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	053	1011552	1011674	t	116
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	054	1015388	1015511	h	104
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	055	1011048	1011133	o	111
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	056	1014680	1014763	n	110
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	057	1015920	1016021	 	32
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	058	1013778	1013905	p	112
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	059	1013352	1013460	r	114
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	060	1012965	1013111	o	111
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	061	1014540	1014590	g	103
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	062	1013479	1013573	r	114
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	063	1017214	1017342	a	97
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	064	1013190	1013333	m	109
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	065	1015560	1015614	m	109
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	066	1014815	1014915	i	105
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	067	1017936	1018075	n	110
+011	006	brown artificial dog over artificial intelligence python programming	brown artificial dog over artificial intelligence python programming	068	1011834	1011974	g	103
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	001	1006000	1006117	p	112
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	002	1006188	1006317	y	121
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	003	1006220	1006320	t	116
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	004	1006426	1006492	h	104
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	005	1006640	1006755	o	111
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	006	1006860	1006956	n	110
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	007	1006828	1006890	 	32
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	008	1007015	1007138	m	109
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	009	1007240	1007306	a	97
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	010	1007404	1007526	c	99
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	011	1007610	1007729	h	104
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	012	1007859	1007990	i	105
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	013	1007824	1007969	n	110
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	014	1007885	1008004	e	101
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	015	1008534	1008656	 	32
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	016	1007695	1007754	p	112
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	017	1009152	1009259	r	114
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	018	1009247	1009338	o	111
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	019	1008448	1008544	g	103
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	020	1009496	1009586	r	114
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	021	1009840	1009914	a	97
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	022	1008730	1008864	m	109
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	023	1008904	1008971	m	109
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	024	1010232	1010292	i	105
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	025	1010392	1010465	n	110
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	026	1009250	1009345	g	103
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	027	1010602	1010681	 	32
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	028	1009591	1009716	a	97
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	029	1010032	1010174	r	114
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	030	1010930	1010984	t	116
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	031	1009270	1009376	i	105
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	032	1010867	1010937	f	102
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	033	1009520	1009668	i	105
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	034	1011808	1011917	c	99
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	035	1010420	1010569	i	105
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	036	1011670	1011747	a	97
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	037	1010824	1010896	l	108
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	038	1012956	1013060	 	32
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	039	1013562	1013617	j	106
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	040	1012435	1012512	u	117
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	041	1010680	1010763	m	109
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	042	1012929	1013013	p	112
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	043	1013938	1014013	s	115
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	044	1011891	1012002	 	32
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	045	1012204	1012324	o	111
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	046	1011940	1012053	v	118
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	047	1012072	1012122	e	101
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	048	1012627	1012747	r	114
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	049	1014304	1014388	 	32
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	050	1015016	1015071	o	111
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	051	1014750	1014847	v	118
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	052	1012069	1012150	e	101
+011	007	python machine programming artificial jumps over over	python machine programming artificial jumps over over	053	1014788	1014899	r	114
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	001	1007000	1007109	j	106
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	002	1007113	1007163	u	117
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	003	1007210	1007299	m	109
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	004	1007345	1007433	p	112
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	005	1007424	1007505	s	115
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	006	1007920	1007996	 	32
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	007	1008086	1008235	t	116
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	008	1008393	1008530	h	104
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	009	1007856	1007916	e	101
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	010	1007972	1008034	 	32
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	011	1008810	1008918	j	106
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	012	1008760	1008857	u	117
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	013	1009184	1009311	m	109
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	014	1008716	1008825	p	112
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	015	1008904	1009051	s	115
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	016	1008590	1008732	 	32
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	017	1009672	1009813	d	100
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	018	1008853	1008982	a	97
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	019	1009700	1009768	t	116
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	020	1009603	1009741	a	97
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	021	1009220	1009335	 	32
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	022	1009688	1009762	h	104
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	023	1010256	1010375	e	101
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	024	1010864	1010994	l	108
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	025	1010456	1010518	l	108
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	026	1011825	1011939	o	111
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	027	1010354	1010468	 	32
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	028	1010375	1010508	m	109
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	029	1012348	1012428	a	97
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	030	1011756	1011905	c	99
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	031	1012670	1012731	h	104
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	032	1010565	1010639	i	105
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	033	1010616	1010690	n	110
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	034	1013138	1013213	e	101
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	035	1011080	1011186	 	32
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	036	1013720	1013820	j	106
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	037	1010708	1010834	u	117
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	038	1012624	1012741	m	109
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	039	1012548	1012601	p	112
+011	008	jumps the jumps data hello machine jumps	jumps the jumps data hello machine jumps	040	1014449	1014507	s	115
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	001	1008000	1008050	o	111
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	002	1008137	1008242	v	118
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	003	1008376	1008501	e	101
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	004	1008303	1008384	r	114
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	005	1008424	1008479	 	32
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	006	1008885	1008958	s	115
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	007	1008696	1008841	c	99
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	008	1009344	1009475	i	105
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	009	1009240	1009340	e	101
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	010	1009746	1009860	n	110
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	011	1009700	1009770	c	99
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	012	1010112	1010229	e	101
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	013	1009260	1009397	 	32
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	014	1009612	1009731	f	102
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	015	1009820	1009901	o	111
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	016	1009755	1009827	x	120
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	017	1010816	1010912	 	32
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	018	1009802	1009924	m	109
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	019	1010610	1010698	a	97
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	020	1011724	1011866	c	99
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	021	1011900	1012040	h	104
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	022	1011906	1012054	i	105
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	023	1011212	1011337	n	110
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	024	1012554	1012655	e	101
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	025	1010928	1011032	 	32
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	026	1012200	1012337	l	108
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	027	1011900	1012003	a	97
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	028	1011942	1012019	z	122
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	029	1011612	1011691	y	121
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	030	1012988	1013049	 	32
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	031	1012650	1012725	l	108
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	032	1013177	1013257	e	101
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	033	1012128	1012223	a	97
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	034	1013280	1013352	r	114
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	035	1011400	1011484	n	110
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	036	1011640	1011743	i	105
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	037	1014264	1014405	n	110
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	038	1013328	1013457	g	103
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	039	1014802	1014874	 	32
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	040	1015059	1015130	a	97
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	041	1013880	1013986	r	114
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	042	1015708	1015841	t	116
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	043	1012578	1012643	i	105
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	044	1013160	1013259	f	102
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	045	1016008	1016151	i	105
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	046	1012905	1013050	c	99
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	047	1017154	1017273	i	105
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	048	1012747	1012867	a	97
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	049	1016880	1016948	l	108
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	050	1014174	1014244	 	32
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	051	1014700	1014802	s	115
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	052	1015344	1015413	c	99
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	053	1015748	1015874	i	105
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	054	1017434	1017548	e	101
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	055	1015398	1015539	n	110
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	056	1015425	1015553	c	99
+011	009	over science fox machine lazy learning artificial science	over science fox machine lazy learning artificial science	057	1018136	1018245	e	101
+011	010	learning world the jumps learning world	learning world the jumps learning world	001	1009000	1009099	l	108
+011	010	learning world the jumps learning world	learning world the jumps learning world	002	1009162	1009266	e	101
+011	010	learning world the jumps learning world	learning world the jumps learning world	003	1009244	1009321	a	97
+011	010	learning world the jumps learning world	learning world the jumps learning world	004	1009372	1009496	r	114
+011	010	learning world the jumps learning world	learning world the jumps learning world	005	1009576	1009632	n	110
+011	010	learning world the jumps learning world	learning world the jumps learning world	006	1009880	1010011	i	105
+011	010	learning world the jumps learning world	learning world the jumps learning world	007	1009912	1009964	n	110
+011	010	learning world the jumps learning world	learning world the jumps learning world	008	1010344	1010469	g	103
+011	010	learning world the jumps learning world	learning world the jumps learning world	009	1010112	1010225	 	32
+011	010	learning world the jumps learning world	learning world the jumps learning world	010	1010773	1010826	w	119
+011	010	learning world the jumps learning world	learning world the jumps learning world	011	1010000	1010125	o	111
+011	010	learning world the jumps learning world	learning world the jumps learning world	012	1011112	1011205	r	114
+011	010	learning world the jumps learning world	learning world the jumps learning world	013	1010500	1010629	l	108
+011	010	learning world the jumps learning world	learning world the jumps learning world	014	1010599	1010680	d	100
+011	010	learning world the jumps learning world	learning world the jumps learning world	015	1010428	1010541	 	32
+011	010	learning world the jumps learning world	learning world the jumps learning world	016	1010965	1011078	t	116
+011	010	learning world the jumps learning world	learning world the jumps learning world	017	1011768	1011900	h	104
+011	010	learning world the jumps learning world	learning world the jumps learning world	018	1012366	1012515	e	101
+011	010	learning world the jumps learning world	learning world the jumps learning world	019	1012366	1012429	 	32
+011	010	learning world the jumps learning world	learning world the jumps learning world	020	1012629	1012699	j	106
+011	010	learning world the jumps learning world	learning world the jumps learning world	021	1012600	1012678	u	117
+011	010	learning world the jumps learning world	learning world the jumps learning world	022	1012591	1012687	m	109
+011	010	learning world the jumps learning world	learning world the jumps learning world	023	1011486	1011598	p	112
+011	010	learning world the jumps learning world	learning world the jumps learning world	024	1013508	1013563	s	115
+011	010	learning world the jumps learning world	learning world the jumps learning world	025	1012552	1012616	 	32
+011	010	learning world the jumps learning world	learning world the jumps learning world	026	1012075	1012168	l	108
+011	010	learning world the jumps learning world	learning world the jumps learning world	027	1013550	1013661	e	101
+011	010	learning world the jumps learning world	learning world the jumps learning world	028	1013779	1013845	a	97
+011	010	learning world the jumps learning world	learning world the jumps learning world	029	1013200	1013316	r	114
+011	010	learning world the jumps learning world	learning world the jumps learning world	030	1012741	1012817	n	110
+011	010	learning world the jumps learning world	learning world the jumps learning world	031	1014790	1014870	i	105
+011	010	learning world the jumps learning world	learning world the jumps learning world	032	1014115	1014257	n	110
+011	010	learning world the jumps learning world	learning world the jumps learning world	033	1012744	1012848	g	103
+011	010	learning world the jumps learning world	learning world the jumps learning world	034	1015006	1015123	 	32
+011	010	learning world the jumps learning world	learning world the jumps learning world	035	1012808	1012872	w	119
+011	010	learning world the jumps learning world	learning world the jumps learning world	036	1014565	1014704	o	111
+011	010	learning world the jumps learning world	learning world the jumps learning world	037	1013716	1013779	r	114
+011	010	learning world the jumps learning world	learning world the jumps learning world	038	1012959	1013012	l	108
+011	010	learning world the jumps learning world	learning world the jumps learning world	039	1015346	1015451	d	100

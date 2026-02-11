@@ -1,0 +1,416 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+030	001	world programming artificial hello world	world programming artificial hello world	001	2900000	2900143	w	119
+030	001	world programming artificial hello world	world programming artificial hello world	002	2900165	2900261	o	111
+030	001	world programming artificial hello world	world programming artificial hello world	003	2900350	2900427	r	114
+030	001	world programming artificial hello world	world programming artificial hello world	004	2900474	2900571	l	108
+030	001	world programming artificial hello world	world programming artificial hello world	005	2900684	2900737	d	100
+030	001	world programming artificial hello world	world programming artificial hello world	006	2900600	2900677	 	32
+030	001	world programming artificial hello world	world programming artificial hello world	007	2900930	2901071	p	112
+030	001	world programming artificial hello world	world programming artificial hello world	008	2901211	2901277	r	114
+030	001	world programming artificial hello world	world programming artificial hello world	009	2901040	2901090	o	111
+030	001	world programming artificial hello world	world programming artificial hello world	010	2901224	2901371	g	103
+030	001	world programming artificial hello world	world programming artificial hello world	011	2901680	2901774	r	114
+030	001	world programming artificial hello world	world programming artificial hello world	012	2901936	2902046	a	97
+030	001	world programming artificial hello world	world programming artificial hello world	013	2901968	2902117	m	109
+030	001	world programming artificial hello world	world programming artificial hello world	014	2901690	2901835	m	109
+030	001	world programming artificial hello world	world programming artificial hello world	015	2901442	2901558	i	105
+030	001	world programming artificial hello world	world programming artificial hello world	016	2902700	2902823	n	110
+030	001	world programming artificial hello world	world programming artificial hello world	017	2902784	2902842	g	103
+030	001	world programming artificial hello world	world programming artificial hello world	018	2902057	2902177	 	32
+030	001	world programming artificial hello world	world programming artificial hello world	019	2902952	2903070	a	97
+030	001	world programming artificial hello world	world programming artificial hello world	020	2902166	2902264	r	114
+030	001	world programming artificial hello world	world programming artificial hello world	021	2902360	2902433	t	116
+030	001	world programming artificial hello world	world programming artificial hello world	022	2902163	2902277	i	105
+030	001	world programming artificial hello world	world programming artificial hello world	023	2902376	2902480	f	102
+030	001	world programming artificial hello world	world programming artificial hello world	024	2903266	2903362	i	105
+030	001	world programming artificial hello world	world programming artificial hello world	025	2902832	2902885	c	99
+030	001	world programming artificial hello world	world programming artificial hello world	026	2904275	2904391	i	105
+030	001	world programming artificial hello world	world programming artificial hello world	027	2904654	2904745	a	97
+030	001	world programming artificial hello world	world programming artificial hello world	028	2904941	2905018	l	108
+030	001	world programming artificial hello world	world programming artificial hello world	029	2903668	2903727	 	32
+030	001	world programming artificial hello world	world programming artificial hello world	030	2903857	2903993	h	104
+030	001	world programming artificial hello world	world programming artificial hello world	031	2904590	2904670	e	101
+030	001	world programming artificial hello world	world programming artificial hello world	032	2905797	2905856	l	108
+030	001	world programming artificial hello world	world programming artificial hello world	033	2905344	2905468	l	108
+030	001	world programming artificial hello world	world programming artificial hello world	034	2904521	2904618	o	111
+030	001	world programming artificial hello world	world programming artificial hello world	035	2904624	2904752	 	32
+030	001	world programming artificial hello world	world programming artificial hello world	036	2906790	2906923	w	119
+030	001	world programming artificial hello world	world programming artificial hello world	037	2904752	2904808	o	111
+030	001	world programming artificial hello world	world programming artificial hello world	038	2906438	2906562	r	114
+030	001	world programming artificial hello world	world programming artificial hello world	039	2907372	2907477	l	108
+030	001	world programming artificial hello world	world programming artificial hello world	040	2906591	2906709	d	100
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	001	2901000	2901068	s	115
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	002	2901119	2901184	c	99
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	003	2901322	2901461	i	105
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	004	2901594	2901655	e	101
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	005	2901496	2901590	n	110
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	006	2901755	2901824	c	99
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	007	2901936	2902016	e	101
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	008	2901819	2901948	 	32
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	009	2902056	2902153	l	108
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	010	2901945	2902020	e	101
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	011	2902690	2902757	a	97
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	012	2902485	2902566	r	114
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	013	2902632	2902770	n	110
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	014	2903548	2903615	i	105
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	015	2902624	2902771	n	110
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	016	2902830	2902920	g	103
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	017	2903304	2903386	 	32
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	018	2903873	2903971	d	100
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	019	2903196	2903277	o	111
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	020	2903166	2903311	g	103
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	021	2904380	2904467	 	32
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	022	2904549	2904651	p	112
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	023	2905334	2905482	y	121
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	024	2903576	2903691	t	116
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	025	2903712	2903835	h	104
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	026	2904200	2904275	o	111
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	027	2905940	2906043	n	110
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	028	2903700	2903778	 	32
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	029	2904332	2904406	o	111
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	030	2905785	2905931	v	118
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	031	2906880	2906977	e	101
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	032	2906766	2906913	r	114
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	033	2905416	2905537	 	32
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	034	2905290	2905410	h	104
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	035	2904434	2904521	e	101
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	036	2906040	2906099	l	108
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	037	2906400	2906483	l	108
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	038	2905366	2905480	o	111
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	039	2906472	2906562	 	32
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	040	2907240	2907335	j	106
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	041	2907160	2907275	u	117
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	042	2909159	2909273	m	109
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	043	2905242	2905304	p	112
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	044	2908654	2908772	s	115
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	045	2906984	2907071	 	32
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	046	2908740	2908819	f	102
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	047	2908452	2908568	o	111
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	048	2908144	2908284	x	120
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	049	2908248	2908354	 	32
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	050	2907811	2907870	t	116
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	051	2909600	2909696	h	104
+030	002	science learning dog python over hello jumps fox the	science learning dog python over hello jumps fox the	052	2909619	2909680	e	101
+030	003	data quick science hello brown	data quick science hello brown	001	2902000	2902106	d	100
+030	003	data quick science hello brown	data quick science hello brown	002	2902107	2902216	a	97
+030	003	data quick science hello brown	data quick science hello brown	003	2902220	2902324	t	116
+030	003	data quick science hello brown	data quick science hello brown	004	2902318	2902394	a	97
+030	003	data quick science hello brown	data quick science hello brown	005	2902544	2902645	 	32
+030	003	data quick science hello brown	data quick science hello brown	006	2902710	2902846	q	113
+030	003	data quick science hello brown	data quick science hello brown	007	2903080	2903144	u	117
+030	003	data quick science hello brown	data quick science hello brown	008	2903001	2903116	i	105
+030	003	data quick science hello brown	data quick science hello brown	009	2903576	2903704	c	99
+030	003	data quick science hello brown	data quick science hello brown	010	2903080	2903201	k	107
+030	003	data quick science hello brown	data quick science hello brown	011	2903450	2903545	 	32
+030	003	data quick science hello brown	data quick science hello brown	012	2904068	2904157	s	115
+030	003	data quick science hello brown	data quick science hello brown	013	2904388	2904443	c	99
+030	003	data quick science hello brown	data quick science hello brown	014	2904444	2904571	i	105
+030	003	data quick science hello brown	data quick science hello brown	015	2904310	2904362	e	101
+030	003	data quick science hello brown	data quick science hello brown	016	2904670	2904766	n	110
+030	003	data quick science hello brown	data quick science hello brown	017	2903888	2904021	c	99
+030	003	data quick science hello brown	data quick science hello brown	018	2903955	2904071	e	101
+030	003	data quick science hello brown	data quick science hello brown	019	2903818	2903964	 	32
+030	003	data quick science hello brown	data quick science hello brown	020	2904812	2904889	h	104
+030	003	data quick science hello brown	data quick science hello brown	021	2904880	2904958	e	101
+030	003	data quick science hello brown	data quick science hello brown	022	2905906	2905996	l	108
+030	003	data quick science hello brown	data quick science hello brown	023	2906356	2906470	l	108
+030	003	data quick science hello brown	data quick science hello brown	024	2906048	2906187	o	111
+030	003	data quick science hello brown	data quick science hello brown	025	2906704	2906781	 	32
+030	003	data quick science hello brown	data quick science hello brown	026	2904650	2904791	b	98
+030	003	data quick science hello brown	data quick science hello brown	027	2906030	2906108	r	114
+030	003	data quick science hello brown	data quick science hello brown	028	2907184	2907239	o	111
+030	003	data quick science hello brown	data quick science hello brown	029	2907236	2907357	w	119
+030	003	data quick science hello brown	data quick science hello brown	030	2907104	2907154	n	110
+030	004	jumps science data python science	jumps science data python science	001	2903000	2903131	j	106
+030	004	jumps science data python science	jumps science data python science	002	2903139	2903258	u	117
+030	004	jumps science data python science	jumps science data python science	003	2903218	2903298	m	109
+030	004	jumps science data python science	jumps science data python science	004	2903345	2903480	p	112
+030	004	jumps science data python science	jumps science data python science	005	2903480	2903576	s	115
+030	004	jumps science data python science	jumps science data python science	006	2903550	2903642	 	32
+030	004	jumps science data python science	jumps science data python science	007	2903852	2903920	s	115
+030	004	jumps science data python science	jumps science data python science	008	2903938	2904038	c	99
+030	004	jumps science data python science	jumps science data python science	009	2904352	2904494	i	105
+030	004	jumps science data python science	jumps science data python science	010	2904161	2904284	e	101
+030	004	jumps science data python science	jumps science data python science	011	2904380	2904483	n	110
+030	004	jumps science data python science	jumps science data python science	012	2904815	2904928	c	99
+030	004	jumps science data python science	jumps science data python science	013	2904944	2905005	e	101
+030	004	jumps science data python science	jumps science data python science	014	2905444	2905506	 	32
+030	004	jumps science data python science	jumps science data python science	015	2905492	2905559	d	100
+030	004	jumps science data python science	jumps science data python science	016	2904890	2904988	a	97
+030	004	jumps science data python science	jumps science data python science	017	2905832	2905917	t	116
+030	004	jumps science data python science	jumps science data python science	018	2904819	2904959	a	97
+030	004	jumps science data python science	jumps science data python science	019	2904998	2905140	 	32
+030	004	jumps science data python science	jumps science data python science	020	2905698	2905841	p	112
+030	004	jumps science data python science	jumps science data python science	021	2906300	2906443	y	121
+030	004	jumps science data python science	jumps science data python science	022	2906045	2906136	t	116
+030	004	jumps science data python science	jumps science data python science	023	2905244	2905349	h	104
+030	004	jumps science data python science	jumps science data python science	024	2907301	2907437	o	111
+030	004	jumps science data python science	jumps science data python science	025	2907656	2907769	n	110
+030	004	jumps science data python science	jumps science data python science	026	2905650	2905732	 	32
+030	004	jumps science data python science	jumps science data python science	027	2906796	2906880	s	115
+030	004	jumps science data python science	jumps science data python science	028	2908022	2908087	c	99
+030	004	jumps science data python science	jumps science data python science	029	2906136	2906229	i	105
+030	004	jumps science data python science	jumps science data python science	030	2907205	2907329	e	101
+030	004	jumps science data python science	jumps science data python science	031	2906060	2906167	n	110
+030	004	jumps science data python science	jumps science data python science	032	2907991	2908047	c	99
+030	004	jumps science data python science	jumps science data python science	033	2907672	2907744	e	101
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	001	2904000	2904093	m	109
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	002	2904168	2904317	a	97
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	003	2904220	2904328	c	99
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	004	2904300	2904392	h	104
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	005	2904616	2904683	i	105
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	006	2904680	2904774	n	110
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	007	2905050	2905164	e	101
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	008	2904875	2905022	 	32
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	009	2905000	2905087	a	97
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	010	2905278	2905331	r	114
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	011	2905380	2905457	t	116
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	012	2905452	2905535	i	105
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	013	2906196	2906286	f	102
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	014	2906002	2906054	i	105
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	015	2905568	2905647	c	99
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	016	2906655	2906787	i	105
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	017	2906080	2906184	a	97
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	018	2906890	2907025	l	108
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	019	2906304	2906425	 	32
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	020	2906128	2906217	f	102
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	021	2907460	2907535	o	111
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	022	2906394	2906532	x	120
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	023	2906640	2906703	 	32
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	024	2907036	2907174	l	108
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	025	2907696	2907802	e	101
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	026	2907800	2907928	a	97
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	027	2907458	2907597	r	114
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	028	2908293	2908421	n	110
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	029	2907164	2907250	i	105
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	030	2908930	2909052	n	110
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	031	2909040	2909111	g	103
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	032	2909890	2909944	 	32
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	033	2909184	2909271	d	100
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	034	2908422	2908507	o	111
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	035	2909882	2909995	g	103
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	036	2909460	2909581	 	32
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	037	2908464	2908560	t	116
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	038	2909476	2909612	h	104
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	039	2911448	2911507	e	101
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	040	2909382	2909505	 	32
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	041	2911600	2911665	t	116
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	042	2910232	2910377	h	104
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	043	2909334	2909405	e	101
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	044	2910751	2910862	 	32
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	045	2911172	2911302	m	109
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	046	2912910	2913037	a	97
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	047	2909244	2909306	c	99
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	048	2909640	2909746	h	104
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	049	2913504	2913634	i	105
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	050	2910664	2910715	n	110
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	051	2913400	2913450	e	101
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	052	2909967	2910021	 	32
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	053	2913412	2913557	s	115
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	054	2913434	2913496	c	99
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	055	2910318	2910458	i	105
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	056	2914285	2914379	e	101
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	057	2910608	2910708	n	110
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	058	2911752	2911824	c	99
+030	005	machine artificial fox learning dog the the machine science	machine artificial fox learning dog the the machine science	059	2914846	2914919	e	101
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	001	2905000	2905054	m	109
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	002	2905111	2905229	a	97
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	003	2905234	2905316	c	99
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	004	2905351	2905472	h	104
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	005	2905692	2905754	i	105
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	006	2905895	2905972	n	110
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	007	2905936	2906053	e	101
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	008	2906337	2906483	 	32
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	009	2906424	2906497	p	112
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	010	2906791	2906891	y	121
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	011	2906240	2906320	t	116
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	012	2907145	2907205	h	104
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	013	2906212	2906290	o	111
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	014	2907444	2907511	n	110
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	015	2906764	2906858	 	32
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	016	2906695	2906816	l	108
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	017	2908008	2908078	a	97
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	018	2906921	2907049	z	122
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	019	2907394	2907463	y	121
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	020	2908420	2908526	 	32
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	021	2908440	2908587	j	106
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	022	2908192	2908329	u	117
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	023	2909312	2909369	m	109
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	024	2908772	2908880	p	112
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	025	2908384	2908485	s	115
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	026	2908600	2908676	 	32
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	027	2908926	2909070	t	116
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	028	2909212	2909317	h	104
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	029	2908948	2909084	e	101
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	030	2908480	2908603	 	32
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	031	2909500	2909593	h	104
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	032	2910456	2910540	e	101
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	033	2909416	2909490	l	108
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	034	2908531	2908621	l	108
+030	006	machine python lazy jumps the hello	machine python lazy jumps the hello	035	2909930	2910006	o	111
+030	007	science dog world dog learning	science dog world dog learning	001	2906000	2906060	s	115
+030	007	science dog world dog learning	science dog world dog learning	002	2906169	2906241	c	99
+030	007	science dog world dog learning	science dog world dog learning	003	2906234	2906333	i	105
+030	007	science dog world dog learning	science dog world dog learning	004	2906591	2906731	e	101
+030	007	science dog world dog learning	science dog world dog learning	005	2906644	2906738	n	110
+030	007	science dog world dog learning	science dog world dog learning	006	2906755	2906882	c	99
+030	007	science dog world dog learning	science dog world dog learning	007	2906834	2906953	e	101
+030	007	science dog world dog learning	science dog world dog learning	008	2906721	2906842	 	32
+030	007	science dog world dog learning	science dog world dog learning	009	2906944	2907063	d	100
+030	007	science dog world dog learning	science dog world dog learning	010	2907404	2907475	o	111
+030	007	science dog world dog learning	science dog world dog learning	011	2907190	2907328	g	103
+030	007	science dog world dog learning	science dog world dog learning	012	2908178	2908327	 	32
+030	007	science dog world dog learning	science dog world dog learning	013	2907980	2908053	w	119
+030	007	science dog world dog learning	science dog world dog learning	014	2908496	2908620	o	111
+030	007	science dog world dog learning	science dog world dog learning	015	2908786	2908921	r	114
+030	007	science dog world dog learning	science dog world dog learning	016	2908610	2908703	l	108
+030	007	science dog world dog learning	science dog world dog learning	017	2908800	2908904	d	100
+030	007	science dog world dog learning	science dog world dog learning	018	2907768	2907867	 	32
+030	007	science dog world dog learning	science dog world dog learning	019	2908250	2908358	d	100
+030	007	science dog world dog learning	science dog world dog learning	020	2909287	2909365	o	111
+030	007	science dog world dog learning	science dog world dog learning	021	2909800	2909928	g	103
+030	007	science dog world dog learning	science dog world dog learning	022	2909948	2910014	 	32
+030	007	science dog world dog learning	science dog world dog learning	023	2908442	2908535	l	108
+030	007	science dog world dog learning	science dog world dog learning	024	2909059	2909137	e	101
+030	007	science dog world dog learning	science dog world dog learning	025	2908856	2908947	a	97
+030	007	science dog world dog learning	science dog world dog learning	026	2909200	2909325	r	114
+030	007	science dog world dog learning	science dog world dog learning	027	2909770	2909912	n	110
+030	007	science dog world dog learning	science dog world dog learning	028	2910563	2910687	i	105
+030	007	science dog world dog learning	science dog world dog learning	029	2908940	2909033	n	110
+030	007	science dog world dog learning	science dog world dog learning	030	2910147	2910273	g	103
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	001	2907000	2907087	m	109
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	002	2907100	2907190	a	97
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	003	2907284	2907393	c	99
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	004	2907474	2907610	h	104
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	005	2907420	2907531	i	105
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	006	2907910	2908031	n	110
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	007	2907756	2907881	e	101
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	008	2908225	2908320	 	32
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	009	2908232	2908304	o	111
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	010	2908422	2908528	v	118
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	011	2908550	2908684	e	101
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	012	2908243	2908330	r	114
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	013	2908812	2908872	 	32
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	014	2908495	2908598	q	113
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	015	2909128	2909194	u	117
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	016	2909655	2909708	i	105
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	017	2909224	2909320	c	99
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	018	2909822	2909956	k	107
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	019	2909304	2909408	 	32
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	020	2910724	2910859	m	109
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	021	2909740	2909834	a	97
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	022	2909688	2909760	c	99
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	023	2910036	2910161	h	104
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	024	2910082	2910206	i	105
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	025	2911440	2911576	n	110
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	026	2911175	2911274	e	101
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	027	2911160	2911210	 	32
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	028	2910456	2910548	s	115
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	029	2910640	2910733	c	99
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	030	2911553	2911627	i	105
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	031	2912760	2912899	e	101
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	032	2912983	2913060	n	110
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	033	2911608	2911736	c	99
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	034	2913435	2913523	e	101
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	035	2912032	2912169	 	32
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	036	2910640	2910757	w	119
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	037	2914020	2914110	o	111
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	038	2911995	2912128	r	114
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	039	2911370	2911471	l	108
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	040	2913162	2913231	d	100
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	041	2913160	2913220	 	32
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	042	2911346	2911441	l	108
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	043	2912418	2912481	e	101
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	044	2913751	2913873	a	97
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	045	2915624	2915725	r	114
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	046	2911545	2911663	n	110
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	047	2912014	2912076	i	105
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	048	2913956	2914045	n	110
+030	008	machine over quick machine science world learning	machine over quick machine science world learning	049	2913576	2913725	g	103
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	001	2908000	2908130	q	113
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	002	2908157	2908263	u	117
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	003	2908270	2908404	i	105
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	004	2908504	2908628	c	99
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	005	2908484	2908545	k	107
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	006	2908795	2908907	 	32
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	007	2909182	2909256	p	112
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	008	2908756	2908828	y	121
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	009	2908960	2909065	t	116
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	010	2909386	2909467	h	104
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	011	2909160	2909239	o	111
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	012	2909815	2909889	n	110
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	013	2909704	2909815	 	32
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	014	2910444	2910538	j	106
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	015	2909708	2909805	u	117
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	016	2909815	2909917	m	109
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	017	2910528	2910638	p	112
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	018	2910550	2910619	s	115
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	019	2910232	2910307	 	32
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	020	2910717	2910826	t	116
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	021	2911820	2911877	h	104
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	022	2912074	2912126	e	101
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	023	2911212	2911268	 	32
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	024	2911910	2912005	t	116
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	025	2910712	2910806	h	104
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	026	2912500	2912607	e	101
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	027	2910834	2910897	 	32
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	028	2913238	2913351	d	100
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	029	2910856	2910921	o	111
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	030	2912930	2913067	g	103
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	031	2911120	2911254	 	32
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	032	2912650	2912706	s	115
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	033	2913856	2913906	c	99
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	034	2913313	2913432	i	105
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	035	2912046	2912158	e	101
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	036	2912375	2912510	n	110
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	037	2913292	2913393	c	99
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	038	2913735	2913789	e	101
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	039	2915182	2915304	 	32
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	040	2912836	2912936	d	100
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	041	2915640	2915719	o	111
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	042	2913699	2913773	g	103
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	043	2913670	2913739	 	32
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	044	2912816	2912923	a	97
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	045	2914204	2914313	r	114
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	046	2913265	2913404	t	116
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	047	2916464	2916535	i	105
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	048	2914956	2915034	f	102
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	049	2914768	2914887	i	105
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	050	2915791	2915883	c	99
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	051	2915600	2915689	i	105
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	052	2913100	2913178	a	97
+030	009	quick python jumps the the dog science dog artificial	quick python jumps the the dog science dog artificial	053	2914240	2914351	l	108
+030	010	the python programming world hello	the python programming world hello	001	2909000	2909107	t	116
+030	010	the python programming world hello	the python programming world hello	002	2909178	2909263	h	104
+030	010	the python programming world hello	the python programming world hello	003	2909344	2909400	e	101
+030	010	the python programming world hello	the python programming world hello	004	2909303	2909368	 	32
+030	010	the python programming world hello	the python programming world hello	005	2909444	2909513	p	112
+030	010	the python programming world hello	the python programming world hello	006	2909910	2909994	y	121
+030	010	the python programming world hello	the python programming world hello	007	2909984	2910065	t	116
+030	010	the python programming world hello	the python programming world hello	008	2910316	2910382	h	104
+030	010	the python programming world hello	the python programming world hello	009	2910184	2910252	o	111
+030	010	the python programming world hello	the python programming world hello	010	2909963	2910030	n	110
+030	010	the python programming world hello	the python programming world hello	011	2910410	2910512	 	32
+030	010	the python programming world hello	the python programming world hello	012	2910463	2910558	p	112
+030	010	the python programming world hello	the python programming world hello	013	2910860	2910991	r	114
+030	010	the python programming world hello	the python programming world hello	014	2911470	2911527	o	111
+030	010	the python programming world hello	the python programming world hello	015	2911716	2911806	g	103
+030	010	the python programming world hello	the python programming world hello	016	2911175	2911296	r	114
+030	010	the python programming world hello	the python programming world hello	017	2911560	2911616	a	97
+030	010	the python programming world hello	the python programming world hello	018	2911346	2911471	m	109
+030	010	the python programming world hello	the python programming world hello	019	2911736	2911864	m	109
+030	010	the python programming world hello	the python programming world hello	020	2911869	2911979	i	105
+030	010	the python programming world hello	the python programming world hello	021	2911600	2911688	n	110
+030	010	the python programming world hello	the python programming world hello	022	2912591	2912717	g	103
+030	010	the python programming world hello	the python programming world hello	023	2912982	2913039	 	32
+030	010	the python programming world hello	the python programming world hello	024	2911852	2911960	w	119
+030	010	the python programming world hello	the python programming world hello	025	2912936	2912990	o	111
+030	010	the python programming world hello	the python programming world hello	026	2913650	2913718	r	114
+030	010	the python programming world hello	the python programming world hello	027	2911886	2912011	l	108
+030	010	the python programming world hello	the python programming world hello	028	2913185	2913317	d	100
+030	010	the python programming world hello	the python programming world hello	029	2912584	2912704	 	32
+030	010	the python programming world hello	the python programming world hello	030	2914597	2914668	h	104
+030	010	the python programming world hello	the python programming world hello	031	2914520	2914622	e	101
+030	010	the python programming world hello	the python programming world hello	032	2913278	2913354	l	108
+030	010	the python programming world hello	the python programming world hello	033	2915208	2915293	l	108
+030	010	the python programming world hello	the python programming world hello	034	2914808	2914912	o	111

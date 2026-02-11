@@ -1,0 +1,527 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	001	1500000	1500112	l	108
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	002	1500182	1500285	e	101
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	003	1500276	1500410	a	97
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	004	1500522	1500588	r	114
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	005	1500784	1500871	n	110
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	006	1500725	1500827	i	105
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	007	1501146	1501285	n	110
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	008	1500749	1500826	g	103
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	009	1501200	1501253	 	32
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	010	1501773	1501875	t	116
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	011	1501110	1501242	h	104
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	012	1501914	1502051	e	101
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	013	1501548	1501603	 	32
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	014	1501300	1501394	d	100
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	015	1502506	1502617	a	97
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	016	1502340	1502411	t	116
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	017	1501776	1501841	a	97
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	018	1502397	1502507	 	32
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	019	1502988	1503102	i	105
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	020	1502888	1502989	n	110
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	021	1502960	1503059	t	116
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	022	1502331	1502395	e	101
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	023	1502882	1502978	l	108
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	024	1502714	1502795	l	108
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	025	1503120	1503244	i	105
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	026	1502900	1502967	g	103
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	027	1503822	1503949	e	101
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	028	1504563	1504697	n	110
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	029	1504872	1504951	c	99
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	030	1504988	1505062	e	101
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	031	1503750	1503820	 	32
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	032	1504185	1504270	m	109
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	033	1504832	1504905	a	97
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	034	1503498	1503632	c	99
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	035	1506154	1506205	h	104
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	036	1504060	1504132	i	105
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	037	1505292	1505345	n	110
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	038	1506327	1506407	e	101
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	039	1505662	1505801	 	32
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	040	1504134	1504269	s	115
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	041	1506840	1506929	c	99
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	042	1507093	1507215	i	105
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	043	1507896	1508026	e	101
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	044	1508127	1508263	n	110
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	045	1505544	1505594	c	99
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	046	1507470	1507619	e	101
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	047	1505014	1505134	 	32
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	048	1509259	1509346	j	106
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	049	1509504	1509581	u	117
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	050	1508036	1508095	m	109
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	051	1509800	1509888	p	112
+016	001	learning the data intelligence machine science jumps	learning the data intelligence machine science jumps	052	1508211	1508319	s	115
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	001	1501000	1501093	i	105
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	002	1501171	1501260	n	110
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	003	1501224	1501313	t	116
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	004	1501564	1501627	e	101
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	005	1501648	1501783	l	108
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	006	1501720	1501852	l	108
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	007	1501930	1501982	i	105
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	008	1502379	1502450	g	103
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	009	1502336	1502449	e	101
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	010	1502152	1502209	n	110
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	011	1502110	1502219	c	99
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	012	1502881	1502995	e	101
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	013	1503268	1503383	 	32
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	014	1502716	1502821	q	113
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	015	1503688	1503793	u	117
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	016	1502605	1502662	i	105
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	017	1503320	1503448	c	99
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	018	1504111	1504239	k	107
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	019	1503826	1503932	 	32
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	020	1503641	1503783	m	109
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	021	1504700	1504775	a	97
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	022	1505158	1505242	c	99
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	023	1505158	1505235	h	104
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	024	1504841	1504977	i	105
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	025	1504672	1504815	n	110
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	026	1505900	1505963	e	101
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	027	1504874	1504946	 	32
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	028	1504294	1504380	p	112
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	029	1504612	1504755	r	114
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	030	1504538	1504685	o	111
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	031	1506760	1506855	g	103
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	032	1506704	1506770	r	114
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	033	1504360	1504505	a	97
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	034	1504795	1504884	m	109
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	035	1505964	1506044	m	109
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	036	1506880	1506984	i	105
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	037	1506328	1506417	n	110
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	038	1506143	1506283	g	103
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	039	1507574	1507661	 	32
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	040	1505095	1505206	p	112
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	041	1507480	1507570	r	114
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	042	1506945	1507011	o	111
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	043	1508602	1508694	g	103
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	044	1509299	1509413	r	114
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	045	1508436	1508585	a	97
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	046	1508515	1508587	m	109
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	047	1507210	1507272	m	109
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	048	1508849	1508938	i	105
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	049	1509160	1509304	n	110
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	050	1509526	1509617	g	103
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	051	1506000	1506128	 	32
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	052	1506610	1506719	w	119
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	053	1507084	1507231	o	111
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	054	1508102	1508202	r	114
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	055	1507156	1507231	l	108
+016	002	intelligence quick machine programming programming world	intelligence quick machine programming programming world	056	1508315	1508390	d	100
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	001	1502000	1502107	a	97
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	002	1502158	1502274	r	114
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	003	1502334	1502393	t	116
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	004	1502426	1502535	i	105
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	005	1502528	1502665	f	102
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	006	1502770	1502889	i	105
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	007	1502990	1503119	c	99
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	008	1503078	1503159	i	105
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	009	1503200	1503280	a	97
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	010	1503530	1503625	l	108
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	011	1503070	1503154	 	32
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	012	1504013	1504125	b	98
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	013	1503728	1503865	r	114
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	014	1504535	1504663	o	111
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	015	1504506	1504576	w	119
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	016	1504925	1505070	n	110
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	017	1504592	1504649	 	32
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	018	1504533	1504598	d	100
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	019	1504646	1504771	o	111
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	020	1504280	1504381	g	103
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	021	1505680	1505821	 	32
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	022	1505360	1505419	h	104
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	023	1506180	1506254	e	101
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	024	1505726	1505869	l	108
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	025	1506512	1506646	l	108
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	026	1505075	1505191	o	111
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	027	1505042	1505128	 	32
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	028	1505132	1505216	d	100
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	029	1506676	1506726	a	97
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	030	1505567	1505702	t	116
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	031	1505750	1505841	a	97
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	032	1505844	1505945	 	32
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	033	1508048	1508107	m	109
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	034	1506554	1506664	a	97
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	035	1508392	1508448	c	99
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	036	1505675	1505803	h	104
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	037	1508840	1508955	i	105
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	038	1507883	1507990	n	110
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	039	1507396	1507539	e	101
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	040	1506446	1506576	 	32
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	041	1506280	1506391	b	98
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	042	1509380	1509510	r	114
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	043	1508720	1508865	o	111
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	044	1507461	1507610	w	119
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	045	1508688	1508828	n	110
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	046	1508975	1509035	 	32
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	047	1509636	1509761	o	111
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	048	1506747	1506845	v	118
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	049	1507952	1508092	e	101
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	050	1511065	1511163	r	114
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	051	1510450	1510566	 	32
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	052	1508477	1508569	p	112
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	053	1511152	1511298	r	114
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	054	1511116	1511215	o	111
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	055	1507832	1507896	g	103
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	056	1511570	1511665	r	114
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	057	1509504	1509616	a	97
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	058	1512431	1512547	m	109
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	059	1509772	1509914	m	109
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	060	1508431	1508554	i	105
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	061	1511540	1511632	n	110
+016	003	artificial brown dog hello data machine brown over programming	artificial brown dog hello data machine brown over programming	062	1508466	1508569	g	103
+016	004	the science science brown programming data	the science science brown programming data	001	1503000	1503061	t	116
+016	004	the science science brown programming data	the science science brown programming data	002	1503105	1503207	h	104
+016	004	the science science brown programming data	the science science brown programming data	003	1503260	1503381	e	101
+016	004	the science science brown programming data	the science science brown programming data	004	1503582	1503663	 	32
+016	004	the science science brown programming data	the science science brown programming data	005	1503636	1503753	s	115
+016	004	the science science brown programming data	the science science brown programming data	006	1503665	1503731	c	99
+016	004	the science science brown programming data	the science science brown programming data	007	1504110	1504257	i	105
+016	004	the science science brown programming data	the science science brown programming data	008	1504218	1504309	e	101
+016	004	the science science brown programming data	the science science brown programming data	009	1504224	1504326	n	110
+016	004	the science science brown programming data	the science science brown programming data	010	1504566	1504715	c	99
+016	004	the science science brown programming data	the science science brown programming data	011	1504840	1504975	e	101
+016	004	the science science brown programming data	the science science brown programming data	012	1504331	1504434	 	32
+016	004	the science science brown programming data	the science science brown programming data	013	1504764	1504831	s	115
+016	004	the science science brown programming data	the science science brown programming data	014	1505470	1505617	c	99
+016	004	the science science brown programming data	the science science brown programming data	015	1504722	1504790	i	105
+016	004	the science science brown programming data	the science science brown programming data	016	1504500	1504609	e	101
+016	004	the science science brown programming data	the science science brown programming data	017	1504680	1504783	n	110
+016	004	the science science brown programming data	the science science brown programming data	018	1506111	1506244	c	99
+016	004	the science science brown programming data	the science science brown programming data	019	1505088	1505146	e	101
+016	004	the science science brown programming data	the science science brown programming data	020	1506515	1506629	 	32
+016	004	the science science brown programming data	the science science brown programming data	021	1505640	1505730	b	98
+016	004	the science science brown programming data	the science science brown programming data	022	1506297	1506353	r	114
+016	004	the science science brown programming data	the science science brown programming data	023	1506608	1506752	o	111
+016	004	the science science brown programming data	the science science brown programming data	024	1505783	1505838	w	119
+016	004	the science science brown programming data	the science science brown programming data	025	1507152	1507237	n	110
+016	004	the science science brown programming data	the science science brown programming data	026	1507275	1507366	 	32
+016	004	the science science brown programming data	the science science brown programming data	027	1507420	1507532	p	112
+016	004	the science science brown programming data	the science science brown programming data	028	1507698	1507772	r	114
+016	004	the science science brown programming data	the science science brown programming data	029	1506500	1506624	o	111
+016	004	the science science brown programming data	the science science brown programming data	030	1508394	1508512	g	103
+016	004	the science science brown programming data	the science science brown programming data	031	1507620	1507677	r	114
+016	004	the science science brown programming data	the science science brown programming data	032	1508518	1508634	a	97
+016	004	the science science brown programming data	the science science brown programming data	033	1507768	1507839	m	109
+016	004	the science science brown programming data	the science science brown programming data	034	1509270	1509338	m	109
+016	004	the science science brown programming data	the science science brown programming data	035	1508440	1508533	i	105
+016	004	the science science brown programming data	the science science brown programming data	036	1507550	1507613	n	110
+016	004	the science science brown programming data	the science science brown programming data	037	1508328	1508455	g	103
+016	004	the science science brown programming data	the science science brown programming data	038	1509882	1509974	 	32
+016	004	the science science brown programming data	the science science brown programming data	039	1507446	1507593	d	100
+016	004	the science science brown programming data	the science science brown programming data	040	1507680	1507802	a	97
+016	004	the science science brown programming data	the science science brown programming data	041	1510640	1510785	t	116
+016	004	the science science brown programming data	the science science brown programming data	042	1509683	1509793	a	97
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	001	1504000	1504066	i	105
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	002	1504153	1504256	n	110
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	003	1504290	1504377	t	116
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	004	1504384	1504494	e	101
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	005	1504668	1504736	l	108
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	006	1504605	1504667	l	108
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	007	1504990	1505085	i	105
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	008	1504868	1504933	g	103
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	009	1505016	1505080	e	101
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	010	1504990	1505139	n	110
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	011	1505800	1505874	c	99
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	012	1505463	1505603	e	101
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	013	1506292	1506380	 	32
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	014	1506314	1506462	s	115
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	015	1505400	1505493	c	99
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	016	1506595	1506694	i	105
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	017	1506304	1506369	e	101
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	018	1507094	1507221	n	110
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	019	1507168	1507280	c	99
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	020	1506508	1506616	e	101
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	021	1506880	1507029	 	32
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	022	1507948	1508031	j	106
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	023	1506904	1507004	u	117
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	024	1506898	1507045	m	109
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	025	1507096	1507240	p	112
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	026	1507250	1507350	s	115
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	027	1508004	1508072	 	32
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	028	1507321	1507384	q	113
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	029	1509488	1509586	u	117
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	030	1509075	1509139	i	105
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	031	1509550	1509664	c	99
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	032	1509518	1509575	k	107
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	033	1508448	1508528	 	32
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	034	1507300	1507406	q	113
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	035	1507604	1507656	u	117
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	036	1509110	1509187	i	105
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	037	1509868	1509999	c	99
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	038	1508107	1508238	k	107
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	039	1508940	1509062	 	32
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	040	1509616	1509736	d	100
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	041	1510800	1510895	o	111
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	042	1510970	1511104	g	103
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	043	1509166	1509283	 	32
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	044	1509977	1510085	w	119
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	045	1511700	1511818	o	111
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	046	1508905	1509003	r	114
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	047	1509704	1509842	l	108
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	048	1512272	1512345	d	100
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	049	1513312	1513439	 	32
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	050	1513163	1513291	w	119
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	051	1510600	1510728	o	111
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	052	1514149	1514236	r	114
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	053	1511332	1511397	l	108
+016	005	intelligence science jumps quick quick dog world world	intelligence science jumps quick quick dog world world	054	1509300	1509355	d	100
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	001	1505000	1505089	w	119
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	002	1505188	1505264	o	111
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	003	1505380	1505485	r	114
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	004	1505306	1505431	l	108
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	005	1505676	1505772	d	100
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	006	1505530	1505602	 	32
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	007	1506158	1506293	f	102
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	008	1505875	1506016	o	111
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	009	1506008	1506069	x	120
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	010	1506188	1506305	 	32
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	011	1506260	1506336	p	112
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	012	1506914	1507045	r	114
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	013	1506488	1506554	o	111
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	014	1507392	1507492	g	103
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	015	1507716	1507838	r	114
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	016	1507790	1507931	a	97
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	017	1507256	1507320	m	109
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	018	1507091	1507152	m	109
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	019	1506926	1507061	i	105
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	020	1507717	1507841	n	110
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	021	1507440	1507546	g	103
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	022	1507184	1507248	 	32
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	023	1509290	1509383	d	100
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	024	1508772	1508910	a	97
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	025	1509560	1509658	t	116
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	026	1508975	1509068	a	97
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	027	1508510	1508635	 	32
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	028	1507970	1508044	a	97
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	029	1510572	1510645	r	114
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	030	1508016	1508078	t	116
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	031	1508540	1508632	i	105
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	032	1509619	1509669	f	102
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	033	1509416	1509489	i	105
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	034	1509191	1509254	c	99
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	035	1509794	1509853	i	105
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	036	1509515	1509592	a	97
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	037	1512164	1512246	l	108
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	038	1511253	1511321	 	32
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	039	1509902	1509979	o	111
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	040	1509875	1509931	v	118
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	041	1511160	1511272	e	101
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	042	1510863	1510976	r	114
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	043	1513022	1513094	 	32
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	044	1513084	1513207	p	112
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	045	1511160	1511243	y	121
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	046	1513730	1513840	t	116
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	047	1511578	1511662	h	104
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	048	1513695	1513772	o	111
+016	006	world fox programming data artificial over python	world fox programming data artificial over python	049	1514264	1514328	n	110
+016	007	artificial fox over data programming	artificial fox over data programming	001	1506000	1506067	a	97
+016	007	artificial fox over data programming	artificial fox over data programming	002	1506117	1506265	r	114
+016	007	artificial fox over data programming	artificial fox over data programming	003	1506288	1506352	t	116
+016	007	artificial fox over data programming	artificial fox over data programming	004	1506309	1506370	i	105
+016	007	artificial fox over data programming	artificial fox over data programming	005	1506740	1506881	f	102
+016	007	artificial fox over data programming	artificial fox over data programming	006	1506715	1506844	i	105
+016	007	artificial fox over data programming	artificial fox over data programming	007	1507116	1507182	c	99
+016	007	artificial fox over data programming	artificial fox over data programming	008	1506896	1507030	i	105
+016	007	artificial fox over data programming	artificial fox over data programming	009	1506832	1506973	a	97
+016	007	artificial fox over data programming	artificial fox over data programming	010	1507188	1507243	l	108
+016	007	artificial fox over data programming	artificial fox over data programming	011	1507580	1507640	 	32
+016	007	artificial fox over data programming	artificial fox over data programming	012	1507716	1507802	f	102
+016	007	artificial fox over data programming	artificial fox over data programming	013	1508376	1508464	o	111
+016	007	artificial fox over data programming	artificial fox over data programming	014	1507846	1507924	x	120
+016	007	artificial fox over data programming	artificial fox over data programming	015	1508002	1508072	 	32
+016	007	artificial fox over data programming	artificial fox over data programming	016	1508445	1508513	o	111
+016	007	artificial fox over data programming	artificial fox over data programming	017	1509120	1509233	v	118
+016	007	artificial fox over data programming	artificial fox over data programming	018	1508142	1508255	e	101
+016	007	artificial fox over data programming	artificial fox over data programming	019	1508790	1508880	r	114
+016	007	artificial fox over data programming	artificial fox over data programming	020	1508983	1509056	 	32
+016	007	artificial fox over data programming	artificial fox over data programming	021	1509020	1509106	d	100
+016	007	artificial fox over data programming	artificial fox over data programming	022	1509276	1509377	a	97
+016	007	artificial fox over data programming	artificial fox over data programming	023	1509036	1509104	t	116
+016	007	artificial fox over data programming	artificial fox over data programming	024	1510301	1510437	a	97
+016	007	artificial fox over data programming	artificial fox over data programming	025	1510368	1510419	 	32
+016	007	artificial fox over data programming	artificial fox over data programming	026	1510425	1510544	p	112
+016	007	artificial fox over data programming	artificial fox over data programming	027	1510420	1510490	r	114
+016	007	artificial fox over data programming	artificial fox over data programming	028	1510509	1510584	o	111
+016	007	artificial fox over data programming	artificial fox over data programming	029	1508828	1508921	g	103
+016	007	artificial fox over data programming	artificial fox over data programming	030	1511713	1511813	r	114
+016	007	artificial fox over data programming	artificial fox over data programming	031	1511100	1511217	a	97
+016	007	artificial fox over data programming	artificial fox over data programming	032	1511456	1511561	m	109
+016	007	artificial fox over data programming	artificial fox over data programming	033	1510320	1510461	m	109
+016	007	artificial fox over data programming	artificial fox over data programming	034	1509300	1509396	i	105
+016	007	artificial fox over data programming	artificial fox over data programming	035	1512562	1512704	n	110
+016	007	artificial fox over data programming	artificial fox over data programming	036	1512370	1512430	g	103
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	001	1507000	1507056	d	100
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	002	1507162	1507294	a	97
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	003	1507232	1507360	t	116
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	004	1507573	1507720	a	97
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	005	1507712	1507846	 	32
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	006	1507945	1508014	p	112
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	007	1507942	1508004	y	121
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	008	1508302	1508360	t	116
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	009	1508328	1508379	h	104
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	010	1508233	1508292	o	111
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	011	1508710	1508769	n	110
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	012	1508760	1508865	 	32
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	013	1508488	1508556	j	106
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	014	1509119	1509221	u	117
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	015	1508610	1508694	m	109
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	016	1509730	1509873	p	112
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	017	1509320	1509385	s	115
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	018	1509822	1509966	 	32
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	019	1509124	1509180	l	108
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	020	1510458	1510593	a	97
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	021	1510260	1510310	z	122
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	022	1509373	1509429	y	121
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	023	1510366	1510451	 	32
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	024	1511209	1511347	f	102
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	025	1510864	1510997	o	111
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	026	1510000	1510142	x	120
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	027	1511420	1511478	 	32
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	028	1511428	1511539	a	97
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	029	1510416	1510513	r	114
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	030	1511727	1511861	t	116
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	031	1512640	1512725	i	105
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	032	1511309	1511455	f	102
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	033	1512408	1512556	i	105
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	034	1511884	1511981	c	99
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	035	1511080	1511161	i	105
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	036	1512810	1512951	a	97
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	037	1513336	1513463	l	108
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	038	1512032	1512107	 	32
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	039	1513118	1513199	p	112
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	040	1513201	1513331	r	114
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	041	1512200	1512252	o	111
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	042	1513519	1513648	g	103
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	043	1512838	1512979	r	114
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	044	1514998	1515143	a	97
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	045	1511928	1512016	m	109
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	046	1515415	1515534	m	109
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	047	1513164	1513224	i	105
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	048	1512734	1512832	n	110
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	049	1512184	1512279	g	103
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	050	1514350	1514495	 	32
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	051	1516550	1516630	a	97
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	052	1516486	1516543	r	114
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	053	1517036	1517135	t	116
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	054	1512989	1513128	i	105
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	055	1515316	1515438	f	102
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	056	1516955	1517014	i	105
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	057	1517472	1517537	c	99
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	058	1513384	1513492	i	105
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	059	1517788	1517862	a	97
+016	008	data python jumps lazy fox artificial programming artificial	data python jumps lazy fox artificial programming artificial	060	1518741	1518816	l	108
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	001	1508000	1508094	a	97
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	002	1508169	1508312	r	114
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	003	1508270	1508396	t	116
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	004	1508324	1508374	i	105
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	005	1508520	1508632	f	102
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	006	1508695	1508838	i	105
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	007	1508942	1509006	c	99
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	008	1509113	1509232	i	105
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	009	1508896	1508982	a	97
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	010	1509053	1509105	l	108
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	011	1509060	1509205	 	32
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	012	1509540	1509601	b	98
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	013	1509416	1509468	r	114
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	014	1510535	1510666	o	111
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	015	1509890	1509989	w	119
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	016	1509845	1509908	n	110
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	017	1510896	1511018	 	32
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	018	1511145	1511235	f	102
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	019	1510430	1510493	o	111
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	020	1511762	1511835	x	120
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	021	1511320	1511416	 	32
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	022	1511528	1511648	s	115
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	023	1511366	1511473	c	99
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	024	1512209	1512289	i	105
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	025	1512728	1512845	e	101
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	026	1511475	1511535	n	110
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	027	1511354	1511424	c	99
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	028	1512509	1512572	e	101
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	029	1513292	1513364	 	32
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	030	1511306	1511421	p	112
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	031	1513790	1513875	r	114
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	032	1512681	1512765	o	111
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	033	1511872	1511960	g	103
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	034	1513511	1513636	r	114
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	035	1513134	1513202	a	97
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	036	1514195	1514309	m	109
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	037	1512716	1512805	m	109
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	038	1514734	1514867	i	105
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	039	1512522	1512640	n	110
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	040	1514123	1514195	g	103
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	041	1513720	1513779	 	32
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	042	1512920	1513026	i	105
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	043	1514216	1514332	n	110
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	044	1513074	1513193	t	116
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	045	1513192	1513317	e	101
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	046	1515605	1515738	l	108
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	047	1513382	1513483	l	108
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	048	1516789	1516877	i	105
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	049	1514384	1514453	g	103
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	050	1516624	1516724	e	101
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	051	1517700	1517781	n	110
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	052	1516415	1516502	c	99
+016	009	artificial brown fox science programming intelligence	artificial brown fox science programming intelligence	053	1516684	1516766	e	101
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	001	1509000	1509087	d	100
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	002	1509191	1509315	a	97
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	003	1509302	1509359	t	116
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	004	1509588	1509638	a	97
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	005	1509456	1509536	 	32
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	006	1509660	1509717	m	109
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	007	1509666	1509788	a	97
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	008	1510253	1510394	c	99
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	009	1510296	1510406	h	104
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	010	1510323	1510410	i	105
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	011	1510920	1511069	n	110
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	012	1510606	1510687	e	101
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	013	1510224	1510290	 	32
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	014	1511509	1511630	p	112
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	015	1511352	1511455	r	114
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	016	1511790	1511932	o	111
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	017	1510616	1510677	g	103
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	018	1510700	1510820	r	114
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	019	1510836	1510982	a	97
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	020	1512743	1512880	m	109
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	021	1512860	1512930	m	109
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	022	1511982	1512095	i	105
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	023	1511354	1511466	n	110
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	024	1511668	1511724	g	103
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	025	1512768	1512906	 	32
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	026	1513700	1513781	o	111
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	027	1511834	1511912	v	118
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	028	1513185	1513300	e	101
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	029	1512752	1512857	r	114
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	030	1513524	1513661	 	32
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	031	1514070	1514161	b	98
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	032	1513309	1513450	r	114
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	033	1514120	1514192	o	111
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	034	1514940	1515076	w	119
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	035	1513114	1513246	n	110
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	036	1514670	1514739	 	32
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	037	1514904	1515046	d	100
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	038	1516326	1516465	o	111
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	039	1515384	1515434	g	103
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	040	1515864	1515944	 	32
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	041	1513760	1513871	a	97
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	042	1514002	1514081	r	114
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	043	1513200	1513291	t	116
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	044	1516611	1516751	i	105
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	045	1515468	1515580	f	102
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	046	1513500	1513649	i	105
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	047	1515762	1515851	c	99
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	048	1518024	1518102	i	105
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	049	1516968	1517093	a	97
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	050	1517624	1517731	l	108
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	051	1517600	1517728	 	32
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	052	1519149	1519217	j	106
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	053	1518360	1518490	u	117
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	054	1517798	1517946	m	109
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	055	1517208	1517298	p	112
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	056	1518350	1518417	s	115
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	057	1519024	1519084	 	32
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	058	1516353	1516452	b	98
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	059	1517932	1518075	r	114
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	060	1515195	1515307	o	111
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	061	1519140	1519238	w	119
+016	010	data machine programming over brown dog artificial jumps brown	data machine programming over brown dog artificial jumps brown	062	1519126	1519248	n	110

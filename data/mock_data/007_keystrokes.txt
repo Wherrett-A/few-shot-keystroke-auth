@@ -1,0 +1,402 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+007	001	hello lazy hello over world	hello lazy hello over world	001	600000	600137	h	104
+007	001	hello lazy hello over world	hello lazy hello over world	002	600159	600248	e	101
+007	001	hello lazy hello over world	hello lazy hello over world	003	600216	600273	l	108
+007	001	hello lazy hello over world	hello lazy hello over world	004	600417	600515	l	108
+007	001	hello lazy hello over world	hello lazy hello over world	005	600584	600690	o	111
+007	001	hello lazy hello over world	hello lazy hello over world	006	600810	600861	 	32
+007	001	hello lazy hello over world	hello lazy hello over world	007	601194	601244	l	108
+007	001	hello lazy hello over world	hello lazy hello over world	008	600840	600962	a	97
+007	001	hello lazy hello over world	hello lazy hello over world	009	601504	601624	z	122
+007	001	hello lazy hello over world	hello lazy hello over world	010	601341	601407	y	121
+007	001	hello lazy hello over world	hello lazy hello over world	011	601780	601901	 	32
+007	001	hello lazy hello over world	hello lazy hello over world	012	602057	602177	h	104
+007	001	hello lazy hello over world	hello lazy hello over world	013	601848	601916	e	101
+007	001	hello lazy hello over world	hello lazy hello over world	014	601378	601492	l	108
+007	001	hello lazy hello over world	hello lazy hello over world	015	601596	601649	l	108
+007	001	hello lazy hello over world	hello lazy hello over world	016	601860	601953	o	111
+007	001	hello lazy hello over world	hello lazy hello over world	017	601824	601910	 	32
+007	001	hello lazy hello over world	hello lazy hello over world	018	602856	602980	o	111
+007	001	hello lazy hello over world	hello lazy hello over world	019	602988	603067	v	118
+007	001	hello lazy hello over world	hello lazy hello over world	020	602337	602484	e	101
+007	001	hello lazy hello over world	hello lazy hello over world	021	602900	602970	r	114
+007	001	hello lazy hello over world	hello lazy hello over world	022	603633	603709	 	32
+007	001	hello lazy hello over world	hello lazy hello over world	023	603256	603399	w	119
+007	001	hello lazy hello over world	hello lazy hello over world	024	603174	603269	o	111
+007	001	hello lazy hello over world	hello lazy hello over world	025	604488	604569	r	114
+007	001	hello lazy hello over world	hello lazy hello over world	026	603025	603171	l	108
+007	001	hello lazy hello over world	hello lazy hello over world	027	604810	604887	d	100
+007	002	the brown learning world world python	the brown learning world world python	001	601000	601124	t	116
+007	002	the brown learning world world python	the brown learning world world python	002	601179	601304	h	104
+007	002	the brown learning world world python	the brown learning world world python	003	601328	601421	e	101
+007	002	the brown learning world world python	the brown learning world world python	004	601327	601435	 	32
+007	002	the brown learning world world python	the brown learning world world python	005	601508	601561	b	98
+007	002	the brown learning world world python	the brown learning world world python	006	601530	601591	r	114
+007	002	the brown learning world world python	the brown learning world world python	007	601798	601872	o	111
+007	002	the brown learning world world python	the brown learning world world python	008	602113	602173	w	119
+007	002	the brown learning world world python	the brown learning world world python	009	602512	602612	n	110
+007	002	the brown learning world world python	the brown learning world world python	010	602620	602696	 	32
+007	002	the brown learning world world python	the brown learning world world python	011	602600	602674	l	108
+007	002	the brown learning world world python	the brown learning world world python	012	602573	602696	e	101
+007	002	the brown learning world world python	the brown learning world world python	013	602548	602675	a	97
+007	002	the brown learning world world python	the brown learning world world python	014	602885	602992	r	114
+007	002	the brown learning world world python	the brown learning world world python	015	603660	603775	n	110
+007	002	the brown learning world world python	the brown learning world world python	016	602560	602632	i	105
+007	002	the brown learning world world python	the brown learning world world python	017	604088	604148	n	110
+007	002	the brown learning world world python	the brown learning world world python	018	603295	603438	g	103
+007	002	the brown learning world world python	the brown learning world world python	019	604042	604159	 	32
+007	002	the brown learning world world python	the brown learning world world python	020	603489	603587	w	119
+007	002	the brown learning world world python	the brown learning world world python	021	603840	603958	o	111
+007	002	the brown learning world world python	the brown learning world world python	022	604087	604175	r	114
+007	002	the brown learning world world python	the brown learning world world python	023	604630	604758	l	108
+007	002	the brown learning world world python	the brown learning world world python	024	605255	605352	d	100
+007	002	the brown learning world world python	the brown learning world world python	025	605152	605239	 	32
+007	002	the brown learning world world python	the brown learning world world python	026	605775	605924	w	119
+007	002	the brown learning world world python	the brown learning world world python	027	605862	605968	o	111
+007	002	the brown learning world world python	the brown learning world world python	028	604645	604707	r	114
+007	002	the brown learning world world python	the brown learning world world python	029	605396	605483	l	108
+007	002	the brown learning world world python	the brown learning world world python	030	605205	605314	d	100
+007	002	the brown learning world world python	the brown learning world world python	031	604570	604672	 	32
+007	002	the brown learning world world python	the brown learning world world python	032	604286	604358	p	112
+007	002	the brown learning world world python	the brown learning world world python	033	606888	607006	y	121
+007	002	the brown learning world world python	the brown learning world world python	034	607336	607437	t	116
+007	002	the brown learning world world python	the brown learning world world python	035	606848	606905	h	104
+007	002	the brown learning world world python	the brown learning world world python	036	605515	605616	o	111
+007	002	the brown learning world world python	the brown learning world world python	037	607444	607521	n	110
+007	003	world intelligence world over programming	world intelligence world over programming	001	602000	602051	w	119
+007	003	world intelligence world over programming	world intelligence world over programming	002	602147	602209	o	111
+007	003	world intelligence world over programming	world intelligence world over programming	003	602248	602318	r	114
+007	003	world intelligence world over programming	world intelligence world over programming	004	602363	602420	l	108
+007	003	world intelligence world over programming	world intelligence world over programming	005	602540	602628	d	100
+007	003	world intelligence world over programming	world intelligence world over programming	006	602820	602953	 	32
+007	003	world intelligence world over programming	world intelligence world over programming	007	602960	603014	i	105
+007	003	world intelligence world over programming	world intelligence world over programming	008	603141	603288	n	110
+007	003	world intelligence world over programming	world intelligence world over programming	009	602848	602975	t	116
+007	003	world intelligence world over programming	world intelligence world over programming	010	603692	603751	e	101
+007	003	world intelligence world over programming	world intelligence world over programming	011	603940	604036	l	108
+007	003	world intelligence world over programming	world intelligence world over programming	012	603408	603530	l	108
+007	003	world intelligence world over programming	world intelligence world over programming	013	603560	603677	i	105
+007	003	world intelligence world over programming	world intelligence world over programming	014	604314	604397	g	103
+007	003	world intelligence world over programming	world intelligence world over programming	015	603596	603689	e	101
+007	003	world intelligence world over programming	world intelligence world over programming	016	603905	603992	n	110
+007	003	world intelligence world over programming	world intelligence world over programming	017	604560	604687	c	99
+007	003	world intelligence world over programming	world intelligence world over programming	018	605145	605258	e	101
+007	003	world intelligence world over programming	world intelligence world over programming	019	604196	604301	 	32
+007	003	world intelligence world over programming	world intelligence world over programming	020	604983	605059	w	119
+007	003	world intelligence world over programming	world intelligence world over programming	021	605860	605963	o	111
+007	003	world intelligence world over programming	world intelligence world over programming	022	606011	606070	r	114
+007	003	world intelligence world over programming	world intelligence world over programming	023	604222	604284	l	108
+007	003	world intelligence world over programming	world intelligence world over programming	024	604553	604642	d	100
+007	003	world intelligence world over programming	world intelligence world over programming	025	605432	605555	 	32
+007	003	world intelligence world over programming	world intelligence world over programming	026	604800	604921	o	111
+007	003	world intelligence world over programming	world intelligence world over programming	027	604808	604916	v	118
+007	003	world intelligence world over programming	world intelligence world over programming	028	606401	606470	e	101
+007	003	world intelligence world over programming	world intelligence world over programming	029	605416	605486	r	114
+007	003	world intelligence world over programming	world intelligence world over programming	030	607307	607440	 	32
+007	003	world intelligence world over programming	world intelligence world over programming	031	606560	606618	p	112
+007	003	world intelligence world over programming	world intelligence world over programming	032	605627	605748	r	114
+007	003	world intelligence world over programming	world intelligence world over programming	033	608240	608356	o	111
+007	003	world intelligence world over programming	world intelligence world over programming	034	607148	607278	g	103
+007	003	world intelligence world over programming	world intelligence world over programming	035	607202	607321	r	114
+007	003	world intelligence world over programming	world intelligence world over programming	036	608475	608609	a	97
+007	003	world intelligence world over programming	world intelligence world over programming	037	607868	607992	m	109
+007	003	world intelligence world over programming	world intelligence world over programming	038	607106	607159	m	109
+007	003	world intelligence world over programming	world intelligence world over programming	039	607776	607862	i	105
+007	003	world intelligence world over programming	world intelligence world over programming	040	608123	608244	n	110
+007	003	world intelligence world over programming	world intelligence world over programming	041	608200	608281	g	103
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	001	603000	603050	o	111
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	002	603190	603271	v	118
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	003	603232	603298	e	101
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	004	603459	603584	r	114
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	005	603448	603563	 	32
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	006	603700	603785	p	112
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	007	603894	603970	y	121
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	008	604099	604183	t	116
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	009	604504	604591	h	104
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	010	604503	604648	o	111
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	011	604450	604504	n	110
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	012	604419	604537	 	32
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	013	604848	604911	i	105
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	014	605067	605125	n	110
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	015	604498	604572	t	116
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	016	605940	606025	e	101
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	017	604776	604923	l	108
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	018	604870	604992	l	108
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	019	605520	605637	i	105
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	020	605926	606058	g	103
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	021	606760	606907	e	101
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	022	606003	606113	n	110
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	023	606674	606780	c	99
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	024	606933	607008	e	101
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	025	605568	605652	 	32
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	026	606800	606919	i	105
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	027	606094	606233	n	110
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	028	606375	606517	t	116
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	029	607732	607784	e	101
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	030	606828	606912	l	108
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	031	607980	608119	l	108
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	032	606131	606205	i	105
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	033	607800	607871	g	103
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	034	608643	608724	e	101
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	035	609392	609446	n	110
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	036	608705	608820	c	99
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	037	606960	607035	e	101
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	038	609586	609685	 	32
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	039	610410	610524	p	112
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	040	606939	607050	y	121
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	041	609280	609413	t	116
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	042	608535	608654	h	104
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	043	610938	611053	o	111
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	044	608848	608908	n	110
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	045	608808	608956	 	32
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	046	610875	610988	f	102
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	047	611694	611751	o	111
+007	004	over python intelligence intelligence python fox	over python intelligence intelligence python fox	048	608452	608591	x	120
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	001	604000	604138	h	104
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	002	604170	604277	e	101
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	003	604218	604274	l	108
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	004	604576	604626	l	108
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	005	604424	604544	o	111
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	006	604560	604624	 	32
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	007	605188	605248	a	97
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	008	605106	605174	r	114
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	009	605424	605533	t	116
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	010	605242	605365	i	105
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	011	605820	605911	f	102
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	012	605265	605392	i	105
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	013	605392	605529	c	99
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	014	605365	605421	i	105
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	015	605512	605597	a	97
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	016	606670	606767	l	108
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	017	606848	606943	 	32
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	018	606618	606739	w	119
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	019	606628	606736	o	111
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	020	607230	607287	r	114
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	021	607760	607884	l	108
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	022	608137	608285	d	100
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	023	607410	607503	 	32
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	024	607542	607609	w	119
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	025	608104	608214	o	111
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	026	606875	606986	r	114
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	027	607380	607454	l	108
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	028	609346	609439	d	100
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	029	608200	608289	 	32
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	030	607306	607374	d	100
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	031	609580	609715	o	111
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	032	608464	608579	g	103
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	033	608480	608604	 	32
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	034	610138	610215	d	100
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	035	608862	608981	o	111
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	036	608760	608901	g	103
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	037	609616	609699	 	32
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	038	609254	609361	h	104
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	039	608484	608594	e	101
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	040	608524	608639	l	108
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	041	609520	609584	l	108
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	042	609289	609424	o	111
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	043	609754	609858	 	32
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	044	608859	608988	h	104
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	045	609456	609582	e	101
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	046	611560	611624	l	108
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	047	609428	609547	l	108
+007	005	hello artificial world world dog dog hello hello	hello artificial world world dog dog hello hello	048	612460	612543	o	111
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	001	605000	605069	l	108
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	002	605128	605228	e	101
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	003	605232	605363	a	97
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	004	605390	605458	r	114
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	005	605432	605580	n	110
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	006	605585	605667	i	105
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	007	606062	606176	n	110
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	008	606078	606169	g	103
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	009	606576	606680	 	32
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	010	606539	606644	f	102
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	011	606760	606840	o	111
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	012	606980	607070	x	120
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	013	607016	607092	 	32
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	014	607015	607108	q	113
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	015	607170	607308	u	117
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	016	607985	608070	i	105
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	017	607960	608077	c	99
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	018	606734	606857	k	107
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	019	606926	607050	 	32
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	020	608230	608364	q	113
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	021	607060	607168	u	117
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	022	607268	607414	i	105
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	023	607442	607494	c	99
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	024	607461	607549	k	107
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	025	608480	608555	 	32
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	026	608600	608739	j	106
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	027	609108	609217	u	117
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	028	609806	609919	m	109
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	029	608136	608269	p	112
+007	006	learning fox quick quick jumps	learning fox quick quick jumps	030	608857	608978	s	115
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	001	606000	606139	p	112
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	002	606179	606300	r	114
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	003	606312	606408	o	111
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	004	606528	606655	g	103
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	005	606592	606707	r	114
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	006	606735	606799	a	97
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	007	606762	606885	m	109
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	008	607274	607338	m	109
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	009	607080	607210	i	105
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	010	607395	607539	n	110
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	011	607690	607781	g	103
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	012	607749	607853	 	32
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	013	607980	608058	b	98
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	014	607703	607820	r	114
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	015	608744	608849	o	111
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	016	608625	608723	w	119
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	017	608160	608255	n	110
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	018	608652	608706	 	32
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	019	609510	609577	o	111
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	020	609287	609368	v	118
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	021	608280	608405	e	101
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	022	608310	608428	r	114
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	023	608728	608802	 	32
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	024	609611	609736	t	116
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	025	610560	610653	h	104
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	026	609725	609781	e	101
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	027	609562	609631	 	32
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	028	610995	611138	i	105
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	029	610424	610571	n	110
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	030	609857	609916	t	116
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	031	611700	611828	e	101
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	032	610805	610900	l	108
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	033	609520	609572	l	108
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	034	611016	611159	i	105
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	035	611440	611515	g	103
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	036	609605	609736	e	101
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	037	610932	611005	n	110
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	038	611476	611542	c	99
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	039	612992	613046	e	101
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	040	613605	613719	 	32
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	041	610280	610376	l	108
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	042	611371	611474	e	101
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	043	613644	613718	a	97
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	044	613482	613618	r	114
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	045	614668	614766	n	110
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	046	612030	612170	i	105
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	047	614004	614103	n	110
+007	007	programming brown over the intelligence learning	programming brown over the intelligence learning	048	612956	613022	g	103
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	001	607000	607063	o	111
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	002	607189	607327	v	118
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	003	607232	607343	e	101
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	004	607465	607596	r	114
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	005	607672	607746	 	32
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	006	607920	608067	j	106
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	007	607708	607828	u	117
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	008	607791	607855	m	109
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	009	607856	608000	p	112
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	010	608620	608718	s	115
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	011	608170	608302	 	32
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	012	608738	608809	q	113
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	013	608512	608637	u	117
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	014	609236	609306	i	105
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	015	609478	609539	c	99
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	016	609880	609964	k	107
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	017	608664	608798	 	32
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	018	609720	609783	i	105
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	019	609448	609578	n	110
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	020	609983	610117	t	116
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	021	609080	609135	e	101
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	022	610654	610751	l	108
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	023	611356	611504	l	108
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	024	610220	610368	i	105
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	025	611368	611459	g	103
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	026	610325	610388	e	101
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	027	609964	610090	n	110
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	028	609970	610053	c	99
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	029	610500	610551	e	101
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	030	611350	611484	 	32
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	031	612220	612330	f	102
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	032	613107	613177	o	111
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	033	610744	610867	x	120
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	034	611257	611393	 	32
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	035	611590	611649	f	102
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	036	613020	613118	o	111
+007	008	over jumps quick intelligence fox fox	over jumps quick intelligence fox fox	037	612184	612289	x	120
+007	009	python brown science science fox programming	python brown science science fox programming	001	608000	608106	p	112
+007	009	python brown science science fox programming	python brown science science fox programming	002	608172	608320	y	121
+007	009	python brown science science fox programming	python brown science science fox programming	003	608374	608488	t	116
+007	009	python brown science science fox programming	python brown science science fox programming	004	608486	608560	h	104
+007	009	python brown science science fox programming	python brown science science fox programming	005	608688	608803	o	111
+007	009	python brown science science fox programming	python brown science science fox programming	006	608925	609004	n	110
+007	009	python brown science science fox programming	python brown science science fox programming	007	608822	608872	 	32
+007	009	python brown science science fox programming	python brown science science fox programming	008	608854	608957	b	98
+007	009	python brown science science fox programming	python brown science science fox programming	009	609312	609391	r	114
+007	009	python brown science science fox programming	python brown science science fox programming	010	609548	609673	o	111
+007	009	python brown science science fox programming	python brown science science fox programming	011	609400	609472	w	119
+007	009	python brown science science fox programming	python brown science science fox programming	012	610046	610139	n	110
+007	009	python brown science science fox programming	python brown science science fox programming	013	610112	610249	 	32
+007	009	python brown science science fox programming	python brown science science fox programming	014	609742	609828	s	115
+007	009	python brown science science fox programming	python brown science science fox programming	015	610464	610527	c	99
+007	009	python brown science science fox programming	python brown science science fox programming	016	609635	609728	i	105
+007	009	python brown science science fox programming	python brown science science fox programming	017	610368	610446	e	101
+007	009	python brown science science fox programming	python brown science science fox programming	018	610278	610357	n	110
+007	009	python brown science science fox programming	python brown science science fox programming	019	610250	610317	c	99
+007	009	python brown science science fox programming	python brown science science fox programming	020	609900	609965	e	101
+007	009	python brown science science fox programming	python brown science science fox programming	021	611920	612065	 	32
+007	009	python brown science science fox programming	python brown science science fox programming	022	611129	611231	s	115
+007	009	python brown science science fox programming	python brown science science fox programming	023	612180	612310	c	99
+007	009	python brown science science fox programming	python brown science science fox programming	024	612140	612194	i	105
+007	009	python brown science science fox programming	python brown science science fox programming	025	610448	610536	e	101
+007	009	python brown science science fox programming	python brown science science fox programming	026	611475	611529	n	110
+007	009	python brown science science fox programming	python brown science science fox programming	027	611770	611821	c	99
+007	009	python brown science science fox programming	python brown science science fox programming	028	610835	610977	e	101
+007	009	python brown science science fox programming	python brown science science fox programming	029	613096	613182	 	32
+007	009	python brown science science fox programming	python brown science science fox programming	030	613394	613451	f	102
+007	009	python brown science science fox programming	python brown science science fox programming	031	613370	613447	o	111
+007	009	python brown science science fox programming	python brown science science fox programming	032	611441	611559	x	120
+007	009	python brown science science fox programming	python brown science science fox programming	033	614304	614387	 	32
+007	009	python brown science science fox programming	python brown science science fox programming	034	614435	614491	p	112
+007	009	python brown science science fox programming	python brown science science fox programming	035	612012	612063	r	114
+007	009	python brown science science fox programming	python brown science science fox programming	036	612655	612790	o	111
+007	009	python brown science science fox programming	python brown science science fox programming	037	612824	612933	g	103
+007	009	python brown science science fox programming	python brown science science fox programming	038	613846	613941	r	114
+007	009	python brown science science fox programming	python brown science science fox programming	039	615486	615627	a	97
+007	009	python brown science science fox programming	python brown science science fox programming	040	612095	612164	m	109
+007	009	python brown science science fox programming	python brown science science fox programming	041	613040	613187	m	109
+007	009	python brown science science fox programming	python brown science science fox programming	042	614806	614860	i	105
+007	009	python brown science science fox programming	python brown science science fox programming	043	612830	612925	n	110
+007	009	python brown science science fox programming	python brown science science fox programming	044	613332	613477	g	103
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	001	609000	609110	t	116
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	002	609188	609254	h	104
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	003	609376	609447	e	101
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	004	609489	609574	 	32
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	005	609460	609596	q	113
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	006	609735	609788	u	117
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	007	610176	610256	i	105
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	008	609798	609899	c	99
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	009	610512	610567	k	107
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	010	610116	610206	 	32
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	011	610760	610819	l	108
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	012	610452	610552	a	97
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	013	611196	611285	z	122
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	014	610755	610896	y	121
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	015	610862	611009	 	32
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	016	610560	610625	o	111
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	017	610744	610831	v	118
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	018	611652	611757	e	101
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	019	611664	611761	r	114
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	020	612363	612432	 	32
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	021	612780	612850	o	111
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	022	613179	613270	v	118
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	023	613158	613254	e	101
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	024	613439	613546	r	114
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	025	612840	612945	 	32
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	026	613925	614010	q	113
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	027	613446	613537	u	117
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	028	611835	611952	i	105
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	029	611996	612086	c	99
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	030	614771	614897	k	107
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	031	614790	614868	 	32
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	032	615014	615080	j	106
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	033	614472	614613	u	117
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	034	614973	615052	m	109
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	035	612638	612728	p	112
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	036	614180	614253	s	115
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	037	612780	612854	 	32
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	038	614920	614975	l	108
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	039	615346	615407	a	97
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	040	616059	616165	z	122
+007	010	the quick lazy over over quick jumps lazy	the quick lazy over over quick jumps lazy	041	615280	615332	y	121

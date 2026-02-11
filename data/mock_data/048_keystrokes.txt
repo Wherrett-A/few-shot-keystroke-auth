@@ -1,0 +1,517 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	001	4700000	4700117	l	108
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	002	4700165	4700308	e	101
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	003	4700356	4700431	a	97
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	004	4700588	4700641	r	114
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	005	4700596	4700706	n	110
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	006	4700725	4700814	i	105
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	007	4701110	4701250	n	110
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	008	4701057	4701147	g	103
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	009	4701520	4701588	 	32
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	010	4701035	4701129	a	97
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	011	4701930	4702033	r	114
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	012	4701408	4701518	t	116
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	013	4701560	4701700	i	105
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	014	4701352	4701483	f	102
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	015	4702128	4702270	i	105
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	016	4702520	4702658	c	99
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	017	4703168	4703242	i	105
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	018	4703315	4703422	a	97
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	019	4703258	4703317	l	108
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	020	4701900	4701995	 	32
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	021	4702600	4702724	l	108
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	022	4703969	4704078	a	97
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	023	4702376	4702523	z	122
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	024	4704462	4704573	y	121
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	025	4704368	4704487	 	32
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	026	4702725	4702784	d	100
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	027	4705018	4705125	o	111
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	028	4704455	4704553	g	103
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	029	4703752	4703853	 	32
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	030	4704669	4704767	q	113
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	031	4703180	4703317	u	117
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	032	4704929	4705044	i	105
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	033	4705536	4705613	c	99
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	034	4704785	4704882	k	107
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	035	4704896	4704968	 	32
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	036	4706020	4706126	l	108
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	037	4705616	4705746	e	101
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	038	4704329	4704399	a	97
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	039	4705206	4705258	r	114
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	040	4705070	4705180	n	110
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	041	4705040	4705154	i	105
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	042	4705166	4705288	n	110
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	043	4704242	4704325	g	103
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	044	4705590	4705652	 	32
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	045	4706160	4706267	l	108
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	046	4705580	4705682	e	101
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	047	4706026	4706095	a	97
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	048	4707755	4707869	r	114
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	049	4707296	4707438	n	110
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	050	4705439	4705504	i	105
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	051	4709500	4709622	n	110
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	052	4705151	4705235	g	103
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	053	4708476	4708621	 	32
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	054	4710123	4710248	b	98
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	055	4708856	4708911	r	114
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	056	4707645	4707737	o	111
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	057	4707672	4707774	w	119
+048	001	learning artificial lazy dog quick learning learning brown	learning artificial lazy dog quick learning learning brown	058	4711286	4711393	n	110
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	001	4701000	4701102	d	100
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	002	4701109	4701206	o	111
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	003	4701256	4701373	g	103
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	004	4701489	4701584	 	32
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	005	4701432	4701492	w	119
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	006	4701975	4702112	o	111
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	007	4701786	4701920	r	114
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	008	4702358	4702469	l	108
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	009	4702552	4702636	d	100
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	010	4702413	4702553	 	32
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	011	4702880	4703013	a	97
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	012	4703013	4703111	r	114
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	013	4702920	4703046	t	116
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	014	4702677	4702778	i	105
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	015	4702484	4702544	f	102
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	016	4702995	4703066	i	105
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	017	4703752	4703831	c	99
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	018	4703006	4703059	i	105
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	019	4704114	4704177	a	97
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	020	4704648	4704716	l	108
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	021	4703740	4703858	 	32
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	022	4703310	4703385	q	113
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	023	4704630	4704768	u	117
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	024	4703369	4703477	i	105
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	025	4705776	4705834	c	99
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	026	4705975	4706107	k	107
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	027	4705576	4705630	 	32
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	028	4705320	4705419	q	113
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	029	4705900	4705971	u	117
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	030	4706771	4706894	i	105
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	031	4704840	4704921	c	99
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	032	4705526	4705661	k	107
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	033	4705928	4706054	 	32
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	034	4706907	4707009	b	98
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	035	4705420	4705517	r	114
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	036	4706565	4706663	o	111
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	037	4706652	4706772	w	119
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	038	4705255	4705352	n	110
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	039	4705142	4705238	 	32
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	040	4708332	4708421	t	116
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	041	4707800	4707922	h	104
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	042	4706002	4706094	e	101
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	043	4706418	4706541	 	32
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	044	4707192	4707264	s	115
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	045	4707248	4707315	c	99
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	046	4706535	4706586	i	105
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	047	4708452	4708549	e	101
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	048	4706264	4706382	n	110
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	049	4706568	4706705	c	99
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	050	4710702	4710771	e	101
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	051	4710350	4710476	 	32
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	052	4709568	4709672	s	115
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	053	4709268	4709396	c	99
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	054	4710646	4710794	i	105
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	055	4711638	4711738	e	101
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	056	4711340	4711468	n	110
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	057	4710856	4710933	c	99
+048	002	dog world artificial quick quick brown the science science	dog world artificial quick quick brown the science science	058	4710747	4710892	e	101
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	001	4702000	4702147	p	112
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	002	4702110	4702222	y	121
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	003	4702342	4702483	t	116
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	004	4702534	4702614	h	104
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	005	4702664	4702758	o	111
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	006	4702725	4702846	n	110
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	007	4702894	4703009	 	32
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	008	4703001	4703132	s	115
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	009	4702880	4703018	c	99
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	010	4703593	4703665	i	105
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	011	4703630	4703713	e	101
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	012	4703353	4703405	n	110
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	013	4703872	4703953	c	99
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	014	4703872	4703936	e	101
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	015	4704786	4704885	 	32
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	016	4704505	4704612	f	102
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	017	4704608	4704728	o	111
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	018	4704686	4704786	x	120
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	019	4705528	4705633	 	32
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	020	4704299	4704433	l	108
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	021	4705220	4705283	e	101
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	022	4705780	4705903	a	97
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	023	4706202	4706255	r	114
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	024	4706094	4706203	n	110
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	025	4705336	4705454	i	105
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	026	4705650	4705799	n	110
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	027	4705718	4705776	g	103
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	028	4705294	4705390	 	32
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	029	4705948	4706044	a	97
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	030	4707684	4707783	r	114
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	031	4707580	4707716	t	116
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	032	4705441	4705529	i	105
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	033	4706864	4706991	f	102
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	034	4706884	4707007	i	105
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	035	4705944	4706052	c	99
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	036	4708825	4708886	i	105
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	037	4707616	4707668	a	97
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	038	4707069	4707146	l	108
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	039	4706066	4706148	 	32
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	040	4707733	4707817	j	106
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	041	4708840	4708987	u	117
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	042	4706469	4706604	m	109
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	043	4707418	4707520	p	112
+048	003	python science fox learning artificial jumps	python science fox learning artificial jumps	044	4707633	4707765	s	115
+048	004	fox quick quick data quick over	fox quick quick data quick over	001	4703000	4703050	f	102
+048	004	fox quick quick data quick over	fox quick quick data quick over	002	4703105	4703227	o	111
+048	004	fox quick quick data quick over	fox quick quick data quick over	003	4703206	4703333	x	120
+048	004	fox quick quick data quick over	fox quick quick data quick over	004	4703561	4703652	 	32
+048	004	fox quick quick data quick over	fox quick quick data quick over	005	4703600	4703743	q	113
+048	004	fox quick quick data quick over	fox quick quick data quick over	006	4703590	4703678	u	117
+048	004	fox quick quick data quick over	fox quick quick data quick over	007	4703822	4703906	i	105
+048	004	fox quick quick data quick over	fox quick quick data quick over	008	4704274	4704411	c	99
+048	004	fox quick quick data quick over	fox quick quick data quick over	009	4703928	4704054	k	107
+048	004	fox quick quick data quick over	fox quick quick data quick over	010	4704476	4704623	 	32
+048	004	fox quick quick data quick over	fox quick quick data quick over	011	4704320	4704410	q	113
+048	004	fox quick quick data quick over	fox quick quick data quick over	012	4704848	4704984	u	117
+048	004	fox quick quick data quick over	fox quick quick data quick over	013	4705340	4705418	i	105
+048	004	fox quick quick data quick over	fox quick quick data quick over	014	4705184	4705277	c	99
+048	004	fox quick quick data quick over	fox quick quick data quick over	015	4705744	4705854	k	107
+048	004	fox quick quick data quick over	fox quick quick data quick over	016	4704935	4705065	 	32
+048	004	fox quick quick data quick over	fox quick quick data quick over	017	4705912	4706060	d	100
+048	004	fox quick quick data quick over	fox quick quick data quick over	018	4705924	4706005	a	97
+048	004	fox quick quick data quick over	fox quick quick data quick over	019	4705250	4705337	t	116
+048	004	fox quick quick data quick over	fox quick quick data quick over	020	4706648	4706784	a	97
+048	004	fox quick quick data quick over	fox quick quick data quick over	021	4705680	4705754	 	32
+048	004	fox quick quick data quick over	fox quick quick data quick over	022	4705352	4705403	q	113
+048	004	fox quick quick data quick over	fox quick quick data quick over	023	4706982	4707061	u	117
+048	004	fox quick quick data quick over	fox quick quick data quick over	024	4705829	4705965	i	105
+048	004	fox quick quick data quick over	fox quick quick data quick over	025	4706360	4706435	c	99
+048	004	fox quick quick data quick over	fox quick quick data quick over	026	4706150	4706218	k	107
+048	004	fox quick quick data quick over	fox quick quick data quick over	027	4705678	4705746	 	32
+048	004	fox quick quick data quick over	fox quick quick data quick over	028	4707860	4707994	o	111
+048	004	fox quick quick data quick over	fox quick quick data quick over	029	4707816	4707885	v	118
+048	004	fox quick quick data quick over	fox quick quick data quick over	030	4707350	4707428	e	101
+048	004	fox quick quick data quick over	fox quick quick data quick over	031	4707680	4707828	r	114
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	001	4704000	4704085	f	102
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	002	4704114	4704196	o	111
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	003	4704378	4704510	x	120
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	004	4704345	4704400	 	32
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	005	4704460	4704524	i	105
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	006	4704910	4704960	n	110
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	007	4704978	4705112	t	116
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	008	4705253	4705374	e	101
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	009	4705432	4705516	l	108
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	010	4705395	4705536	l	108
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	011	4705270	4705362	i	105
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	012	4705595	4705679	g	103
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	013	4705752	4705834	e	101
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	014	4706405	4706465	n	110
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	015	4705428	4705513	c	99
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	016	4705830	4705954	e	101
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	017	4705904	4706027	 	32
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	018	4707383	4707447	d	100
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	019	4707420	4707529	a	97
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	020	4706546	4706611	t	116
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	021	4706060	4706173	a	97
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	022	4707801	4707861	 	32
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	023	4706750	4706837	b	98
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	024	4707059	4707111	r	114
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	025	4706832	4706973	o	111
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	026	4706700	4706778	w	119
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	027	4706886	4706952	n	110
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	028	4709292	4709396	 	32
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	029	4708816	4708880	f	102
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	030	4708727	4708869	o	111
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	031	4709670	4709816	x	120
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	032	4709580	4709654	 	32
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	033	4707840	4707973	i	105
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	034	4709214	4709268	n	110
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	035	4707604	4707705	t	116
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	036	4709005	4709065	e	101
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	037	4708320	4708404	l	108
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	038	4707848	4707977	l	108
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	039	4708066	4708166	i	105
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	040	4709616	4709763	g	103
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	041	4711360	4711421	e	101
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	042	4710273	4710396	n	110
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	043	4711518	4711641	c	99
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	044	4708300	4708402	e	101
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	045	4711084	4711139	 	32
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	046	4709760	4709873	m	109
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	047	4712004	4712135	a	97
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	048	4708982	4709063	c	99
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	049	4708848	4708953	h	104
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	050	4709047	4709152	i	105
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	051	4713700	4713799	n	110
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	052	4710171	4710303	e	101
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	053	4710136	4710235	 	32
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	054	4713540	4713646	d	100
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	055	4712154	4712279	o	111
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	056	4714945	4715030	g	103
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	057	4714080	4714218	 	32
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	058	4714944	4715058	j	106
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	059	4711366	4711429	u	117
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	060	4713322	4713441	m	109
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	061	4715160	4715282	p	112
+048	005	fox intelligence data brown fox intelligence machine dog jumps	fox intelligence data brown fox intelligence machine dog jumps	062	4715529	4715628	s	115
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	001	4705000	4705132	l	108
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	002	4705132	4705200	a	97
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	003	4705372	4705508	z	122
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	004	4705435	4705580	y	121
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	005	4705748	4705812	 	32
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	006	4705965	4706030	s	115
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	007	4705618	4705718	c	99
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	008	4705938	4706030	i	105
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	009	4705872	4705925	e	101
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	010	4706755	4706832	n	110
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	011	4706370	4706515	c	99
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	012	4706694	4706757	e	101
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	013	4706404	4706488	 	32
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	014	4706963	4707080	d	100
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	015	4707184	4707293	a	97
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	016	4707010	4707060	t	116
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	017	4707000	4707102	a	97
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	018	4707754	4707877	 	32
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	019	4706926	4707071	h	104
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	020	4707052	4707193	e	101
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	021	4707700	4707793	l	108
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	022	4709032	4709158	l	108
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	023	4709202	4709276	o	111
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	024	4709485	4709627	 	32
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	025	4708240	4708384	f	102
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	026	4708200	4708285	o	111
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	027	4707886	4707960	x	120
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	028	4709590	4709670	 	32
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	029	4707912	4708006	a	97
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	030	4709002	4709145	r	114
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	031	4710640	4710717	t	116
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	032	4708844	4708976	i	105
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	033	4710952	4711065	f	102
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	034	4708762	4708861	i	105
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	035	4710406	4710471	c	99
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	036	4710145	4710235	i	105
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	037	4711660	4711803	a	97
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	038	4712141	4712267	l	108
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	039	4712296	4712366	 	32
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	040	4711084	4711187	d	100
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	041	4709080	4709181	o	111
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	042	4709551	4709653	g	103
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	043	4710166	4710252	 	32
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	044	4712869	4712998	i	105
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	045	4713492	4713602	n	110
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	046	4709680	4709805	t	116
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	047	4711900	4711962	e	101
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	048	4711627	4711685	l	108
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	049	4711240	4711373	l	108
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	050	4710586	4710699	i	105
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	051	4713850	4713978	g	103
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	052	4712497	4712589	e	101
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	053	4710720	4710800	n	110
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	054	4713745	4713832	c	99
+048	006	lazy science data hello fox artificial dog intelligence	lazy science data hello fox artificial dog intelligence	055	4712344	4712421	e	101
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	001	4706000	4706084	f	102
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	002	4706154	4706288	o	111
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	003	4706244	4706378	x	120
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	004	4706579	4706679	 	32
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	005	4706460	4706608	d	100
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	006	4706815	4706934	o	111
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	007	4706990	4707061	g	103
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	008	4707253	4707388	 	32
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	009	4706800	4706944	t	116
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	010	4707071	4707218	h	104
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	011	4707990	4708132	e	101
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	012	4708178	4708297	 	32
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	013	4708016	4708070	q	113
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	014	4707885	4707994	u	117
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	015	4708660	4708745	i	105
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	016	4708250	4708338	c	99
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	017	4708592	4708699	k	107
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	018	4709332	4709429	 	32
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	019	4708574	4708632	l	108
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	020	4709515	4709590	e	101
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	021	4709160	4709262	a	97
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	022	4709864	4709944	r	114
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	023	4708904	4709047	n	110
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	024	4709105	4709245	i	105
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	025	4709408	4709544	n	110
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	026	4710400	4710494	g	103
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	027	4711096	4711168	 	32
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	028	4709564	4709683	h	104
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	029	4711124	4711262	e	101
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	030	4710060	4710154	l	108
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	031	4709480	4709620	l	108
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	032	4709720	4709795	o	111
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	033	4711056	4711193	 	32
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	034	4710983	4711116	d	100
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	035	4710318	4710404	o	111
+048	007	fox dog the quick learning hello dog	fox dog the quick learning hello dog	036	4710095	4710203	g	103
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	001	4707000	4707083	p	112
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	002	4707131	4707276	r	114
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	003	4707224	4707297	o	111
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	004	4707372	4707492	g	103
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	005	4707672	4707796	r	114
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	006	4707935	4708066	a	97
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	007	4708014	4708064	m	109
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	008	4708372	4708503	m	109
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	009	4707888	4708033	i	105
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	010	4708647	4708701	n	110
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	011	4708700	4708807	g	103
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	012	4708430	4708570	 	32
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	013	4708548	4708661	b	98
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	014	4709379	4709436	r	114
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	015	4709562	4709637	o	111
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	016	4709655	4709709	w	119
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	017	4709704	4709838	n	110
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	018	4710196	4710283	 	32
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	019	4710456	4710514	t	116
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	020	4710667	4710787	h	104
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	021	4710460	4710603	e	101
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	022	4710255	4710351	 	32
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	023	4711136	4711194	m	109
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	024	4710864	4710961	a	97
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	025	4709880	4710015	c	99
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	026	4711925	4712048	h	104
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	027	4709678	4709749	i	105
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	028	4710213	4710264	n	110
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	029	4711368	4711494	e	101
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	030	4709900	4710027	 	32
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	031	4712850	4712938	h	104
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	032	4712549	4712687	e	101
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	033	4710936	4711061	l	108
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	034	4712115	4712209	l	108
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	035	4710502	4710619	o	111
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	036	4712215	4712333	 	32
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	037	4712904	4713002	p	112
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	038	4713105	4713163	r	114
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	039	4711256	4711324	o	111
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	040	4712070	4712188	g	103
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	041	4714120	4714243	r	114
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	042	4713314	4713408	a	97
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	043	4711410	4711468	m	109
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	044	4715084	4715175	m	109
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	045	4712236	4712339	i	105
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	046	4713570	4713625	n	110
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	047	4713532	4713584	g	103
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	048	4715789	4715924	 	32
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	049	4716456	4716561	f	102
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	050	4715575	4715646	o	111
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	051	4713800	4713899	x	120
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	052	4712967	4713067	 	32
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	053	4713240	4713308	b	98
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	054	4714049	4714137	r	114
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	055	4717530	4717584	o	111
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	056	4716845	4716973	w	119
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	057	4714616	4714717	n	110
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	058	4715721	4715791	 	32
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	059	4713496	4713566	d	100
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	060	4717207	4717323	o	111
+048	008	programming brown the machine hello programming fox brown dog	programming brown the machine hello programming fox brown dog	061	4714560	4714690	g	103
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	001	4708000	4708054	t	116
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	002	4708110	4708210	h	104
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	003	4708296	4708383	e	101
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	004	4708567	4708670	 	32
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	005	4708420	4708498	p	112
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	006	4708695	4708821	y	121
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	007	4708786	4708896	t	116
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	008	4709267	4709328	h	104
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	009	4708896	4709022	o	111
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	010	4709332	4709411	n	110
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	011	4709430	4709529	 	32
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	012	4709375	4709519	h	104
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	013	4709344	4709471	e	101
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	014	4710210	4710268	l	108
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	015	4710604	4710719	l	108
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	016	4709800	4709931	o	111
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	017	4710864	4710934	 	32
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	018	4710992	4711139	h	104
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	019	4710592	4710642	e	101
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	020	4711781	4711848	l	108
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	021	4710900	4710990	l	108
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	022	4712074	4712212	o	111
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	023	4712136	4712260	 	32
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	024	4710852	4710961	t	116
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	025	4712608	4712688	h	104
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	026	4710925	4711058	e	101
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	027	4710912	4710997	 	32
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	028	4712860	4712973	p	112
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	029	4713292	4713367	r	114
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	030	4711886	4711985	o	111
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	031	4711870	4711935	g	103
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	032	4711844	4711940	r	114
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	033	4714240	4714353	a	97
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	034	4713148	4713244	m	109
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	035	4711740	4711842	m	109
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	036	4711605	4711673	i	105
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	037	4713220	4713279	n	110
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	038	4712773	4712839	g	103
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	039	4712142	4712192	 	32
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	040	4713343	4713421	w	119
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	041	4713920	4714052	o	111
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	042	4712141	4712264	r	114
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	043	4713166	4713217	l	108
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	044	4716299	4716424	d	100
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	045	4712620	4712730	 	32
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	046	4714840	4714898	p	112
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	047	4712692	4712790	r	114
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	048	4713029	4713109	o	111
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	049	4714912	4714991	g	103
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	050	4715595	4715714	r	114
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	051	4713750	4713886	a	97
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	052	4717996	4718086	m	109
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	053	4716996	4717068	m	109
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	054	4718388	4718490	i	105
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	055	4717018	4717119	n	110
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	056	4717130	4717198	g	103
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	057	4713656	4713769	 	32
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	058	4715239	4715367	i	105
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	059	4716816	4716950	n	110
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	060	4713959	4714033	t	116
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	061	4717840	4717915	e	101
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	062	4715442	4715500	l	108
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	063	4714262	4714373	l	108
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	064	4717765	4717858	i	105
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	065	4718816	4718878	g	103
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	066	4714630	4714681	e	101
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	067	4718164	4718302	n	110
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	068	4719390	4719448	c	99
+048	009	the python hello hello the programming world programming intelligence	the python hello hello the programming world programming intelligence	069	4719084	4719152	e	101
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	001	4709000	4709101	b	98
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	002	4709146	4709225	r	114
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	003	4709326	4709399	o	111
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	004	4709591	4709699	w	119
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	005	4709452	4709554	n	110
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	006	4709565	4709673	 	32
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	007	4709918	4710020	b	98
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	008	4710197	4710306	r	114
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	009	4710504	4710619	o	111
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	010	4710638	4710750	w	119
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	011	4710610	4710688	n	110
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	012	4711002	4711066	 	32
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	013	4711172	4711253	i	105
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	014	4710378	4710468	n	110
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	015	4710862	4710962	t	116
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	016	4711115	4711247	e	101
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	017	4711720	4711780	l	108
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	018	4711499	4711645	l	108
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	019	4710998	4711133	i	105
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	020	4711014	4711136	g	103
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	021	4712840	4712907	e	101
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	022	4712864	4712920	n	110
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	023	4711838	4711963	c	99
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	024	4712634	4712751	e	101
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	025	4712432	4712483	 	32
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	026	4712875	4713009	b	98
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	027	4711756	4711858	r	114
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	028	4714346	4714441	o	111
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	029	4713900	4714031	w	119
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	030	4713553	4713688	n	110
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	031	4713380	4713462	 	32
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	032	4714580	4714634	p	112
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	033	4713640	4713705	r	114
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	034	4714412	4714517	o	111
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	035	4714576	4714724	g	103
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	036	4714810	4714914	r	114
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	037	4714904	4715010	a	97
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	038	4715364	4715434	m	109
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	039	4714814	4714939	m	109
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	040	4714421	4714517	i	105
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	041	4716520	4716655	n	110
+048	010	brown brown intelligence brown programming	brown brown intelligence brown programming	042	4714535	4714618	g	103

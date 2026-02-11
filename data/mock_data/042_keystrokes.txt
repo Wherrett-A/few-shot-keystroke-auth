@@ -1,0 +1,399 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+042	001	python machine quick quick over fox	python machine quick quick over fox	001	4100000	4100086	p	112
+042	001	python machine quick quick over fox	python machine quick quick over fox	002	4100150	4100251	y	121
+042	001	python machine quick quick over fox	python machine quick quick over fox	003	4100254	4100385	t	116
+042	001	python machine quick quick over fox	python machine quick quick over fox	004	4100480	4100545	h	104
+042	001	python machine quick quick over fox	python machine quick quick over fox	005	4100400	4100477	o	111
+042	001	python machine quick quick over fox	python machine quick quick over fox	006	4100685	4100765	n	110
+042	001	python machine quick quick over fox	python machine quick quick over fox	007	4100834	4100963	 	32
+042	001	python machine quick quick over fox	python machine quick quick over fox	008	4101386	4101480	m	109
+042	001	python machine quick quick over fox	python machine quick quick over fox	009	4100968	4101093	a	97
+042	001	python machine quick quick over fox	python machine quick quick over fox	010	4101566	4101699	c	99
+042	001	python machine quick quick over fox	python machine quick quick over fox	011	4101110	4101253	h	104
+042	001	python machine quick quick over fox	python machine quick quick over fox	012	4101232	4101359	i	105
+042	001	python machine quick quick over fox	python machine quick quick over fox	013	4101536	4101648	n	110
+042	001	python machine quick quick over fox	python machine quick quick over fox	014	4101456	4101591	e	101
+042	001	python machine quick quick over fox	python machine quick quick over fox	015	4102674	4102774	 	32
+042	001	python machine quick quick over fox	python machine quick quick over fox	016	4101755	4101893	q	113
+042	001	python machine quick quick over fox	python machine quick quick over fox	017	4102144	4102243	u	117
+042	001	python machine quick quick over fox	python machine quick quick over fox	018	4102533	4102657	i	105
+042	001	python machine quick quick over fox	python machine quick quick over fox	019	4102016	4102135	c	99
+042	001	python machine quick quick over fox	python machine quick quick over fox	020	4102470	4102617	k	107
+042	001	python machine quick quick over fox	python machine quick quick over fox	021	4103140	4103195	 	32
+042	001	python machine quick quick over fox	python machine quick quick over fox	022	4103885	4103976	q	113
+042	001	python machine quick quick over fox	python machine quick quick over fox	023	4103080	4103185	u	117
+042	001	python machine quick quick over fox	python machine quick quick over fox	024	4103588	4103663	i	105
+042	001	python machine quick quick over fox	python machine quick quick over fox	025	4102952	4103020	c	99
+042	001	python machine quick quick over fox	python machine quick quick over fox	026	4103650	4103765	k	107
+042	001	python machine quick quick over fox	python machine quick quick over fox	027	4103302	4103430	 	32
+042	001	python machine quick quick over fox	python machine quick quick over fox	028	4102916	4103024	o	111
+042	001	python machine quick quick over fox	python machine quick quick over fox	029	4103752	4103817	v	118
+042	001	python machine quick quick over fox	python machine quick quick over fox	030	4103799	4103880	e	101
+042	001	python machine quick quick over fox	python machine quick quick over fox	031	4103840	4103959	r	114
+042	001	python machine quick quick over fox	python machine quick quick over fox	032	4103534	4103586	 	32
+042	001	python machine quick quick over fox	python machine quick quick over fox	033	4103264	4103331	f	102
+042	001	python machine quick quick over fox	python machine quick quick over fox	034	4105247	4105322	o	111
+042	001	python machine quick quick over fox	python machine quick quick over fox	035	4103434	4103487	x	120
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	001	4101000	4101083	d	100
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	002	4101113	4101224	o	111
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	003	4101374	4101509	g	103
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	004	4101330	4101400	 	32
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	005	4101640	4101715	j	106
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	006	4101605	4101713	u	117
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	007	4101684	4101807	m	109
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	008	4102337	4102435	p	112
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	009	4102104	4102244	s	115
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	010	4102575	4102642	 	32
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	011	4102360	4102474	s	115
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	012	4102287	4102385	c	99
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	013	4102980	4103067	i	105
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	014	4102521	4102667	e	101
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	015	4102498	4102574	n	110
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	016	4103940	4104074	c	99
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	017	4102680	4102763	e	101
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	018	4103091	4103213	 	32
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	019	4103232	4103311	w	119
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	020	4104458	4104603	o	111
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	021	4103760	4103905	r	114
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	022	4104444	4104559	l	108
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	023	4104608	4104734	d	100
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	024	4105209	4105319	 	32
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	025	4103880	4103968	a	97
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	026	4105950	4106025	r	114
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	027	4104718	4104775	t	116
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	028	4105428	4105518	i	105
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	029	4105480	4105533	f	102
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	030	4105379	4105449	i	105
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	031	4106760	4106888	c	99
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	032	4104627	4104746	i	105
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	033	4105896	4106032	a	97
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	034	4105158	4105276	l	108
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	035	4105726	4105856	 	32
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	036	4106740	4106863	t	116
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	037	4106184	4106260	h	104
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	038	4107031	4107107	e	101
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	039	4105294	4105422	 	32
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	040	4108683	4108815	p	112
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	041	4106640	4106776	y	121
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	042	4107396	4107513	t	116
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	043	4108098	4108247	h	104
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	044	4106074	4106128	o	111
+042	002	dog jumps science world artificial the python	dog jumps science world artificial the python	045	4108524	4108625	n	110
+042	003	lazy python machine dog learning	lazy python machine dog learning	001	4102000	4102059	l	108
+042	003	lazy python machine dog learning	lazy python machine dog learning	002	4102141	4102269	a	97
+042	003	lazy python machine dog learning	lazy python machine dog learning	003	4102234	4102297	z	122
+042	003	lazy python machine dog learning	lazy python machine dog learning	004	4102306	4102418	y	121
+042	003	lazy python machine dog learning	lazy python machine dog learning	005	4102756	4102867	 	32
+042	003	lazy python machine dog learning	lazy python machine dog learning	006	4102990	4103128	p	112
+042	003	lazy python machine dog learning	lazy python machine dog learning	007	4102900	4103032	y	121
+042	003	lazy python machine dog learning	lazy python machine dog learning	008	4103393	4103519	t	116
+042	003	lazy python machine dog learning	lazy python machine dog learning	009	4103328	4103382	h	104
+042	003	lazy python machine dog learning	lazy python machine dog learning	010	4103728	4103810	o	111
+042	003	lazy python machine dog learning	lazy python machine dog learning	011	4103590	4103733	n	110
+042	003	lazy python machine dog learning	lazy python machine dog learning	012	4103111	4103187	 	32
+042	003	lazy python machine dog learning	lazy python machine dog learning	013	4103212	4103272	m	109
+042	003	lazy python machine dog learning	lazy python machine dog learning	014	4104249	4104345	a	97
+042	003	lazy python machine dog learning	lazy python machine dog learning	015	4104114	4104241	c	99
+042	003	lazy python machine dog learning	lazy python machine dog learning	016	4104610	4104681	h	104
+042	003	lazy python machine dog learning	lazy python machine dog learning	017	4104048	4104147	i	105
+042	003	lazy python machine dog learning	lazy python machine dog learning	018	4103734	4103872	n	110
+042	003	lazy python machine dog learning	lazy python machine dog learning	019	4105150	4105299	e	101
+042	003	lazy python machine dog learning	lazy python machine dog learning	020	4105553	4105663	 	32
+042	003	lazy python machine dog learning	lazy python machine dog learning	021	4104940	4104996	d	100
+042	003	lazy python machine dog learning	lazy python machine dog learning	022	4105738	4105798	o	111
+042	003	lazy python machine dog learning	lazy python machine dog learning	023	4105520	4105622	g	103
+042	003	lazy python machine dog learning	lazy python machine dog learning	024	4105588	4105641	 	32
+042	003	lazy python machine dog learning	lazy python machine dog learning	025	4105792	4105919	l	108
+042	003	lazy python machine dog learning	lazy python machine dog learning	026	4104750	4104804	e	101
+042	003	lazy python machine dog learning	lazy python machine dog learning	027	4104626	4104703	a	97
+042	003	lazy python machine dog learning	lazy python machine dog learning	028	4105240	4105385	r	114
+042	003	lazy python machine dog learning	lazy python machine dog learning	029	4105640	4105788	n	110
+042	003	lazy python machine dog learning	lazy python machine dog learning	030	4107597	4107720	i	105
+042	003	lazy python machine dog learning	lazy python machine dog learning	031	4107250	4107331	n	110
+042	003	lazy python machine dog learning	lazy python machine dog learning	032	4105534	4105630	g	103
+042	004	data science intelligence quick fox	data science intelligence quick fox	001	4103000	4103091	d	100
+042	004	data science intelligence quick fox	data science intelligence quick fox	002	4103185	4103313	a	97
+042	004	data science intelligence quick fox	data science intelligence quick fox	003	4103282	4103359	t	116
+042	004	data science intelligence quick fox	data science intelligence quick fox	004	4103312	4103425	a	97
+042	004	data science intelligence quick fox	data science intelligence quick fox	005	4103616	4103695	 	32
+042	004	data science intelligence quick fox	data science intelligence quick fox	006	4103955	4104041	s	115
+042	004	data science intelligence quick fox	data science intelligence quick fox	007	4103738	4103850	c	99
+042	004	data science intelligence quick fox	data science intelligence quick fox	008	4103756	4103871	i	105
+042	004	data science intelligence quick fox	data science intelligence quick fox	009	4103912	4104006	e	101
+042	004	data science intelligence quick fox	data science intelligence quick fox	010	4104692	4104825	n	110
+042	004	data science intelligence quick fox	data science intelligence quick fox	011	4104560	4104628	c	99
+042	004	data science intelligence quick fox	data science intelligence quick fox	012	4104364	4104426	e	101
+042	004	data science intelligence quick fox	data science intelligence quick fox	013	4104896	4105030	 	32
+042	004	data science intelligence quick fox	data science intelligence quick fox	014	4104495	4104583	i	105
+042	004	data science intelligence quick fox	data science intelligence quick fox	015	4104806	4104889	n	110
+042	004	data science intelligence quick fox	data science intelligence quick fox	016	4104575	4104656	t	116
+042	004	data science intelligence quick fox	data science intelligence quick fox	017	4105368	4105428	e	101
+042	004	data science intelligence quick fox	data science intelligence quick fox	018	4106230	4106333	l	108
+042	004	data science intelligence quick fox	data science intelligence quick fox	019	4105304	4105408	l	108
+042	004	data science intelligence quick fox	data science intelligence quick fox	020	4105812	4105904	i	105
+042	004	data science intelligence quick fox	data science intelligence quick fox	021	4105740	4105853	g	103
+042	004	data science intelligence quick fox	data science intelligence quick fox	022	4105142	4105267	e	101
+042	004	data science intelligence quick fox	data science intelligence quick fox	023	4106190	4106338	n	110
+042	004	data science intelligence quick fox	data science intelligence quick fox	024	4105783	4105902	c	99
+042	004	data science intelligence quick fox	data science intelligence quick fox	025	4105520	4105654	e	101
+042	004	data science intelligence quick fox	data science intelligence quick fox	026	4105875	4106019	 	32
+042	004	data science intelligence quick fox	data science intelligence quick fox	027	4107966	4108115	q	113
+042	004	data science intelligence quick fox	data science intelligence quick fox	028	4107212	4107274	u	117
+042	004	data science intelligence quick fox	data science intelligence quick fox	029	4106332	4106457	i	105
+042	004	data science intelligence quick fox	data science intelligence quick fox	030	4106973	4107098	c	99
+042	004	data science intelligence quick fox	data science intelligence quick fox	031	4106930	4107032	k	107
+042	004	data science intelligence quick fox	data science intelligence quick fox	032	4106100	4106151	 	32
+042	004	data science intelligence quick fox	data science intelligence quick fox	033	4106808	4106886	f	102
+042	004	data science intelligence quick fox	data science intelligence quick fox	034	4107554	4107626	o	111
+042	004	data science intelligence quick fox	data science intelligence quick fox	035	4108134	4108214	x	120
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	001	4104000	4104107	i	105
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	002	4104132	4104256	n	110
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	003	4104298	4104349	t	116
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	004	4104477	4104603	e	101
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	005	4104784	4104885	l	108
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	006	4104970	4105047	l	108
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	007	4104948	4105071	i	105
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	008	4105232	4105377	g	103
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	009	4104944	4105093	e	101
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	010	4105305	4105422	n	110
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	011	4105200	4105252	c	99
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	012	4106156	4106225	e	101
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	013	4105848	4105965	 	32
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	014	4105885	4105971	p	112
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	015	4105722	4105851	r	114
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	016	4105935	4106026	o	111
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	017	4106288	4106430	g	103
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	018	4107026	4107144	r	114
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	019	4107060	4107160	a	97
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	020	4106888	4107014	m	109
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	021	4106720	4106818	m	109
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	022	4106394	4106448	i	105
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	023	4107696	4107746	n	110
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	024	4106553	4106614	g	103
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	025	4106688	4106826	 	32
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	026	4108725	4108858	j	106
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	027	4107796	4107901	u	117
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	028	4107294	4107399	m	109
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	029	4106856	4106914	p	112
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	030	4108060	4108141	s	115
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	031	4109010	4109110	 	32
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	032	4107503	4107590	p	112
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	033	4109504	4109618	r	114
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	034	4109643	4109724	o	111
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	035	4110358	4110455	g	103
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	036	4109985	4110093	r	114
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	037	4109292	4109394	a	97
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	038	4109661	4109765	m	109
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	039	4107800	4107933	m	109
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	040	4111566	4111649	i	105
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	041	4110800	4110900	n	110
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	042	4111421	4111493	g	103
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	043	4111644	4111708	 	32
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	044	4112041	4112154	i	105
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	045	4108796	4108846	n	110
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	046	4111695	4111842	t	116
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	047	4110532	4110623	e	101
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	048	4108700	4108847	l	108
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	049	4111152	4111250	l	108
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	050	4112771	4112908	i	105
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	051	4109450	4109543	g	103
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	052	4111956	4112103	e	101
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	053	4112476	4112556	n	110
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	054	4111261	4111348	c	99
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	055	4111830	4111931	e	101
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	056	4113735	4113835	 	32
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	057	4114472	4114530	f	102
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	058	4112094	4112193	o	111
+042	005	intelligence programming jumps programming intelligence fox	intelligence programming jumps programming intelligence fox	059	4111482	4111584	x	120
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	001	4105000	4105053	a	97
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	002	4105155	4105215	r	114
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	003	4105274	4105324	t	116
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	004	4105468	4105528	i	105
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	005	4105436	4105556	f	102
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	006	4105550	4105668	i	105
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	007	4105960	4106045	c	99
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	008	4105917	4106034	i	105
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	009	4106088	4106162	a	97
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	010	4106782	4106908	l	108
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	011	4106430	4106553	 	32
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	012	4106100	4106249	p	112
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	013	4107208	4107335	y	121
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	014	4106547	4106666	t	116
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	015	4106512	4106581	h	104
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	016	4107940	4108086	o	111
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	017	4106600	4106664	n	110
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	018	4107040	4107156	 	32
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	019	4108168	4108238	s	115
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	020	4108021	4108107	c	99
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	021	4107600	4107705	i	105
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	022	4108255	4108344	e	101
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	023	4108300	4108365	n	110
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	024	4108680	4108807	c	99
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	025	4109392	4109460	e	101
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	026	4108450	4108566	 	32
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	027	4108744	4108859	i	105
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	028	4109860	4109957	n	110
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	029	4108780	4108840	t	116
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	030	4110104	4110251	e	101
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	031	4110670	4110759	l	108
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	032	4109185	4109334	l	108
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	033	4110824	4110896	i	105
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	034	4109983	4110049	g	103
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	035	4111222	4111297	e	101
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	036	4109025	4109104	n	110
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	037	4111084	4111199	c	99
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	038	4110143	4110277	e	101
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	039	4110206	4110326	 	32
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	040	4112488	4112542	m	109
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	041	4110640	4110694	a	97
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	042	4109141	4109258	c	99
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	043	4109956	4110031	h	104
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	044	4112568	4112681	i	105
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	045	4111116	4111224	n	110
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	046	4110580	4110702	e	101
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	047	4111762	4111889	 	32
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	048	4112238	4112351	w	119
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	049	4114072	4114219	o	111
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	050	4114212	4114336	r	114
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	051	4110900	4110972	l	108
+042	006	artificial python science intelligence machine world	artificial python science intelligence machine world	052	4113364	4113445	d	100
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	001	4106000	4106106	j	106
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	002	4106173	4106231	u	117
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	003	4106226	4106282	m	109
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	004	4106555	4106676	p	112
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	005	4106780	4106846	s	115
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	006	4106775	4106904	 	32
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	007	4106792	4106906	m	109
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	008	4106749	4106893	a	97
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	009	4107440	4107582	c	99
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	010	4107701	4107769	h	104
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	011	4107110	4107229	i	105
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	012	4107760	4107893	n	110
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	013	4108316	4108396	e	101
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	014	4107898	4107948	 	32
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	015	4108366	4108416	d	100
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	016	4108445	4108546	a	97
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	017	4107936	4108071	t	116
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	018	4108907	4109042	a	97
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	019	4108880	4108931	 	32
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	020	4109515	4109577	j	106
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	021	4108120	4108201	u	117
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	022	4110032	4110137	m	109
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	023	4110026	4110152	p	112
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	024	4109887	4109952	s	115
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	025	4108784	4108918	 	32
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	026	4110000	4110085	d	100
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	027	4109640	4109785	a	97
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	028	4110671	4110744	t	116
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	029	4111096	4111215	a	97
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	030	4109712	4109765	 	32
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	031	4110140	4110198	a	97
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	032	4110061	4110178	r	114
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	033	4111152	4111232	t	116
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	034	4111643	4111742	i	105
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	035	4109978	4110035	f	102
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	036	4110305	4110397	i	105
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	037	4111040	4111187	c	99
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	038	4110033	4110172	i	105
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	039	4112308	4112371	a	97
+042	007	jumps machine data jumps data artificial	jumps machine data jumps data artificial	040	4112981	4113129	l	108
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	001	4107000	4107110	f	102
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	002	4107157	4107225	o	111
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	003	4107262	4107370	x	120
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	004	4107390	4107492	 	32
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	005	4107616	4107751	l	108
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	006	4107730	4107802	a	97
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	007	4107930	4108070	z	122
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	008	4108302	4108396	y	121
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	009	4107984	4108113	 	32
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	010	4108179	4108297	i	105
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	011	4108900	4108968	n	110
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	012	4109134	4109254	t	116
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	013	4109136	4109228	e	101
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	014	4109431	4109502	l	108
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	015	4109744	4109801	l	108
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	016	4109955	4110022	i	105
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	017	4108616	4108670	g	103
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	018	4109312	4109409	e	101
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	019	4110204	4110279	n	110
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	020	4110268	4110375	c	99
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	021	4110140	4110239	e	101
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	022	4109646	4109710	 	32
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	023	4110190	4110318	q	113
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	024	4110450	4110512	u	117
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	025	4109592	4109719	i	105
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	026	4109775	4109906	c	99
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	027	4111914	4111965	k	107
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	028	4110564	4110703	 	32
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	029	4110304	4110398	m	109
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	030	4112481	4112604	a	97
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	031	4112940	4112991	c	99
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	032	4112301	4112408	h	104
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	033	4111064	4111127	i	105
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	034	4111851	4111954	n	110
+042	008	fox lazy intelligence quick machine	fox lazy intelligence quick machine	035	4113732	4113840	e	101
+042	009	jumps jumps the the the	jumps jumps the the the	001	4108000	4108128	j	106
+042	009	jumps jumps the the the	jumps jumps the the the	002	4108143	4108215	u	117
+042	009	jumps jumps the the the	jumps jumps the the the	003	4108388	4108463	m	109
+042	009	jumps jumps the the the	jumps jumps the the the	004	4108342	4108399	p	112
+042	009	jumps jumps the the the	jumps jumps the the the	005	4108468	4108538	s	115
+042	009	jumps jumps the the the	jumps jumps the the the	006	4108595	4108708	 	32
+042	009	jumps jumps the the the	jumps jumps the the the	007	4108762	4108823	j	106
+042	009	jumps jumps the the the	jumps jumps the the the	008	4109022	4109163	u	117
+042	009	jumps jumps the the the	jumps jumps the the the	009	4109280	4109375	m	109
+042	009	jumps jumps the the the	jumps jumps the the the	010	4109665	4109760	p	112
+042	009	jumps jumps the the the	jumps jumps the the the	011	4109650	4109719	s	115
+042	009	jumps jumps the the the	jumps jumps the the the	012	4109507	4109560	 	32
+042	009	jumps jumps the the the	jumps jumps the the the	013	4110172	4110269	t	116
+042	009	jumps jumps the the the	jumps jumps the the the	014	4109573	4109671	h	104
+042	009	jumps jumps the the the	jumps jumps the the the	015	4109820	4109967	e	101
+042	009	jumps jumps the the the	jumps jumps the the the	016	4110550	4110676	 	32
+042	009	jumps jumps the the the	jumps jumps the the the	017	4109712	4109769	t	116
+042	009	jumps jumps the the the	jumps jumps the the the	018	4111332	4111447	h	104
+042	009	jumps jumps the the the	jumps jumps the the the	019	4111348	4111445	e	101
+042	009	jumps jumps the the the	jumps jumps the the the	020	4111762	4111901	 	32
+042	009	jumps jumps the the the	jumps jumps the the the	021	4110900	4110981	t	116
+042	009	jumps jumps the the the	jumps jumps the the the	022	4111045	4111145	h	104
+042	009	jumps jumps the the the	jumps jumps the the the	023	4110530	4110659	e	101
+042	010	artificial world science hello programming	artificial world science hello programming	001	4109000	4109075	a	97
+042	010	artificial world science hello programming	artificial world science hello programming	002	4109108	4109245	r	114
+042	010	artificial world science hello programming	artificial world science hello programming	003	4109398	4109452	t	116
+042	010	artificial world science hello programming	artificial world science hello programming	004	4109519	4109602	i	105
+042	010	artificial world science hello programming	artificial world science hello programming	005	4109796	4109889	f	102
+042	010	artificial world science hello programming	artificial world science hello programming	006	4109725	4109814	i	105
+042	010	artificial world science hello programming	artificial world science hello programming	007	4109906	4110014	c	99
+042	010	artificial world science hello programming	artificial world science hello programming	008	4110358	4110436	i	105
+042	010	artificial world science hello programming	artificial world science hello programming	009	4109936	4110004	a	97
+042	010	artificial world science hello programming	artificial world science hello programming	010	4110620	4110690	l	108
+042	010	artificial world science hello programming	artificial world science hello programming	011	4110010	4110147	 	32
+042	010	artificial world science hello programming	artificial world science hello programming	012	4110837	4110904	w	119
+042	010	artificial world science hello programming	artificial world science hello programming	013	4110524	4110669	o	111
+042	010	artificial world science hello programming	artificial world science hello programming	014	4111457	4111558	r	114
+042	010	artificial world science hello programming	artificial world science hello programming	015	4110722	4110795	l	108
+042	010	artificial world science hello programming	artificial world science hello programming	016	4111265	4111338	d	100
+042	010	artificial world science hello programming	artificial world science hello programming	017	4110760	4110907	 	32
+042	010	artificial world science hello programming	artificial world science hello programming	018	4112247	4112311	s	115
+042	010	artificial world science hello programming	artificial world science hello programming	019	4110944	4111064	c	99
+042	010	artificial world science hello programming	artificial world science hello programming	020	4111166	4111217	i	105
+042	010	artificial world science hello programming	artificial world science hello programming	021	4111740	4111803	e	101
+042	010	artificial world science hello programming	artificial world science hello programming	022	4111184	4111255	n	110
+042	010	artificial world science hello programming	artificial world science hello programming	023	4111486	4111598	c	99
+042	010	artificial world science hello programming	artificial world science hello programming	024	4112473	4112578	e	101
+042	010	artificial world science hello programming	artificial world science hello programming	025	4113344	4113468	 	32
+042	010	artificial world science hello programming	artificial world science hello programming	026	4113700	4113755	h	104
+042	010	artificial world science hello programming	artificial world science hello programming	027	4114096	4114212	e	101
+042	010	artificial world science hello programming	artificial world science hello programming	028	4114184	4114267	l	108
+042	010	artificial world science hello programming	artificial world science hello programming	029	4114264	4114347	l	108
+042	010	artificial world science hello programming	artificial world science hello programming	030	4112422	4112509	o	111
+042	010	artificial world science hello programming	artificial world science hello programming	031	4114160	4114212	 	32
+042	010	artificial world science hello programming	artificial world science hello programming	032	4112410	4112556	p	112
+042	010	artificial world science hello programming	artificial world science hello programming	033	4114984	4115067	r	114
+042	010	artificial world science hello programming	artificial world science hello programming	034	4113356	4113476	o	111
+042	010	artificial world science hello programming	artificial world science hello programming	035	4112808	4112956	g	103
+042	010	artificial world science hello programming	artificial world science hello programming	036	4113830	4113963	r	114
+042	010	artificial world science hello programming	artificial world science hello programming	037	4113284	4113342	a	97
+042	010	artificial world science hello programming	artificial world science hello programming	038	4115808	4115923	m	109
+042	010	artificial world science hello programming	artificial world science hello programming	039	4114776	4114924	m	109
+042	010	artificial world science hello programming	artificial world science hello programming	040	4115357	4115455	i	105
+042	010	artificial world science hello programming	artificial world science hello programming	041	4116240	4116309	n	110
+042	010	artificial world science hello programming	artificial world science hello programming	042	4115355	4115444	g	103

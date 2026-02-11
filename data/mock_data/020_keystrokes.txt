@@ -1,0 +1,416 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	001	1900000	1900056	i	105
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	002	1900194	1900300	n	110
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	003	1900302	1900393	t	116
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	004	1900444	1900587	e	101
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	005	1900568	1900678	l	108
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	006	1900835	1900899	l	108
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	007	1900744	1900811	i	105
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	008	1900910	1900999	g	103
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	009	1901016	1901136	e	101
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	010	1901674	1901779	n	110
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	011	1901230	1901329	c	99
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	012	1902013	1902114	e	101
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	013	1901668	1901753	 	32
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	014	1902249	1902395	a	97
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	015	1901582	1901723	r	114
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	016	1901845	1901910	t	116
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	017	1902816	1902931	i	105
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	018	1902839	1902941	f	102
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	019	1903042	1903147	i	105
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	020	1902755	1902822	c	99
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	021	1902900	1903010	i	105
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	022	1902394	1902487	a	97
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	023	1902728	1902830	l	108
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	024	1903128	1903240	 	32
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	025	1903384	1903498	t	116
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	026	1903975	1904086	h	104
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	027	1903848	1903915	e	101
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	028	1904671	1904741	 	32
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	029	1905572	1905625	h	104
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	030	1903132	1903207	e	101
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	031	1903690	1903751	l	108
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	032	1903286	1903411	l	108
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	033	1905280	1905381	o	111
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	034	1903762	1903816	 	32
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	035	1904658	1904741	m	109
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	036	1903745	1903840	a	97
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	037	1904320	1904376	c	99
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	038	1904514	1904635	h	104
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	039	1905510	1905570	i	105
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	040	1906552	1906656	n	110
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	041	1904120	1904244	e	101
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	042	1906355	1906488	 	32
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	043	1907686	1907760	t	116
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	044	1906536	1906654	h	104
+020	001	intelligence artificial the hello machine the	intelligence artificial the hello machine the	045	1908052	1908122	e	101
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	001	1901000	1901142	j	106
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	002	1901165	1901245	u	117
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	003	1901246	1901365	m	109
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	004	1901483	1901548	p	112
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	005	1901720	1901793	s	115
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	006	1901950	1902078	 	32
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	007	1901822	1901899	m	109
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	008	1902064	1902195	a	97
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	009	1901824	1901937	c	99
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	010	1902206	1902317	h	104
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	011	1902800	1902934	i	105
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	012	1902925	1903028	n	110
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	013	1902608	1902724	e	101
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	014	1903405	1903539	 	32
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	015	1903506	1903623	s	115
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	016	1903310	1903431	c	99
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	017	1904056	1904111	i	105
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	018	1904060	1904129	e	101
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	019	1904312	1904404	n	110
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	020	1904591	1904739	c	99
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	021	1904040	1904095	e	101
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	022	1905074	1905223	 	32
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	023	1904410	1904505	o	111
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	024	1903806	1903900	v	118
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	025	1904408	1904482	e	101
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	026	1904525	1904613	r	114
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	027	1904744	1904830	 	32
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	028	1905671	1905740	w	119
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	029	1904444	1904496	o	111
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	030	1905495	1905599	r	114
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	031	1904660	1904806	l	108
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	032	1904720	1904838	d	100
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	033	1906408	1906556	 	32
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	034	1907303	1907452	a	97
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	035	1904400	1904494	r	114
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	036	1905690	1905746	t	116
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	037	1905284	1905336	i	105
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	038	1904922	1905061	f	102
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	039	1908258	1908395	i	105
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	040	1907162	1907234	c	99
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	041	1906320	1906409	i	105
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	042	1908626	1908755	a	97
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	043	1905326	1905400	l	108
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	044	1905429	1905570	 	32
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	045	1909536	1909662	s	115
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	046	1906130	1906180	c	99
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	047	1910016	1910077	i	105
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	048	1907533	1907591	e	101
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	049	1909064	1909193	n	110
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	050	1908154	1908282	c	99
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	051	1909300	1909443	e	101
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	052	1908956	1909060	 	32
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	053	1909892	1909976	o	111
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	054	1911547	1911601	v	118
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	055	1910882	1910951	e	101
+020	002	jumps machine science over world artificial science over	jumps machine science over world artificial science over	056	1909525	1909582	r	114
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	001	1902000	1902104	p	112
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	002	1902182	1902263	r	114
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	003	1902394	1902524	o	111
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	004	1902480	1902543	g	103
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	005	1902476	1902536	r	114
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	006	1902980	1903068	a	97
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	007	1903038	1903187	m	109
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	008	1902994	1903117	m	109
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	009	1903088	1903152	i	105
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	010	1903323	1903464	n	110
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	011	1903140	1903262	g	103
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	012	1903474	1903581	 	32
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	013	1904268	1904396	l	108
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	014	1903820	1903935	a	97
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	015	1904212	1904300	z	122
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	016	1903845	1903987	y	121
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	017	1904896	1904954	 	32
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	018	1904686	1904831	m	109
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	019	1904088	1904219	a	97
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	020	1905781	1905906	c	99
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	021	1904460	1904564	h	104
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	022	1904289	1904420	i	105
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	023	1906180	1906265	n	110
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	024	1904415	1904524	e	101
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	025	1904520	1904660	 	32
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	026	1905575	1905637	h	104
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	027	1904964	1905079	e	101
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	028	1906995	1907082	l	108
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	029	1905864	1905975	l	108
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	030	1906698	1906835	o	111
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	031	1906200	1906336	 	32
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	032	1905627	1905769	a	97
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	033	1906704	1906790	r	114
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	034	1907511	1907611	t	116
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	035	1907168	1907313	i	105
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	036	1905675	1905767	f	102
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	037	1909092	1909230	i	105
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	038	1909363	1909425	c	99
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	039	1908308	1908358	i	105
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	040	1909371	1909468	a	97
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	041	1908520	1908651	l	108
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	042	1907002	1907074	 	32
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	043	1907544	1907667	d	100
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	044	1906515	1906661	o	111
+020	003	programming lazy machine hello artificial dog	programming lazy machine hello artificial dog	045	1908600	1908722	g	103
+020	004	world brown brown dog world	world brown brown dog world	001	1903000	1903093	w	119
+020	004	world brown brown dog world	world brown brown dog world	002	1903145	1903269	o	111
+020	004	world brown brown dog world	world brown brown dog world	003	1903208	1903304	r	114
+020	004	world brown brown dog world	world brown brown dog world	004	1903372	1903465	l	108
+020	004	world brown brown dog world	world brown brown dog world	005	1903512	1903618	d	100
+020	004	world brown brown dog world	world brown brown dog world	006	1903830	1903966	 	32
+020	004	world brown brown dog world	world brown brown dog world	007	1904122	1904248	b	98
+020	004	world brown brown dog world	world brown brown dog world	008	1903833	1903902	r	114
+020	004	world brown brown dog world	world brown brown dog world	009	1904112	1904227	o	111
+020	004	world brown brown dog world	world brown brown dog world	010	1904071	1904191	w	119
+020	004	world brown brown dog world	world brown brown dog world	011	1904370	1904503	n	110
+020	004	world brown brown dog world	world brown brown dog world	012	1904188	1904281	 	32
+020	004	world brown brown dog world	world brown brown dog world	013	1904332	1904417	b	98
+020	004	world brown brown dog world	world brown brown dog world	014	1904430	1904485	r	114
+020	004	world brown brown dog world	world brown brown dog world	015	1905394	1905480	o	111
+020	004	world brown brown dog world	world brown brown dog world	016	1905205	1905324	w	119
+020	004	world brown brown dog world	world brown brown dog world	017	1905240	1905333	n	110
+020	004	world brown brown dog world	world brown brown dog world	018	1905737	1905800	 	32
+020	004	world brown brown dog world	world brown brown dog world	019	1906186	1906248	d	100
+020	004	world brown brown dog world	world brown brown dog world	020	1905888	1906034	o	111
+020	004	world brown brown dog world	world brown brown dog world	021	1906960	1907052	g	103
+020	004	world brown brown dog world	world brown brown dog world	022	1906570	1906701	 	32
+020	004	world brown brown dog world	world brown brown dog world	023	1905266	1905410	w	119
+020	004	world brown brown dog world	world brown brown dog world	024	1907462	1907600	o	111
+020	004	world brown brown dog world	world brown brown dog world	025	1906912	1906991	r	114
+020	004	world brown brown dog world	world brown brown dog world	026	1906625	1906758	l	108
+020	004	world brown brown dog world	world brown brown dog world	027	1906848	1906900	d	100
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	001	1904000	1904142	s	115
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	002	1904174	1904225	c	99
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	003	1904262	1904343	i	105
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	004	1904459	1904523	e	101
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	005	1904548	1904652	n	110
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	006	1904830	1904900	c	99
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	007	1904918	1904993	e	101
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	008	1905029	1905163	 	32
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	009	1904864	1904959	i	105
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	010	1905386	1905441	n	110
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	011	1905410	1905520	t	116
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	012	1905320	1905372	e	101
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	013	1905620	1905734	l	108
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	014	1905599	1905670	l	108
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	015	1906002	1906135	i	105
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	016	1906670	1906742	g	103
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	017	1906368	1906435	e	101
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	018	1906941	1907068	n	110
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	019	1907204	1907348	c	99
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	020	1907211	1907273	e	101
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	021	1906740	1906874	 	32
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	022	1907003	1907129	b	98
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	023	1908026	1908171	r	114
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	024	1907473	1907570	o	111
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	025	1908128	1908233	w	119
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	026	1907250	1907330	n	110
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	027	1909148	1909205	 	32
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	028	1906997	1907102	w	119
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	029	1908648	1908780	o	111
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	030	1908669	1908738	r	114
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	031	1907780	1907869	l	108
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	032	1907410	1907499	d	100
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	033	1907808	1907939	 	32
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	034	1908092	1908225	i	105
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	035	1907842	1907955	n	110
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	036	1909530	1909639	t	116
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	037	1909544	1909617	e	101
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	038	1908551	1908653	l	108
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	039	1909092	1909176	l	108
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	040	1910786	1910887	i	105
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	041	1911680	1911763	g	103
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	042	1910847	1910938	e	101
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	043	1912148	1912236	n	110
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	044	1910106	1910208	c	99
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	045	1911260	1911313	e	101
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	046	1912460	1912553	 	32
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	047	1911590	1911671	l	108
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	048	1911332	1911450	a	97
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	049	1909520	1909599	z	122
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	050	1912820	1912889	y	121
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	051	1912400	1912482	 	32
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	052	1909508	1909613	l	108
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	053	1912840	1912988	a	97
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	054	1913275	1913372	z	122
+020	005	science intelligence brown world intelligence lazy lazy	science intelligence brown world intelligence lazy lazy	055	1909508	1909577	y	121
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	001	1905000	1905130	b	98
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	002	1905142	1905265	r	114
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	003	1905226	1905307	o	111
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	004	1905561	1905678	w	119
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	005	1905560	1905649	n	110
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	006	1905785	1905889	 	32
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	007	1905834	1905935	d	100
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	008	1905742	1905837	o	111
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	009	1906464	1906531	g	103
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	010	1906737	1906798	 	32
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	011	1906190	1906315	q	113
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	012	1906320	1906451	u	117
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	013	1906860	1906960	i	105
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	014	1907002	1907127	c	99
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	015	1906414	1906523	k	107
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	016	1907550	1907660	 	32
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	017	1907624	1907739	o	111
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	018	1907686	1907741	v	118
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	019	1908546	1908678	e	101
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	020	1907451	1907562	r	114
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	021	1908700	1908815	 	32
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	022	1908213	1908295	d	100
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	023	1908410	1908515	o	111
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	024	1908151	1908245	g	103
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	025	1909560	1909676	 	32
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	026	1907850	1907997	d	100
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	027	1908146	1908233	o	111
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	028	1910238	1910353	g	103
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	029	1909368	1909468	 	32
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	030	1910655	1910710	p	112
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	031	1909230	1909317	r	114
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	032	1908689	1908768	o	111
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	033	1909448	1909564	g	103
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	034	1910907	1910970	r	114
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	035	1909522	1909662	a	97
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	036	1910600	1910686	m	109
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	037	1911660	1911723	m	109
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	038	1909329	1909422	i	105
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	039	1909370	1909476	n	110
+020	006	brown dog quick over dog dog programming	brown dog quick over dog dog programming	040	1912020	1912120	g	103
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	001	1906000	1906113	i	105
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	002	1906139	1906258	n	110
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	003	1906318	1906390	t	116
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	004	1906504	1906622	e	101
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	005	1906444	1906536	l	108
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	006	1906765	1906898	l	108
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	007	1907026	1907146	i	105
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	008	1907267	1907346	g	103
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	009	1906976	1907104	e	101
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	010	1907098	1907151	n	110
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	011	1907780	1907897	c	99
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	012	1907199	1907281	e	101
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	013	1907608	1907718	 	32
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	014	1908340	1908392	l	108
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	015	1907582	1907731	a	97
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	016	1908490	1908557	z	122
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	017	1908416	1908484	y	121
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	018	1909298	1909427	 	32
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	019	1909114	1909190	h	104
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	020	1908470	1908561	e	101
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	021	1908060	1908143	l	108
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	022	1909108	1909253	l	108
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	023	1910268	1910408	o	111
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	024	1908438	1908532	 	32
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	025	1908448	1908586	q	113
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	026	1910675	1910816	u	117
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	027	1908704	1908792	i	105
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	028	1908889	1909030	c	99
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	029	1909640	1909705	k	107
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	030	1911481	1911623	 	32
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	031	1910050	1910151	f	102
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	032	1910774	1910837	o	111
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	033	1911824	1911971	x	120
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	034	1910752	1910881	 	32
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	035	1912086	1912166	m	109
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	036	1912195	1912319	a	97
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	037	1910896	1910995	c	99
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	038	1912253	1912363	h	104
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	039	1910484	1910583	i	105
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	040	1912318	1912394	n	110
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	041	1912320	1912461	e	101
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	042	1911412	1911477	 	32
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	043	1910536	1910660	m	109
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	044	1911848	1911942	a	97
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	045	1911984	1912035	c	99
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	046	1912480	1912575	h	104
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	047	1912716	1912796	i	105
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	048	1914131	1914259	n	110
+020	007	intelligence lazy hello quick fox machine machine	intelligence lazy hello quick fox machine machine	049	1911808	1911930	e	101
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	001	1907000	1907143	l	108
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	002	1907176	1907301	a	97
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	003	1907258	1907341	z	122
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	004	1907474	1907589	y	121
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	005	1907596	1907701	 	32
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	006	1907755	1907838	s	115
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	007	1907696	1907777	c	99
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	008	1907924	1908065	i	105
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	009	1908560	1908671	e	101
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	010	1908035	1908150	n	110
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	011	1908610	1908702	c	99
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	012	1908166	1908222	e	101
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	013	1908320	1908468	 	32
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	014	1908950	1909018	d	100
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	015	1908722	1908855	o	111
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	016	1908545	1908689	g	103
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	017	1908920	1909068	 	32
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	018	1909533	1909628	d	100
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	019	1910042	1910167	o	111
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	020	1909033	1909133	g	103
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	021	1909780	1909872	 	32
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	022	1910969	1911089	d	100
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	023	1911290	1911390	o	111
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	024	1910381	1910498	g	103
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	025	1911296	1911426	 	32
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	026	1909975	1910121	t	116
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	027	1911784	1911922	h	104
+020	008	lazy science dog dog dog the	lazy science dog dog dog the	028	1911833	1911948	e	101
+020	009	learning the machine the science lazy	learning the machine the science lazy	001	1908000	1908116	l	108
+020	009	learning the machine the science lazy	learning the machine the science lazy	002	1908130	1908225	e	101
+020	009	learning the machine the science lazy	learning the machine the science lazy	003	1908352	1908500	a	97
+020	009	learning the machine the science lazy	learning the machine the science lazy	004	1908456	1908552	r	114
+020	009	learning the machine the science lazy	learning the machine the science lazy	005	1908564	1908646	n	110
+020	009	learning the machine the science lazy	learning the machine the science lazy	006	1908830	1908955	i	105
+020	009	learning the machine the science lazy	learning the machine the science lazy	007	1908612	1908686	n	110
+020	009	learning the machine the science lazy	learning the machine the science lazy	008	1909351	1909402	g	103
+020	009	learning the machine the science lazy	learning the machine the science lazy	009	1909512	1909601	 	32
+020	009	learning the machine the science lazy	learning the machine the science lazy	010	1909629	1909761	t	116
+020	009	learning the machine the science lazy	learning the machine the science lazy	011	1909710	1909812	h	104
+020	009	learning the machine the science lazy	learning the machine the science lazy	012	1909254	1909340	e	101
+020	009	learning the machine the science lazy	learning the machine the science lazy	013	1909668	1909784	 	32
+020	009	learning the machine the science lazy	learning the machine the science lazy	014	1909781	1909857	m	109
+020	009	learning the machine the science lazy	learning the machine the science lazy	015	1910016	1910119	a	97
+020	009	learning the machine the science lazy	learning the machine the science lazy	016	1909965	1910098	c	99
+020	009	learning the machine the science lazy	learning the machine the science lazy	017	1910624	1910702	h	104
+020	009	learning the machine the science lazy	learning the machine the science lazy	018	1911264	1911315	i	105
+020	009	learning the machine the science lazy	learning the machine the science lazy	019	1910646	1910759	n	110
+020	009	learning the machine the science lazy	learning the machine the science lazy	020	1911306	1911358	e	101
+020	009	learning the machine the science lazy	learning the machine the science lazy	021	1911200	1911301	 	32
+020	009	learning the machine the science lazy	learning the machine the science lazy	022	1911003	1911069	t	116
+020	009	learning the machine the science lazy	learning the machine the science lazy	023	1911014	1911087	h	104
+020	009	learning the machine the science lazy	learning the machine the science lazy	024	1910898	1910997	e	101
+020	009	learning the machine the science lazy	learning the machine the science lazy	025	1912056	1912126	 	32
+020	009	learning the machine the science lazy	learning the machine the science lazy	026	1911900	1911988	s	115
+020	009	learning the machine the science lazy	learning the machine the science lazy	027	1912472	1912547	c	99
+020	009	learning the machine the science lazy	learning the machine the science lazy	028	1912023	1912130	i	105
+020	009	learning the machine the science lazy	learning the machine the science lazy	029	1913264	1913407	e	101
+020	009	learning the machine the science lazy	learning the machine the science lazy	030	1912843	1912957	n	110
+020	009	learning the machine the science lazy	learning the machine the science lazy	031	1912320	1912466	c	99
+020	009	learning the machine the science lazy	learning the machine the science lazy	032	1914138	1914191	e	101
+020	009	learning the machine the science lazy	learning the machine the science lazy	033	1913760	1913855	 	32
+020	009	learning the machine the science lazy	learning the machine the science lazy	034	1912257	1912345	l	108
+020	009	learning the machine the science lazy	learning the machine the science lazy	035	1911570	1911666	a	97
+020	009	learning the machine the science lazy	learning the machine the science lazy	036	1914440	1914560	z	122
+020	009	learning the machine the science lazy	learning the machine the science lazy	037	1912896	1913044	y	121
+020	010	dog machine brown science machine	dog machine brown science machine	001	1909000	1909131	d	100
+020	010	dog machine brown science machine	dog machine brown science machine	002	1909134	1909208	o	111
+020	010	dog machine brown science machine	dog machine brown science machine	003	1909294	1909348	g	103
+020	010	dog machine brown science machine	dog machine brown science machine	004	1909438	1909495	 	32
+020	010	dog machine brown science machine	dog machine brown science machine	005	1909484	1909551	m	109
+020	010	dog machine brown science machine	dog machine brown science machine	006	1909530	1909585	a	97
+020	010	dog machine brown science machine	dog machine brown science machine	007	1909798	1909946	c	99
+020	010	dog machine brown science machine	dog machine brown science machine	008	1909938	1910024	h	104
+020	010	dog machine brown science machine	dog machine brown science machine	009	1910416	1910492	i	105
+020	010	dog machine brown science machine	dog machine brown science machine	010	1910782	1910884	n	110
+020	010	dog machine brown science machine	dog machine brown science machine	011	1910340	1910472	e	101
+020	010	dog machine brown science machine	dog machine brown science machine	012	1911145	1911272	 	32
+020	010	dog machine brown science machine	dog machine brown science machine	013	1910848	1910972	b	98
+020	010	dog machine brown science machine	dog machine brown science machine	014	1911093	1911201	r	114
+020	010	dog machine brown science machine	dog machine brown science machine	015	1910582	1910712	o	111
+020	010	dog machine brown science machine	dog machine brown science machine	016	1911985	1912109	w	119
+020	010	dog machine brown science machine	dog machine brown science machine	017	1911768	1911881	n	110
+020	010	dog machine brown science machine	dog machine brown science machine	018	1911397	1911498	 	32
+020	010	dog machine brown science machine	dog machine brown science machine	019	1911682	1911752	s	115
+020	010	dog machine brown science machine	dog machine brown science machine	020	1911641	1911786	c	99
+020	010	dog machine brown science machine	dog machine brown science machine	021	1911920	1911976	i	105
+020	010	dog machine brown science machine	dog machine brown science machine	022	1912759	1912906	e	101
+020	010	dog machine brown science machine	dog machine brown science machine	023	1912608	1912676	n	110
+020	010	dog machine brown science machine	dog machine brown science machine	024	1912703	1912828	c	99
+020	010	dog machine brown science machine	dog machine brown science machine	025	1913632	1913715	e	101
+020	010	dog machine brown science machine	dog machine brown science machine	026	1912925	1912995	 	32
+020	010	dog machine brown science machine	dog machine brown science machine	027	1912822	1912885	m	109
+020	010	dog machine brown science machine	dog machine brown science machine	028	1911997	1912075	a	97
+020	010	dog machine brown science machine	dog machine brown science machine	029	1914012	1914103	c	99
+020	010	dog machine brown science machine	dog machine brown science machine	030	1914104	1914233	h	104
+020	010	dog machine brown science machine	dog machine brown science machine	031	1912570	1912652	i	105
+020	010	dog machine brown science machine	dog machine brown science machine	032	1912782	1912920	n	110
+020	010	dog machine brown science machine	dog machine brown science machine	033	1912680	1912826	e	101

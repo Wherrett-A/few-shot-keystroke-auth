@@ -1,0 +1,487 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+027	001	over dog science hello artificial	over dog science hello artificial	001	2600000	2600122	o	111
+027	001	over dog science hello artificial	over dog science hello artificial	002	2600118	2600205	v	118
+027	001	over dog science hello artificial	over dog science hello artificial	003	2600288	2600341	e	101
+027	001	over dog science hello artificial	over dog science hello artificial	004	2600375	2600478	r	114
+027	001	over dog science hello artificial	over dog science hello artificial	005	2600584	2600689	 	32
+027	001	over dog science hello artificial	over dog science hello artificial	006	2600660	2600774	d	100
+027	001	over dog science hello artificial	over dog science hello artificial	007	2600870	2600975	o	111
+027	001	over dog science hello artificial	over dog science hello artificial	008	2601008	2601090	g	103
+027	001	over dog science hello artificial	over dog science hello artificial	009	2601408	2601546	 	32
+027	001	over dog science hello artificial	over dog science hello artificial	010	2601575	2601669	s	115
+027	001	over dog science hello artificial	over dog science hello artificial	011	2601430	2601573	c	99
+027	001	over dog science hello artificial	over dog science hello artificial	012	2601958	2602101	i	105
+027	001	over dog science hello artificial	over dog science hello artificial	013	2602388	2602533	e	101
+027	001	over dog science hello artificial	over dog science hello artificial	014	2601755	2601887	n	110
+027	001	over dog science hello artificial	over dog science hello artificial	015	2601778	2601898	c	99
+027	001	over dog science hello artificial	over dog science hello artificial	016	2601680	2601747	e	101
+027	001	over dog science hello artificial	over dog science hello artificial	017	2603008	2603058	 	32
+027	001	over dog science hello artificial	over dog science hello artificial	018	2603383	2603527	h	104
+027	001	over dog science hello artificial	over dog science hello artificial	019	2603312	2603457	e	101
+027	001	over dog science hello artificial	over dog science hello artificial	020	2602508	2602611	l	108
+027	001	over dog science hello artificial	over dog science hello artificial	021	2602840	2602970	l	108
+027	001	over dog science hello artificial	over dog science hello artificial	022	2603717	2603814	o	111
+027	001	over dog science hello artificial	over dog science hello artificial	023	2603916	2604020	 	32
+027	001	over dog science hello artificial	over dog science hello artificial	024	2603979	2604095	a	97
+027	001	over dog science hello artificial	over dog science hello artificial	025	2602832	2602888	r	114
+027	001	over dog science hello artificial	over dog science hello artificial	026	2602800	2602924	t	116
+027	001	over dog science hello artificial	over dog science hello artificial	027	2602912	2602975	i	105
+027	001	over dog science hello artificial	over dog science hello artificial	028	2602781	2602878	f	102
+027	001	over dog science hello artificial	over dog science hello artificial	029	2603752	2603871	i	105
+027	001	over dog science hello artificial	over dog science hello artificial	030	2605684	2605749	c	99
+027	001	over dog science hello artificial	over dog science hello artificial	031	2603780	2603832	i	105
+027	001	over dog science hello artificial	over dog science hello artificial	032	2603720	2603848	a	97
+027	001	over dog science hello artificial	over dog science hello artificial	033	2604288	2604437	l	108
+027	002	learning over artificial brown learning	learning over artificial brown learning	001	2601000	2601129	l	108
+027	002	learning over artificial brown learning	learning over artificial brown learning	002	2601189	2601302	e	101
+027	002	learning over artificial brown learning	learning over artificial brown learning	003	2601252	2601383	a	97
+027	002	learning over artificial brown learning	learning over artificial brown learning	004	2601357	2601473	r	114
+027	002	learning over artificial brown learning	learning over artificial brown learning	005	2601732	2601794	n	110
+027	002	learning over artificial brown learning	learning over artificial brown learning	006	2601785	2601909	i	105
+027	002	learning over artificial brown learning	learning over artificial brown learning	007	2601732	2601845	n	110
+027	002	learning over artificial brown learning	learning over artificial brown learning	008	2602274	2602337	g	103
+027	002	learning over artificial brown learning	learning over artificial brown learning	009	2602224	2602352	 	32
+027	002	learning over artificial brown learning	learning over artificial brown learning	010	2602701	2602801	o	111
+027	002	learning over artificial brown learning	learning over artificial brown learning	011	2602340	2602426	v	118
+027	002	learning over artificial brown learning	learning over artificial brown learning	012	2602782	2602903	e	101
+027	002	learning over artificial brown learning	learning over artificial brown learning	013	2602644	2602770	r	114
+027	002	learning over artificial brown learning	learning over artificial brown learning	014	2602729	2602851	 	32
+027	002	learning over artificial brown learning	learning over artificial brown learning	015	2603604	2603735	a	97
+027	002	learning over artificial brown learning	learning over artificial brown learning	016	2602500	2602575	r	114
+027	002	learning over artificial brown learning	learning over artificial brown learning	017	2602600	2602667	t	116
+027	002	learning over artificial brown learning	learning over artificial brown learning	018	2604179	2604273	i	105
+027	002	learning over artificial brown learning	learning over artificial brown learning	019	2603646	2603741	f	102
+027	002	learning over artificial brown learning	learning over artificial brown learning	020	2604610	2604663	i	105
+027	002	learning over artificial brown learning	learning over artificial brown learning	021	2603000	2603146	c	99
+027	002	learning over artificial brown learning	learning over artificial brown learning	022	2603121	2603225	i	105
+027	002	learning over artificial brown learning	learning over artificial brown learning	023	2604476	2604581	a	97
+027	002	learning over artificial brown learning	learning over artificial brown learning	024	2603829	2603924	l	108
+027	002	learning over artificial brown learning	learning over artificial brown learning	025	2603592	2603729	 	32
+027	002	learning over artificial brown learning	learning over artificial brown learning	026	2604700	2604764	b	98
+027	002	learning over artificial brown learning	learning over artificial brown learning	027	2603652	2603765	r	114
+027	002	learning over artificial brown learning	learning over artificial brown learning	028	2605752	2605898	o	111
+027	002	learning over artificial brown learning	learning over artificial brown learning	029	2604304	2604442	w	119
+027	002	learning over artificial brown learning	learning over artificial brown learning	030	2604944	2605054	n	110
+027	002	learning over artificial brown learning	learning over artificial brown learning	031	2605320	2605374	 	32
+027	002	learning over artificial brown learning	learning over artificial brown learning	032	2606115	2606183	l	108
+027	002	learning over artificial brown learning	learning over artificial brown learning	033	2606888	2607011	e	101
+027	002	learning over artificial brown learning	learning over artificial brown learning	034	2607072	2607122	a	97
+027	002	learning over artificial brown learning	learning over artificial brown learning	035	2606882	2606974	r	114
+027	002	learning over artificial brown learning	learning over artificial brown learning	036	2605935	2606054	n	110
+027	002	learning over artificial brown learning	learning over artificial brown learning	037	2605212	2605296	i	105
+027	002	learning over artificial brown learning	learning over artificial brown learning	038	2605773	2605915	n	110
+027	002	learning over artificial brown learning	learning over artificial brown learning	039	2605750	2605890	g	103
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	001	2602000	2602094	d	100
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	002	2602124	2602259	a	97
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	003	2602220	2602359	t	116
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	004	2602387	2602512	a	97
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	005	2602608	2602735	 	32
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	006	2602935	2603012	p	112
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	007	2602924	2603062	r	114
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	008	2603099	2603149	o	111
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	009	2603048	2603144	g	103
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	010	2603701	2603839	r	114
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	011	2603430	2603481	a	97
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	012	2603870	2603985	m	109
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	013	2603956	2604010	m	109
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	014	2603391	2603492	i	105
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	015	2604240	2604385	n	110
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	016	2604010	2604109	g	103
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	017	2604960	2605013	 	32
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	018	2604346	2604492	l	108
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	019	2604412	2604483	e	101
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	020	2604926	2605051	a	97
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	021	2604400	2604484	r	114
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	022	2606158	2606270	n	110
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	023	2605850	2605938	i	105
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	024	2606370	2606422	n	110
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	025	2604424	2604535	g	103
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	026	2606125	2606219	 	32
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	027	2606394	2606466	p	112
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	028	2605213	2605329	r	114
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	029	2607264	2607405	o	111
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	030	2606669	2606799	g	103
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	031	2605540	2605619	r	114
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	032	2606030	2606106	a	97
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	033	2605680	2605825	m	109
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	034	2607775	2607912	m	109
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	035	2608086	2608151	i	105
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	036	2607250	2607351	n	110
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	037	2608984	2609067	g	103
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	038	2606810	2606936	 	32
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	039	2607852	2607921	b	98
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	040	2607382	2607438	r	114
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	041	2606760	2606896	o	111
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	042	2606387	2606487	w	119
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	043	2608888	2609037	n	110
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	044	2609310	2609438	 	32
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	045	2608644	2608773	b	98
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	046	2610865	2611014	r	114
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	047	2610418	2610554	o	111
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	048	2609191	2609293	w	119
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	049	2609872	2610016	n	110
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	050	2609252	2609388	 	32
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	051	2610400	2610457	a	97
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	052	2609497	2609586	r	114
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	053	2612244	2612299	t	116
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	054	2608943	2609055	i	105
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	055	2610370	2610493	f	102
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	056	2610910	2611030	i	105
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	057	2611744	2611885	c	99
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	058	2609011	2609079	i	105
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	059	2610294	2610395	a	97
+027	003	data programming learning programming brown brown artificial	data programming learning programming brown brown artificial	060	2612030	2612095	l	108
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	001	2603000	2603074	q	113
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	002	2603164	2603280	u	117
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	003	2603358	2603449	i	105
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	004	2603531	2603604	c	99
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	005	2603760	2603879	k	107
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	006	2603605	2603718	 	32
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	007	2603762	2603851	j	106
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	008	2603805	2603879	u	117
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	009	2604072	2604203	m	109
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	010	2603990	2604125	p	112
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	011	2604540	2604670	s	115
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	012	2604408	2604545	 	32
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	013	2604608	2604750	a	97
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	014	2604300	2604443	r	114
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	015	2605002	2605132	t	116
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	016	2604905	2604966	i	105
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	017	2605624	2605703	f	102
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	018	2605703	2605843	i	105
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	019	2605016	2605151	c	99
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	020	2606040	2606100	i	105
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	021	2605100	2605199	a	97
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	022	2606612	2606663	l	108
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	023	2606146	2606288	 	32
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	024	2605852	2605929	b	98
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	025	2606432	2606513	r	114
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	026	2606475	2606590	o	111
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	027	2606380	2606502	w	119
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	028	2606861	2606978	n	110
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	029	2607564	2607682	 	32
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	030	2606364	2606428	s	115
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	031	2606030	2606153	c	99
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	032	2607185	2607272	i	105
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	033	2607160	2607272	e	101
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	034	2608874	2608928	n	110
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	035	2606536	2606660	c	99
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	036	2607620	2607717	e	101
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	037	2606996	2607096	 	32
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	038	2608365	2608502	f	102
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	039	2608852	2608915	o	111
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	040	2608226	2608282	x	120
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	041	2610680	2610769	 	32
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	042	2611159	2611289	f	102
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	043	2610182	2610239	o	111
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	044	2610310	2610415	x	120
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	045	2610348	2610496	 	32
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	046	2611190	2611255	m	109
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	047	2610498	2610599	a	97
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	048	2611977	2612054	c	99
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	049	2609768	2609841	h	104
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	050	2611379	2611457	i	105
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	051	2612950	2613061	n	110
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	052	2609069	2609130	e	101
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	053	2610332	2610387	 	32
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	054	2611798	2611884	i	105
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	055	2613098	2613164	n	110
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	056	2609215	2609341	t	116
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	057	2613192	2613283	e	101
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	058	2612291	2612424	l	108
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	059	2612744	2612860	l	108
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	060	2611968	2612071	i	105
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	061	2610320	2610469	g	103
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	062	2614956	2615037	e	101
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	063	2610192	2610298	n	110
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	064	2611442	2611511	c	99
+027	004	quick jumps artificial brown science fox fox machine intelligence	quick jumps artificial brown science fox fox machine intelligence	065	2614392	2614522	e	101
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	001	2604000	2604127	p	112
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	002	2604119	2604227	r	114
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	003	2604314	2604415	o	111
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	004	2604318	2604404	g	103
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	005	2604636	2604763	r	114
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	006	2604505	2604566	a	97
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	007	2604978	2605046	m	109
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	008	2605365	2605510	m	109
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	009	2605192	2605276	i	105
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	010	2605440	2605533	n	110
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	011	2605410	2605506	g	103
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	012	2605243	2605322	 	32
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	013	2605872	2605963	l	108
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	014	2605651	2605741	e	101
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	015	2605456	2605586	a	97
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	016	2605725	2605854	r	114
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	017	2607040	2607145	n	110
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	018	2605751	2605826	i	105
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	019	2607348	2607457	n	110
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	020	2607249	2607311	g	103
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	021	2607360	2607488	 	32
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	022	2608158	2608273	q	113
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	023	2607278	2607393	u	117
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	024	2607749	2607867	i	105
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	025	2606784	2606892	c	99
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	026	2608225	2608307	k	107
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	027	2607406	2607537	 	32
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	028	2607024	2607159	l	108
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	029	2607024	2607101	a	97
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	030	2609394	2609479	z	122
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	031	2609940	2610005	y	121
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	032	2610014	2610152	 	32
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	033	2609632	2609709	l	108
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	034	2608158	2608242	e	101
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	035	2609100	2609163	a	97
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	036	2609950	2610066	r	114
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	037	2608752	2608877	n	110
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	038	2608884	2609007	i	105
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	039	2608256	2608344	n	110
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	040	2609967	2610019	g	103
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	041	2609320	2609447	 	32
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	042	2609986	2610055	s	115
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	043	2609628	2609773	c	99
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	044	2609891	2609986	i	105
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	045	2611744	2611813	e	101
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	046	2609130	2609189	n	110
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	047	2613108	2613239	c	99
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	048	2611332	2611393	e	101
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	049	2612832	2612893	 	32
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	050	2609390	2609536	d	100
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	051	2609150	2609243	a	97
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	052	2612364	2612503	t	116
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	053	2612944	2613055	a	97
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	054	2612427	2612540	 	32
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	055	2613558	2613683	p	112
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	056	2614010	2614118	r	114
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	057	2609768	2609899	o	111
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	058	2615172	2615315	g	103
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	059	2612584	2612639	r	114
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	060	2612142	2612195	a	97
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	061	2611920	2611995	m	109
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	062	2613516	2613627	m	109
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	063	2614850	2614961	i	105
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	064	2614521	2614660	n	110
+027	005	programming learning quick lazy learning science data programming	programming learning quick lazy learning science data programming	065	2614880	2614996	g	103
+027	006	learning data brown data fox	learning data brown data fox	001	2605000	2605122	l	108
+027	006	learning data brown data fox	learning data brown data fox	002	2605187	2605237	e	101
+027	006	learning data brown data fox	learning data brown data fox	003	2605292	2605407	a	97
+027	006	learning data brown data fox	learning data brown data fox	004	2605570	2605624	r	114
+027	006	learning data brown data fox	learning data brown data fox	005	2605716	2605806	n	110
+027	006	learning data brown data fox	learning data brown data fox	006	2605900	2606014	i	105
+027	006	learning data brown data fox	learning data brown data fox	007	2605810	2605913	n	110
+027	006	learning data brown data fox	learning data brown data fox	008	2605959	2606108	g	103
+027	006	learning data brown data fox	learning data brown data fox	009	2605856	2605983	 	32
+027	006	learning data brown data fox	learning data brown data fox	010	2606404	2606541	d	100
+027	006	learning data brown data fox	learning data brown data fox	011	2606780	2606830	a	97
+027	006	learning data brown data fox	learning data brown data fox	012	2606177	2606295	t	116
+027	006	learning data brown data fox	learning data brown data fox	013	2606764	2606868	a	97
+027	006	learning data brown data fox	learning data brown data fox	014	2606352	2606470	 	32
+027	006	learning data brown data fox	learning data brown data fox	015	2607730	2607827	b	98
+027	006	learning data brown data fox	learning data brown data fox	016	2607520	2607597	r	114
+027	006	learning data brown data fox	learning data brown data fox	017	2607576	2607707	o	111
+027	006	learning data brown data fox	learning data brown data fox	018	2607210	2607353	w	119
+027	006	learning data brown data fox	learning data brown data fox	019	2607610	2607691	n	110
+027	006	learning data brown data fox	learning data brown data fox	020	2607109	2607170	 	32
+027	006	learning data brown data fox	learning data brown data fox	021	2607380	2607494	d	100
+027	006	learning data brown data fox	learning data brown data fox	022	2607751	2607895	a	97
+027	006	learning data brown data fox	learning data brown data fox	023	2609334	2609395	t	116
+027	006	learning data brown data fox	learning data brown data fox	024	2609508	2609609	a	97
+027	006	learning data brown data fox	learning data brown data fox	025	2608720	2608794	 	32
+027	006	learning data brown data fox	learning data brown data fox	026	2607525	2607630	f	102
+027	006	learning data brown data fox	learning data brown data fox	027	2608328	2608442	o	111
+027	006	learning data brown data fox	learning data brown data fox	028	2609725	2609814	x	120
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	001	2606000	2606138	h	104
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	002	2606127	2606237	e	101
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	003	2606320	2606371	l	108
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	004	2606438	2606554	l	108
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	005	2606424	2606570	o	111
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	006	2606990	2607093	 	32
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	007	2607062	2607175	i	105
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	008	2606987	2607099	n	110
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	009	2607168	2607298	t	116
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	010	2607260	2607321	e	101
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	011	2607090	2607194	l	108
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	012	2607474	2607539	l	108
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	013	2607776	2607843	i	105
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	014	2608509	2608654	g	103
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	015	2608744	2608881	e	101
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	016	2607650	2607707	n	110
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	017	2607984	2608124	c	99
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	018	2608006	2608056	e	101
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	019	2608430	2608536	 	32
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	020	2609382	2609492	d	100
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	021	2608180	2608309	o	111
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	022	2608268	2608336	g	103
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	023	2610158	2610231	 	32
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	024	2609726	2609864	f	102
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	025	2608784	2608862	o	111
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	026	2610775	2610904	x	120
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	027	2611122	2611252	 	32
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	028	2609645	2609789	d	100
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	029	2610536	2610663	a	97
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	030	2611713	2611861	t	116
+027	007	hello intelligence dog fox data	hello intelligence dog fox data	031	2611400	2611484	a	97
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	001	2607000	2607082	q	113
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	002	2607199	2607304	u	117
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	003	2607360	2607458	i	105
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	004	2607363	2607464	c	99
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	005	2607488	2607563	k	107
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	006	2607585	2607648	 	32
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	007	2607894	2608032	l	108
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	008	2608274	2608332	e	101
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	009	2608528	2608654	a	97
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	010	2607909	2608025	r	114
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	011	2608020	2608082	n	110
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	012	2608265	2608360	i	105
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	013	2608428	2608576	n	110
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	014	2608326	2608394	g	103
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	015	2608988	2609053	 	32
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	016	2609565	2609670	p	112
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	017	2609896	2609982	r	114
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	018	2608700	2608846	o	111
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	019	2609646	2609787	g	103
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	020	2609014	2609126	r	114
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	021	2609020	2609128	a	97
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	022	2609499	2609552	m	109
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	023	2609552	2609610	m	109
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	024	2609599	2609672	i	105
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	025	2611008	2611129	n	110
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	026	2609825	2609951	g	103
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	027	2609678	2609817	 	32
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	028	2610861	2611002	j	106
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	029	2611704	2611798	u	117
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	030	2610132	2610244	m	109
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	031	2610720	2610777	p	112
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	032	2611960	2612031	s	115
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	033	2611736	2611863	 	32
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	034	2612313	2612459	f	102
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	035	2613120	2613235	o	111
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	036	2612670	2612807	x	120
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	037	2611752	2611806	 	32
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	038	2614326	2614473	s	115
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	039	2613954	2614059	c	99
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	040	2612733	2612801	i	105
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	041	2611800	2611894	e	101
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	042	2614257	2614363	n	110
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	043	2614728	2614791	c	99
+027	008	quick learning programming jumps fox science	quick learning programming jumps fox science	044	2611515	2611657	e	101
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	001	2608000	2608101	m	109
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	002	2608167	2608288	a	97
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	003	2608254	2608385	c	99
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	004	2608561	2608632	h	104
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	005	2608524	2608610	i	105
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	006	2608945	2609085	n	110
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	007	2608750	2608851	e	101
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	008	2609113	2609175	 	32
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	009	2609240	2609385	a	97
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	010	2609107	2609252	r	114
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	011	2609410	2609529	t	116
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	012	2609188	2609281	i	105
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	013	2609572	2609683	f	102
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	014	2609391	2609534	i	105
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	015	2610310	2610451	c	99
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	016	2609725	2609862	i	105
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	017	2610592	2610692	a	97
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	018	2610890	2610952	l	108
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	019	2610340	2610430	 	32
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	020	2610261	2610344	w	119
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	021	2610940	2611022	o	111
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	022	2610751	2610894	r	114
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	023	2612378	2612482	l	108
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	024	2612140	2612251	d	100
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	025	2612248	2612348	 	32
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	026	2610525	2610663	l	108
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	027	2611094	2611241	e	101
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	028	2611834	2611930	a	97
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	029	2612060	2612120	r	114
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	030	2611103	2611155	n	110
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	031	2613670	2613764	i	105
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	032	2613983	2614045	n	110
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	033	2613248	2613307	g	103
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	034	2612389	2612503	 	32
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	035	2613134	2613243	j	106
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	036	2612480	2612535	u	117
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	037	2614660	2614743	m	109
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	038	2614290	2614390	p	112
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	039	2612484	2612605	s	115
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	040	2614513	2614654	 	32
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	041	2613640	2613725	o	111
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	042	2615134	2615256	v	118
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	043	2614510	2614626	e	101
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	044	2616127	2616240	r	114
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	045	2613588	2613653	 	32
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	046	2615155	2615295	p	112
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	047	2614854	2615000	y	121
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	048	2616742	2616870	t	116
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	049	2613760	2613860	h	104
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	050	2617359	2617486	o	111
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	051	2617250	2617342	n	110
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	052	2614477	2614555	 	32
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	053	2614864	2614939	b	98
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	054	2614254	2614307	r	114
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	055	2618584	2618723	o	111
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	056	2614160	2614277	w	119
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	057	2615224	2615328	n	110
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	058	2613814	2613892	 	32
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	059	2618788	2618862	w	119
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	060	2615493	2615550	o	111
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	061	2617900	2618038	r	114
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	062	2619712	2619819	l	108
+027	009	machine artificial world learning jumps over python brown world	machine artificial world learning jumps over python brown world	063	2614634	2614744	d	100
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	001	2609000	2609137	d	100
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	002	2609110	2609224	a	97
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	003	2609252	2609339	t	116
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	004	2609312	2609374	a	97
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	005	2609680	2609813	 	32
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	006	2609690	2609763	a	97
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	007	2609882	2609982	r	114
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	008	2609966	2610032	t	116
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	009	2610168	2610222	i	105
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	010	2610170	2610306	f	102
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	011	2610760	2610867	i	105
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	012	2611145	2611202	c	99
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	013	2610752	2610820	i	105
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	014	2611587	2611641	a	97
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	015	2611184	2611315	l	108
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	016	2611955	2612011	 	32
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	017	2610840	2610893	d	100
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	018	2611363	2611416	a	97
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	019	2611718	2611780	t	116
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	020	2610995	2611112	a	97
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	021	2612940	2613072	 	32
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	022	2613137	2613280	d	100
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	023	2611706	2611824	a	97
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	024	2611944	2612052	t	116
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	025	2613392	2613488	a	97
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	026	2612250	2612342	 	32
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	027	2612276	2612356	l	108
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	028	2612996	2613071	e	101
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	029	2612360	2612438	a	97
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	030	2613205	2613282	r	114
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	031	2614550	2614642	n	110
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	032	2612193	2612336	i	105
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	033	2614344	2614429	n	110
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	034	2614115	2614172	g	103
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	035	2613658	2613789	 	32
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	036	2613445	2613501	t	116
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	037	2613716	2613772	h	104
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	038	2614476	2614607	e	101
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	039	2614510	2614587	 	32
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	040	2614265	2614378	s	115
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	041	2613040	2613106	c	99
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	042	2613469	2613531	i	105
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	043	2616098	2616186	e	101
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	044	2614762	2614850	n	110
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	045	2617404	2617501	c	99
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	046	2614445	2614558	e	101
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	047	2617556	2617662	 	32
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	048	2614217	2614355	p	112
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	049	2618264	2618348	y	121
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	050	2615517	2615661	t	116
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	051	2614600	2614709	h	104
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	052	2615885	2615997	o	111
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	053	2617216	2617292	n	110
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	054	2616632	2616699	 	32
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	055	2616290	2616438	o	111
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	056	2617580	2617660	v	118
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	057	2615496	2615627	e	101
+027	010	data artificial data data learning the science python over	data artificial data data learning the science python over	058	2616068	2616161	r	114

@@ -1,0 +1,593 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	001	1700000	1700123	w	119
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	002	1700123	1700205	o	111
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	003	1700230	1700300	r	114
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	004	1700549	1700650	l	108
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	005	1700592	1700730	d	100
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	006	1700845	1700905	 	32
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	007	1700678	1700784	t	116
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	008	1701085	1701178	h	104
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	009	1701592	1701694	e	101
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	010	1701692	1701781	 	32
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	011	1701280	1701408	t	116
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	012	1701892	1701974	h	104
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	013	1702184	1702264	e	101
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	014	1701898	1702034	 	32
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	015	1701988	1702076	f	102
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	016	1702910	1703010	o	111
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	017	1701776	1701872	x	120
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	018	1702601	1702735	 	32
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	019	1703366	1703433	b	98
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	020	1702166	1702298	r	114
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	021	1703960	1704107	o	111
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	022	1703759	1703855	w	119
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	023	1703410	1703480	n	110
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	024	1704485	1704585	 	32
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	025	1704704	1704776	l	108
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	026	1703475	1703579	a	97
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	027	1705018	1705098	z	122
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	028	1703888	1703951	y	121
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	029	1703136	1703261	 	32
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	030	1704089	1704161	h	104
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	031	1705550	1705664	e	101
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	032	1705580	1705718	l	108
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	033	1704384	1704492	l	108
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	034	1703564	1703647	o	111
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	035	1704318	1704444	 	32
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	036	1706160	1706211	l	108
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	037	1705652	1705769	e	101
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	038	1706253	1706323	a	97
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	039	1704788	1704925	r	114
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	040	1706006	1706070	n	110
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	041	1704320	1704469	i	105
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	042	1705494	1705617	n	110
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	043	1706342	1706407	g	103
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	044	1708471	1708609	 	32
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	045	1705588	1705691	d	100
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	046	1707965	1708081	o	111
+018	001	world the the fox brown lazy hello learning dog	world the the fox brown lazy hello learning dog	047	1705106	1705210	g	103
+018	002	artificial artificial programming science data	artificial artificial programming science data	001	1701000	1701105	a	97
+018	002	artificial artificial programming science data	artificial artificial programming science data	002	1701142	1701266	r	114
+018	002	artificial artificial programming science data	artificial artificial programming science data	003	1701254	1701367	t	116
+018	002	artificial artificial programming science data	artificial artificial programming science data	004	1701576	1701692	i	105
+018	002	artificial artificial programming science data	artificial artificial programming science data	005	1701696	1701769	f	102
+018	002	artificial artificial programming science data	artificial artificial programming science data	006	1701545	1701616	i	105
+018	002	artificial artificial programming science data	artificial artificial programming science data	007	1701858	1701973	c	99
+018	002	artificial artificial programming science data	artificial artificial programming science data	008	1702169	1702312	i	105
+018	002	artificial artificial programming science data	artificial artificial programming science data	009	1702448	1702550	a	97
+018	002	artificial artificial programming science data	artificial artificial programming science data	010	1702566	1702683	l	108
+018	002	artificial artificial programming science data	artificial artificial programming science data	011	1702190	1702323	 	32
+018	002	artificial artificial programming science data	artificial artificial programming science data	012	1702705	1702807	a	97
+018	002	artificial artificial programming science data	artificial artificial programming science data	013	1703136	1703263	r	114
+018	002	artificial artificial programming science data	artificial artificial programming science data	014	1703028	1703114	t	116
+018	002	artificial artificial programming science data	artificial artificial programming science data	015	1703030	1703096	i	105
+018	002	artificial artificial programming science data	artificial artificial programming science data	016	1703700	1703769	f	102
+018	002	artificial artificial programming science data	artificial artificial programming science data	017	1702872	1702952	i	105
+018	002	artificial artificial programming science data	artificial artificial programming science data	018	1703992	1704120	c	99
+018	002	artificial artificial programming science data	artificial artificial programming science data	019	1703592	1703727	i	105
+018	002	artificial artificial programming science data	artificial artificial programming science data	020	1704781	1704841	a	97
+018	002	artificial artificial programming science data	artificial artificial programming science data	021	1703080	1703175	l	108
+018	002	artificial artificial programming science data	artificial artificial programming science data	022	1704885	1704966	 	32
+018	002	artificial artificial programming science data	artificial artificial programming science data	023	1703310	1703404	p	112
+018	002	artificial artificial programming science data	artificial artificial programming science data	024	1705370	1705499	r	114
+018	002	artificial artificial programming science data	artificial artificial programming science data	025	1703640	1703718	o	111
+018	002	artificial artificial programming science data	artificial artificial programming science data	026	1705675	1705745	g	103
+018	002	artificial artificial programming science data	artificial artificial programming science data	027	1705420	1705545	r	114
+018	002	artificial artificial programming science data	artificial artificial programming science data	028	1703889	1704009	a	97
+018	002	artificial artificial programming science data	artificial artificial programming science data	029	1705312	1705452	m	109
+018	002	artificial artificial programming science data	artificial artificial programming science data	030	1705640	1705717	m	109
+018	002	artificial artificial programming science data	artificial artificial programming science data	031	1705890	1705965	i	105
+018	002	artificial artificial programming science data	artificial artificial programming science data	032	1706270	1706384	n	110
+018	002	artificial artificial programming science data	artificial artificial programming science data	033	1705800	1705937	g	103
+018	002	artificial artificial programming science data	artificial artificial programming science data	034	1706973	1707060	 	32
+018	002	artificial artificial programming science data	artificial artificial programming science data	035	1705046	1705149	s	115
+018	002	artificial artificial programming science data	artificial artificial programming science data	036	1705270	1705357	c	99
+018	002	artificial artificial programming science data	artificial artificial programming science data	037	1706004	1706137	i	105
+018	002	artificial artificial programming science data	artificial artificial programming science data	038	1706550	1706687	e	101
+018	002	artificial artificial programming science data	artificial artificial programming science data	039	1707612	1707669	n	110
+018	002	artificial artificial programming science data	artificial artificial programming science data	040	1707747	1707861	c	99
+018	002	artificial artificial programming science data	artificial artificial programming science data	041	1705000	1705061	e	101
+018	002	artificial artificial programming science data	artificial artificial programming science data	042	1709077	1709170	 	32
+018	002	artificial artificial programming science data	artificial artificial programming science data	043	1706040	1706148	d	100
+018	002	artificial artificial programming science data	artificial artificial programming science data	044	1709557	1709690	a	97
+018	002	artificial artificial programming science data	artificial artificial programming science data	045	1705400	1705532	t	116
+018	002	artificial artificial programming science data	artificial artificial programming science data	046	1706355	1706424	a	97
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	001	1702000	1702105	p	112
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	002	1702181	1702312	r	114
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	003	1702240	1702369	o	111
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	004	1702387	1702505	g	103
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	005	1702784	1702918	r	114
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	006	1702810	1702920	a	97
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	007	1703062	1703199	m	109
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	008	1702994	1703082	m	109
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	009	1703016	1703081	i	105
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	010	1703476	1703587	n	110
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	011	1703690	1703834	g	103
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	012	1703969	1704042	 	32
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	013	1703644	1703753	s	115
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	014	1704574	1704713	c	99
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	015	1704268	1704395	i	105
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	016	1704055	1704195	e	101
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	017	1704912	1705005	n	110
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	018	1705247	1705330	c	99
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	019	1703944	1704031	e	101
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	020	1704527	1704655	 	32
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	021	1705700	1705763	b	98
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	022	1704541	1704653	r	114
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	023	1706092	1706240	o	111
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	024	1706232	1706311	w	119
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	025	1704616	1704694	n	110
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	026	1704925	1705061	 	32
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	027	1707044	1707126	p	112
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	028	1706752	1706844	r	114
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	029	1706060	1706166	o	111
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	030	1705944	1706065	g	103
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	031	1706320	1706464	r	114
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	032	1707239	1707309	a	97
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	033	1707408	1707525	m	109
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	034	1708402	1708543	m	109
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	035	1708188	1708247	i	105
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	036	1705990	1706130	n	110
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	037	1706032	1706108	g	103
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	038	1707180	1707308	 	32
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	039	1706750	1706841	p	112
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	040	1705900	1706037	y	121
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	041	1706080	1706144	t	116
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	042	1709708	1709850	h	104
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	043	1706452	1706553	o	111
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	044	1710299	1710362	n	110
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	045	1708116	1708213	 	32
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	046	1708930	1709003	p	112
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	047	1708854	1708965	y	121
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	048	1708533	1708599	t	116
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	049	1708912	1708980	h	104
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	050	1710183	1710293	o	111
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	051	1709900	1710038	n	110
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	052	1707100	1707170	 	32
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	053	1709644	1709786	d	100
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	054	1707989	1708050	a	97
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	055	1709236	1709304	t	116
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	056	1711515	1711570	a	97
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	057	1712976	1713037	 	32
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	058	1709239	1709309	o	111
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	059	1708844	1708961	v	118
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	060	1709434	1709550	e	101
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	061	1708300	1708422	r	114
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	062	1708710	1708815	 	32
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	063	1710680	1710795	b	98
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	064	1711639	1711766	r	114
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	065	1711152	1711276	o	111
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	066	1714805	1714915	w	119
+018	003	programming science brown programming python python data over brown	programming science brown programming python python data over brown	067	1713088	1713231	n	110
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	001	1703000	1703075	i	105
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	002	1703131	1703187	n	110
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	003	1703258	1703345	t	116
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	004	1703522	1703638	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	005	1703464	1703567	l	108
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	006	1703625	1703699	l	108
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	007	1703984	1704071	i	105
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	008	1704344	1704433	g	103
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	009	1704528	1704629	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	010	1704251	1704342	n	110
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	011	1704280	1704391	c	99
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	012	1704562	1704661	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	013	1704344	1704420	 	32
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	014	1704885	1705032	t	116
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	015	1705296	1705373	h	104
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	016	1705730	1705811	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	017	1705112	1705198	 	32
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	018	1706196	1706311	i	105
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	019	1706168	1706284	n	110
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	020	1705394	1705472	t	116
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	021	1705660	1705741	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	022	1706192	1706263	l	108
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	023	1705486	1705545	l	108
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	024	1706243	1706356	i	105
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	025	1707296	1707386	g	103
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	026	1706900	1706986	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	027	1705730	1705844	n	110
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	028	1707590	1707657	c	99
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	029	1706136	1706234	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	030	1707379	1707471	 	32
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	031	1707350	1707483	j	106
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	032	1706813	1706911	u	117
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	033	1707864	1707939	m	109
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	034	1706399	1706475	p	112
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	035	1708372	1708449	s	115
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	036	1707095	1707232	 	32
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	037	1709912	1709975	f	102
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	038	1707477	1707532	o	111
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	039	1710182	1710331	x	120
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	040	1708421	1708497	 	32
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	041	1708920	1709001	d	100
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	042	1707223	1707320	o	111
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	043	1708250	1708353	g	103
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	044	1708762	1708841	 	32
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	045	1707444	1707544	m	109
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	046	1711415	1711559	a	97
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	047	1712016	1712159	c	99
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	048	1710379	1710488	h	104
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	049	1711160	1711252	i	105
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	050	1712751	1712896	n	110
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	051	1712550	1712661	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	052	1709936	1710080	 	32
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	053	1709968	1710055	i	105
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	054	1709466	1709594	n	110
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	055	1711964	1712021	t	116
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	056	1711140	1711244	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	057	1709720	1709847	l	108
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	058	1708871	1708993	l	108
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	059	1710250	1710354	i	105
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	060	1714092	1714221	g	103
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	061	1712060	1712127	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	062	1715139	1715251	n	110
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	063	1714036	1714111	c	99
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	064	1710749	1710816	e	101
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	065	1715736	1715862	 	32
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	066	1712880	1713012	q	113
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	067	1713296	1713362	u	117
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	068	1711576	1711655	i	105
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	069	1710684	1710755	c	99
+018	004	intelligence the intelligence jumps fox dog machine intelligence quick	intelligence the intelligence jumps fox dog machine intelligence quick	070	1713005	1713069	k	107
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	001	1704000	1704092	w	119
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	002	1704159	1704276	o	111
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	003	1704350	1704487	r	114
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	004	1704486	1704614	l	108
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	005	1704524	1704608	d	100
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	006	1704715	1704843	 	32
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	007	1704750	1704831	m	109
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	008	1705099	1705166	a	97
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	009	1705168	1705310	c	99
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	010	1704990	1705047	h	104
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	011	1705800	1705884	i	105
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	012	1705441	1705497	n	110
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	013	1705800	1705901	e	101
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	014	1705872	1705958	 	32
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	015	1705960	1706103	s	115
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	016	1706025	1706157	c	99
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	017	1705888	1706024	i	105
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	018	1706414	1706494	e	101
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	019	1707042	1707123	n	110
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	020	1707781	1707930	c	99
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	021	1706640	1706717	e	101
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	022	1707003	1707053	 	32
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	023	1706288	1706434	p	112
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	024	1707473	1707527	y	121
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	025	1707120	1707261	t	116
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	026	1706625	1706746	h	104
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	027	1706756	1706904	o	111
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	028	1708482	1708537	n	110
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	029	1708564	1708665	 	32
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	030	1707770	1707898	t	116
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	031	1707930	1707998	h	104
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	032	1708712	1708847	e	101
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	033	1707680	1707755	 	32
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	034	1709544	1709623	p	112
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	035	1708488	1708618	y	121
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	036	1709320	1709403	t	116
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	037	1710192	1710294	h	104
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	038	1709291	1709363	o	111
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	039	1709890	1709947	n	110
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	040	1708875	1708950	 	32
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	041	1710320	1710450	i	105
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	042	1710683	1710741	n	110
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	043	1710174	1710291	t	116
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	044	1711138	1711251	e	101
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	045	1710380	1710469	l	108
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	046	1712370	1712441	l	108
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	047	1710118	1710218	i	105
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	048	1712883	1712964	g	103
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	049	1712160	1712220	e	101
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	050	1712624	1712738	n	110
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	051	1710650	1710750	c	99
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	052	1709202	1709269	e	101
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	053	1711124	1711187	 	32
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	054	1709618	1709739	w	119
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	055	1713882	1713978	o	111
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	056	1714835	1714981	r	114
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	057	1710608	1710669	l	108
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	058	1709985	1710049	d	100
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	059	1713048	1713177	 	32
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	060	1711552	1711644	o	111
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	061	1710720	1710859	v	118
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	062	1714675	1714727	e	101
+018	005	world machine science python the python intelligence world over	world machine science python the python intelligence world over	063	1715780	1715844	r	114
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	001	1705000	1705091	t	116
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	002	1705150	1705219	h	104
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	003	1705318	1705431	e	101
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	004	1705450	1705570	 	32
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	005	1705736	1705799	m	109
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	006	1705555	1705622	a	97
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	007	1705828	1705954	c	99
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	008	1706120	1706189	h	104
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	009	1706272	1706354	i	105
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	010	1706116	1706170	n	110
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	011	1706120	1706233	e	101
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	012	1706375	1706473	 	32
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	013	1707016	1707160	o	111
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	014	1706326	1706461	v	118
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	015	1707730	1707781	e	101
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	016	1707745	1707871	r	114
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	017	1706696	1706824	 	32
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	018	1708298	1708355	q	113
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	019	1707250	1707300	u	117
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	020	1708287	1708350	i	105
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	021	1708380	1708497	c	99
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	022	1708108	1708182	k	107
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	023	1708828	1708929	 	32
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	024	1707921	1708047	w	119
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	025	1707664	1707728	o	111
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	026	1708050	1708134	r	114
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	027	1709992	1710049	l	108
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	028	1707889	1707976	d	100
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	029	1708304	1708437	 	32
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	030	1708335	1708436	p	112
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	031	1710970	1711081	r	114
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	032	1710425	1710540	o	111
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	033	1710408	1710472	g	103
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	034	1710874	1710953	r	114
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	035	1709726	1709802	a	97
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	036	1708640	1708772	m	109
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	037	1711156	1711291	m	109
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	038	1709329	1709450	i	105
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	039	1711536	1711599	n	110
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	040	1711669	1711784	g	103
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	041	1711880	1712027	 	32
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	042	1711396	1711474	l	108
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	043	1711720	1711849	e	101
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	044	1709515	1709651	a	97
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	045	1709664	1709724	r	114
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	046	1712155	1712239	n	110
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	047	1710612	1710686	i	105
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	048	1711862	1711962	n	110
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	049	1713208	1713285	g	103
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	050	1714261	1714327	 	32
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	051	1713950	1714031	l	108
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	052	1714690	1714830	e	101
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	053	1710564	1710669	a	97
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	054	1713586	1713661	r	114
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	055	1712668	1712792	n	110
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	056	1711710	1711791	i	105
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	057	1714408	1714460	n	110
+018	006	the machine over quick world programming learning learning	the machine over quick world programming learning learning	058	1711213	1711274	g	103
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	001	1706000	1706116	t	116
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	002	1706114	1706238	h	104
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	003	1706318	1706449	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	004	1706444	1706589	 	32
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	005	1706504	1706586	i	105
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	006	1706965	1707074	n	110
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	007	1707032	1707129	t	116
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	008	1707330	1707435	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	009	1707232	1707342	l	108
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	010	1707017	1707139	l	108
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	011	1707360	1707424	i	105
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	012	1708035	1708104	g	103
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	013	1708364	1708483	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	014	1708496	1708552	n	110
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	015	1707512	1707605	c	99
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	016	1708385	1708527	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	017	1708768	1708902	 	32
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	018	1708091	1708232	f	102
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	019	1707800	1707917	o	111
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	020	1709724	1709795	x	120
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	021	1708820	1708929	 	32
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	022	1708562	1708632	i	105
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	023	1709454	1709556	n	110
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	024	1710232	1710326	t	116
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	025	1708544	1708645	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	026	1709225	1709302	l	108
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	027	1709536	1709669	l	108
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	028	1709969	1710057	i	105
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	029	1709192	1709292	g	103
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	030	1710147	1710200	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	031	1711460	1711542	n	110
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	032	1709317	1709382	c	99
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	033	1711856	1711932	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	034	1710224	1710351	 	32
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	035	1711916	1712016	i	105
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	036	1710585	1710696	n	110
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	037	1711364	1711510	t	116
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	038	1712031	1712114	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	039	1712840	1712964	l	108
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	040	1713176	1713258	l	108
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	041	1713760	1713810	i	105
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	042	1710674	1710747	g	103
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	043	1713308	1713423	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	044	1713568	1713706	n	110
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	045	1711500	1711621	c	99
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	046	1710545	1710624	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	047	1713682	1713816	 	32
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	048	1713661	1713713	s	115
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	049	1712384	1712481	c	99
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	050	1712321	1712422	i	105
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	051	1715000	1715071	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	052	1715078	1715206	n	110
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	053	1716088	1716229	c	99
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	054	1713844	1713956	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	055	1716368	1716502	 	32
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	056	1711940	1712020	l	108
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	057	1713672	1713811	a	97
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	058	1714379	1714440	z	122
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	059	1716672	1716820	y	121
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	060	1712903	1712990	 	32
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	061	1712780	1712919	o	111
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	062	1717895	1717986	v	118
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	063	1715548	1715672	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	064	1714127	1714247	r	114
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	065	1713168	1713293	 	32
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	066	1712565	1712654	i	105
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	067	1717088	1717173	n	110
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	068	1717524	1717658	t	116
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	069	1716608	1716704	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	070	1713038	1713146	l	108
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	071	1715240	1715370	l	108
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	072	1717928	1718070	i	105
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	073	1715792	1715921	g	103
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	074	1716366	1716442	e	101
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	075	1716656	1716763	n	110
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	076	1715150	1715259	c	99
+018	007	the intelligence fox intelligence intelligence science lazy over intelligence	the intelligence fox intelligence intelligence science lazy over intelligence	077	1716488	1716544	e	101
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	001	1707000	1707075	i	105
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	002	1707151	1707298	n	110
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	003	1707258	1707344	t	116
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	004	1707315	1707377	e	101
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	005	1707708	1707811	l	108
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	006	1707670	1707736	l	108
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	007	1707858	1707967	i	105
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	008	1707938	1708045	g	103
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	009	1708224	1708294	e	101
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	010	1708674	1708814	n	110
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	011	1708420	1708520	c	99
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	012	1708562	1708680	e	101
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	013	1708692	1708812	 	32
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	014	1708963	1709031	i	105
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	015	1709212	1709333	n	110
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	016	1709385	1709457	t	116
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	017	1710168	1710271	e	101
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	018	1709176	1709250	l	108
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	019	1709196	1709329	l	108
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	020	1709565	1709636	i	105
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	021	1709740	1709794	g	103
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	022	1709310	1709363	e	101
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	023	1711224	1711366	n	110
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	024	1709691	1709836	c	99
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	025	1709472	1709620	e	101
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	026	1710675	1710772	 	32
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	027	1710432	1710533	f	102
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	028	1710375	1710474	o	111
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	029	1712432	1712508	x	120
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	030	1712394	1712472	 	32
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	031	1711710	1711839	j	106
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	032	1710875	1710925	u	117
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	033	1711704	1711852	m	109
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	034	1710597	1710724	p	112
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	035	1712644	1712782	s	115
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	036	1712705	1712841	 	32
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	037	1711860	1711921	s	115
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	038	1711514	1711586	c	99
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	039	1711978	1712124	i	105
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	040	1711719	1711858	e	101
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	041	1712680	1712808	n	110
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	042	1711182	1711315	c	99
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	043	1715148	1715278	e	101
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	044	1714439	1714555	 	32
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	045	1712808	1712874	m	109
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	046	1715190	1715295	a	97
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	047	1716108	1716193	c	99
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	048	1715554	1715687	h	104
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	049	1712952	1713023	i	105
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	050	1713860	1713993	n	110
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	051	1716200	1716296	e	101
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	052	1716435	1716583	 	32
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	053	1712252	1712347	m	109
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	054	1717441	1717503	a	97
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	055	1715208	1715265	c	99
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	056	1714040	1714137	h	104
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	057	1714056	1714125	i	105
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	058	1713156	1713268	n	110
+018	008	intelligence intelligence fox jumps science machine machine	intelligence intelligence fox jumps science machine machine	059	1714018	1714124	e	101
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	001	1708000	1708103	p	112
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	002	1708184	1708324	y	121
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	003	1708308	1708369	t	116
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	004	1708438	1708504	h	104
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	005	1708476	1708568	o	111
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	006	1708770	1708902	n	110
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	007	1708864	1708954	 	32
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	008	1709043	1709164	l	108
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	009	1708936	1709036	a	97
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	010	1709602	1709721	z	122
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	011	1709510	1709657	y	121
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	012	1709815	1709902	 	32
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	013	1710376	1710505	p	112
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	014	1709560	1709706	r	114
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	015	1709624	1709762	o	111
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	016	1709590	1709674	g	103
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	017	1709664	1709808	r	114
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	018	1711094	1711169	a	97
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	019	1711114	1711202	m	109
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	020	1711439	1711510	m	109
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	021	1711320	1711441	i	105
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	022	1710226	1710366	n	110
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	023	1712356	1712499	g	103
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	024	1710507	1710579	 	32
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	025	1710784	1710875	l	108
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	026	1710625	1710710	a	97
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	027	1711250	1711394	z	122
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	028	1711510	1711600	y	121
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	029	1711416	1711519	 	32
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	030	1711364	1711429	o	111
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	031	1711180	1711320	v	118
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	032	1712991	1713127	e	101
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	033	1711424	1711568	r	114
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	034	1712554	1712698	 	32
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	035	1712284	1712406	b	98
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	036	1712095	1712155	r	114
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	037	1713616	1713737	o	111
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	038	1713883	1713964	w	119
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	039	1715182	1715258	n	110
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	040	1715566	1715711	 	32
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	041	1715160	1715221	p	112
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	042	1714314	1714423	y	121
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	043	1713334	1713448	t	116
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	044	1713891	1713946	h	104
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	045	1713984	1714121	o	111
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	046	1716415	1716530	n	110
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	047	1714302	1714445	 	32
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	048	1716272	1716370	q	113
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	049	1715152	1715226	u	117
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	050	1713635	1713719	i	105
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	051	1715000	1715106	c	99
+018	009	python lazy programming lazy over brown python quick	python lazy programming lazy over brown python quick	052	1716517	1716647	k	107
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	001	1709000	1709108	t	116
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	002	1709179	1709250	h	104
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	003	1709268	1709382	e	101
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	004	1709426	1709571	 	32
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	005	1709408	1709542	h	104
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	006	1709525	1709597	e	101
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	007	1709654	1709727	l	108
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	008	1710036	1710131	l	108
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	009	1710112	1710213	o	111
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	010	1710512	1710592	 	32
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	011	1710440	1710501	t	116
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	012	1710573	1710688	h	104
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	013	1710776	1710886	e	101
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	014	1710313	1710415	 	32
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	015	1711198	1711304	l	108
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	016	1710890	1711000	a	97
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	017	1711368	1711424	z	122
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	018	1712077	1712164	y	121
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	019	1711268	1711376	 	32
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	020	1712591	1712668	b	98
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	021	1711760	1711873	r	114
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	022	1712822	1712897	o	111
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	023	1712542	1712618	w	119
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	024	1712358	1712494	n	110
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	025	1711520	1711578	 	32
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	026	1711725	1711792	o	111
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	027	1713186	1713289	v	118
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	028	1712537	1712616	e	101
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	029	1713368	1713494	r	114
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	030	1712364	1712472	 	32
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	031	1714880	1715025	q	113
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	032	1714270	1714334	u	117
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	033	1713672	1713770	i	105
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	034	1713719	1713792	c	99
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	035	1713420	1713502	k	107
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	036	1715650	1715706	 	32
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	037	1714148	1714253	p	112
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	038	1714032	1714090	r	114
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	039	1715650	1715762	o	111
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	040	1714265	1714339	g	103
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	041	1713160	1713269	r	114
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	042	1714699	1714781	a	97
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	043	1716056	1716163	m	109
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	044	1713429	1713525	m	109
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	045	1714720	1714775	i	105
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	046	1713950	1714042	n	110
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	047	1715624	1715763	g	103
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	048	1717648	1717709	 	32
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	049	1717016	1717151	h	104
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	050	1716889	1716975	e	101
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	051	1718150	1718294	l	108
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	052	1714967	1715104	l	108
+018	010	the hello the lazy brown over quick programming hello	the hello the lazy brown over quick programming hello	053	1717528	1717614	o	111

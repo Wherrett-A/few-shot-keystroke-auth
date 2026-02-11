@@ -1,0 +1,471 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	001	100000	100104	p	112
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	002	100121	100246	r	114
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	003	100264	100317	o	111
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	004	100381	100530	g	103
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	005	100408	100539	r	114
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	006	100815	100879	a	97
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	007	100972	101082	m	109
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	008	101064	101142	m	109
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	009	101416	101472	i	105
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	010	101143	101253	n	110
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	011	101360	101445	g	103
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	012	101397	101449	 	32
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	013	102124	102221	d	100
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	014	101560	101661	a	97
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	015	102380	102458	t	116
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	016	102085	102170	a	97
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	017	102080	102159	 	32
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	018	103264	103350	d	100
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	019	103096	103209	a	97
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	020	103572	103626	t	116
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	021	103500	103564	a	97
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	022	103108	103169	 	32
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	023	104334	104397	h	104
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	024	103818	103916	e	101
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	025	103744	103836	l	108
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	026	103350	103495	l	108
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	027	103068	103216	o	111
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	028	103861	103973	 	32
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	029	105572	105717	h	104
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	030	104002	104099	e	101
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	031	105580	105692	l	108
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	032	103658	103799	l	108
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	033	106304	106355	o	111
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	034	105676	105745	 	32
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	035	106086	106155	b	98
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	036	105600	105743	r	114
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	037	105832	105912	o	111
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	038	104588	104666	w	119
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	039	104712	104764	n	110
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	040	104368	104465	 	32
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	041	106680	106801	a	97
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	042	105617	105740	r	114
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	043	107560	107640	t	116
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	044	108514	108587	i	105
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	045	105104	105184	f	102
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	046	108325	108469	i	105
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	047	106486	106632	c	99
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	048	107332	107404	i	105
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	049	106768	106889	a	97
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	050	109555	109703	l	108
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	051	106150	106279	 	32
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	052	107956	108086	p	112
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	053	107852	108000	r	114
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	054	109752	109844	o	111
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	055	106156	106234	g	103
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	056	107920	107983	r	114
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	057	109856	110002	a	97
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	058	109348	109455	m	109
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	059	111020	111155	m	109
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	060	107847	107973	i	105
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	061	109300	109407	n	110
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	062	110492	110578	g	103
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	063	109858	109911	 	32
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	064	111592	111739	s	115
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	065	110304	110397	c	99
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	066	107540	107655	i	105
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	067	111220	111320	e	101
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	068	112462	112512	n	110
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	069	113464	113554	c	99
+002	001	programming data data hello hello brown artificial programming science	programming data data hello hello brown artificial programming science	070	112075	112184	e	101
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	001	101000	101135	t	116
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	002	101191	101323	h	104
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	003	101214	101326	e	101
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	004	101531	101645	 	32
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	005	101724	101781	w	119
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	006	101740	101871	o	111
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	007	102020	102089	r	114
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	008	102134	102221	l	108
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	009	102000	102111	d	100
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	010	102071	102199	 	32
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	011	102040	102127	p	112
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	012	102287	102384	y	121
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	013	103088	103192	t	116
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	014	102482	102626	h	104
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	015	103352	103489	o	111
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	016	103535	103677	n	110
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	017	104072	104126	 	32
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	018	104264	104382	d	100
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	019	102980	103086	o	111
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	020	104135	104248	g	103
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	021	103160	103232	 	32
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	022	103625	103720	h	104
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	023	104256	104383	e	101
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	024	103737	103825	l	108
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	025	103664	103805	l	108
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	026	104825	104891	o	111
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	027	104770	104826	 	32
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	028	105725	105802	w	119
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	029	105228	105370	o	111
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	030	105843	105946	r	114
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	031	104450	104504	l	108
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	032	104100	104205	d	100
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	033	105160	105254	 	32
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	034	107435	107533	p	112
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	035	105420	105488	r	114
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	036	107860	108007	o	111
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	037	105068	105188	g	103
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	038	107031	107111	r	114
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	039	108562	108708	a	97
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	040	105095	105163	m	109
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	041	107960	108089	m	109
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	042	106166	106276	i	105
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	043	107132	107220	n	110
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	044	107966	108093	g	103
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	045	109492	109565	 	32
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	046	105500	105563	o	111
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	047	108728	108818	v	118
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	048	107815	107883	e	101
+002	002	the world python dog hello world programming over	the world python dog hello world programming over	049	109496	109616	r	114
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	001	102000	102050	p	112
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	002	102142	102250	r	114
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	003	102242	102331	o	111
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	004	102414	102468	g	103
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	005	102716	102803	r	114
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	006	102755	102865	a	97
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	007	103032	103102	m	109
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	008	102854	102905	m	109
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	009	102920	102988	i	105
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	010	103332	103450	n	110
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	011	103300	103357	g	103
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	012	103496	103608	 	32
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	013	103464	103554	o	111
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	014	103417	103530	v	118
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	015	103498	103605	e	101
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	016	104895	104987	r	114
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	017	104416	104508	 	32
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	018	104040	104097	s	115
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	019	105222	105353	c	99
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	020	105534	105597	i	105
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	021	104420	104479	e	101
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	022	105213	105322	n	110
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	023	106070	106174	c	99
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	024	106163	106246	e	101
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	025	104760	104862	 	32
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	026	104875	104989	l	108
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	027	106628	106736	e	101
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	028	105942	106087	a	97
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	029	106396	106488	r	114
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	030	106379	106456	n	110
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	031	105330	105430	i	105
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	032	107239	107355	n	110
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	033	105968	106022	g	103
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	034	105630	105735	 	32
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	035	108630	108712	o	111
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	036	106620	106756	v	118
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	037	107796	107863	e	101
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	038	109326	109379	r	114
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	039	108650	108736	 	32
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	040	108435	108571	d	100
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	041	109040	109125	o	111
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	042	108191	108338	g	103
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	043	108216	108298	 	32
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	044	108235	108338	h	104
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	045	108028	108176	e	101
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	046	109470	109579	l	108
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	047	108348	108496	l	108
+002	003	programming over science learning over dog hello	programming over science learning over dog hello	048	106982	107059	o	111
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	001	103000	103143	a	97
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	002	103141	103270	r	114
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	003	103278	103378	t	116
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	004	103510	103582	i	105
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	005	103528	103613	f	102
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	006	103620	103686	i	105
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	007	103954	104026	c	99
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	008	104316	104406	i	105
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	009	104160	104248	a	97
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	010	104503	104620	l	108
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	011	104710	104772	 	32
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	012	104760	104815	h	104
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	013	104992	105046	e	101
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	014	104508	104558	l	108
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	015	104736	104865	l	108
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	016	105880	106002	o	111
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	017	105320	105408	 	32
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	018	106009	106135	p	112
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	019	105952	106072	y	121
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	020	106553	106612	t	116
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	021	106620	106747	h	104
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	022	106150	106266	o	111
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	023	106212	106262	n	110
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	024	105875	105970	 	32
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	025	107752	107859	i	105
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	026	106975	107097	n	110
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	027	108070	108184	t	116
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	028	107347	107399	e	101
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	029	108068	108207	l	108
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	030	106683	106811	l	108
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	031	107620	107748	i	105
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	032	109014	109090	g	103
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	033	109336	109389	e	101
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	034	106597	106734	n	110
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	035	107318	107430	c	99
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	036	108215	108320	e	101
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	037	109912	109969	 	32
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	038	110326	110406	q	113
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	039	110068	110132	u	117
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	040	109591	109739	i	105
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	041	108800	108853	c	99
+002	004	artificial hello python intelligence quick	artificial hello python intelligence quick	042	107305	107408	k	107
+002	005	world the over programming dog	world the over programming dog	001	104000	104097	w	119
+002	005	world the over programming dog	world the over programming dog	002	104133	104231	o	111
+002	005	world the over programming dog	world the over programming dog	003	104282	104382	r	114
+002	005	world the over programming dog	world the over programming dog	004	104384	104519	l	108
+002	005	world the over programming dog	world the over programming dog	005	104436	104491	d	100
+002	005	world the over programming dog	world the over programming dog	006	104925	104995	 	32
+002	005	world the over programming dog	world the over programming dog	007	105056	105139	t	116
+002	005	world the over programming dog	world the over programming dog	008	105246	105383	h	104
+002	005	world the over programming dog	world the over programming dog	009	105024	105092	e	101
+002	005	world the over programming dog	world the over programming dog	010	104927	104977	 	32
+002	005	world the over programming dog	world the over programming dog	011	105210	105328	o	111
+002	005	world the over programming dog	world the over programming dog	012	105617	105762	v	118
+002	005	world the over programming dog	world the over programming dog	013	105740	105828	e	101
+002	005	world the over programming dog	world the over programming dog	014	105664	105727	r	114
+002	005	world the over programming dog	world the over programming dog	015	106282	106391	 	32
+002	005	world the over programming dog	world the over programming dog	016	106010	106158	p	112
+002	005	world the over programming dog	world the over programming dog	017	106816	106910	r	114
+002	005	world the over programming dog	world the over programming dog	018	106261	106359	o	111
+002	005	world the over programming dog	world the over programming dog	019	107114	107208	g	103
+002	005	world the over programming dog	world the over programming dog	020	107173	107298	r	114
+002	005	world the over programming dog	world the over programming dog	021	107740	107846	a	97
+002	005	world the over programming dog	world the over programming dog	022	106772	106839	m	109
+002	005	world the over programming dog	world the over programming dog	023	108246	108361	m	109
+002	005	world the over programming dog	world the over programming dog	024	107979	108116	i	105
+002	005	world the over programming dog	world the over programming dog	025	107960	108034	n	110
+002	005	world the over programming dog	world the over programming dog	026	108325	108466	g	103
+002	005	world the over programming dog	world the over programming dog	027	107536	107629	 	32
+002	005	world the over programming dog	world the over programming dog	028	108725	108789	d	100
+002	005	world the over programming dog	world the over programming dog	029	107864	107929	o	111
+002	005	world the over programming dog	world the over programming dog	030	107190	107272	g	103
+002	006	world jumps jumps science the	world jumps jumps science the	001	105000	105116	w	119
+002	006	world jumps jumps science the	world jumps jumps science the	002	105185	105311	o	111
+002	006	world jumps jumps science the	world jumps jumps science the	003	105272	105382	r	114
+002	006	world jumps jumps science the	world jumps jumps science the	004	105462	105537	l	108
+002	006	world jumps jumps science the	world jumps jumps science the	005	105796	105880	d	100
+002	006	world jumps jumps science the	world jumps jumps science the	006	105910	105992	 	32
+002	006	world jumps jumps science the	world jumps jumps science the	007	106068	106202	j	106
+002	006	world jumps jumps science the	world jumps jumps science the	008	105987	106052	u	117
+002	006	world jumps jumps science the	world jumps jumps science the	009	106152	106227	m	109
+002	006	world jumps jumps science the	world jumps jumps science the	010	105927	106051	p	112
+002	006	world jumps jumps science the	world jumps jumps science the	011	106390	106442	s	115
+002	006	world jumps jumps science the	world jumps jumps science the	012	106738	106815	 	32
+002	006	world jumps jumps science the	world jumps jumps science the	013	106416	106535	j	106
+002	006	world jumps jumps science the	world jumps jumps science the	014	107249	107384	u	117
+002	006	world jumps jumps science the	world jumps jumps science the	015	107282	107366	m	109
+002	006	world jumps jumps science the	world jumps jumps science the	016	106515	106607	p	112
+002	006	world jumps jumps science the	world jumps jumps science the	017	107048	107186	s	115
+002	006	world jumps jumps science the	world jumps jumps science the	018	107941	108076	 	32
+002	006	world jumps jumps science the	world jumps jumps science the	019	108222	108361	s	115
+002	006	world jumps jumps science the	world jumps jumps science the	020	108439	108500	c	99
+002	006	world jumps jumps science the	world jumps jumps science the	021	108180	108236	i	105
+002	006	world jumps jumps science the	world jumps jumps science the	022	107940	108089	e	101
+002	006	world jumps jumps science the	world jumps jumps science the	023	108366	108427	n	110
+002	006	world jumps jumps science the	world jumps jumps science the	024	107300	107441	c	99
+002	006	world jumps jumps science the	world jumps jumps science the	025	108624	108678	e	101
+002	006	world jumps jumps science the	world jumps jumps science the	026	109500	109647	 	32
+002	006	world jumps jumps science the	world jumps jumps science the	027	109628	109738	t	116
+002	006	world jumps jumps science the	world jumps jumps science the	028	109320	109421	h	104
+002	006	world jumps jumps science the	world jumps jumps science the	029	110376	110468	e	101
+002	007	programming data world the programming python	programming data world the programming python	001	106000	106121	p	112
+002	007	programming data world the programming python	programming data world the programming python	002	106188	106326	r	114
+002	007	programming data world the programming python	programming data world the programming python	003	106342	106426	o	111
+002	007	programming data world the programming python	programming data world the programming python	004	106588	106661	g	103
+002	007	programming data world the programming python	programming data world the programming python	005	106512	106655	r	114
+002	007	programming data world the programming python	programming data world the programming python	006	106945	107032	a	97
+002	007	programming data world the programming python	programming data world the programming python	007	107068	107153	m	109
+002	007	programming data world the programming python	programming data world the programming python	008	107064	107159	m	109
+002	007	programming data world the programming python	programming data world the programming python	009	107080	107189	i	105
+002	007	programming data world the programming python	programming data world the programming python	010	107377	107452	n	110
+002	007	programming data world the programming python	programming data world the programming python	011	107390	107537	g	103
+002	007	programming data world the programming python	programming data world the programming python	012	107254	107373	 	32
+002	007	programming data world the programming python	programming data world the programming python	013	108364	108437	d	100
+002	007	programming data world the programming python	programming data world the programming python	014	108431	108525	a	97
+002	007	programming data world the programming python	programming data world the programming python	015	108478	108559	t	116
+002	007	programming data world the programming python	programming data world the programming python	016	107665	107745	a	97
+002	007	programming data world the programming python	programming data world the programming python	017	108768	108835	 	32
+002	007	programming data world the programming python	programming data world the programming python	018	107802	107885	w	119
+002	007	programming data world the programming python	programming data world the programming python	019	108412	108508	o	111
+002	007	programming data world the programming python	programming data world the programming python	020	109021	109166	r	114
+002	007	programming data world the programming python	programming data world the programming python	021	108040	108167	l	108
+002	007	programming data world the programming python	programming data world the programming python	022	109276	109407	d	100
+002	007	programming data world the programming python	programming data world the programming python	023	110202	110262	 	32
+002	007	programming data world the programming python	programming data world the programming python	024	109726	109789	t	116
+002	007	programming data world the programming python	programming data world the programming python	025	108472	108532	h	104
+002	007	programming data world the programming python	programming data world the programming python	026	109275	109389	e	101
+002	007	programming data world the programming python	programming data world the programming python	027	108808	108953	 	32
+002	007	programming data world the programming python	programming data world the programming python	028	109402	109499	p	112
+002	007	programming data world the programming python	programming data world the programming python	029	110396	110476	r	114
+002	007	programming data world the programming python	programming data world the programming python	030	111568	111620	o	111
+002	007	programming data world the programming python	programming data world the programming python	031	110140	110278	g	103
+002	007	programming data world the programming python	programming data world the programming python	032	111673	111769	r	114
+002	007	programming data world the programming python	programming data world the programming python	033	109648	109790	a	97
+002	007	programming data world the programming python	programming data world the programming python	034	109960	110078	m	109
+002	007	programming data world the programming python	programming data world the programming python	035	110216	110297	m	109
+002	007	programming data world the programming python	programming data world the programming python	036	111320	111468	i	105
+002	007	programming data world the programming python	programming data world the programming python	037	109672	109779	n	110
+002	007	programming data world the programming python	programming data world the programming python	038	110255	110385	g	103
+002	007	programming data world the programming python	programming data world the programming python	039	110446	110579	 	32
+002	007	programming data world the programming python	programming data world the programming python	040	111928	111990	p	112
+002	007	programming data world the programming python	programming data world the programming python	041	110960	111037	y	121
+002	007	programming data world the programming python	programming data world the programming python	042	112437	112526	t	116
+002	007	programming data world the programming python	programming data world the programming python	043	113308	113376	h	104
+002	007	programming data world the programming python	programming data world the programming python	044	111461	111595	o	111
+002	007	programming data world the programming python	programming data world the programming python	045	114404	114544	n	110
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	001	107000	107068	f	102
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	002	107182	107232	o	111
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	003	107376	107484	x	120
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	004	107441	107558	 	32
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	005	107792	107894	w	119
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	006	107985	108103	o	111
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	007	108008	108090	r	114
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	008	107728	107804	l	108
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	009	108360	108415	d	100
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	010	107909	107988	 	32
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	011	108970	109079	q	113
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	012	108562	108624	u	117
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	013	109016	109157	i	105
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	014	108989	109078	c	99
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	015	109100	109222	k	107
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	016	109355	109474	 	32
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	017	108840	108973	t	116
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	018	109023	109086	h	104
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	019	109970	110056	e	101
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	020	110743	110806	 	32
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	021	110940	111003	i	105
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	022	109100	109163	n	110
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	023	109992	110049	t	116
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	024	110588	110686	e	101
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	025	111656	111793	l	108
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	026	110500	110599	l	108
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	027	111498	111580	i	105
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	028	111482	111570	g	103
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	029	111704	111793	e	101
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	030	112771	112849	n	110
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	031	112640	112761	c	99
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	032	110410	110522	e	101
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	033	111064	111200	 	32
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	034	112049	112117	s	115
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	035	111930	112025	c	99
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	036	111235	111346	i	105
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	037	113084	113160	e	101
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	038	111810	111928	n	110
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	039	110876	110938	c	99
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	040	110939	111067	e	101
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	041	111400	111493	 	32
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	042	113765	113831	a	97
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	043	112376	112484	r	114
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	044	113794	113937	t	116
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	045	114612	114729	i	105
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	046	115505	115557	f	102
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	047	113578	113707	i	105
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	048	115601	115695	c	99
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	049	112040	112155	i	105
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	050	116408	116544	a	97
+002	008	fox world quick the intelligence science artificial	fox world quick the intelligence science artificial	051	116100	116178	l	108
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	001	108000	108119	b	98
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	002	108196	108329	r	114
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	003	108314	108435	o	111
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	004	108375	108518	w	119
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	005	108728	108780	n	110
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	006	108895	108959	 	32
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	007	108636	108717	q	113
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	008	109323	109396	u	117
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	009	109152	109224	i	105
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	010	109188	109282	c	99
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	011	109050	109175	k	107
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	012	110178	110287	 	32
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	013	109944	110078	q	113
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	014	109768	109826	u	117
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	015	110030	110171	i	105
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	016	110280	110363	c	99
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	017	111184	111278	k	107
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	018	109853	109925	 	32
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	019	110988	111101	j	106
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	020	110698	110793	u	117
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	021	110360	110461	m	109
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	022	111213	111329	p	112
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	023	111586	111664	s	115
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	024	110346	110430	 	32
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	025	111360	111447	d	100
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	026	112775	112911	a	97
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	027	112472	112582	t	116
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	028	111132	111239	a	97
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	029	112564	112687	 	32
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	030	112060	112169	d	100
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	031	112260	112359	a	97
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	032	111999	112070	t	116
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	033	113920	114027	a	97
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	034	113247	113338	 	32
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	035	114358	114450	w	119
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	036	114475	114540	o	111
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	037	112608	112747	r	114
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	038	112662	112713	l	108
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	039	113738	113841	d	100
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	040	115293	115404	 	32
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	041	114000	114121	d	100
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	042	113207	113303	o	111
+002	009	brown quick quick jumps data data world dog	brown quick quick jumps data data world dog	043	114720	114805	g	103
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	001	109000	109071	i	105
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	002	109141	109236	n	110
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	003	109330	109428	t	116
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	004	109519	109641	e	101
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	005	109480	109553	l	108
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	006	109540	109679	l	108
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	007	110182	110260	i	105
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	008	109840	109924	g	103
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	009	110560	110665	e	101
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	010	110161	110225	n	110
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	011	110410	110522	c	99
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	012	110661	110734	e	101
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	013	110944	111061	 	32
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	014	110521	110586	p	112
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	015	110498	110604	y	121
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	016	111745	111851	t	116
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	017	110968	111111	h	104
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	018	112111	112209	o	111
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	019	111952	112070	n	110
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	020	111033	111160	 	32
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	021	111800	111909	q	113
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	022	113032	113158	u	117
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	023	111860	111993	i	105
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	024	111944	112004	c	99
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	025	112432	112558	k	107
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	026	111600	111747	 	32
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	027	112068	112131	d	100
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	028	113023	113090	a	97
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	029	113452	113509	t	116
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	030	112886	113002	a	97
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	031	113590	113667	 	32
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	032	114301	114353	d	100
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	033	114568	114641	a	97
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	034	114247	114341	t	116
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	035	114304	114371	a	97
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	036	113375	113480	 	32
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	037	114760	114904	l	108
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	038	115290	115439	e	101
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	039	112876	112930	a	97
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	040	115279	115381	r	114
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	041	116400	116534	n	110
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	042	115232	115366	i	105
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	043	113578	113721	n	110
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	044	117041	117136	g	103
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	045	116568	116689	 	32
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	046	115300	115387	a	97
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	047	117510	117631	r	114
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	048	117554	117657	t	116
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	049	115192	115332	i	105
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	050	116154	116296	f	102
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	051	115850	115931	i	105
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	052	118690	118808	c	99
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	053	117788	117845	i	105
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	054	118116	118250	a	97
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	055	114778	114865	l	108
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	056	116095	116195	 	32
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	057	116000	116075	s	115
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	058	119431	119575	c	99
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	059	119150	119233	i	105
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	060	115667	115719	e	101
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	061	120580	120693	n	110
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	062	116198	116312	c	99
+002	010	intelligence python quick data data learning artificial science	intelligence python quick data data learning artificial science	063	116626	116700	e	101

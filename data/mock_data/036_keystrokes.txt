@@ -1,0 +1,506 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	001	3500000	3500132	a	97
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	002	3500116	3500222	r	114
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	003	3500202	3500275	t	116
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	004	3500318	3500461	i	105
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	005	3500572	3500698	f	102
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	006	3500825	3500880	i	105
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	007	3500942	3501042	c	99
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	008	3501302	3501387	i	105
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	009	3501520	3501596	a	97
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	010	3501170	3501318	l	108
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	011	3501040	3501109	 	32
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	012	3501661	3501788	b	98
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	013	3502076	3502219	r	114
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	014	3502288	3502392	o	111
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	015	3502422	3502486	w	119
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	016	3502235	3502371	n	110
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	017	3502000	3502093	 	32
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	018	3503128	3503192	l	108
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	019	3502664	3502731	e	101
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	020	3503059	3503195	a	97
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	021	3503420	3503568	r	114
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	022	3502751	3502804	n	110
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	023	3504180	3504235	i	105
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	024	3502760	3502815	n	110
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	025	3503984	3504131	g	103
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	026	3503575	3503635	 	32
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	027	3504914	3504996	b	98
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	028	3503753	3503816	r	114
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	029	3503780	3503844	o	111
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	030	3505452	3505588	w	119
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	031	3503120	3503187	n	110
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	032	3504681	3504763	 	32
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	033	3505728	3505785	a	97
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	034	3505412	3505477	r	114
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	035	3503638	3503776	t	116
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	036	3506125	3506213	i	105
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	037	3504608	3504730	f	102
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	038	3506623	3506681	i	105
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	039	3506840	3506911	c	99
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	040	3504836	3504934	i	105
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	041	3507240	3507349	a	97
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	042	3507339	3507390	l	108
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	043	3504536	3504682	 	32
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	044	3507224	3507322	a	97
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	045	3506028	3506130	r	114
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	046	3505670	3505819	t	116
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	047	3506762	3506864	i	105
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	048	3506016	3506143	f	102
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	049	3507248	3507306	i	105
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	050	3507154	3507240	c	99
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	051	3508950	3509012	i	105
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	052	3507701	3507800	a	97
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	053	3505408	3505464	l	108
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	054	3509593	3509713	 	32
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	055	3508370	3508476	d	100
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	056	3506875	3507023	a	97
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	057	3505880	3505997	t	116
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	058	3509519	3509582	a	97
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	059	3509570	3509650	 	32
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	060	3506785	3506837	w	119
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	061	3511160	3511293	o	111
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	062	3507198	3507308	r	114
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	063	3512090	3512180	l	108
+036	001	artificial brown learning brown artificial artificial data world	artificial brown learning brown artificial artificial data world	064	3507497	3507621	d	100
+036	002	machine science python data over machine learning	machine science python data over machine learning	001	3501000	3501083	m	109
+036	002	machine science python data over machine learning	machine science python data over machine learning	002	3501157	3501230	a	97
+036	002	machine science python data over machine learning	machine science python data over machine learning	003	3501284	3501382	c	99
+036	002	machine science python data over machine learning	machine science python data over machine learning	004	3501582	3501695	h	104
+036	002	machine science python data over machine learning	machine science python data over machine learning	005	3501632	3501701	i	105
+036	002	machine science python data over machine learning	machine science python data over machine learning	006	3501550	3501649	n	110
+036	002	machine science python data over machine learning	machine science python data over machine learning	007	3501870	3502000	e	101
+036	002	machine science python data over machine learning	machine science python data over machine learning	008	3502337	3502405	 	32
+036	002	machine science python data over machine learning	machine science python data over machine learning	009	3502064	3502162	s	115
+036	002	machine science python data over machine learning	machine science python data over machine learning	010	3502485	3502587	c	99
+036	002	machine science python data over machine learning	machine science python data over machine learning	011	3502540	3502631	i	105
+036	002	machine science python data over machine learning	machine science python data over machine learning	012	3502617	3502691	e	101
+036	002	machine science python data over machine learning	machine science python data over machine learning	013	3502512	3502657	n	110
+036	002	machine science python data over machine learning	machine science python data over machine learning	014	3502612	3502724	c	99
+036	002	machine science python data over machine learning	machine science python data over machine learning	015	3503534	3503671	e	101
+036	002	machine science python data over machine learning	machine science python data over machine learning	016	3503055	3503171	 	32
+036	002	machine science python data over machine learning	machine science python data over machine learning	017	3503080	3503141	p	112
+036	002	machine science python data over machine learning	machine science python data over machine learning	018	3503091	3503173	y	121
+036	002	machine science python data over machine learning	machine science python data over machine learning	019	3504546	3504635	t	116
+036	002	machine science python data over machine learning	machine science python data over machine learning	020	3503147	3503244	h	104
+036	002	machine science python data over machine learning	machine science python data over machine learning	021	3504820	3504945	o	111
+036	002	machine science python data over machine learning	machine science python data over machine learning	022	3503352	3503489	n	110
+036	002	machine science python data over machine learning	machine science python data over machine learning	023	3504960	3505051	 	32
+036	002	machine science python data over machine learning	machine science python data over machine learning	024	3504013	3504135	d	100
+036	002	machine science python data over machine learning	machine science python data over machine learning	025	3504120	3504245	a	97
+036	002	machine science python data over machine learning	machine science python data over machine learning	026	3504350	3504459	t	116
+036	002	machine science python data over machine learning	machine science python data over machine learning	027	3504354	3504453	a	97
+036	002	machine science python data over machine learning	machine science python data over machine learning	028	3505077	3505159	 	32
+036	002	machine science python data over machine learning	machine science python data over machine learning	029	3505424	3505478	o	111
+036	002	machine science python data over machine learning	machine science python data over machine learning	030	3504857	3504995	v	118
+036	002	machine science python data over machine learning	machine science python data over machine learning	031	3505080	3505203	e	101
+036	002	machine science python data over machine learning	machine science python data over machine learning	032	3506208	3506264	r	114
+036	002	machine science python data over machine learning	machine science python data over machine learning	033	3507304	3507372	 	32
+036	002	machine science python data over machine learning	machine science python data over machine learning	034	3504696	3504769	m	109
+036	002	machine science python data over machine learning	machine science python data over machine learning	035	3506304	3506391	a	97
+036	002	machine science python data over machine learning	machine science python data over machine learning	036	3506110	3506166	c	99
+036	002	machine science python data over machine learning	machine science python data over machine learning	037	3506976	3507115	h	104
+036	002	machine science python data over machine learning	machine science python data over machine learning	038	3506587	3506659	i	105
+036	002	machine science python data over machine learning	machine science python data over machine learning	039	3507270	3507333	n	110
+036	002	machine science python data over machine learning	machine science python data over machine learning	040	3506889	3506969	e	101
+036	002	machine science python data over machine learning	machine science python data over machine learning	041	3507680	3507759	 	32
+036	002	machine science python data over machine learning	machine science python data over machine learning	042	3505715	3505847	l	108
+036	002	machine science python data over machine learning	machine science python data over machine learning	043	3508980	3509117	e	101
+036	002	machine science python data over machine learning	machine science python data over machine learning	044	3506117	3506258	a	97
+036	002	machine science python data over machine learning	machine science python data over machine learning	045	3507864	3507983	r	114
+036	002	machine science python data over machine learning	machine science python data over machine learning	046	3508920	3508978	n	110
+036	002	machine science python data over machine learning	machine science python data over machine learning	047	3506934	3507001	i	105
+036	002	machine science python data over machine learning	machine science python data over machine learning	048	3506076	3506148	n	110
+036	002	machine science python data over machine learning	machine science python data over machine learning	049	3507000	3507099	g	103
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	001	3502000	3502128	h	104
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	002	3502199	3502325	e	101
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	003	3502392	3502461	l	108
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	004	3502342	3502443	l	108
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	005	3502632	3502776	o	111
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	006	3502990	3503052	 	32
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	007	3502744	3502885	b	98
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	008	3502938	3503047	r	114
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	009	3503312	3503388	o	111
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	010	3503566	3503664	w	119
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	011	3503590	3503691	n	110
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	012	3503496	3503597	 	32
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	013	3503956	3504082	s	115
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	014	3504184	3504286	c	99
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	015	3503484	3503570	i	105
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	016	3503545	3503678	e	101
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	017	3504432	3504485	n	110
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	018	3504618	3504675	c	99
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	019	3504034	3504103	e	101
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	020	3504888	3504953	 	32
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	021	3505280	3505397	o	111
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	022	3505906	3506034	v	118
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	023	3505564	3505676	e	101
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	024	3504484	3504590	r	114
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	025	3506248	3506311	 	32
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	026	3506050	3506106	i	105
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	027	3505094	3505165	n	110
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	028	3507184	3507238	t	116
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	029	3507236	3507365	e	101
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	030	3505567	3505665	l	108
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	031	3506890	3507034	l	108
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	032	3505286	3505417	i	105
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	033	3507856	3507945	g	103
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	034	3505564	3505624	e	101
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	035	3506556	3506650	n	110
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	036	3508825	3508969	c	99
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	037	3505816	3505888	e	101
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	038	3507994	3508067	 	32
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	039	3507396	3507544	d	100
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	040	3507187	3507309	o	111
+036	003	hello brown science over intelligence dog	hello brown science over intelligence dog	041	3509800	3509872	g	103
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	001	3503000	3503053	q	113
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	002	3503136	3503212	u	117
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	003	3503358	3503500	i	105
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	004	3503342	3503459	c	99
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	005	3503664	3503761	k	107
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	006	3503720	3503853	 	32
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	007	3503618	3503732	j	106
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	008	3504281	3504380	u	117
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	009	3504000	3504108	m	109
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	010	3504287	3504351	p	112
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	011	3504920	3504984	s	115
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	012	3505101	3505228	 	32
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	013	3505376	3505474	m	109
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	014	3504989	3505106	a	97
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	015	3504778	3504900	c	99
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	016	3505040	3505100	h	104
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	017	3504808	3504896	i	105
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	018	3505856	3505977	n	110
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	019	3506348	3506492	e	101
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	020	3505546	3505618	 	32
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	021	3505600	3505664	d	100
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	022	3507074	3507212	a	97
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	023	3506894	3507017	t	116
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	024	3505806	3505890	a	97
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	025	3507680	3507734	 	32
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	026	3507525	3507666	o	111
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	027	3508070	3508184	v	118
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	028	3506510	3506567	e	101
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	029	3507900	3507984	r	114
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	030	3508452	3508584	 	32
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	031	3506660	3506718	d	100
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	032	3509169	3509263	o	111
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	033	3508312	3508410	g	103
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	034	3507950	3508034	 	32
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	035	3507760	3507844	p	112
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	036	3506640	3506717	y	121
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	037	3509408	3509460	t	116
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	038	3507403	3507543	h	104
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	039	3509080	3509178	o	111
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	040	3508499	3508632	n	110
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	041	3510320	3510459	 	32
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	042	3509724	3509813	d	100
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	043	3508544	3508669	o	111
+036	004	quick jumps machine data over dog python dog	quick jumps machine data over dog python dog	044	3509665	3509743	g	103
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	001	3504000	3504116	w	119
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	002	3504152	3504247	o	111
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	003	3504284	3504426	r	114
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	004	3504411	3504550	l	108
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	005	3504416	3504500	d	100
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	006	3504875	3504932	 	32
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	007	3504666	3504792	o	111
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	008	3504805	3504894	v	118
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	009	3504816	3504964	e	101
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	010	3505413	3505541	r	114
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	011	3505890	3506018	 	32
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	012	3505507	3505600	l	108
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	013	3506088	3506185	e	101
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	014	3505352	3505452	a	97
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	015	3505694	3505780	r	114
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	016	3505965	3506092	n	110
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	017	3506224	3506368	i	105
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	018	3507111	3507219	n	110
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	019	3505926	3506038	g	103
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	020	3507363	3507422	 	32
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	021	3506860	3506982	l	108
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	022	3506625	3506680	e	101
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	023	3507278	3507372	a	97
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	024	3506898	3507029	r	114
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	025	3506520	3506590	n	110
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	026	3507025	3507126	i	105
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	027	3507276	3507362	n	110
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	028	3507861	3507983	g	103
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	029	3508620	3508674	 	32
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	030	3507045	3507137	s	115
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	031	3509820	3509934	c	99
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	032	3509580	3509667	i	105
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	033	3509824	3509955	e	101
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	034	3509841	3509943	n	110
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	035	3510596	3510717	c	99
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	036	3510790	3510858	e	101
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	037	3508932	3509013	 	32
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	038	3511252	3511385	s	115
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	039	3507914	3508015	c	99
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	040	3509265	3509373	i	105
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	041	3510200	3510306	e	101
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	042	3511093	3511234	n	110
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	043	3509796	3509889	c	99
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	044	3509418	3509535	e	101
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	045	3508884	3509023	 	32
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	046	3510975	3511029	d	100
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	047	3508738	3508838	o	111
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	048	3513118	3513253	g	103
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	049	3509664	3509771	 	32
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	050	3512330	3512442	o	111
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	051	3513450	3513575	v	118
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	052	3513945	3514087	e	101
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	053	3510448	3510573	r	114
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	054	3510837	3510955	 	32
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	055	3509724	3509828	a	97
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	056	3510160	3510263	r	114
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	057	3511840	3511962	t	116
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	058	3513747	3513835	i	105
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	059	3510032	3510088	f	102
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	060	3513027	3513116	i	105
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	061	3510960	3511038	c	99
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	062	3510588	3510639	i	105
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	063	3515656	3515804	a	97
+036	005	world over learning learning science science dog over artificial	world over learning learning science science dog over artificial	064	3513450	3513545	l	108
+036	006	fox programming python the world fox	fox programming python the world fox	001	3505000	3505075	f	102
+036	006	fox programming python the world fox	fox programming python the world fox	002	3505158	3505236	o	111
+036	006	fox programming python the world fox	fox programming python the world fox	003	3505266	3505402	x	120
+036	006	fox programming python the world fox	fox programming python the world fox	004	3505303	3505430	 	32
+036	006	fox programming python the world fox	fox programming python the world fox	005	3505444	3505509	p	112
+036	006	fox programming python the world fox	fox programming python the world fox	006	3505810	3505893	r	114
+036	006	fox programming python the world fox	fox programming python the world fox	007	3506128	3506218	o	111
+036	006	fox programming python the world fox	fox programming python the world fox	008	3505812	3505869	g	103
+036	006	fox programming python the world fox	fox programming python the world fox	009	3506184	3506269	r	114
+036	006	fox programming python the world fox	fox programming python the world fox	010	3505954	3506097	a	97
+036	006	fox programming python the world fox	fox programming python the world fox	011	3506310	3506437	m	109
+036	006	fox programming python the world fox	fox programming python the world fox	012	3506793	3506904	m	109
+036	006	fox programming python the world fox	fox programming python the world fox	013	3506548	3506687	i	105
+036	006	fox programming python the world fox	fox programming python the world fox	014	3507431	3507496	n	110
+036	006	fox programming python the world fox	fox programming python the world fox	015	3507142	3507231	g	103
+036	006	fox programming python the world fox	fox programming python the world fox	016	3507985	3508126	 	32
+036	006	fox programming python the world fox	fox programming python the world fox	017	3506984	3507131	p	112
+036	006	fox programming python the world fox	fox programming python the world fox	018	3507125	3507206	y	121
+036	006	fox programming python the world fox	fox programming python the world fox	019	3508132	3508275	t	116
+036	006	fox programming python the world fox	fox programming python the world fox	020	3507812	3507961	h	104
+036	006	fox programming python the world fox	fox programming python the world fox	021	3507380	3507440	o	111
+036	006	fox programming python the world fox	fox programming python the world fox	022	3508402	3508535	n	110
+036	006	fox programming python the world fox	fox programming python the world fox	023	3507816	3507924	 	32
+036	006	fox programming python the world fox	fox programming python the world fox	024	3508266	3508392	t	116
+036	006	fox programming python the world fox	fox programming python the world fox	025	3509632	3509722	h	104
+036	006	fox programming python the world fox	fox programming python the world fox	026	3507775	3507915	e	101
+036	006	fox programming python the world fox	fox programming python the world fox	027	3507912	3508009	 	32
+036	006	fox programming python the world fox	fox programming python the world fox	028	3508321	3508467	w	119
+036	006	fox programming python the world fox	fox programming python the world fox	029	3509704	3509761	o	111
+036	006	fox programming python the world fox	fox programming python the world fox	030	3508132	3508278	r	114
+036	006	fox programming python the world fox	fox programming python the world fox	031	3508900	3508959	l	108
+036	006	fox programming python the world fox	fox programming python the world fox	032	3509991	3510101	d	100
+036	006	fox programming python the world fox	fox programming python the world fox	033	3508712	3508791	 	32
+036	006	fox programming python the world fox	fox programming python the world fox	034	3509422	3509558	f	102
+036	006	fox programming python the world fox	fox programming python the world fox	035	3509862	3509962	o	111
+036	006	fox programming python the world fox	fox programming python the world fox	036	3509865	3509988	x	120
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	001	3506000	3506096	i	105
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	002	3506189	3506270	n	110
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	003	3506322	3506386	t	116
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	004	3506402	3506529	e	101
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	005	3506496	3506566	l	108
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	006	3506735	3506807	l	108
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	007	3506996	3507095	i	105
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	008	3507113	3507176	g	103
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	009	3507136	3507237	e	101
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	010	3507440	3507542	n	110
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	011	3507070	3507152	c	99
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	012	3508068	3508189	e	101
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	013	3507632	3507709	 	32
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	014	3508470	3508605	w	119
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	015	3507638	3507723	o	111
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	016	3507755	3507855	r	114
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	017	3508416	3508505	l	108
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	018	3509230	3509300	d	100
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	019	3508124	3508197	 	32
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	020	3509591	3509712	b	98
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	021	3508520	3508653	r	114
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	022	3509024	3509078	o	111
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	023	3508530	3508614	w	119
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	024	3508898	3509038	n	110
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	025	3508760	3508894	 	32
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	026	3509000	3509064	i	105
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	027	3510888	3511029	n	110
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	028	3509807	3509923	t	116
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	029	3508828	3508902	e	101
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	030	3509886	3509957	l	108
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	031	3510500	3510637	l	108
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	032	3509131	3509254	i	105
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	033	3510352	3510413	g	103
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	034	3509366	3509456	e	101
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	035	3510964	3511029	n	110
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	036	3509500	3509608	c	99
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	037	3510824	3510962	e	101
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	038	3511920	3511996	 	32
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	039	3510674	3510761	s	115
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	040	3512279	3512378	c	99
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	041	3512520	3512585	i	105
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	042	3512970	3513051	e	101
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	043	3510788	3510907	n	110
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	044	3512708	3512819	c	99
+036	007	intelligence world brown intelligence science	intelligence world brown intelligence science	045	3513392	3513507	e	101
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	001	3507000	3507135	s	115
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	002	3507148	3507223	c	99
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	003	3507264	3507353	i	105
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	004	3507381	3507484	e	101
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	005	3507448	3507576	n	110
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	006	3507785	3507846	c	99
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	007	3507804	3507861	e	101
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	008	3508092	3508163	 	32
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	009	3508304	3508410	b	98
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	010	3508017	3508082	r	114
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	011	3508540	3508597	o	111
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	012	3508672	3508734	w	119
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	013	3508380	3508437	n	110
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	014	3509522	3509577	 	32
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	015	3508946	3509056	j	106
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	016	3509835	3509945	u	117
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	017	3509944	3510091	m	109
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	018	3510196	3510288	p	112
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	019	3509826	3509970	s	115
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	020	3510591	3510659	 	32
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	021	3510660	3510719	p	112
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	022	3510066	3510166	y	121
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	023	3510806	3510946	t	116
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	024	3511370	3511497	h	104
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	025	3510576	3510685	o	111
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	026	3510450	3510550	n	110
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	027	3511992	3512130	 	32
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	028	3511050	3511144	q	113
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	029	3511676	3511764	u	117
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	030	3512365	3512486	i	105
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	031	3512580	3512668	c	99
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	032	3511495	3511636	k	107
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	033	3511448	3511540	 	32
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	034	3512973	3513070	a	97
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	035	3512882	3513012	r	114
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	036	3510850	3510943	t	116
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	037	3514128	3514210	i	105
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	038	3512254	3512313	f	102
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	039	3514524	3514585	i	105
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	040	3514254	3514381	c	99
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	041	3514320	3514413	i	105
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	042	3513601	3513653	a	97
+036	008	science brown jumps python quick artificial	science brown jumps python quick artificial	043	3514224	3514319	l	108
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	001	3508000	3508082	a	97
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	002	3508146	3508286	r	114
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	003	3508338	3508465	t	116
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	004	3508582	3508721	i	105
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	005	3508748	3508862	f	102
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	006	3508915	3509028	i	105
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	007	3508822	3508936	c	99
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	008	3509379	3509500	i	105
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	009	3509512	3509563	a	97
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	010	3509773	3509880	l	108
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	011	3509610	3509759	 	32
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	012	3509771	3509864	f	102
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	013	3509836	3509888	o	111
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	014	3509573	3509670	x	120
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	015	3510072	3510205	 	32
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	016	3510715	3510864	j	106
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	017	3510704	3510839	u	117
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	018	3510618	3510705	m	109
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	019	3510376	3510429	p	112
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	020	3510926	3511027	s	115
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	021	3511820	3511931	 	32
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	022	3510856	3510944	a	97
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	023	3511850	3511908	r	114
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	024	3511105	3511216	t	116
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	025	3511888	3511957	i	105
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	026	3511875	3511969	f	102
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	027	3512628	3512680	i	105
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	028	3512779	3512887	c	99
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	029	3513516	3513643	i	105
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	030	3511799	3511945	a	97
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	031	3513040	3513141	l	108
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	032	3513828	3513910	 	32
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	033	3511840	3511968	d	100
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	034	3512422	3512533	o	111
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	035	3511876	3512006	g	103
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	036	3513285	3513431	 	32
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	037	3513688	3513807	p	112
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	038	3515141	3515229	y	121
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	039	3514460	3514524	t	116
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	040	3513577	3513682	h	104
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	041	3514440	3514503	o	111
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	042	3514150	3514268	n	110
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	043	3515434	3515540	 	32
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	044	3515439	3515581	l	108
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	045	3515920	3515977	e	101
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	046	3516415	3516483	a	97
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	047	3515452	3515561	r	114
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	048	3514345	3514433	n	110
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	049	3515632	3515719	i	105
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	050	3513096	3513231	n	110
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	051	3516100	3516154	g	103
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	052	3517945	3518080	 	32
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	053	3513980	3514104	m	109
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	054	3515791	3515883	a	97
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	055	3518044	3518159	c	99
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	056	3514490	3514624	h	104
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	057	3516064	3516211	i	105
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	058	3517690	3517792	n	110
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	059	3514554	3514668	e	101
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	060	3518679	3518800	 	32
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	061	3518440	3518578	t	116
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	062	3516845	3516914	h	104
+036	009	artificial fox jumps artificial dog python learning machine the	artificial fox jumps artificial dog python learning machine the	063	3515130	3515228	e	101
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	001	3509000	3509097	a	97
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	002	3509146	3509228	r	114
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	003	3509340	3509427	t	116
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	004	3509435	3509549	i	105
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	005	3509636	3509697	f	102
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	006	3509685	3509778	i	105
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	007	3509900	3509972	c	99
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	008	3509770	3509842	i	105
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	009	3510328	3510380	a	97
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	010	3510278	3510357	l	108
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	011	3510490	3510552	 	32
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	012	3511189	3511254	d	100
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	013	3510284	3510419	o	111
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	014	3510742	3510881	g	103
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	015	3510638	3510774	 	32
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	016	3510500	3510577	h	104
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	017	3510984	3511076	e	101
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	018	3511006	3511063	l	108
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	019	3511556	3511696	l	108
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	020	3511812	3511877	o	111
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	021	3512520	3512608	 	32
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	022	3511310	3511443	l	108
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	023	3512058	3512144	e	101
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	024	3511415	3511497	a	97
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	025	3513152	3513290	r	114
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	026	3513750	3513895	n	110
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	027	3511808	3511858	i	105
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	028	3512510	3512647	n	110
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	029	3513452	3513521	g	103
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	030	3513582	3513669	 	32
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	031	3512870	3512946	d	100
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	032	3512441	3512570	a	97
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	033	3514664	3514750	t	116
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	034	3514742	3514880	a	97
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	035	3513964	3514057	 	32
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	036	3512535	3512590	b	98
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	037	3516164	3516275	r	114
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	038	3515623	3515682	o	111
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	039	3516030	3516155	w	119
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	040	3515279	3515404	n	110
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	041	3513720	3513792	 	32
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	042	3516503	3516612	f	102
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	043	3514838	3514901	o	111
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	044	3517041	3517126	x	120
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	045	3515468	3515606	 	32
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	046	3515345	3515489	j	106
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	047	3515348	3515481	u	117
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	048	3517507	3517570	m	109
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	049	3515480	3515625	p	112
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	050	3514096	3514165	s	115
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	051	3516600	3516711	 	32
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	052	3516650	3516790	q	113
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	053	3517944	3518072	u	117
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	054	3516685	3516818	i	105
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	055	3515804	3515896	c	99
+036	010	artificial dog hello learning data brown fox jumps quick	artificial dog hello learning data brown fox jumps quick	056	3516535	3516674	k	107

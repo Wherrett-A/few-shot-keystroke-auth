@@ -1,0 +1,474 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	001	200000	200143	f	102
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	002	200160	200297	o	111
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	003	200380	200516	x	120
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	004	200552	200648	 	32
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	005	200616	200726	a	97
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	006	200700	200838	r	114
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	007	200702	200847	t	116
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	008	201218	201287	i	105
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	009	201272	201393	f	102
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	010	201593	201685	i	105
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	011	201170	201282	c	99
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	012	201617	201736	i	105
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	013	201800	201888	a	97
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	014	201430	201494	l	108
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	015	202464	202543	 	32
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	016	201620	201744	t	116
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	017	201952	202091	h	104
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	018	202771	202885	e	101
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	019	202952	203033	 	32
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	020	203667	203765	w	119
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	021	203620	203710	o	111
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	022	203213	203356	r	114
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	023	204136	204191	l	108
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	024	203841	203900	d	100
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	025	204656	204745	 	32
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	026	203400	203466	h	104
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	027	204134	204218	e	101
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	028	203294	203415	l	108
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	029	205096	205216	l	108
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	030	204959	205020	o	111
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	031	203690	203808	 	32
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	032	205053	205143	d	100
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	033	204160	204212	o	111
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	034	205412	205536	g	103
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	035	206596	206648	 	32
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	036	205530	205656	i	105
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	037	206912	207052	n	110
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	038	205439	205539	t	116
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	039	204598	204744	e	101
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	040	206357	206431	l	108
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	041	207960	208055	l	108
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	042	204223	204347	i	105
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	043	205082	205214	g	103
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	044	207568	207706	e	101
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	045	208492	208560	n	110
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	046	208595	208712	c	99
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	047	207958	208068	e	101
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	048	205593	205703	 	32
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	049	206000	206107	f	102
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	050	205292	205431	o	111
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	051	206700	206763	x	120
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	052	206834	206983	 	32
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	053	210036	210156	p	112
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	054	209858	209976	r	114
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	055	205454	205560	o	111
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	056	209460	209543	g	103
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	057	206720	206834	r	114
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	058	206897	207024	a	97
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	059	211484	211570	m	109
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	060	206785	206898	m	109
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	061	210440	210564	i	105
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	062	208967	209041	n	110
+003	001	fox artificial the world hello dog intelligence fox programming	fox artificial the world hello dog intelligence fox programming	063	212338	212478	g	103
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	001	201000	201100	d	100
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	002	201198	201317	o	111
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	003	201218	201279	g	103
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	004	201312	201373	 	32
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	005	201624	201692	l	108
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	006	201500	201641	e	101
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	007	201996	202134	a	97
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	008	201994	202110	r	114
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	009	202344	202438	n	110
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	010	201927	202050	i	105
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	011	202480	202586	n	110
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	012	202221	202326	g	103
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	013	203148	203209	 	32
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	014	202378	202452	h	104
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	015	202428	202531	e	101
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	016	203520	203606	l	108
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	017	204104	204184	l	108
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	018	202785	202848	o	111
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	019	203664	203750	 	32
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	020	203622	203750	a	97
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	021	204240	204378	r	114
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	022	204591	204719	t	116
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	023	205312	205404	i	105
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	024	203990	204064	f	102
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	025	203688	203798	i	105
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	026	203525	203635	c	99
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	027	205082	205216	i	105
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	028	203862	203984	a	97
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	029	205396	205535	l	108
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	030	204422	204521	 	32
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	031	204570	204629	j	106
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	032	207076	207187	u	117
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	033	206728	206869	m	109
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	034	207270	207320	p	112
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	035	205828	205906	s	115
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	036	205935	206042	 	32
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	037	207408	207463	p	112
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	038	208363	208487	y	121
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	039	205750	205882	t	116
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	040	205290	205397	h	104
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	041	208800	208854	o	111
+003	002	dog learning hello artificial jumps python	dog learning hello artificial jumps python	042	205633	205697	n	110
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	001	202000	202063	d	100
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	002	202175	202279	a	97
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	003	202204	202327	t	116
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	004	202441	202533	a	97
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	005	202448	202556	 	32
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	006	202560	202709	j	106
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	007	203038	203150	u	117
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	008	203260	203392	m	109
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	009	203048	203129	p	112
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	010	203692	203819	s	115
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	011	203640	203700	 	32
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	012	203738	203884	w	119
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	013	203536	203596	o	111
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	014	203768	203911	r	114
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	015	204674	204780	l	108
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	016	203530	203663	d	100
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	017	204416	204549	 	32
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	018	204669	204741	h	104
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	019	204412	204465	e	101
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	020	204527	204637	l	108
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	021	205360	205478	l	108
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	022	205759	205847	o	111
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	023	204640	204698	 	32
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	024	205289	205381	l	108
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	025	204928	205075	e	101
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	026	206925	207072	a	97
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	027	205588	205646	r	114
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	028	206023	206149	n	110
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	029	206732	206871	i	105
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	030	205828	205932	n	110
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	031	205510	205575	g	103
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	032	205596	205706	 	32
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	033	207056	207154	o	111
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	034	206653	206782	v	118
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	035	205468	205539	e	101
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	036	205710	205838	r	114
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	037	207832	207930	 	32
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	038	207513	207630	t	116
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	039	205876	205985	h	104
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	040	206563	206707	e	101
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	041	208920	208991	 	32
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	042	206264	206323	d	100
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	043	208468	208615	a	97
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	044	207891	207969	t	116
+003	003	data jumps world hello learning over the data	data jumps world hello learning over the data	045	207368	207509	a	97
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	001	203000	203055	b	98
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	002	203194	203259	r	114
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	003	203296	203354	o	111
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	004	203465	203601	w	119
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	005	203736	203844	n	110
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	006	203900	204003	 	32
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	007	203738	203806	t	116
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	008	204246	204320	h	104
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	009	204392	204528	e	101
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	010	204224	204301	 	32
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	011	204260	204408	t	116
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	012	205068	205139	h	104
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	013	204524	204622	e	101
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	014	204950	205099	 	32
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	015	205660	205761	p	112
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	016	205880	205938	r	114
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	017	205176	205301	o	111
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	018	206264	206390	g	103
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	019	204926	205065	r	114
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	020	206268	206400	a	97
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	021	206060	206143	m	109
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	022	206192	206312	m	109
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	023	206256	206318	i	105
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	024	205369	205516	n	110
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	025	206576	206668	g	103
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	026	206175	206268	 	32
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	027	207134	207203	l	108
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	028	207293	207399	a	97
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	029	206920	207031	z	122
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	030	207756	207864	y	121
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	031	206570	206644	 	32
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	032	207123	207259	l	108
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	033	207832	207944	e	101
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	034	208313	208410	a	97
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	035	206536	206596	r	114
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	036	208670	208806	n	110
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	037	209984	210045	i	105
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	038	208661	208804	n	110
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	039	210562	210689	g	103
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	040	207914	207993	 	32
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	041	208520	208577	p	112
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	042	210749	210888	y	121
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	043	207620	207755	t	116
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	044	208934	209073	h	104
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	045	210612	210734	o	111
+003	004	brown the the programming lazy learning python	brown the the programming lazy learning python	046	209705	209800	n	110
+003	005	learning science learning quick learning	learning science learning quick learning	001	204000	204105	l	108
+003	005	learning science learning quick learning	learning science learning quick learning	002	204161	204214	e	101
+003	005	learning science learning quick learning	learning science learning quick learning	003	204308	204365	a	97
+003	005	learning science learning quick learning	learning science learning quick learning	004	204318	204400	r	114
+003	005	learning science learning quick learning	learning science learning quick learning	005	204480	204587	n	110
+003	005	learning science learning quick learning	learning science learning quick learning	006	204620	204730	i	105
+003	005	learning science learning quick learning	learning science learning quick learning	007	204930	205071	n	110
+003	005	learning science learning quick learning	learning science learning quick learning	008	205183	205304	g	103
+003	005	learning science learning quick learning	learning science learning quick learning	009	204856	205005	 	32
+003	005	learning science learning quick learning	learning science learning quick learning	010	205233	205343	s	115
+003	005	learning science learning quick learning	learning science learning quick learning	011	205300	205425	c	99
+003	005	learning science learning quick learning	learning science learning quick learning	012	205903	205977	i	105
+003	005	learning science learning quick learning	learning science learning quick learning	013	205776	205864	e	101
+003	005	learning science learning quick learning	learning science learning quick learning	014	205755	205860	n	110
+003	005	learning science learning quick learning	learning science learning quick learning	015	206198	206337	c	99
+003	005	learning science learning quick learning	learning science learning quick learning	016	206010	206082	e	101
+003	005	learning science learning quick learning	learning science learning quick learning	017	205712	205830	 	32
+003	005	learning science learning quick learning	learning science learning quick learning	018	206958	207015	l	108
+003	005	learning science learning quick learning	learning science learning quick learning	019	206610	206699	e	101
+003	005	learning science learning quick learning	learning science learning quick learning	020	206508	206609	a	97
+003	005	learning science learning quick learning	learning science learning quick learning	021	206400	206459	r	114
+003	005	learning science learning quick learning	learning science learning quick learning	022	206604	206658	n	110
+003	005	learning science learning quick learning	learning science learning quick learning	023	207366	207448	i	105
+003	005	learning science learning quick learning	learning science learning quick learning	024	207036	207105	n	110
+003	005	learning science learning quick learning	learning science learning quick learning	025	207672	207735	g	103
+003	005	learning science learning quick learning	learning science learning quick learning	026	207675	207748	 	32
+003	005	learning science learning quick learning	learning science learning quick learning	027	207510	207638	q	113
+003	005	learning science learning quick learning	learning science learning quick learning	028	208995	209121	u	117
+003	005	learning science learning quick learning	learning science learning quick learning	029	209040	209122	i	105
+003	005	learning science learning quick learning	learning science learning quick learning	030	208640	208745	c	99
+003	005	learning science learning quick learning	learning science learning quick learning	031	209610	209711	k	107
+003	005	learning science learning quick learning	learning science learning quick learning	032	210076	210196	 	32
+003	005	learning science learning quick learning	learning science learning quick learning	033	209280	209330	l	108
+003	005	learning science learning quick learning	learning science learning quick learning	034	210468	210524	e	101
+003	005	learning science learning quick learning	learning science learning quick learning	035	209712	209773	a	97
+003	005	learning science learning quick learning	learning science learning quick learning	036	207955	208041	r	114
+003	005	learning science learning quick learning	learning science learning quick learning	037	208320	208397	n	110
+003	005	learning science learning quick learning	learning science learning quick learning	038	209069	209216	i	105
+003	005	learning science learning quick learning	learning science learning quick learning	039	211030	211080	n	110
+003	005	learning science learning quick learning	learning science learning quick learning	040	210669	210737	g	103
+003	006	machine machine over science intelligence	machine machine over science intelligence	001	205000	205077	m	109
+003	006	machine machine over science intelligence	machine machine over science intelligence	002	205114	205236	a	97
+003	006	machine machine over science intelligence	machine machine over science intelligence	003	205216	205354	c	99
+003	006	machine machine over science intelligence	machine machine over science intelligence	004	205555	205637	h	104
+003	006	machine machine over science intelligence	machine machine over science intelligence	005	205580	205634	i	105
+003	006	machine machine over science intelligence	machine machine over science intelligence	006	205695	205822	n	110
+003	006	machine machine over science intelligence	machine machine over science intelligence	007	205846	205901	e	101
+003	006	machine machine over science intelligence	machine machine over science intelligence	008	205931	206063	 	32
+003	006	machine machine over science intelligence	machine machine over science intelligence	009	206376	206465	m	109
+003	006	machine machine over science intelligence	machine machine over science intelligence	010	206395	206474	a	97
+003	006	machine machine over science intelligence	machine machine over science intelligence	011	206180	206248	c	99
+003	006	machine machine over science intelligence	machine machine over science intelligence	012	207068	207205	h	104
+003	006	machine machine over science intelligence	machine machine over science intelligence	013	206464	206565	i	105
+003	006	machine machine over science intelligence	machine machine over science intelligence	014	206989	207135	n	110
+003	006	machine machine over science intelligence	machine machine over science intelligence	015	207226	207293	e	101
+003	006	machine machine over science intelligence	machine machine over science intelligence	016	206575	206698	 	32
+003	006	machine machine over science intelligence	machine machine over science intelligence	017	206680	206736	o	111
+003	006	machine machine over science intelligence	machine machine over science intelligence	018	207737	207843	v	118
+003	006	machine machine over science intelligence	machine machine over science intelligence	019	208384	208471	e	101
+003	006	machine machine over science intelligence	machine machine over science intelligence	020	207223	207294	r	114
+003	006	machine machine over science intelligence	machine machine over science intelligence	021	207640	207714	 	32
+003	006	machine machine over science intelligence	machine machine over science intelligence	022	207247	207340	s	115
+003	006	machine machine over science intelligence	machine machine over science intelligence	023	208718	208772	c	99
+003	006	machine machine over science intelligence	machine machine over science intelligence	024	208818	208880	i	105
+003	006	machine machine over science intelligence	machine machine over science intelligence	025	207856	207983	e	101
+003	006	machine machine over science intelligence	machine machine over science intelligence	026	207675	207787	n	110
+003	006	machine machine over science intelligence	machine machine over science intelligence	027	207834	207980	c	99
+003	006	machine machine over science intelligence	machine machine over science intelligence	028	208591	208721	e	101
+003	006	machine machine over science intelligence	machine machine over science intelligence	029	209396	209500	 	32
+003	006	machine machine over science intelligence	machine machine over science intelligence	030	209988	210127	i	105
+003	006	machine machine over science intelligence	machine machine over science intelligence	031	208900	209008	n	110
+003	006	machine machine over science intelligence	machine machine over science intelligence	032	209185	209295	t	116
+003	006	machine machine over science intelligence	machine machine over science intelligence	033	211240	211306	e	101
+003	006	machine machine over science intelligence	machine machine over science intelligence	034	208564	208687	l	108
+003	006	machine machine over science intelligence	machine machine over science intelligence	035	210984	211060	l	108
+003	006	machine machine over science intelligence	machine machine over science intelligence	036	209480	209629	i	105
+003	006	machine machine over science intelligence	machine machine over science intelligence	037	209464	209558	g	103
+003	006	machine machine over science intelligence	machine machine over science intelligence	038	209292	209398	e	101
+003	006	machine machine over science intelligence	machine machine over science intelligence	039	210510	210608	n	110
+003	006	machine machine over science intelligence	machine machine over science intelligence	040	210382	210505	c	99
+003	006	machine machine over science intelligence	machine machine over science intelligence	041	211040	211117	e	101
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	001	206000	206123	o	111
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	002	206149	206278	v	118
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	003	206300	206442	e	101
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	004	206336	206391	r	114
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	005	206416	206534	 	32
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	006	206595	206655	b	98
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	007	206906	207035	r	114
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	008	207239	207300	o	111
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	009	207336	207447	w	119
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	010	207485	207580	n	110
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	011	207650	207710	 	32
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	012	207144	207222	f	102
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	013	207788	207918	o	111
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	014	208210	208346	x	120
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	015	207820	207950	 	32
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	016	208310	208457	h	104
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	017	209120	209192	e	101
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	018	209162	209278	l	108
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	019	208034	208120	l	108
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	020	208926	209047	o	111
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	021	209060	209172	 	32
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	022	209612	209706	o	111
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	023	210334	210416	v	118
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	024	210117	210189	e	101
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	025	210152	210250	r	114
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	026	210375	210432	 	32
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	027	209822	209939	m	109
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	028	210806	210913	a	97
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	029	210256	210352	c	99
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	030	209509	209590	h	104
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	031	209810	209953	i	105
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	032	211828	211919	n	110
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	033	210256	210385	e	101
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	034	212534	212625	 	32
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	035	211950	212054	d	100
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	036	211215	211336	a	97
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	037	211040	211139	t	116
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	038	209700	209849	a	97
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	039	210978	211102	 	32
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	040	213254	213376	f	102
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	041	213280	213426	o	111
+003	007	over brown fox hello over machine data fox	over brown fox hello over machine data fox	042	212560	212701	x	120
+003	008	machine dog data intelligence python	machine dog data intelligence python	001	207000	207113	m	109
+003	008	machine dog data intelligence python	machine dog data intelligence python	002	207179	207256	a	97
+003	008	machine dog data intelligence python	machine dog data intelligence python	003	207278	207338	c	99
+003	008	machine dog data intelligence python	machine dog data intelligence python	004	207573	207631	h	104
+003	008	machine dog data intelligence python	machine dog data intelligence python	005	207756	207826	i	105
+003	008	machine dog data intelligence python	machine dog data intelligence python	006	207615	207706	n	110
+003	008	machine dog data intelligence python	machine dog data intelligence python	007	207666	207748	e	101
+003	008	machine dog data intelligence python	machine dog data intelligence python	008	208092	208159	 	32
+003	008	machine dog data intelligence python	machine dog data intelligence python	009	208312	208377	d	100
+003	008	machine dog data intelligence python	machine dog data intelligence python	010	208287	208398	o	111
+003	008	machine dog data intelligence python	machine dog data intelligence python	011	208630	208745	g	103
+003	008	machine dog data intelligence python	machine dog data intelligence python	012	208188	208296	 	32
+003	008	machine dog data intelligence python	machine dog data intelligence python	013	209316	209452	d	100
+003	008	machine dog data intelligence python	machine dog data intelligence python	014	208768	208827	a	97
+003	008	machine dog data intelligence python	machine dog data intelligence python	015	208680	208798	t	116
+003	008	machine dog data intelligence python	machine dog data intelligence python	016	209745	209855	a	97
+003	008	machine dog data intelligence python	machine dog data intelligence python	017	209784	209891	 	32
+003	008	machine dog data intelligence python	machine dog data intelligence python	018	210332	210468	i	105
+003	008	machine dog data intelligence python	machine dog data intelligence python	019	209052	209129	n	110
+003	008	machine dog data intelligence python	machine dog data intelligence python	020	209546	209681	t	116
+003	008	machine dog data intelligence python	machine dog data intelligence python	021	210020	210112	e	101
+003	008	machine dog data intelligence python	machine dog data intelligence python	022	209310	209374	l	108
+003	008	machine dog data intelligence python	machine dog data intelligence python	023	210586	210662	l	108
+003	008	machine dog data intelligence python	machine dog data intelligence python	024	209783	209870	i	105
+003	008	machine dog data intelligence python	machine dog data intelligence python	025	211416	211510	g	103
+003	008	machine dog data intelligence python	machine dog data intelligence python	026	210950	211047	e	101
+003	008	machine dog data intelligence python	machine dog data intelligence python	027	211394	211509	n	110
+003	008	machine dog data intelligence python	machine dog data intelligence python	028	212238	212337	c	99
+003	008	machine dog data intelligence python	machine dog data intelligence python	029	211144	211262	e	101
+003	008	machine dog data intelligence python	machine dog data intelligence python	030	212162	212258	 	32
+003	008	machine dog data intelligence python	machine dog data intelligence python	031	210390	210531	p	112
+003	008	machine dog data intelligence python	machine dog data intelligence python	032	210379	210451	y	121
+003	008	machine dog data intelligence python	machine dog data intelligence python	033	212088	212174	t	116
+003	008	machine dog data intelligence python	machine dog data intelligence python	034	211521	211586	h	104
+003	008	machine dog data intelligence python	machine dog data intelligence python	035	212066	212147	o	111
+003	008	machine dog data intelligence python	machine dog data intelligence python	036	212705	212760	n	110
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	001	208000	208085	a	97
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	002	208180	208231	r	114
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	003	208250	208316	t	116
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	004	208507	208634	i	105
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	005	208632	208724	f	102
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	006	208665	208788	i	105
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	007	208978	209031	c	99
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	008	209148	209274	i	105
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	009	209184	209256	a	97
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	010	209467	209591	l	108
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	011	209430	209554	 	32
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	012	209320	209432	i	105
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	013	209836	209910	n	110
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	014	209326	209408	t	116
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	015	210100	210235	e	101
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	016	209875	210017	l	108
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	017	210176	210266	l	108
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	018	210958	211025	i	105
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	019	210088	210183	g	103
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	020	211306	211407	e	101
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	021	211620	211760	n	110
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	022	210772	210861	c	99
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	023	211696	211751	e	101
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	024	210415	210532	 	32
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	025	211624	211738	i	105
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	026	212900	212977	n	110
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	027	211458	211571	t	116
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	028	211915	212021	e	101
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	029	212900	213001	l	108
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	030	211422	211541	l	108
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	031	212170	212274	i	105
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	032	213921	214020	g	103
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	033	213824	213874	e	101
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	034	214567	214631	n	110
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	035	211570	211631	c	99
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	036	214090	214189	e	101
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	037	213976	214038	 	32
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	038	213476	213548	o	111
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	039	214498	214615	v	118
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	040	213343	213398	e	101
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	041	214840	214898	r	114
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	042	212715	212834	 	32
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	043	212242	212341	i	105
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	044	212644	212735	n	110
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	045	213236	213303	t	116
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	046	216820	216924	e	101
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	047	213198	213249	l	108
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	048	214862	214938	l	108
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	049	215632	215745	i	105
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	050	213929	214022	g	103
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	051	216400	216483	e	101
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	052	213304	213356	n	110
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	053	214864	214971	c	99
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	054	214890	215037	e	101
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	055	217180	217240	 	32
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	056	216195	216300	b	98
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	057	214776	214865	r	114
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	058	218773	218827	o	111
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	059	218150	218207	w	119
+003	009	artificial intelligence intelligence over intelligence brown	artificial intelligence intelligence over intelligence brown	060	219682	219735	n	110
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	001	209000	209050	h	104
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	002	209189	209308	e	101
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	003	209394	209499	l	108
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	004	209360	209460	l	108
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	005	209748	209849	o	111
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	006	209830	209904	 	32
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	007	209732	209797	i	105
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	008	210295	210412	n	110
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	009	209864	209942	t	116
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	010	210764	210835	e	101
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	011	210700	210835	l	108
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	012	210584	210697	l	108
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	013	210488	210635	i	105
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	014	211574	211673	g	103
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	015	211058	211201	e	101
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	016	211565	211661	n	110
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	017	210856	210958	c	99
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	018	211584	211677	e	101
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	019	211196	211339	 	32
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	020	211603	211734	b	98
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	021	211580	211694	r	114
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	022	212234	212305	o	111
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	023	212344	212449	w	119
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	024	212197	212323	n	110
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	025	213296	213361	 	32
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	026	213200	213348	b	98
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	027	213992	214099	r	114
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	028	212969	213052	o	111
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	029	214040	214096	w	119
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	030	211987	212125	n	110
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	031	214850	214959	 	32
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	032	215169	215231	t	116
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	033	215304	215427	h	104
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	034	215534	215632	e	101
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	035	214100	214182	 	32
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	036	214705	214792	h	104
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	037	213860	213980	e	101
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	038	213440	213505	l	108
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	039	215916	215968	l	108
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	040	213836	213890	o	111
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	041	216760	216834	 	32
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	042	213469	213580	s	115
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	043	216014	216102	c	99
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	044	215751	215864	i	105
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	045	214632	214703	e	101
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	046	214310	214409	n	110
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	047	215302	215360	c	99
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	048	217084	217219	e	101
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	049	215864	215968	 	32
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	050	214635	214775	d	100
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	051	214150	214261	a	97
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	052	219047	219115	t	116
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	053	218308	218421	a	97
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	054	218646	218715	 	32
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	055	217964	218018	d	100
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	056	217085	217141	a	97
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	057	218296	218365	t	116
+003	010	hello intelligence brown brown the hello science data data	hello intelligence brown brown the hello science data data	058	218063	218181	a	97

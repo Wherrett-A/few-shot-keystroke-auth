@@ -1,0 +1,411 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	001	4500000	4500132	d	100
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	002	4500152	4500291	a	97
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	003	4500398	4500474	t	116
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	004	4500522	4500588	a	97
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	005	4500456	4500545	 	32
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	006	4500815	4500873	a	97
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	007	4501140	4501265	r	114
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	008	4500959	4501028	t	116
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	009	4501216	4501270	i	105
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	010	4500999	4501119	f	102
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	011	4501300	4501395	i	105
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	012	4501991	4502123	c	99
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	013	4502100	4502214	i	105
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	014	4502444	4502583	a	97
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	015	4502100	4502233	l	108
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	016	4501695	4501775	 	32
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	017	4502000	4502110	f	102
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	018	4503009	4503131	o	111
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	019	4501800	4501916	x	120
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	020	4502128	4502220	 	32
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	021	4502360	4502443	j	106
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	022	4503171	4503315	u	117
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	023	4502244	4502378	m	109
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	024	4504416	4504556	p	112
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	025	4504560	4504614	s	115
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	026	4503450	4503576	 	32
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	027	4504368	4504503	h	104
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	028	4504509	4504608	e	101
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	029	4503668	4503750	l	108
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	030	4504843	4504956	l	108
+046	001	data artificial fox jumps hello	data artificial fox jumps hello	031	4505970	4506037	o	111
+046	002	artificial machine data machine fox	artificial machine data machine fox	001	4501000	4501071	a	97
+046	002	artificial machine data machine fox	artificial machine data machine fox	002	4501160	4501213	r	114
+046	002	artificial machine data machine fox	artificial machine data machine fox	003	4501268	4501412	t	116
+046	002	artificial machine data machine fox	artificial machine data machine fox	004	4501528	4501659	i	105
+046	002	artificial machine data machine fox	artificial machine data machine fox	005	4501424	4501508	f	102
+046	002	artificial machine data machine fox	artificial machine data machine fox	006	4501805	4501893	i	105
+046	002	artificial machine data machine fox	artificial machine data machine fox	007	4501618	4501671	c	99
+046	002	artificial machine data machine fox	artificial machine data machine fox	008	4501791	4501935	i	105
+046	002	artificial machine data machine fox	artificial machine data machine fox	009	4502464	4502534	a	97
+046	002	artificial machine data machine fox	artificial machine data machine fox	010	4502755	4502819	l	108
+046	002	artificial machine data machine fox	artificial machine data machine fox	011	4502640	4502719	 	32
+046	002	artificial machine data machine fox	artificial machine data machine fox	012	4502925	4503025	m	109
+046	002	artificial machine data machine fox	artificial machine data machine fox	013	4503208	4503313	a	97
+046	002	artificial machine data machine fox	artificial machine data machine fox	014	4503353	4503440	c	99
+046	002	artificial machine data machine fox	artificial machine data machine fox	015	4502974	4503055	h	104
+046	002	artificial machine data machine fox	artificial machine data machine fox	016	4503565	4503711	i	105
+046	002	artificial machine data machine fox	artificial machine data machine fox	017	4504072	4504169	n	110
+046	002	artificial machine data machine fox	artificial machine data machine fox	018	4503839	4503963	e	101
+046	002	artificial machine data machine fox	artificial machine data machine fox	019	4503592	4503654	 	32
+046	002	artificial machine data machine fox	artificial machine data machine fox	020	4503546	4503623	d	100
+046	002	artificial machine data machine fox	artificial machine data machine fox	021	4504840	4504932	a	97
+046	002	artificial machine data machine fox	artificial machine data machine fox	022	4504087	4504231	t	116
+046	002	artificial machine data machine fox	artificial machine data machine fox	023	4504124	4504228	a	97
+046	002	artificial machine data machine fox	artificial machine data machine fox	024	4504680	4504796	 	32
+046	002	artificial machine data machine fox	artificial machine data machine fox	025	4505392	4505539	m	109
+046	002	artificial machine data machine fox	artificial machine data machine fox	026	4505375	4505471	a	97
+046	002	artificial machine data machine fox	artificial machine data machine fox	027	4503912	4504040	c	99
+046	002	artificial machine data machine fox	artificial machine data machine fox	028	4504429	4504530	h	104
+046	002	artificial machine data machine fox	artificial machine data machine fox	029	4505284	4505342	i	105
+046	002	artificial machine data machine fox	artificial machine data machine fox	030	4504219	4504279	n	110
+046	002	artificial machine data machine fox	artificial machine data machine fox	031	4504930	4505032	e	101
+046	002	artificial machine data machine fox	artificial machine data machine fox	032	4505805	4505885	 	32
+046	002	artificial machine data machine fox	artificial machine data machine fox	033	4506408	4506513	f	102
+046	002	artificial machine data machine fox	artificial machine data machine fox	034	4505290	4505397	o	111
+046	002	artificial machine data machine fox	artificial machine data machine fox	035	4504808	4504928	x	120
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	001	4502000	4502113	t	116
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	002	4502148	4502290	h	104
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	003	4502314	4502392	e	101
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	004	4502513	4502658	 	32
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	005	4502776	4502851	l	108
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	006	4502630	4502692	a	97
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	007	4503182	4503281	z	122
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	008	4502924	4503072	y	121
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	009	4503376	4503512	 	32
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	010	4502981	4503119	m	109
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	011	4503390	4503509	a	97
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	012	4503969	4504088	c	99
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	013	4503812	4503914	h	104
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	014	4504054	4504181	i	105
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	015	4504170	4504279	n	110
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	016	4504355	4504443	e	101
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	017	4505168	4505235	 	32
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	018	4504771	4504850	i	105
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	019	4505312	4505381	n	110
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	020	4505762	4505813	t	116
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	021	4505320	4505448	e	101
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	022	4504415	4504493	l	108
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	023	4504508	4504564	l	108
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	024	4505312	4505381	i	105
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	025	4505672	4505726	g	103
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	026	4506900	4506955	e	101
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	027	4506680	4506754	n	110
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	028	4506374	4506485	c	99
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	029	4505108	4505192	e	101
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	030	4506698	4506822	 	32
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	031	4507670	4507789	t	116
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	032	4505627	4505683	h	104
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	033	4505744	4505888	e	101
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	034	4506026	4506109	 	32
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	035	4506828	4506948	l	108
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	036	4508055	4508135	e	101
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	037	4507940	4508084	a	97
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	038	4506440	4506537	r	114
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	039	4508460	4508532	n	110
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	040	4509059	4509181	i	105
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	041	4507000	4507080	n	110
+046	003	the lazy machine intelligence the learning	the lazy machine intelligence the learning	042	4507330	4507464	g	103
+046	004	brown machine python science programming dog	brown machine python science programming dog	001	4503000	4503125	b	98
+046	004	brown machine python science programming dog	brown machine python science programming dog	002	4503160	4503254	r	114
+046	004	brown machine python science programming dog	brown machine python science programming dog	003	4503312	4503391	o	111
+046	004	brown machine python science programming dog	brown machine python science programming dog	004	4503585	4503643	w	119
+046	004	brown machine python science programming dog	brown machine python science programming dog	005	4503616	4503727	n	110
+046	004	brown machine python science programming dog	brown machine python science programming dog	006	4503900	4503958	 	32
+046	004	brown machine python science programming dog	brown machine python science programming dog	007	4503846	4503982	m	109
+046	004	brown machine python science programming dog	brown machine python science programming dog	008	4503987	4504129	a	97
+046	004	brown machine python science programming dog	brown machine python science programming dog	009	4503816	4503962	c	99
+046	004	brown machine python science programming dog	brown machine python science programming dog	010	4503972	4504110	h	104
+046	004	brown machine python science programming dog	brown machine python science programming dog	011	4504520	4504573	i	105
+046	004	brown machine python science programming dog	brown machine python science programming dog	012	4504298	4504393	n	110
+046	004	brown machine python science programming dog	brown machine python science programming dog	013	4505088	4505207	e	101
+046	004	brown machine python science programming dog	brown machine python science programming dog	014	4504443	4504540	 	32
+046	004	brown machine python science programming dog	brown machine python science programming dog	015	4504610	4504729	p	112
+046	004	brown machine python science programming dog	brown machine python science programming dog	016	4505520	4505576	y	121
+046	004	brown machine python science programming dog	brown machine python science programming dog	017	4505144	4505217	t	116
+046	004	brown machine python science programming dog	brown machine python science programming dog	018	4505193	4505293	h	104
+046	004	brown machine python science programming dog	brown machine python science programming dog	019	4505718	4505785	o	111
+046	004	brown machine python science programming dog	brown machine python science programming dog	020	4505090	4505190	n	110
+046	004	brown machine python science programming dog	brown machine python science programming dog	021	4506300	4506411	 	32
+046	004	brown machine python science programming dog	brown machine python science programming dog	022	4507095	4507155	s	115
+046	004	brown machine python science programming dog	brown machine python science programming dog	023	4506146	4506232	c	99
+046	004	brown machine python science programming dog	brown machine python science programming dog	024	4505507	4505579	i	105
+046	004	brown machine python science programming dog	brown machine python science programming dog	025	4505616	4505718	e	101
+046	004	brown machine python science programming dog	brown machine python science programming dog	026	4507725	4507776	n	110
+046	004	brown machine python science programming dog	brown machine python science programming dog	027	4506198	4506260	c	99
+046	004	brown machine python science programming dog	brown machine python science programming dog	028	4506051	4506123	e	101
+046	004	brown machine python science programming dog	brown machine python science programming dog	029	4506332	4506419	 	32
+046	004	brown machine python science programming dog	brown machine python science programming dog	030	4508684	4508754	p	112
+046	004	brown machine python science programming dog	brown machine python science programming dog	031	4508430	4508512	r	114
+046	004	brown machine python science programming dog	brown machine python science programming dog	032	4507991	4508075	o	111
+046	004	brown machine python science programming dog	brown machine python science programming dog	033	4509208	4509352	g	103
+046	004	brown machine python science programming dog	brown machine python science programming dog	034	4509567	4509706	r	114
+046	004	brown machine python science programming dog	brown machine python science programming dog	035	4507114	4507260	a	97
+046	004	brown machine python science programming dog	brown machine python science programming dog	036	4507865	4507993	m	109
+046	004	brown machine python science programming dog	brown machine python science programming dog	037	4507644	4507738	m	109
+046	004	brown machine python science programming dog	brown machine python science programming dog	038	4507070	4507166	i	105
+046	004	brown machine python science programming dog	brown machine python science programming dog	039	4508662	4508769	n	110
+046	004	brown machine python science programming dog	brown machine python science programming dog	040	4508811	4508918	g	103
+046	004	brown machine python science programming dog	brown machine python science programming dog	041	4509120	4509232	 	32
+046	004	brown machine python science programming dog	brown machine python science programming dog	042	4507592	4507681	d	100
+046	004	brown machine python science programming dog	brown machine python science programming dog	043	4511274	4511335	o	111
+046	004	brown machine python science programming dog	brown machine python science programming dog	044	4511299	4511414	g	103
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	001	4504000	4504144	d	100
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	002	4504149	4504282	o	111
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	003	4504240	4504355	g	103
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	004	4504450	4504520	 	32
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	005	4504448	4504564	f	102
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	006	4504560	4504698	o	111
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	007	4505182	4505264	x	120
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	008	4505358	4505437	 	32
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	009	4505088	4505146	m	109
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	010	4505386	4505513	a	97
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	011	4505620	4505703	c	99
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	012	4505320	4505448	h	104
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	013	4506256	4506366	i	105
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	014	4506483	4506578	n	110
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	015	4505498	4505647	e	101
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	016	4506370	4506473	 	32
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	017	4506976	4507033	w	119
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	018	4506924	4506996	o	111
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	019	4506124	4506185	r	114
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	020	4506584	4506664	l	108
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	021	4506100	4506228	d	100
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	022	4506310	4506404	 	32
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	023	4506310	4506377	i	105
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	024	4507082	4507230	n	110
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	025	4508368	4508427	t	116
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	026	4507200	4507262	e	101
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	027	4509018	4509159	l	108
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	028	4509292	4509344	l	108
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	029	4508872	4508999	i	105
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	030	4508901	4508962	g	103
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	031	4509550	4509679	e	101
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	032	4509921	4510062	n	110
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	033	4508704	4508853	c	99
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	034	4507729	4507851	e	101
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	035	4508216	4508294	 	32
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	036	4508200	4508303	d	100
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	037	4509544	4509614	a	97
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	038	4510401	4510536	t	116
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	039	4508294	4508382	a	97
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	040	4511020	4511100	 	32
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	041	4510880	4510936	q	113
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	042	4509207	4509260	u	117
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	043	4511686	4511808	i	105
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	044	4509633	4509728	c	99
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	045	4511260	4511339	k	107
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	046	4510840	4510968	 	32
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	047	4510210	4510267	j	106
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	048	4510063	4510133	u	117
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	049	4512064	4512169	m	109
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	050	4509488	4509632	p	112
+046	005	dog fox machine world intelligence data quick jumps	dog fox machine world intelligence data quick jumps	051	4509150	4509286	s	115
+046	006	python over the intelligence python	python over the intelligence python	001	4505000	4505128	p	112
+046	006	python over the intelligence python	python over the intelligence python	002	4505141	4505268	y	121
+046	006	python over the intelligence python	python over the intelligence python	003	4505392	4505523	t	116
+046	006	python over the intelligence python	python over the intelligence python	004	4505561	4505642	h	104
+046	006	python over the intelligence python	python over the intelligence python	005	4505796	4505870	o	111
+046	006	python over the intelligence python	python over the intelligence python	006	4505665	4505757	n	110
+046	006	python over the intelligence python	python over the intelligence python	007	4505636	4505714	 	32
+046	006	python over the intelligence python	python over the intelligence python	008	4505714	4505830	o	111
+046	006	python over the intelligence python	python over the intelligence python	009	4505864	4505937	v	118
+046	006	python over the intelligence python	python over the intelligence python	010	4505954	4506047	e	101
+046	006	python over the intelligence python	python over the intelligence python	011	4506460	4506604	r	114
+046	006	python over the intelligence python	python over the intelligence python	012	4507046	4507166	 	32
+046	006	python over the intelligence python	python over the intelligence python	013	4506620	4506717	t	116
+046	006	python over the intelligence python	python over the intelligence python	014	4506508	4506624	h	104
+046	006	python over the intelligence python	python over the intelligence python	015	4507520	4507640	e	101
+046	006	python over the intelligence python	python over the intelligence python	016	4506515	4506571	 	32
+046	006	python over the intelligence python	python over the intelligence python	017	4508072	4508178	i	105
+046	006	python over the intelligence python	python over the intelligence python	018	4507210	4507261	n	110
+046	006	python over the intelligence python	python over the intelligence python	019	4506944	4507090	t	116
+046	006	python over the intelligence python	python over the intelligence python	020	4508724	4508788	e	101
+046	006	python over the intelligence python	python over the intelligence python	021	4508920	4509013	l	108
+046	006	python over the intelligence python	python over the intelligence python	022	4508528	4508660	l	108
+046	006	python over the intelligence python	python over the intelligence python	023	4508740	4508790	i	105
+046	006	python over the intelligence python	python over the intelligence python	024	4509577	4509670	g	103
+046	006	python over the intelligence python	python over the intelligence python	025	4509752	4509843	e	101
+046	006	python over the intelligence python	python over the intelligence python	026	4509550	4509685	n	110
+046	006	python over the intelligence python	python over the intelligence python	027	4508510	4508571	c	99
+046	006	python over the intelligence python	python over the intelligence python	028	4509563	4509689	e	101
+046	006	python over the intelligence python	python over the intelligence python	029	4509172	4509266	 	32
+046	006	python over the intelligence python	python over the intelligence python	030	4508161	4508310	p	112
+046	006	python over the intelligence python	python over the intelligence python	031	4510040	4510185	y	121
+046	006	python over the intelligence python	python over the intelligence python	032	4508162	4508263	t	116
+046	006	python over the intelligence python	python over the intelligence python	033	4510152	4510217	h	104
+046	006	python over the intelligence python	python over the intelligence python	034	4510610	4510703	o	111
+046	006	python over the intelligence python	python over the intelligence python	035	4511086	4511209	n	110
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	001	4506000	4506061	l	108
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	002	4506144	4506234	e	101
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	003	4506364	4506448	a	97
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	004	4506570	4506718	r	114
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	005	4506688	4506830	n	110
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	006	4506765	4506872	i	105
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	007	4507068	4507188	n	110
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	008	4506735	4506835	g	103
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	009	4507304	4507417	 	32
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	010	4507494	4507619	l	108
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	011	4507880	4508008	a	97
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	012	4507386	4507464	z	122
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	013	4508112	4508261	y	121
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	014	4507755	4507850	 	32
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	015	4507960	4508061	i	105
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	016	4508655	4508783	n	110
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	017	4509056	4509173	t	116
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	018	4508057	4508186	e	101
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	019	4509420	4509528	l	108
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	020	4509325	4509437	l	108
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	021	4508500	4508609	i	105
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	022	4508457	4508578	g	103
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	023	4509564	4509669	e	101
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	024	4510071	4510156	n	110
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	025	4510608	4510695	c	99
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	026	4509150	4509294	e	101
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	027	4509640	4509772	 	32
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	028	4509429	4509575	w	119
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	029	4509164	4509254	o	111
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	030	4508987	4509097	r	114
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	031	4509960	4510036	l	108
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	032	4510960	4511050	d	100
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	033	4512368	4512503	 	32
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	034	4510125	4510230	s	115
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	035	4510930	4510980	c	99
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	036	4511495	4511639	i	105
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	037	4511400	4511467	e	101
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	038	4512734	4512841	n	110
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	039	4513296	4513374	c	99
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	040	4510719	4510798	e	101
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	041	4511120	4511262	 	32
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	042	4512847	4512902	d	100
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	043	4512552	4512679	a	97
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	044	4514514	4514627	t	116
+046	007	learning lazy intelligence world science data	learning lazy intelligence world science data	045	4512512	4512599	a	97
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	001	4507000	4507114	t	116
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	002	4507131	4507273	h	104
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	003	4507392	4507484	e	101
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	004	4507405	4507468	 	32
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	005	4507652	4507774	h	104
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	006	4507575	4507717	e	101
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	007	4507612	4507690	l	108
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	008	4507805	4507931	l	108
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	009	4508024	4508141	o	111
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	010	4508431	4508520	 	32
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	011	4508400	4508496	h	104
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	012	4508991	4509101	e	101
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	013	4508980	4509071	l	108
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	014	4508612	4508735	l	108
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	015	4509576	4509714	o	111
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	016	4508755	4508888	 	32
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	017	4509384	4509446	h	104
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	018	4510060	4510118	e	101
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	019	4510510	4510635	l	108
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	020	4509964	4510088	l	108
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	021	4510380	4510525	o	111
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	022	4509709	4509792	 	32
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	023	4510432	4510558	t	116
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	024	4510381	4510439	h	104
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	025	4510216	4510282	e	101
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	026	4510750	4510822	 	32
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	027	4510198	4510267	l	108
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	028	4512076	4512175	a	97
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	029	4511088	4511196	z	122
+046	008	the hello hello hello the lazy	the hello hello hello the lazy	030	4511785	4511912	y	121
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	001	4508000	4508145	d	100
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	002	4508167	4508253	a	97
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	003	4508384	4508503	t	116
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	004	4508465	4508614	a	97
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	005	4508408	4508474	 	32
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	006	4508910	4508976	s	115
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	007	4509194	4509310	c	99
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	008	4509099	4509157	i	105
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	009	4509520	4509656	e	101
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	010	4509773	4509854	n	110
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	011	4509260	4509332	c	99
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	012	4509837	4509919	e	101
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	013	4509836	4509940	 	32
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	014	4510470	4510592	l	108
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	015	4510422	4510525	a	97
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	016	4509665	4509806	z	122
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	017	4509712	4509796	y	121
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	018	4510278	4510418	 	32
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	019	4509818	4509950	w	119
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	020	4510014	4510100	o	111
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	021	4511940	4512063	r	114
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	022	4511507	4511652	l	108
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	023	4510442	4510590	d	100
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	024	4511818	4511903	 	32
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	025	4512080	4512156	a	97
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	026	4512400	4512472	r	114
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	027	4511172	4511260	t	116
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	028	4511699	4511841	i	105
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	029	4511332	4511479	f	102
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	030	4513307	4513412	i	105
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	031	4512290	4512423	c	99
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	032	4513580	4513664	i	105
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	033	4513280	4513355	a	97
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	034	4512719	4512784	l	108
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	035	4514596	4514713	 	32
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	036	4513775	4513875	b	98
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	037	4514804	4514908	r	114
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	038	4513476	4513579	o	111
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	039	4512522	4512582	w	119
+046	009	data science lazy world artificial brown	data science lazy world artificial brown	040	4514630	4514776	n	110
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	001	4509000	4509067	p	112
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	002	4509193	4509288	y	121
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	003	4509260	4509373	t	116
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	004	4509420	4509563	h	104
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	005	4509432	4509554	o	111
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	006	4509805	4509948	n	110
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	007	4510074	4510196	 	32
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	008	4509714	4509846	j	106
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	009	4510432	4510495	u	117
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	010	4510620	4510692	m	109
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	011	4510730	4510836	p	112
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	012	4511024	4511147	s	115
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	013	4511004	4511153	 	32
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	014	4511431	4511519	f	102
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	015	4510694	4510826	o	111
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	016	4510500	4510594	x	120
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	017	4511272	4511408	 	32
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	018	4510955	4511063	q	113
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	019	4512276	4512425	u	117
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	020	4511470	4511566	i	105
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	021	4511620	4511767	c	99
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	022	4512444	4512510	k	107
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	023	4512058	4512155	 	32
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	024	4511967	4512024	f	102
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	025	4512576	4512651	o	111
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	026	4512950	4513083	x	120
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	027	4513368	4513427	 	32
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	028	4513833	4513974	p	112
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	029	4511968	4512062	y	121
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	030	4513089	4513197	t	116
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	031	4513350	4513406	h	104
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	032	4513247	4513396	o	111
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	033	4512680	4512804	n	110
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	034	4513356	4513414	 	32
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	035	4515664	4515717	f	102
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	036	4514145	4514245	o	111
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	037	4514976	4515065	x	120
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	038	4513144	4513281	 	32
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	039	4515688	4515761	p	112
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	040	4513563	4513672	y	121
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	041	4516720	4516855	t	116
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	042	4516626	4516722	h	104
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	043	4514292	4514404	o	111
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	044	4513945	4514064	n	110
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	045	4514588	4514729	 	32
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	046	4514985	4515050	i	105
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	047	4517970	4518110	n	110
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	048	4518353	4518416	t	116
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	049	4518120	4518246	e	101
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	050	4516154	4516263	l	108
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	051	4518100	4518225	l	108
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	052	4515273	4515334	i	105
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	053	4515604	4515696	g	103
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	054	4516473	4516552	e	101
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	055	4518612	4518730	n	110
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	056	4516700	4516815	c	99
+046	010	python jumps fox quick fox python fox python intelligence	python jumps fox quick fox python fox python intelligence	057	4520144	4520223	e	101

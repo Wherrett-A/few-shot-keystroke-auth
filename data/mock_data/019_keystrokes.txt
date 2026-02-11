@@ -1,0 +1,453 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+019	001	fox fox world data data science	fox fox world data data science	001	1800000	1800063	f	102
+019	001	fox fox world data data science	fox fox world data data science	002	1800116	1800183	o	111
+019	001	fox fox world data data science	fox fox world data data science	003	1800360	1800461	x	120
+019	001	fox fox world data data science	fox fox world data data science	004	1800396	1800527	 	32
+019	001	fox fox world data data science	fox fox world data data science	005	1800760	1800813	f	102
+019	001	fox fox world data data science	fox fox world data data science	006	1800720	1800837	o	111
+019	001	fox fox world data data science	fox fox world data data science	007	1800906	1800966	x	120
+019	001	fox fox world data data science	fox fox world data data science	008	1801141	1801253	 	32
+019	001	fox fox world data data science	fox fox world data data science	009	1801368	1801474	w	119
+019	001	fox fox world data data science	fox fox world data data science	010	1801476	1801611	o	111
+019	001	fox fox world data data science	fox fox world data data science	011	1801010	1801066	r	114
+019	001	fox fox world data data science	fox fox world data data science	012	1802090	1802185	l	108
+019	001	fox fox world data data science	fox fox world data data science	013	1801812	1801921	d	100
+019	001	fox fox world data data science	fox fox world data data science	014	1801430	1801547	 	32
+019	001	fox fox world data data science	fox fox world data data science	015	1801974	1802075	d	100
+019	001	fox fox world data data science	fox fox world data data science	016	1801965	1802093	a	97
+019	001	fox fox world data data science	fox fox world data data science	017	1802704	1802788	t	116
+019	001	fox fox world data data science	fox fox world data data science	018	1801734	1801790	a	97
+019	001	fox fox world data data science	fox fox world data data science	019	1803114	1803235	 	32
+019	001	fox fox world data data science	fox fox world data data science	020	1802280	1802415	d	100
+019	001	fox fox world data data science	fox fox world data data science	021	1802260	1802382	a	97
+019	001	fox fox world data data science	fox fox world data data science	022	1804011	1804099	t	116
+019	001	fox fox world data data science	fox fox world data data science	023	1802860	1802938	a	97
+019	001	fox fox world data data science	fox fox world data data science	024	1804094	1804230	 	32
+019	001	fox fox world data data science	fox fox world data data science	025	1804296	1804363	s	115
+019	001	fox fox world data data science	fox fox world data data science	026	1803825	1803901	c	99
+019	001	fox fox world data data science	fox fox world data data science	027	1803614	1803731	i	105
+019	001	fox fox world data data science	fox fox world data data science	028	1803915	1804042	e	101
+019	001	fox fox world data data science	fox fox world data data science	029	1803360	1803469	n	110
+019	001	fox fox world data data science	fox fox world data data science	030	1804321	1804447	c	99
+019	001	fox fox world data data science	fox fox world data data science	031	1803870	1803968	e	101
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	001	1801000	1801065	m	109
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	002	1801112	1801164	a	97
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	003	1801320	1801458	c	99
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	004	1801360	1801437	h	104
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	005	1801740	1801855	i	105
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	006	1801555	1801630	n	110
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	007	1802026	1802117	e	101
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	008	1801847	1801980	 	32
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	009	1802480	1802623	p	112
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	010	1802719	1802808	r	114
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	011	1802040	1802117	o	111
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	012	1802408	1802522	g	103
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	013	1802440	1802511	r	114
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	014	1802417	1802555	a	97
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	015	1803142	1803280	m	109
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	016	1803280	1803382	m	109
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	017	1804136	1804222	i	105
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	018	1803822	1803919	n	110
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	019	1804384	1804513	g	103
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	020	1804401	1804478	 	32
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	021	1804340	1804405	q	113
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	022	1803541	1803632	u	117
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	023	1804388	1804464	i	105
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	024	1803415	1803524	c	99
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	025	1804792	1804903	k	107
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	026	1803950	1804087	 	32
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	027	1804926	1805029	m	109
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	028	1804240	1804387	a	97
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	029	1806152	1806256	c	99
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	030	1805582	1805709	h	104
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	031	1805860	1805929	i	105
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	032	1805030	1805175	n	110
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	033	1806728	1806863	e	101
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	034	1806775	1806917	 	32
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	035	1806576	1806645	p	112
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	036	1807615	1807701	r	114
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	037	1806940	1807037	o	111
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	038	1804959	1805071	g	103
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	039	1807840	1807915	r	114
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	040	1808605	1808707	a	97
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	041	1807880	1807948	m	109
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	042	1806699	1806774	m	109
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	043	1808434	1808484	i	105
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	044	1805687	1805826	n	110
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	045	1809580	1809698	g	103
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	046	1806130	1806230	 	32
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	047	1806152	1806286	b	98
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	048	1808943	1809005	r	114
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	049	1807624	1807746	o	111
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	050	1806047	1806175	w	119
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	051	1810850	1810919	n	110
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	052	1807426	1807546	 	32
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	053	1808904	1808960	m	109
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	054	1808685	1808759	a	97
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	055	1811368	1811430	c	99
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	056	1807325	1807431	h	104
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	057	1808952	1809094	i	105
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	058	1807783	1807834	n	110
+019	002	machine programming quick machine programming brown machine	machine programming quick machine programming brown machine	059	1806800	1806921	e	101
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	001	1802000	1802138	t	116
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	002	1802162	1802221	h	104
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	003	1802320	1802395	e	101
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	004	1802375	1802430	 	32
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	005	1802652	1802789	h	104
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	006	1802845	1802913	e	101
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	007	1802936	1802989	l	108
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	008	1803358	1803479	l	108
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	009	1803056	1803186	o	111
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	010	1802972	1803109	 	32
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	011	1803910	1803998	l	108
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	012	1803122	1803187	a	97
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	013	1803272	1803343	z	122
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	014	1804392	1804508	y	121
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	015	1803848	1803901	 	32
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	016	1804055	1804164	f	102
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	017	1804496	1804612	o	111
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	018	1803887	1804029	x	120
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	019	1804934	1805010	 	32
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	020	1804337	1804431	b	98
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	021	1804120	1804268	r	114
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	022	1804625	1804704	o	111
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	023	1804860	1804910	w	119
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	024	1805036	1805102	n	110
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	025	1804400	1804531	 	32
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	026	1805850	1805906	p	112
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	027	1806472	1806601	y	121
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	028	1806050	1806136	t	116
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	029	1806956	1807031	h	104
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	030	1805364	1805461	o	111
+019	003	the hello lazy fox brown python	the hello lazy fox brown python	031	1805030	1805141	n	110
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	001	1803000	1803051	q	113
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	002	1803124	1803194	u	117
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	003	1803322	1803438	i	105
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	004	1803534	1803628	c	99
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	005	1803404	1803483	k	107
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	006	1803600	1803712	 	32
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	007	1803918	1804061	b	98
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	008	1803840	1803927	r	114
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	009	1804240	1804330	o	111
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	010	1804584	1804641	w	119
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	011	1804550	1804643	n	110
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	012	1804386	1804447	 	32
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	013	1804968	1805047	d	100
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	014	1805327	1805442	o	111
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	015	1804806	1804901	g	103
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	016	1804710	1804836	 	32
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	017	1804632	1804744	j	106
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	018	1805040	1805099	u	117
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	019	1805934	1805984	m	109
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	020	1805546	1805675	p	112
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	021	1806100	1806184	s	115
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	022	1805142	1805193	 	32
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	023	1806630	1806736	l	108
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	024	1807140	1807261	a	97
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	025	1807704	1807808	z	122
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	026	1807925	1808011	y	121
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	027	1806822	1806955	 	32
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	028	1807806	1807872	s	115
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	029	1806444	1806522	c	99
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	030	1807582	1807638	i	105
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	031	1808880	1808951	e	101
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	032	1808828	1808965	n	110
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	033	1806648	1806757	c	99
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	034	1807620	1807769	e	101
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	035	1807318	1807391	 	32
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	036	1807130	1807239	t	116
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	037	1806888	1806962	h	104
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	038	1809734	1809858	e	101
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	039	1808966	1809100	 	32
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	040	1808928	1809026	d	100
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	041	1807880	1807933	a	97
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	042	1808863	1808976	t	116
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	043	1808250	1808300	a	97
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	044	1810697	1810818	 	32
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	045	1809600	1809673	l	108
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	046	1809390	1809503	a	97
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	047	1807646	1807793	z	122
+019	004	quick brown dog jumps lazy science the data lazy	quick brown dog jumps lazy science the data lazy	048	1810473	1810612	y	121
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	001	1804000	1804088	f	102
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	002	1804126	1804264	o	111
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	003	1804286	1804403	x	120
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	004	1804495	1804604	 	32
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	005	1804720	1804796	i	105
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	006	1804865	1805007	n	110
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	007	1805134	1805202	t	116
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	008	1804910	1805004	e	101
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	009	1805424	1805499	l	108
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	010	1805035	1805145	l	108
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	011	1805830	1805922	i	105
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	012	1805584	1805706	g	103
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	013	1805584	1805645	e	101
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	014	1806379	1806519	n	110
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	015	1805624	1805721	c	99
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	016	1805665	1805751	e	101
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	017	1807040	1807180	 	32
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	018	1806686	1806775	t	116
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	019	1807564	1807650	h	104
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	020	1806736	1806869	e	101
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	021	1807300	1807358	 	32
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	022	1806772	1806829	o	111
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	023	1807762	1807827	v	118
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	024	1808577	1808643	e	101
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	025	1806568	1806620	r	114
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	026	1807800	1807912	 	32
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	027	1808368	1808511	a	97
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	028	1808131	1808194	r	114
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	029	1808844	1808953	t	116
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	030	1807799	1807887	i	105
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	031	1809070	1809129	f	102
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	032	1807968	1808043	i	105
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	033	1809888	1809993	c	99
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	034	1808323	1808417	i	105
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	035	1807400	1807513	a	97
+019	005	fox intelligence the over artificial	fox intelligence the over artificial	036	1810545	1810639	l	108
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	001	1805000	1805149	m	109
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	002	1805139	1805215	a	97
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	003	1805384	1805461	c	99
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	004	1805447	1805574	h	104
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	005	1805628	1805758	i	105
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	006	1805825	1805913	n	110
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	007	1805954	1806023	e	101
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	008	1805819	1805902	 	32
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	009	1806184	1806266	j	106
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	010	1806359	1806456	u	117
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	011	1806480	1806564	m	109
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	012	1806474	1806611	p	112
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	013	1807112	1807225	s	115
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	014	1806781	1806841	 	32
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	015	1806442	1806514	p	112
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	016	1807715	1807840	r	114
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	017	1808136	1808269	o	111
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	018	1808383	1808526	g	103
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	019	1807538	1807673	r	114
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	020	1806919	1807005	a	97
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	021	1808500	1808619	m	109
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	022	1809053	1809194	m	109
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	023	1808696	1808787	i	105
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	024	1808933	1809045	n	110
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	025	1808096	1808208	g	103
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	026	1807875	1808015	 	32
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	027	1809420	1809471	o	111
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	028	1809887	1810030	v	118
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	029	1809900	1809986	e	101
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	030	1808161	1808263	r	114
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	031	1810100	1810240	 	32
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	032	1810394	1810468	i	105
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	033	1811272	1811405	n	110
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	034	1810709	1810831	t	116
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	035	1811698	1811813	e	101
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	036	1809270	1809388	l	108
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	037	1810616	1810733	l	108
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	038	1810106	1810194	i	105
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	039	1810548	1810693	g	103
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	040	1811435	1811531	e	101
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	041	1810600	1810678	n	110
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	042	1812667	1812764	c	99
+019	006	machine jumps programming over intelligence	machine jumps programming over intelligence	043	1810250	1810323	e	101
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	001	1806000	1806062	f	102
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	002	1806163	1806308	o	111
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	003	1806222	1806364	x	120
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	004	1806546	1806674	 	32
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	005	1806668	1806748	w	119
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	006	1806875	1806955	o	111
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	007	1806834	1806910	r	114
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	008	1807029	1807172	l	108
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	009	1807256	1807396	d	100
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	010	1807359	1807477	 	32
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	011	1807950	1808065	l	108
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	012	1807199	1807335	a	97
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	013	1807500	1807566	z	122
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	014	1807573	1807713	y	121
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	015	1808520	1808633	 	32
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	016	1808010	1808076	f	102
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	017	1808880	1808981	o	111
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	018	1808822	1808919	x	120
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	019	1809546	1809678	 	32
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	020	1808052	1808169	q	113
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	021	1809100	1809209	u	117
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	022	1808289	1808361	i	105
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	023	1810268	1810338	c	99
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	024	1809450	1809553	k	107
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	025	1809888	1809954	 	32
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	026	1809500	1809589	p	112
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	027	1808964	1809062	r	114
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	028	1810428	1810492	o	111
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	029	1810172	1810233	g	103
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	030	1809480	1809549	r	114
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	031	1811430	1811562	a	97
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	032	1812169	1812277	m	109
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	033	1811440	1811502	m	109
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	034	1810125	1810245	i	105
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	035	1812528	1812600	n	110
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	036	1810760	1810858	g	103
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	037	1810140	1810275	 	32
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	038	1810440	1810568	w	119
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	039	1811928	1811985	o	111
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	040	1812279	1812386	r	114
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	041	1813840	1813983	l	108
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	042	1811084	1811178	d	100
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	043	1811880	1812018	 	32
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	044	1813439	1813545	t	116
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	045	1812204	1812344	h	104
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	046	1811625	1811684	e	101
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	047	1812486	1812610	 	32
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	048	1810888	1811019	i	105
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	049	1813200	1813258	n	110
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	050	1811292	1811429	t	116
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	051	1815750	1815864	e	101
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	052	1814721	1814808	l	108
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	053	1814944	1815008	l	108
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	054	1812148	1812260	i	105
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	055	1814370	1814464	g	103
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	056	1815515	1815655	e	101
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	057	1811768	1811899	n	110
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	058	1813809	1813873	c	99
+019	007	fox world lazy fox quick programming world the intelligence	fox world lazy fox quick programming world the intelligence	059	1812264	1812406	e	101
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	001	1807000	1807086	t	116
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	002	1807191	1807283	h	104
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	003	1807274	1807420	e	101
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	004	1807555	1807626	 	32
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	005	1807408	1807491	p	112
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	006	1807685	1807785	r	114
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	007	1808008	1808141	o	111
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	008	1808337	1808431	g	103
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	009	1808504	1808610	r	114
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	010	1808233	1808329	a	97
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	011	1808520	1808626	m	109
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	012	1808848	1808974	m	109
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	013	1809316	1809450	i	105
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	014	1808872	1809000	n	110
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	015	1808876	1808968	g	103
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	016	1809340	1809432	 	32
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	017	1810056	1810111	t	116
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	018	1808938	1809049	h	104
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	019	1810528	1810633	e	101
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	020	1810458	1810551	 	32
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	021	1809640	1809746	h	104
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	022	1810948	1810999	e	101
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	023	1810674	1810747	l	108
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	024	1809668	1809718	l	108
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	025	1809544	1809643	o	111
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	026	1811675	1811746	 	32
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	027	1810744	1810794	l	108
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	028	1811077	1811215	e	101
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	029	1811424	1811555	a	97
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	030	1811408	1811488	r	114
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	031	1811680	1811809	n	110
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	032	1812890	1812986	i	105
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	033	1812664	1812724	n	110
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	034	1811389	1811440	g	103
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	035	1812712	1812784	 	32
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	036	1812320	1812437	b	98
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	037	1810960	1811093	r	114
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	038	1812217	1812319	o	111
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	039	1811826	1811942	w	119
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	040	1814449	1814534	n	110
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	041	1812840	1812989	 	32
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	042	1812494	1812621	l	108
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	043	1812922	1813027	e	101
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	044	1815256	1815398	a	97
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	045	1814172	1814247	r	114
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	046	1815820	1815882	n	110
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	047	1813164	1813289	i	105
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	048	1812405	1812524	n	110
+019	008	the programming the hello learning brown learning	the programming the hello learning brown learning	049	1815016	1815148	g	103
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	001	1808000	1808080	i	105
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	002	1808154	1808212	n	110
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	003	1808204	1808350	t	116
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	004	1808405	1808489	e	101
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	005	1808708	1808813	l	108
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	006	1808550	1808631	l	108
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	007	1809020	1809139	i	105
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	008	1808826	1808894	g	103
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	009	1809408	1809500	e	101
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	010	1809224	1809353	n	110
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	011	1809660	1809738	c	99
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	012	1809914	1810034	e	101
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	013	1809608	1809689	 	32
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	014	1809313	1809434	h	104
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	015	1810562	1810675	e	101
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	016	1810220	1810334	l	108
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	017	1809680	1809814	l	108
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	018	1810363	1810465	o	111
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	019	1811276	1811364	 	32
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	020	1810717	1810824	d	100
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	021	1811260	1811329	a	97
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	022	1811948	1812031	t	116
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	023	1810882	1811009	a	97
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	024	1811887	1812014	 	32
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	025	1811744	1811806	m	109
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	026	1812400	1812458	a	97
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	027	1810782	1810927	c	99
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	028	1810943	1811084	h	104
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	029	1812928	1813074	i	105
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	030	1811016	1811088	n	110
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	031	1811180	1811292	e	101
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	032	1811162	1811303	 	32
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	033	1813760	1813878	p	112
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	034	1811531	1811653	y	121
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	035	1812998	1813079	t	116
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	036	1812690	1812749	h	104
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	037	1812104	1812227	o	111
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	038	1813143	1813239	n	110
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	039	1812218	1812350	 	32
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	040	1811939	1812058	d	100
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	041	1813440	1813582	o	111
+019	009	intelligence hello data machine python dog	intelligence hello data machine python dog	042	1812838	1812975	g	103
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	001	1809000	1809050	h	104
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	002	1809168	1809315	e	101
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	003	1809224	1809360	l	108
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	004	1809468	1809535	l	108
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	005	1809612	1809756	o	111
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	006	1809785	1809851	 	32
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	007	1809954	1810065	q	113
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	008	1810071	1810149	u	117
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	009	1810408	1810542	i	105
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	010	1810458	1810583	c	99
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	011	1810250	1810397	k	107
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	012	1811046	1811117	 	32
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	013	1811088	1811202	h	104
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	014	1811210	1811267	e	101
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	015	1811366	1811453	l	108
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	016	1811820	1811957	l	108
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	017	1811656	1811780	o	111
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	018	1810921	1811014	 	32
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	019	1812132	1812218	s	115
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	020	1811223	1811328	c	99
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	021	1812780	1812878	i	105
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	022	1813158	1813259	e	101
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	023	1812696	1812792	n	110
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	024	1811415	1811487	c	99
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	025	1812216	1812307	e	101
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	026	1811875	1811991	 	32
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	027	1812458	1812559	i	105
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	028	1811781	1811885	n	110
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	029	1812444	1812593	t	116
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	030	1812625	1812771	e	101
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	031	1814760	1814898	l	108
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	032	1813991	1814073	l	108
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	033	1814472	1814549	i	105
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	034	1813554	1813692	g	103
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	035	1812944	1813049	e	101
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	036	1814740	1814838	n	110
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	037	1816164	1816296	c	99
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	038	1815327	1815443	e	101
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	039	1814434	1814486	 	32
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	040	1815591	1815644	w	119
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	041	1814200	1814333	o	111
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	042	1814412	1814526	r	114
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	043	1816350	1816494	l	108
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	044	1814117	1814204	d	100
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	045	1816920	1817042	 	32
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	046	1813815	1813899	o	111
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	047	1816406	1816544	v	118
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	048	1815392	1815466	e	101
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	049	1816440	1816568	r	114
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	050	1815811	1815931	 	32
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	051	1816100	1816180	o	111
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	052	1817976	1818032	v	118
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	053	1817580	1817644	e	101
+019	010	hello quick hello science intelligence world over over	hello quick hello science intelligence world over over	054	1819494	1819577	r	114

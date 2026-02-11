@@ -1,0 +1,453 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	001	4000000	4000053	l	108
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	002	4000181	4000298	a	97
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	003	4000224	4000350	z	122
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	004	4000459	4000528	y	121
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	005	4000720	4000847	 	32
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	006	4000825	4000947	p	112
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	007	4000642	4000700	r	114
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	008	4001295	4001374	o	111
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	009	4001272	4001396	g	103
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	010	4000981	4001086	r	114
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	011	4001930	4002074	a	97
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	012	4001111	4001215	m	109
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	013	4001608	4001684	m	109
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	014	4001404	4001548	i	105
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	015	4001694	4001805	n	110
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	016	4002655	4002710	g	103
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	017	4002000	4002085	 	32
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	018	4002839	4002929	s	115
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	019	4002628	4002742	c	99
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	020	4002090	4002201	i	105
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	021	4003080	4003143	e	101
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	022	4002667	4002814	n	110
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	023	4003586	4003680	c	99
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	024	4003496	4003558	e	101
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	025	4004752	4004821	 	32
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	026	4004300	4004421	a	97
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	027	4002938	4003045	r	114
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	028	4003834	4003884	t	116
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	029	4002884	4002948	i	105
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	030	4005481	4005559	f	102
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	031	4005190	4005245	i	105
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	032	4005828	4005924	c	99
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	033	4004000	4004148	i	105
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	034	4003531	4003668	a	97
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	035	4006664	4006755	l	108
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	036	4004375	4004491	 	32
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	037	4006048	4006103	i	105
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	038	4006586	4006734	n	110
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	039	4006688	4006810	t	116
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	040	4004095	4004242	e	101
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	041	4005640	4005765	l	108
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	042	4007708	4007857	l	108
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	043	4007350	4007486	i	105
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	044	4007439	4007538	g	103
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	045	4007920	4007970	e	101
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	046	4007110	4007197	n	110
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	047	4006072	4006180	c	99
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	048	4004700	4004791	e	101
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	049	4008688	4008795	 	32
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	050	4009408	4009471	l	108
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	051	4007950	4008090	a	97
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	052	4006783	4006902	z	122
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	053	4005720	4005846	y	121
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	054	4009752	4009852	 	32
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	055	4008208	4008340	b	98
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	056	4008745	4008798	r	114
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	057	4010416	4010522	o	111
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	058	4006498	4006625	w	119
+041	001	lazy programming science artificial intelligence lazy brown	lazy programming science artificial intelligence lazy brown	059	4006090	4006237	n	110
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	001	4001000	4001066	d	100
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	002	4001198	4001286	a	97
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	003	4001382	4001447	t	116
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	004	4001552	4001606	a	97
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	005	4001528	4001658	 	32
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	006	4001930	4002001	b	98
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	007	4001834	4001943	r	114
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	008	4002078	4002153	o	111
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	009	4002104	4002169	w	119
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	010	4002170	4002291	n	110
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	011	4002640	4002720	 	32
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	012	4002331	4002455	d	100
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	013	4002680	4002798	o	111
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	014	4002833	4002940	g	103
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	015	4002820	4002930	 	32
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	016	4003565	4003699	i	105
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	017	4002648	4002715	n	110
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	018	4002700	4002808	t	116
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	019	4003916	4004010	e	101
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	020	4003280	4003419	l	108
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	021	4004380	4004476	l	108
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	022	4004255	4004350	i	105
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	023	4004014	4004157	g	103
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	024	4005071	4005168	e	101
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	025	4004744	4004835	n	110
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	026	4005000	4005108	c	99
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	027	4005628	4005700	e	101
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	028	4004294	4004352	 	32
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	029	4005928	4006074	d	100
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	030	4004567	4004638	o	111
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	031	4005200	4005346	g	103
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	032	4004100	4004164	 	32
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	033	4006920	4007064	f	102
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	034	4006214	4006278	o	111
+041	002	data brown dog intelligence dog fox	data brown dog intelligence dog fox	035	4007222	4007351	x	120
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	001	4002000	4002079	d	100
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	002	4002112	4002218	o	111
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	003	4002354	4002470	g	103
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	004	4002507	4002594	 	32
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	005	4002776	4002904	a	97
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	006	4002945	4003010	r	114
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	007	4002696	4002763	t	116
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	008	4003008	4003089	i	105
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	009	4003496	4003589	f	102
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	010	4003215	4003289	i	105
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	011	4003520	4003630	c	99
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	012	4003441	4003531	i	105
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	013	4003668	4003790	a	97
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	014	4004470	4004546	l	108
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	015	4003540	4003622	 	32
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	016	4004025	4004083	h	104
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	017	4003920	4004065	e	101
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	018	4004652	4004703	l	108
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	019	4004844	4004927	l	108
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	020	4004774	4004870	o	111
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	021	4005260	4005332	 	32
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	022	4005885	4006026	a	97
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	023	4004398	4004494	r	114
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	024	4004691	4004815	t	116
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	025	4004664	4004803	i	105
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	026	4006925	4007019	f	102
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	027	4005146	4005243	i	105
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	028	4005726	4005874	c	99
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	029	4005696	4005753	i	105
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	030	4007220	4007344	a	97
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	031	4007550	4007630	l	108
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	032	4007642	4007696	 	32
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	033	4007760	4007838	l	108
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	034	4006356	4006436	e	101
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	035	4006386	4006479	a	97
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	036	4005920	4006007	r	114
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	037	4008516	4008599	n	110
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	038	4008549	4008693	i	105
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	039	4005990	4006097	n	110
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	040	4005900	4006007	g	103
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	041	4006000	4006125	 	32
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	042	4007986	4008124	p	112
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	043	4007460	4007519	y	121
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	044	4008493	4008603	t	116
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	045	4008908	4008966	h	104
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	046	4010955	4011079	o	111
+041	003	dog artificial hello artificial learning python	dog artificial hello artificial learning python	047	4008256	4008353	n	110
+041	004	learning learning science learning learning	learning learning science learning learning	001	4003000	4003089	l	108
+041	004	learning learning science learning learning	learning learning science learning learning	002	4003176	4003307	e	101
+041	004	learning learning science learning learning	learning learning science learning learning	003	4003248	4003337	a	97
+041	004	learning learning science learning learning	learning learning science learning learning	004	4003303	4003430	r	114
+041	004	learning learning science learning learning	learning learning science learning learning	005	4003600	4003726	n	110
+041	004	learning learning science learning learning	learning learning science learning learning	006	4003970	4004027	i	105
+041	004	learning learning science learning learning	learning learning science learning learning	007	4003984	4004110	n	110
+041	004	learning learning science learning learning	learning learning science learning learning	008	4004001	4004119	g	103
+041	004	learning learning science learning learning	learning learning science learning learning	009	4004328	4004472	 	32
+041	004	learning learning science learning learning	learning learning science learning learning	010	4004188	4004254	l	108
+041	004	learning learning science learning learning	learning learning science learning learning	011	4004720	4004815	e	101
+041	004	learning learning science learning learning	learning learning science learning learning	012	4004551	4004605	a	97
+041	004	learning learning science learning learning	learning learning science learning learning	013	4004548	4004614	r	114
+041	004	learning learning science learning learning	learning learning science learning learning	014	4004326	4004390	n	110
+041	004	learning learning science learning learning	learning learning science learning learning	015	4005464	4005579	i	105
+041	004	learning learning science learning learning	learning learning science learning learning	016	4005625	4005753	n	110
+041	004	learning learning science learning learning	learning learning science learning learning	017	4004648	4004786	g	103
+041	004	learning learning science learning learning	learning learning science learning learning	018	4005176	4005279	 	32
+041	004	learning learning science learning learning	learning learning science learning learning	019	4005502	4005648	s	115
+041	004	learning learning science learning learning	learning learning science learning learning	020	4006021	4006123	c	99
+041	004	learning learning science learning learning	learning learning science learning learning	021	4006300	4006384	i	105
+041	004	learning learning science learning learning	learning learning science learning learning	022	4006465	4006589	e	101
+041	004	learning learning science learning learning	learning learning science learning learning	023	4005442	4005530	n	110
+041	004	learning learning science learning learning	learning learning science learning learning	024	4007324	4007470	c	99
+041	004	learning learning science learning learning	learning learning science learning learning	025	4005712	4005853	e	101
+041	004	learning learning science learning learning	learning learning science learning learning	026	4005900	4006024	 	32
+041	004	learning learning science learning learning	learning learning science learning learning	027	4005886	4006013	l	108
+041	004	learning learning science learning learning	learning learning science learning learning	028	4007563	4007633	e	101
+041	004	learning learning science learning learning	learning learning science learning learning	029	4008040	4008111	a	97
+041	004	learning learning science learning learning	learning learning science learning learning	030	4006799	4006911	r	114
+041	004	learning learning science learning learning	learning learning science learning learning	031	4007230	4007342	n	110
+041	004	learning learning science learning learning	learning learning science learning learning	032	4007929	4008027	i	105
+041	004	learning learning science learning learning	learning learning science learning learning	033	4006456	4006562	n	110
+041	004	learning learning science learning learning	learning learning science learning learning	034	4009138	4009236	g	103
+041	004	learning learning science learning learning	learning learning science learning learning	035	4009596	4009660	 	32
+041	004	learning learning science learning learning	learning learning science learning learning	036	4006640	4006763	l	108
+041	004	learning learning science learning learning	learning learning science learning learning	037	4009912	4009989	e	101
+041	004	learning learning science learning learning	learning learning science learning learning	038	4009031	4009157	a	97
+041	004	learning learning science learning learning	learning learning science learning learning	039	4007256	4007368	r	114
+041	004	learning learning science learning learning	learning learning science learning learning	040	4008226	4008371	n	110
+041	004	learning learning science learning learning	learning learning science learning learning	041	4008200	4008280	i	105
+041	004	learning learning science learning learning	learning learning science learning learning	042	4010585	4010725	n	110
+041	004	learning learning science learning learning	learning learning science learning learning	043	4011148	4011223	g	103
+041	005	quick artificial over artificial over	quick artificial over artificial over	001	4004000	4004088	q	113
+041	005	quick artificial over artificial over	quick artificial over artificial over	002	4004124	4004272	u	117
+041	005	quick artificial over artificial over	quick artificial over artificial over	003	4004276	4004387	i	105
+041	005	quick artificial over artificial over	quick artificial over artificial over	004	4004330	4004437	c	99
+041	005	quick artificial over artificial over	quick artificial over artificial over	005	4004480	4004584	k	107
+041	005	quick artificial over artificial over	quick artificial over artificial over	006	4004980	4005053	 	32
+041	005	quick artificial over artificial over	quick artificial over artificial over	007	4005122	4005263	a	97
+041	005	quick artificial over artificial over	quick artificial over artificial over	008	4004798	4004883	r	114
+041	005	quick artificial over artificial over	quick artificial over artificial over	009	4005352	4005406	t	116
+041	005	quick artificial over artificial over	quick artificial over artificial over	010	4005755	4005805	i	105
+041	005	quick artificial over artificial over	quick artificial over artificial over	011	4005370	4005515	f	102
+041	005	quick artificial over artificial over	quick artificial over artificial over	012	4005144	4005258	i	105
+041	005	quick artificial over artificial over	quick artificial over artificial over	013	4005404	4005498	c	99
+041	005	quick artificial over artificial over	quick artificial over artificial over	014	4006171	4006310	i	105
+041	005	quick artificial over artificial over	quick artificial over artificial over	015	4006240	4006312	a	97
+041	005	quick artificial over artificial over	quick artificial over artificial over	016	4006670	4006818	l	108
+041	005	quick artificial over artificial over	quick artificial over artificial over	017	4006848	4006912	 	32
+041	005	quick artificial over artificial over	quick artificial over artificial over	018	4006108	4006191	o	111
+041	005	quick artificial over artificial over	quick artificial over artificial over	019	4007222	4007298	v	118
+041	005	quick artificial over artificial over	quick artificial over artificial over	020	4007420	4007489	e	101
+041	005	quick artificial over artificial over	quick artificial over artificial over	021	4007620	4007734	r	114
+041	005	quick artificial over artificial over	quick artificial over artificial over	022	4008116	4008189	 	32
+041	005	quick artificial over artificial over	quick artificial over artificial over	023	4007608	4007667	a	97
+041	005	quick artificial over artificial over	quick artificial over artificial over	024	4007473	4007573	r	114
+041	005	quick artificial over artificial over	quick artificial over artificial over	025	4007312	4007411	t	116
+041	005	quick artificial over artificial over	quick artificial over artificial over	026	4007500	4007598	i	105
+041	005	quick artificial over artificial over	quick artificial over artificial over	027	4007328	4007428	f	102
+041	005	quick artificial over artificial over	quick artificial over artificial over	028	4007267	4007353	i	105
+041	005	quick artificial over artificial over	quick artificial over artificial over	029	4007696	4007755	c	99
+041	005	quick artificial over artificial over	quick artificial over artificial over	030	4007248	4007380	i	105
+041	005	quick artificial over artificial over	quick artificial over artificial over	031	4008260	4008389	a	97
+041	005	quick artificial over artificial over	quick artificial over artificial over	032	4010169	4010253	l	108
+041	005	quick artificial over artificial over	quick artificial over artificial over	033	4009216	4009327	 	32
+041	005	quick artificial over artificial over	quick artificial over artificial over	034	4009709	4009779	o	111
+041	005	quick artificial over artificial over	quick artificial over artificial over	035	4010188	4010312	v	118
+041	005	quick artificial over artificial over	quick artificial over artificial over	036	4010335	4010392	e	101
+041	005	quick artificial over artificial over	quick artificial over artificial over	037	4009688	4009769	r	114
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	001	4005000	4005116	d	100
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	002	4005178	4005290	a	97
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	003	4005394	4005471	t	116
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	004	4005465	4005580	a	97
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	005	4005452	4005568	 	32
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	006	4005920	4006015	w	119
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	007	4005612	4005702	o	111
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	008	4005903	4006005	r	114
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	009	4006136	4006231	l	108
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	010	4006161	4006219	d	100
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	011	4006500	4006591	 	32
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	012	4006672	4006740	f	102
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	013	4007256	4007389	o	111
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	014	4006651	4006799	x	120
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	015	4006778	4006917	 	32
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	016	4007820	4007966	f	102
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	017	4007896	4007996	o	111
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	018	4007992	4008089	x	120
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	019	4007988	4008090	 	32
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	020	4007584	4007639	l	108
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	021	4008000	4008127	e	101
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	022	4008507	4008558	a	97
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	023	4009246	4009331	r	114
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	024	4007921	4007992	n	110
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	025	4008288	4008396	i	105
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	026	4008100	4008182	n	110
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	027	4009836	4009962	g	103
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	028	4008456	4008589	 	32
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	029	4008472	4008612	d	100
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	030	4008422	4008521	o	111
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	031	4008060	4008145	g	103
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	032	4009340	4009469	 	32
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	033	4009864	4009922	p	112
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	034	4009620	4009768	r	114
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	035	4008808	4008932	o	111
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	036	4009235	4009289	g	103
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	037	4010724	4010846	r	114
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	038	4011549	4011686	a	97
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	039	4012220	4012367	m	109
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	040	4012488	4012576	m	109
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	041	4010080	4010213	i	105
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	042	4010494	4010546	n	110
+041	006	data world fox fox learning dog programming	data world fox fox learning dog programming	043	4010124	4010267	g	103
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	001	4006000	4006073	l	108
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	002	4006103	4006242	e	101
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	003	4006352	4006469	a	97
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	004	4006507	4006634	r	114
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	005	4006456	4006565	n	110
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	006	4006885	4006992	i	105
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	007	4006630	4006776	n	110
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	008	4007113	4007248	g	103
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	009	4007312	4007389	 	32
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	010	4007647	4007796	f	102
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	011	4007750	4007899	o	111
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	012	4008112	4008256	x	120
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	013	4007320	4007385	 	32
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	014	4007911	4008018	d	100
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	015	4008366	4008478	a	97
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	016	4007800	4007903	t	116
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	017	4009072	4009133	a	97
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	018	4008805	4008934	 	32
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	019	4008934	4009048	j	106
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	020	4009781	4009885	u	117
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	021	4008000	4008082	m	109
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	022	4010179	4010305	p	112
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	023	4009762	4009841	s	115
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	024	4009381	4009491	 	32
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	025	4009816	4009953	f	102
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	026	4009575	4009654	o	111
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	027	4009250	4009314	x	120
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	028	4008781	4008895	 	32
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	029	4008968	4009060	s	115
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	030	4010524	4010601	c	99
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	031	4009510	4009627	i	105
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	032	4011332	4011449	e	101
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	033	4010160	4010220	n	110
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	034	4011148	4011236	c	99
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	035	4009638	4009743	e	101
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	036	4012650	4012752	 	32
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	037	4010572	4010659	q	113
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	038	4012438	4012568	u	117
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	039	4013030	4013101	i	105
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	040	4010485	4010600	c	99
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	041	4011200	4011319	k	107
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	042	4011412	4011548	 	32
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	043	4012174	4012232	m	109
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	044	4012278	4012418	a	97
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	045	4010752	4010819	c	99
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	046	4010950	4011001	h	104
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	047	4011842	4011985	i	105
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	048	4012627	4012701	n	110
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	049	4010896	4011019	e	101
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	050	4014624	4014710	 	32
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	051	4015550	4015655	o	111
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	052	4012681	4012815	v	118
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	053	4013332	4013481	e	101
+041	007	learning fox data jumps fox science quick machine over	learning fox data jumps fox science quick machine over	054	4015222	4015325	r	114
+041	008	quick science learning brown quick	quick science learning brown quick	001	4007000	4007098	q	113
+041	008	quick science learning brown quick	quick science learning brown quick	002	4007182	4007294	u	117
+041	008	quick science learning brown quick	quick science learning brown quick	003	4007320	4007383	i	105
+041	008	quick science learning brown quick	quick science learning brown quick	004	4007489	4007561	c	99
+041	008	quick science learning brown quick	quick science learning brown quick	005	4007552	4007628	k	107
+041	008	quick science learning brown quick	quick science learning brown quick	006	4007890	4008009	 	32
+041	008	quick science learning brown quick	quick science learning brown quick	007	4008038	4008170	s	115
+041	008	quick science learning brown quick	quick science learning brown quick	008	4008302	4008374	c	99
+041	008	quick science learning brown quick	quick science learning brown quick	009	4007992	4008072	i	105
+041	008	quick science learning brown quick	quick science learning brown quick	010	4007918	4008044	e	101
+041	008	quick science learning brown quick	quick science learning brown quick	011	4008050	4008139	n	110
+041	008	quick science learning brown quick	quick science learning brown quick	012	4008254	4008377	c	99
+041	008	quick science learning brown quick	quick science learning brown quick	013	4008872	4008951	e	101
+041	008	quick science learning brown quick	quick science learning brown quick	014	4009301	4009412	 	32
+041	008	quick science learning brown quick	quick science learning brown quick	015	4008512	4008589	l	108
+041	008	quick science learning brown quick	quick science learning brown quick	016	4009715	4009822	e	101
+041	008	quick science learning brown quick	quick science learning brown quick	017	4009688	4009746	a	97
+041	008	quick science learning brown quick	quick science learning brown quick	018	4010315	4010453	r	114
+041	008	quick science learning brown quick	quick science learning brown quick	019	4008800	4008883	n	110
+041	008	quick science learning brown quick	quick science learning brown quick	020	4009755	4009879	i	105
+041	008	quick science learning brown quick	quick science learning brown quick	021	4010240	4010377	n	110
+041	008	quick science learning brown quick	quick science learning brown quick	022	4009562	4009650	g	103
+041	008	quick science learning brown quick	quick science learning brown quick	023	4010256	4010332	 	32
+041	008	quick science learning brown quick	quick science learning brown quick	024	4009714	4009796	b	98
+041	008	quick science learning brown quick	quick science learning brown quick	025	4009784	4009920	r	114
+041	008	quick science learning brown quick	quick science learning brown quick	026	4011475	4011624	o	111
+041	008	quick science learning brown quick	quick science learning brown quick	027	4009808	4009861	w	119
+041	008	quick science learning brown quick	quick science learning brown quick	028	4011428	4011526	n	110
+041	008	quick science learning brown quick	quick science learning brown quick	029	4010556	4010670	 	32
+041	008	quick science learning brown quick	quick science learning brown quick	030	4011640	4011788	q	113
+041	008	quick science learning brown quick	quick science learning brown quick	031	4011470	4011561	u	117
+041	008	quick science learning brown quick	quick science learning brown quick	032	4012363	4012440	i	105
+041	008	quick science learning brown quick	quick science learning brown quick	033	4012728	4012817	c	99
+041	008	quick science learning brown quick	quick science learning brown quick	034	4011125	4011264	k	107
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	001	4008000	4008085	o	111
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	002	4008157	4008223	v	118
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	003	4008216	4008327	e	101
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	004	4008426	4008521	r	114
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	005	4008636	4008692	 	32
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	006	4008620	4008751	q	113
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	007	4008876	4008971	u	117
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	008	4008924	4009069	i	105
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	009	4009176	4009306	c	99
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	010	4009485	4009587	k	107
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	011	4009610	4009740	 	32
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	012	4010090	4010185	w	119
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	013	4009260	4009399	o	111
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	014	4009300	4009362	r	114
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	015	4009512	4009593	l	108
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	016	4010880	4010982	d	100
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	017	4010672	4010790	 	32
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	018	4011230	4011335	p	112
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	019	4010142	4010212	y	121
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	020	4010793	4010905	t	116
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	021	4010120	4010214	h	104
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	022	4010247	4010394	o	111
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	023	4010596	4010714	n	110
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	024	4011243	4011311	 	32
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	025	4010856	4010947	m	109
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	026	4012150	4012232	a	97
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	027	4011458	4011533	c	99
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	028	4011834	4011908	h	104
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	029	4010828	4010884	i	105
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	030	4013104	4013157	n	110
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	031	4013790	4013937	e	101
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	032	4013084	4013157	 	32
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	033	4013664	4013783	w	119
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	034	4012917	4012983	o	111
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	035	4013712	4013811	r	114
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	036	4014825	4014882	l	108
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	037	4014948	4015050	d	100
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	038	4012995	4013131	 	32
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	039	4014346	4014458	q	113
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	040	4015527	4015616	u	117
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	041	4015560	4015643	i	105
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	042	4016118	4016216	c	99
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	043	4015980	4016046	k	107
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	044	4013547	4013663	 	32
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	045	4012488	4012628	p	112
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	046	4015065	4015133	r	114
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	047	4013336	4013473	o	111
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	048	4015896	4015960	g	103
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	049	4016256	4016350	r	114
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	050	4013047	4013192	a	97
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	051	4017300	4017423	m	109
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	052	4016823	4016879	m	109
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	053	4016216	4016351	i	105
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	054	4014837	4014951	n	110
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	055	4017936	4017989	g	103
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	056	4016030	4016174	 	32
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	057	4014664	4014730	p	112
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	058	4014783	4014889	y	121
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	059	4016700	4016832	t	116
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	060	4014844	4014930	h	104
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	061	4016520	4016599	o	111
+041	009	over quick world python machine world quick programming python	over quick world python machine world quick programming python	062	4015076	4015225	n	110
+041	010	jumps data science hello over learning	jumps data science hello over learning	001	4009000	4009087	j	106
+041	010	jumps data science hello over learning	jumps data science hello over learning	002	4009101	4009222	u	117
+041	010	jumps data science hello over learning	jumps data science hello over learning	003	4009344	4009396	m	109
+041	010	jumps data science hello over learning	jumps data science hello over learning	004	4009447	4009557	p	112
+041	010	jumps data science hello over learning	jumps data science hello over learning	005	4009576	4009644	s	115
+041	010	jumps data science hello over learning	jumps data science hello over learning	006	4009895	4009949	 	32
+041	010	jumps data science hello over learning	jumps data science hello over learning	007	4009954	4010052	d	100
+041	010	jumps data science hello over learning	jumps data science hello over learning	008	4010239	4010350	a	97
+041	010	jumps data science hello over learning	jumps data science hello over learning	009	4010584	4010650	t	116
+041	010	jumps data science hello over learning	jumps data science hello over learning	010	4010098	4010163	a	97
+041	010	jumps data science hello over learning	jumps data science hello over learning	011	4010020	4010151	 	32
+041	010	jumps data science hello over learning	jumps data science hello over learning	012	4010111	4010255	s	115
+041	010	jumps data science hello over learning	jumps data science hello over learning	013	4010296	4010393	c	99
+041	010	jumps data science hello over learning	jumps data science hello over learning	014	4010924	4011043	i	105
+041	010	jumps data science hello over learning	jumps data science hello over learning	015	4011310	4011363	e	101
+041	010	jumps data science hello over learning	jumps data science hello over learning	016	4010500	4010581	n	110
+041	010	jumps data science hello over learning	jumps data science hello over learning	017	4011096	4011214	c	99
+041	010	jumps data science hello over learning	jumps data science hello over learning	018	4012043	4012136	e	101
+041	010	jumps data science hello over learning	jumps data science hello over learning	019	4012276	4012371	 	32
+041	010	jumps data science hello over learning	jumps data science hello over learning	020	4011090	4011205	h	104
+041	010	jumps data science hello over learning	jumps data science hello over learning	021	4012540	4012625	e	101
+041	010	jumps data science hello over learning	jumps data science hello over learning	022	4011877	4011991	l	108
+041	010	jumps data science hello over learning	jumps data science hello over learning	023	4013136	4013220	l	108
+041	010	jumps data science hello over learning	jumps data science hello over learning	024	4012519	4012627	o	111
+041	010	jumps data science hello over learning	jumps data science hello over learning	025	4013296	4013414	 	32
+041	010	jumps data science hello over learning	jumps data science hello over learning	026	4013450	4013501	o	111
+041	010	jumps data science hello over learning	jumps data science hello over learning	027	4012822	4012907	v	118
+041	010	jumps data science hello over learning	jumps data science hello over learning	028	4013563	4013687	e	101
+041	010	jumps data science hello over learning	jumps data science hello over learning	029	4013312	4013392	r	114
+041	010	jumps data science hello over learning	jumps data science hello over learning	030	4011900	4011973	 	32
+041	010	jumps data science hello over learning	jumps data science hello over learning	031	4013110	4013212	l	108
+041	010	jumps data science hello over learning	jumps data science hello over learning	032	4014301	4014384	e	101
+041	010	jumps data science hello over learning	jumps data science hello over learning	033	4014792	4014844	a	97
+041	010	jumps data science hello over learning	jumps data science hello over learning	034	4012861	4012935	r	114
+041	010	jumps data science hello over learning	jumps data science hello over learning	035	4014066	4014187	n	110
+041	010	jumps data science hello over learning	jumps data science hello over learning	036	4014145	4014205	i	105
+041	010	jumps data science hello over learning	jumps data science hello over learning	037	4015048	4015099	n	110
+041	010	jumps data science hello over learning	jumps data science hello over learning	038	4015660	4015712	g	103

@@ -1,0 +1,504 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	001	2400000	2400141	i	105
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	002	2400169	2400265	n	110
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	003	2400284	2400387	t	116
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	004	2400540	2400654	e	101
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	005	2400720	2400802	l	108
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	006	2400945	2401023	l	108
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	007	2400804	2400879	i	105
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	008	2401337	2401471	g	103
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	009	2401456	2401529	e	101
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	010	2401737	2401865	n	110
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	011	2401730	2401801	c	99
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	012	2401408	2401499	e	101
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	013	2401824	2401930	 	32
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	014	2401820	2401934	o	111
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	015	2401890	2401982	v	118
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	016	2401890	2401955	e	101
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	017	2402320	2402426	r	114
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	018	2403026	2403131	 	32
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	019	2403348	2403436	d	100
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	020	2402603	2402703	o	111
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	021	2403480	2403590	g	103
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	022	2402709	2402804	 	32
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	023	2402376	2402479	d	100
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	024	2404094	2404188	o	111
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	025	2402856	2402992	g	103
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	026	2402600	2402670	 	32
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	027	2404758	2404838	w	119
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	028	2403969	2404041	o	111
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	029	2403416	2403501	r	114
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	030	2404756	2404888	l	108
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	031	2403420	2403477	d	100
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	032	2405332	2405476	 	32
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	033	2403392	2403538	p	112
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	034	2404455	2404510	y	121
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	035	2406222	2406320	t	116
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	036	2406790	2406863	h	104
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	037	2404608	2404682	o	111
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	038	2405032	2405125	n	110
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	039	2404750	2404888	 	32
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	040	2403939	2404000	d	100
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	041	2404000	2404053	a	97
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	042	2404469	2404535	t	116
+025	001	intelligence over dog dog world python data	intelligence over dog dog world python data	043	2407140	2407196	a	97
+025	002	fox hello science world world machine the	fox hello science world world machine the	001	2401000	2401122	f	102
+025	002	fox hello science world world machine the	fox hello science world world machine the	002	2401172	2401246	o	111
+025	002	fox hello science world world machine the	fox hello science world world machine the	003	2401282	2401368	x	120
+025	002	fox hello science world world machine the	fox hello science world world machine the	004	2401324	2401440	 	32
+025	002	fox hello science world world machine the	fox hello science world world machine the	005	2401708	2401762	h	104
+025	002	fox hello science world world machine the	fox hello science world world machine the	006	2401660	2401798	e	101
+025	002	fox hello science world world machine the	fox hello science world world machine the	007	2402020	2402140	l	108
+025	002	fox hello science world world machine the	fox hello science world world machine the	008	2402218	2402315	l	108
+025	002	fox hello science world world machine the	fox hello science world world machine the	009	2401992	2402049	o	111
+025	002	fox hello science world world machine the	fox hello science world world machine the	010	2402026	2402162	 	32
+025	002	fox hello science world world machine the	fox hello science world world machine the	011	2402670	2402764	s	115
+025	002	fox hello science world world machine the	fox hello science world world machine the	012	2402188	2402312	c	99
+025	002	fox hello science world world machine the	fox hello science world world machine the	013	2402692	2402797	i	105
+025	002	fox hello science world world machine the	fox hello science world world machine the	014	2403561	2403690	e	101
+025	002	fox hello science world world machine the	fox hello science world world machine the	015	2403646	2403764	n	110
+025	002	fox hello science world world machine the	fox hello science world world machine the	016	2402725	2402820	c	99
+025	002	fox hello science world world machine the	fox hello science world world machine the	017	2402632	2402710	e	101
+025	002	fox hello science world world machine the	fox hello science world world machine the	018	2403142	2403225	 	32
+025	002	fox hello science world world machine the	fox hello science world world machine the	019	2403286	2403411	w	119
+025	002	fox hello science world world machine the	fox hello science world world machine the	020	2403831	2403925	o	111
+025	002	fox hello science world world machine the	fox hello science world world machine the	021	2403200	2403341	r	114
+025	002	fox hello science world world machine the	fox hello science world world machine the	022	2405137	2405247	l	108
+025	002	fox hello science world world machine the	fox hello science world world machine the	023	2404850	2404955	d	100
+025	002	fox hello science world world machine the	fox hello science world world machine the	024	2403760	2403850	 	32
+025	002	fox hello science world world machine the	fox hello science world world machine the	025	2403784	2403904	w	119
+025	002	fox hello science world world machine the	fox hello science world world machine the	026	2405125	2405246	o	111
+025	002	fox hello science world world machine the	fox hello science world world machine the	027	2404276	2404345	r	114
+025	002	fox hello science world world machine the	fox hello science world world machine the	028	2406346	2406458	l	108
+025	002	fox hello science world world machine the	fox hello science world world machine the	029	2405900	2405978	d	100
+025	002	fox hello science world world machine the	fox hello science world world machine the	030	2406249	2406377	 	32
+025	002	fox hello science world world machine the	fox hello science world world machine the	031	2404450	2404524	m	109
+025	002	fox hello science world world machine the	fox hello science world world machine the	032	2405030	2405140	a	97
+025	002	fox hello science world world machine the	fox hello science world world machine the	033	2406440	2406554	c	99
+025	002	fox hello science world world machine the	fox hello science world world machine the	034	2404960	2405015	h	104
+025	002	fox hello science world world machine the	fox hello science world world machine the	035	2407494	2407619	i	105
+025	002	fox hello science world world machine the	fox hello science world world machine the	036	2407090	2407232	n	110
+025	002	fox hello science world world machine the	fox hello science world world machine the	037	2404924	2405015	e	101
+025	002	fox hello science world world machine the	fox hello science world world machine the	038	2405662	2405747	 	32
+025	002	fox hello science world world machine the	fox hello science world world machine the	039	2407460	2407561	t	116
+025	002	fox hello science world world machine the	fox hello science world world machine the	040	2408449	2408582	h	104
+025	002	fox hello science world world machine the	fox hello science world world machine the	041	2405280	2405342	e	101
+025	003	intelligence hello science learning python	intelligence hello science learning python	001	2402000	2402114	i	105
+025	003	intelligence hello science learning python	intelligence hello science learning python	002	2402114	2402198	n	110
+025	003	intelligence hello science learning python	intelligence hello science learning python	003	2402208	2402323	t	116
+025	003	intelligence hello science learning python	intelligence hello science learning python	004	2402345	2402458	e	101
+025	003	intelligence hello science learning python	intelligence hello science learning python	005	2402584	2402686	l	108
+025	003	intelligence hello science learning python	intelligence hello science learning python	006	2402795	2402871	l	108
+025	003	intelligence hello science learning python	intelligence hello science learning python	007	2402912	2402999	i	105
+025	003	intelligence hello science learning python	intelligence hello science learning python	008	2402924	2403031	g	103
+025	003	intelligence hello science learning python	intelligence hello science learning python	009	2403336	2403485	e	101
+025	003	intelligence hello science learning python	intelligence hello science learning python	010	2403584	2403692	n	110
+025	003	intelligence hello science learning python	intelligence hello science learning python	011	2403780	2403873	c	99
+025	003	intelligence hello science learning python	intelligence hello science learning python	012	2403507	2403644	e	101
+025	003	intelligence hello science learning python	intelligence hello science learning python	013	2403584	2403722	 	32
+025	003	intelligence hello science learning python	intelligence hello science learning python	014	2403885	2403950	h	104
+025	003	intelligence hello science learning python	intelligence hello science learning python	015	2404576	2404671	e	101
+025	003	intelligence hello science learning python	intelligence hello science learning python	016	2403650	2403794	l	108
+025	003	intelligence hello science learning python	intelligence hello science learning python	017	2404448	2404587	l	108
+025	003	intelligence hello science learning python	intelligence hello science learning python	018	2404431	2404509	o	111
+025	003	intelligence hello science learning python	intelligence hello science learning python	019	2404250	2404352	 	32
+025	003	intelligence hello science learning python	intelligence hello science learning python	020	2404413	2404557	s	115
+025	003	intelligence hello science learning python	intelligence hello science learning python	021	2405420	2405532	c	99
+025	003	intelligence hello science learning python	intelligence hello science learning python	022	2404730	2404806	i	105
+025	003	intelligence hello science learning python	intelligence hello science learning python	023	2404860	2404949	e	101
+025	003	intelligence hello science learning python	intelligence hello science learning python	024	2406278	2406351	n	110
+025	003	intelligence hello science learning python	intelligence hello science learning python	025	2404952	2405075	c	99
+025	003	intelligence hello science learning python	intelligence hello science learning python	026	2406350	2406451	e	101
+025	003	intelligence hello science learning python	intelligence hello science learning python	027	2405848	2405940	 	32
+025	003	intelligence hello science learning python	intelligence hello science learning python	028	2404862	2404933	l	108
+025	003	intelligence hello science learning python	intelligence hello science learning python	029	2406956	2407024	e	101
+025	003	intelligence hello science learning python	intelligence hello science learning python	030	2405480	2405535	a	97
+025	003	intelligence hello science learning python	intelligence hello science learning python	031	2405300	2405362	r	114
+025	003	intelligence hello science learning python	intelligence hello science learning python	032	2406619	2406708	n	110
+025	003	intelligence hello science learning python	intelligence hello science learning python	033	2405232	2405312	i	105
+025	003	intelligence hello science learning python	intelligence hello science learning python	034	2406224	2406314	n	110
+025	003	intelligence hello science learning python	intelligence hello science learning python	035	2407746	2407880	g	103
+025	003	intelligence hello science learning python	intelligence hello science learning python	036	2408370	2408481	 	32
+025	003	intelligence hello science learning python	intelligence hello science learning python	037	2407328	2407380	p	112
+025	003	intelligence hello science learning python	intelligence hello science learning python	038	2408882	2408985	y	121
+025	003	intelligence hello science learning python	intelligence hello science learning python	039	2407662	2407716	t	116
+025	003	intelligence hello science learning python	intelligence hello science learning python	040	2408552	2408605	h	104
+025	003	intelligence hello science learning python	intelligence hello science learning python	041	2409160	2409292	o	111
+025	003	intelligence hello science learning python	intelligence hello science learning python	042	2409257	2409382	n	110
+025	004	the machine programming learning learning	the machine programming learning learning	001	2403000	2403050	t	116
+025	004	the machine programming learning learning	the machine programming learning learning	002	2403126	2403252	h	104
+025	004	the machine programming learning learning	the machine programming learning learning	003	2403284	2403341	e	101
+025	004	the machine programming learning learning	the machine programming learning learning	004	2403342	2403397	 	32
+025	004	the machine programming learning learning	the machine programming learning learning	005	2403492	2403626	m	109
+025	004	the machine programming learning learning	the machine programming learning learning	006	2403595	2403712	a	97
+025	004	the machine programming learning learning	the machine programming learning learning	007	2403744	2403811	c	99
+025	004	the machine programming learning learning	the machine programming learning learning	008	2403931	2403995	h	104
+025	004	the machine programming learning learning	the machine programming learning learning	009	2404536	2404660	i	105
+025	004	the machine programming learning learning	the machine programming learning learning	010	2404134	2404244	n	110
+025	004	the machine programming learning learning	the machine programming learning learning	011	2404480	2404535	e	101
+025	004	the machine programming learning learning	the machine programming learning learning	012	2404584	2404728	 	32
+025	004	the machine programming learning learning	the machine programming learning learning	013	2405364	2405429	p	112
+025	004	the machine programming learning learning	the machine programming learning learning	014	2405496	2405612	r	114
+025	004	the machine programming learning learning	the machine programming learning learning	015	2404834	2404933	o	111
+025	004	the machine programming learning learning	the machine programming learning learning	016	2404860	2404941	g	103
+025	004	the machine programming learning learning	the machine programming learning learning	017	2406072	2406176	r	114
+025	004	the machine programming learning learning	the machine programming learning learning	018	2404921	2404972	a	97
+025	004	the machine programming learning learning	the machine programming learning learning	019	2405412	2405506	m	109
+025	004	the machine programming learning learning	the machine programming learning learning	020	2404919	2405005	m	109
+025	004	the machine programming learning learning	the machine programming learning learning	021	2405220	2405280	i	105
+025	004	the machine programming learning learning	the machine programming learning learning	022	2405142	2405288	n	110
+025	004	the machine programming learning learning	the machine programming learning learning	023	2405838	2405904	g	103
+025	004	the machine programming learning learning	the machine programming learning learning	024	2406427	2406562	 	32
+025	004	the machine programming learning learning	the machine programming learning learning	025	2406768	2406916	l	108
+025	004	the machine programming learning learning	the machine programming learning learning	026	2406375	2406496	e	101
+025	004	the machine programming learning learning	the machine programming learning learning	027	2407108	2407201	a	97
+025	004	the machine programming learning learning	the machine programming learning learning	028	2406456	2406526	r	114
+025	004	the machine programming learning learning	the machine programming learning learning	029	2406052	2406197	n	110
+025	004	the machine programming learning learning	the machine programming learning learning	030	2408075	2408211	i	105
+025	004	the machine programming learning learning	the machine programming learning learning	031	2407950	2408043	n	110
+025	004	the machine programming learning learning	the machine programming learning learning	032	2407061	2407182	g	103
+025	004	the machine programming learning learning	the machine programming learning learning	033	2408504	2408596	 	32
+025	004	the machine programming learning learning	the machine programming learning learning	034	2407125	2407264	l	108
+025	004	the machine programming learning learning	the machine programming learning learning	035	2407114	2407189	e	101
+025	004	the machine programming learning learning	the machine programming learning learning	036	2409510	2409652	a	97
+025	004	the machine programming learning learning	the machine programming learning learning	037	2406636	2406769	r	114
+025	004	the machine programming learning learning	the machine programming learning learning	038	2406922	2407014	n	110
+025	004	the machine programming learning learning	the machine programming learning learning	039	2410524	2410661	i	105
+025	004	the machine programming learning learning	the machine programming learning learning	040	2410137	2410201	n	110
+025	004	the machine programming learning learning	the machine programming learning learning	041	2407560	2407692	g	103
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	001	2404000	2404079	b	98
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	002	2404194	2404316	r	114
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	003	2404264	2404324	o	111
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	004	2404573	2404709	w	119
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	005	2404492	2404606	n	110
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	006	2404950	2405077	 	32
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	007	2405050	2405183	i	105
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	008	2404854	2404922	n	110
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	009	2405008	2405084	t	116
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	010	2405521	2405582	e	101
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	011	2405070	2405207	l	108
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	012	2405837	2405895	l	108
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	013	2405560	2405634	i	105
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	014	2405755	2405860	g	103
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	015	2405456	2405602	e	101
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	016	2406385	2406532	n	110
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	017	2406992	2407052	c	99
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	018	2406244	2406317	e	101
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	019	2405854	2405990	 	32
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	020	2406983	2407055	j	106
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	021	2407140	2407190	u	117
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	022	2408137	2408283	m	109
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	023	2408202	2408315	p	112
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	024	2408002	2408124	s	115
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	025	2407336	2407391	 	32
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	026	2407400	2407452	l	108
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	027	2407640	2407693	e	101
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	028	2408374	2408440	a	97
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	029	2407192	2407339	r	114
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	030	2408118	2408178	n	110
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	031	2407300	2407359	i	105
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	032	2407162	2407240	n	110
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	033	2408640	2408713	g	103
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	034	2409676	2409798	 	32
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	035	2408488	2408624	l	108
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	036	2410930	2411026	e	101
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	037	2408500	2408607	a	97
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	038	2408033	2408101	r	114
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	039	2410498	2410647	n	110
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	040	2409811	2409902	i	105
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	041	2410880	2410960	n	110
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	042	2409945	2410004	g	103
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	043	2410048	2410119	 	32
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	044	2409332	2409468	d	100
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	045	2408884	2408964	a	97
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	046	2412190	2412271	t	116
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	047	2410348	2410490	a	97
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	048	2411802	2411900	 	32
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	049	2412640	2412752	a	97
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	050	2412624	2412727	r	114
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	051	2412650	2412727	t	116
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	052	2411650	2411739	i	105
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	053	2409252	2409349	f	102
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	054	2412957	2413047	i	105
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	055	2409400	2409457	c	99
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	056	2413185	2413253	i	105
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	057	2412624	2412703	a	97
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	058	2413006	2413142	l	108
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	059	2410612	2410758	 	32
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	060	2414856	2414918	l	108
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	061	2413180	2413324	e	101
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	062	2412662	2412778	a	97
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	063	2411316	2411464	r	114
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	064	2411119	2411201	n	110
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	065	2412320	2412389	i	105
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	066	2413815	2413900	n	110
+025	005	brown intelligence jumps learning learning data artificial learning	brown intelligence jumps learning learning data artificial learning	067	2416078	2416199	g	103
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	001	2405000	2405137	p	112
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	002	2405172	2405222	r	114
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	003	2405224	2405288	o	111
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	004	2405408	2405474	g	103
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	005	2405568	2405707	r	114
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	006	2405990	2406093	a	97
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	007	2405738	2405799	m	109
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	008	2406309	2406450	m	109
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	009	2406224	2406327	i	105
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	010	2406278	2406385	n	110
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	011	2406600	2406725	g	103
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	012	2406925	2407042	 	32
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	013	2407004	2407062	l	108
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	014	2406352	2406405	a	97
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	015	2406750	2406873	z	122
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	016	2407730	2407798	y	121
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	017	2407048	2407170	 	32
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	018	2407992	2408083	p	112
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	019	2407142	2407280	r	114
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	020	2407014	2407085	o	111
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	021	2408480	2408553	g	103
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	022	2407520	2407641	r	114
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	023	2407838	2407985	a	97
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	024	2409393	2409516	m	109
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	025	2409656	2409754	m	109
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	026	2407600	2407656	i	105
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	027	2407704	2407796	n	110
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	028	2408132	2408242	g	103
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	029	2408556	2408616	 	32
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	030	2408045	2408139	m	109
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	031	2409140	2409191	a	97
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	032	2409898	2409984	c	99
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	033	2409960	2410085	h	104
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	034	2408432	2408508	i	105
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	035	2411460	2411533	n	110
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	036	2411405	2411517	e	101
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	037	2409284	2409383	 	32
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	038	2408996	2409046	o	111
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	039	2410890	2410946	v	118
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	040	2410577	2410706	e	101
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	041	2409480	2409578	r	114
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	042	2411642	2411714	 	32
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	043	2412224	2412318	b	98
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	044	2410203	2410304	r	114
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	045	2411908	2411989	o	111
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	046	2413865	2414010	w	119
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	047	2413188	2413245	n	110
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	048	2412003	2412116	 	32
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	049	2413592	2413671	o	111
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	050	2410635	2410766	v	118
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	051	2412950	2413069	e	101
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	052	2413415	2413491	r	114
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	053	2414672	2414738	 	32
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	054	2411837	2411887	w	119
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	055	2410940	2411078	o	111
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	056	2410885	2411012	r	114
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	057	2412448	2412576	l	108
+025	006	programming lazy programming machine over brown over world	programming lazy programming machine over brown over world	058	2410928	2411064	d	100
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	001	2406000	2406124	l	108
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	002	2406150	2406292	a	97
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	003	2406332	2406409	z	122
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	004	2406327	2406406	y	121
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	005	2406424	2406492	 	32
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	006	2406720	2406819	f	102
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	007	2406990	2407059	o	111
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	008	2406728	2406867	x	120
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	009	2407592	2407698	 	32
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	010	2407233	2407352	f	102
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	011	2407410	2407462	o	111
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	012	2407122	2407220	x	120
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	013	2407260	2407372	 	32
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	014	2408145	2408202	j	106
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	015	2408352	2408444	u	117
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	016	2408250	2408354	m	109
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	017	2408768	2408856	p	112
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	018	2408550	2408617	s	115
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	019	2409258	2409391	 	32
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	020	2408527	2408581	j	106
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	021	2409060	2409152	u	117
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	022	2408478	2408549	m	109
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	023	2408772	2408865	p	112
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	024	2410416	2410559	s	115
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	025	2409864	2410009	 	32
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	026	2409850	2409997	j	106
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	027	2410966	2411040	u	117
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	028	2409294	2409414	m	109
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	029	2410788	2410890	p	112
+025	007	lazy fox fox jumps jumps jumps	lazy fox fox jumps jumps jumps	030	2411336	2411426	s	115
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	001	2407000	2407079	w	119
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	002	2407147	2407203	o	111
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	003	2407370	2407510	r	114
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	004	2407381	2407514	l	108
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	005	2407664	2407771	d	100
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	006	2407590	2407688	 	32
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	007	2407972	2408081	b	98
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	008	2407805	2407872	r	114
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	009	2407888	2408018	o	111
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	010	2408044	2408184	w	119
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	011	2408170	2408231	n	110
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	012	2408474	2408621	 	32
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	013	2408236	2408293	a	97
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	014	2409301	2409402	r	114
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	015	2409226	2409278	t	116
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	016	2408695	2408757	i	105
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	017	2408792	2408875	f	102
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	018	2409924	2410022	i	105
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	019	2410402	2410461	c	99
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	020	2410458	2410585	i	105
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	021	2409680	2409804	a	97
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	022	2410801	2410922	l	108
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	023	2410256	2410346	 	32
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	024	2410703	2410845	q	113
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	025	2411680	2411736	u	117
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	026	2410600	2410709	i	105
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	027	2412174	2412235	c	99
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	028	2411239	2411305	k	107
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	029	2410612	2410714	 	32
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	030	2411205	2411338	a	97
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	031	2412610	2412759	r	114
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	032	2410131	2410249	t	116
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	033	2411256	2411388	i	105
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	034	2410564	2410657	f	102
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	035	2412134	2412260	i	105
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	036	2413720	2413865	c	99
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	037	2414164	2414271	i	105
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	038	2411847	2411916	a	97
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	039	2414182	2414276	l	108
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	040	2413435	2413562	 	32
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	041	2414760	2414815	o	111
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	042	2412699	2412773	v	118
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	043	2413426	2413542	e	101
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	044	2413536	2413612	r	114
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	045	2412368	2412463	 	32
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	046	2412535	2412679	o	111
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	047	2415464	2415591	v	118
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	048	2413063	2413194	e	101
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	049	2414008	2414143	r	114
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	050	2414938	2415071	 	32
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	051	2414400	2414467	l	108
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	052	2414293	2414371	e	101
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	053	2413604	2413664	a	97
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	054	2415851	2415969	r	114
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	055	2416396	2416543	n	110
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	056	2415965	2416054	i	105
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	057	2413160	2413267	n	110
+025	008	world brown artificial quick artificial over over learning	world brown artificial quick artificial over over learning	058	2417602	2417736	g	103
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	001	2408000	2408051	l	108
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	002	2408171	2408294	e	101
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	003	2408380	2408500	a	97
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	004	2408435	2408532	r	114
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	005	2408636	2408719	n	110
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	006	2408595	2408696	i	105
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	007	2409122	2409221	n	110
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	008	2408959	2409010	g	103
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	009	2409008	2409138	 	32
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	010	2409116	2409258	i	105
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	011	2409200	2409275	n	110
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	012	2409870	2409924	t	116
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	013	2409836	2409965	e	101
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	014	2410379	2410471	l	108
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	015	2409806	2409907	l	108
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	016	2410070	2410211	i	105
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	017	2411040	2411122	g	103
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	018	2410992	2411104	e	101
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	019	2411258	2411314	n	110
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	020	2410812	2410935	c	99
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	021	2411840	2411971	e	101
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	022	2410520	2410662	 	32
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	023	2411784	2411898	w	119
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	024	2411082	2411179	o	111
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	025	2411768	2411851	r	114
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	026	2412775	2412910	l	108
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	027	2411016	2411090	d	100
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	028	2411645	2411712	 	32
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	029	2412900	2413003	i	105
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	030	2412872	2412922	n	110
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	031	2412860	2412949	t	116
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	032	2413797	2413924	e	101
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	033	2414304	2414440	l	108
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	034	2412521	2412661	l	108
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	035	2413984	2414119	i	105
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	036	2412550	2412635	g	103
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	037	2413256	2413328	e	101
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	038	2415178	2415243	n	110
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	039	2415524	2415575	c	99
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	040	2412563	2412673	e	101
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	041	2414760	2414875	 	32
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	042	2412551	2412610	j	106
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	043	2413586	2413699	u	117
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	044	2414450	2414591	m	109
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	045	2413104	2413231	p	112
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	046	2416280	2416354	s	115
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	047	2416740	2416798	 	32
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	048	2414956	2415090	b	98
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	049	2417072	2417189	r	114
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	050	2415987	2416110	o	111
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	051	2415500	2415598	w	119
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	052	2414069	2414209	n	110
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	053	2416476	2416621	 	32
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	054	2414572	2414715	t	116
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	055	2415398	2415466	h	104
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	056	2416965	2417114	e	101
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	057	2417968	2418059	 	32
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	058	2417576	2417626	q	113
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	059	2419542	2419641	u	117
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	060	2414726	2414786	i	105
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	061	2414000	2414050	c	99
+025	009	learning intelligence world intelligence jumps brown the quick	learning intelligence world intelligence jumps brown the quick	062	2416845	2416941	k	107
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	001	2409000	2409135	l	108
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	002	2409144	2409281	e	101
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	003	2409378	2409525	a	97
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	004	2409510	2409640	r	114
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	005	2409520	2409669	n	110
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	006	2409955	2410076	i	105
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	007	2409984	2410069	n	110
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	008	2410372	2410441	g	103
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	009	2410528	2410675	 	32
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	010	2410611	2410683	w	119
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	011	2410590	2410672	o	111
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	012	2410936	2411079	r	114
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	013	2411088	2411227	l	108
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	014	2410560	2410689	d	100
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	015	2410764	2410871	 	32
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	016	2411850	2411949	d	100
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	017	2411880	2411985	a	97
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	018	2411686	2411818	t	116
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	019	2412276	2412338	a	97
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	020	2411888	2412007	 	32
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	021	2411460	2411536	m	109
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	022	2412339	2412445	a	97
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	023	2411640	2411730	c	99
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	024	2413370	2413420	h	104
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	025	2411448	2411532	i	105
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	026	2413925	2414017	n	110
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	027	2413966	2414072	e	101
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	028	2413779	2413863	 	32
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	029	2414544	2414651	q	113
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	030	2413843	2413904	u	117
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	031	2414370	2414439	i	105
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	032	2412472	2412600	c	99
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	033	2412328	2412399	k	107
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	034	2414544	2414624	 	32
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	035	2412638	2412719	i	105
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	036	2412710	2412790	n	110
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	037	2414544	2414645	t	116
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	038	2415512	2415654	e	101
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	039	2413864	2413990	l	108
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	040	2415942	2416081	l	108
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	041	2413440	2413541	i	105
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	042	2416257	2416404	g	103
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	043	2416056	2416141	e	101
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	044	2415536	2415619	n	110
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	045	2416128	2416237	c	99
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	046	2415255	2415400	e	101
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	047	2414474	2414575	 	32
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	048	2413700	2413841	j	106
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	049	2418312	2418461	u	117
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	050	2417232	2417302	m	109
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	051	2415250	2415364	p	112
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	052	2415426	2415562	s	115
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	053	2415032	2415161	 	32
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	054	2415996	2416053	d	100
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	055	2419368	2419439	o	111
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	056	2414610	2414704	g	103
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	057	2419696	2419825	 	32
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	058	2415498	2415603	l	108
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	059	2420310	2420410	a	97
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	060	2415077	2415219	z	122
+025	010	learning world data machine quick intelligence jumps dog lazy	learning world data machine quick intelligence jumps dog lazy	061	2415540	2415648	y	121

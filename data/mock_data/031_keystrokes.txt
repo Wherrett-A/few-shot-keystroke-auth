@@ -1,0 +1,515 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	001	3000000	3000086	q	113
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	002	3000141	3000238	u	117
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	003	3000226	3000350	i	105
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	004	3000426	3000491	c	99
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	005	3000512	3000604	k	107
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	006	3000735	3000840	 	32
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	007	3001128	3001276	h	104
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	008	3001127	3001206	e	101
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	009	3001080	3001159	l	108
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	010	3001503	3001570	l	108
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	011	3001810	3001883	o	111
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	012	3002046	3002181	 	32
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	013	3002112	3002241	a	97
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	014	3001729	3001861	r	114
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	015	3001470	3001537	t	116
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	016	3002040	3002121	i	105
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	017	3002400	3002473	f	102
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	018	3002669	3002785	i	105
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	019	3002952	3003010	c	99
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	020	3002299	3002362	i	105
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	021	3003540	3003630	a	97
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	022	3003486	3003623	l	108
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	023	3003256	3003344	 	32
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	024	3002461	3002569	d	100
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	025	3003264	3003373	o	111
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	026	3004300	3004423	g	103
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	027	3003224	3003294	 	32
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	028	3003753	3003897	h	104
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	029	3004032	3004111	e	101
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	030	3004988	3005048	l	108
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	031	3005520	3005601	l	108
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	032	3003162	3003304	o	111
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	033	3004160	3004293	 	32
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	034	3004059	3004131	d	100
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	035	3005338	3005388	a	97
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	036	3003920	3004016	t	116
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	037	3005004	3005122	a	97
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	038	3004773	3004902	 	32
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	039	3003876	3003960	w	119
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	040	3006435	3006513	o	111
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	041	3006960	3007050	r	114
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	042	3005699	3005779	l	108
+031	001	quick hello artificial dog hello data world	quick hello artificial dog hello data world	043	3004620	3004690	d	100
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	001	3001000	3001112	p	112
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	002	3001170	3001233	r	114
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	003	3001216	3001312	o	111
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	004	3001381	3001526	g	103
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	005	3001708	3001819	r	114
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	006	3001800	3001900	a	97
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	007	3002014	3002118	m	109
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	008	3002281	3002394	m	109
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	009	3002496	3002600	i	105
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	010	3002287	3002376	n	110
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	011	3002720	3002804	g	103
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	012	3002463	3002587	 	32
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	013	3002668	3002745	t	116
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	014	3002508	3002610	h	104
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	015	3003366	3003487	e	101
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	016	3002845	3002966	 	32
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	017	3003688	3003836	d	100
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	018	3004264	3004393	a	97
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	019	3003268	3003392	t	116
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	020	3002976	3003109	a	97
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	021	3004760	3004874	 	32
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	022	3005116	3005241	b	98
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	023	3004652	3004755	r	114
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	024	3004519	3004650	o	111
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	025	3003832	3003932	w	119
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	026	3004400	3004494	n	110
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	027	3004692	3004805	 	32
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	028	3004240	3004306	l	108
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	029	3004584	3004685	e	101
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	030	3006539	3006687	a	97
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	031	3005860	3005977	r	114
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	032	3006053	3006160	n	110
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	033	3004776	3004860	i	105
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	034	3004399	3004459	n	110
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	035	3005590	3005696	g	103
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	036	3007370	3007485	 	32
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	037	3005392	3005476	m	109
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	038	3007475	3007569	a	97
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	039	3006016	3006153	c	99
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	040	3006304	3006414	h	104
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	041	3005320	3005374	i	105
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	042	3007355	3007488	n	110
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	043	3008224	3008355	e	101
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	044	3008181	3008240	 	32
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	045	3008656	3008735	f	102
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	046	3009910	3010025	o	111
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	047	3009648	3009752	x	120
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	048	3007768	3007915	 	32
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	049	3008536	3008591	d	100
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	050	3008938	3009058	a	97
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	051	3007850	3007977	t	116
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	052	3006406	3006487	a	97
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	053	3009892	3010000	 	32
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	054	3007360	3007482	t	116
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	055	3009262	3009386	h	104
+031	002	programming the data brown learning machine fox data the	programming the data brown learning machine fox data the	056	3007105	3007197	e	101
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	001	3002000	3002075	w	119
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	002	3002133	3002226	o	111
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	003	3002366	3002450	r	114
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	004	3002504	3002641	l	108
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	005	3002500	3002566	d	100
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	006	3002755	3002849	 	32
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	007	3003098	3003165	b	98
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	008	3003071	3003203	r	114
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	009	3003312	3003460	o	111
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	010	3003206	3003344	w	119
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	011	3003570	3003653	n	110
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	012	3003265	3003343	 	32
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	013	3004016	3004135	b	98
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	014	3004509	3004657	r	114
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	015	3004730	3004877	o	111
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	016	3004820	3004958	w	119
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	017	3004848	3004972	n	110
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	018	3005009	3005142	 	32
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	019	3004106	3004159	p	112
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	020	3005439	3005500	r	114
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	021	3005440	3005497	o	111
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	022	3005192	3005264	g	103
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	023	3006026	3006134	r	114
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	024	3004346	3004480	a	97
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	025	3004952	3005086	m	109
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	026	3005600	3005696	m	109
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	027	3006004	3006110	i	105
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	028	3005132	3005189	n	110
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	029	3006200	3006337	g	103
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	030	3004929	3004986	 	32
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	031	3005690	3005754	o	111
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	032	3007487	3007612	v	118
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	033	3005680	3005820	e	101
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	034	3007874	3007984	r	114
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	035	3007202	3007256	 	32
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	036	3007320	3007422	a	97
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	037	3007184	3007265	r	114
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	038	3008401	3008525	t	116
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	039	3007016	3007093	i	105
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	040	3006914	3006973	f	102
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	041	3008760	3008856	i	105
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	042	3006592	3006658	c	99
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	043	3008258	3008369	i	105
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	044	3008708	3008854	a	97
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	045	3007324	3007419	l	108
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	046	3009740	3009813	 	32
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	047	3008900	3009042	d	100
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	048	3007452	3007524	a	97
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	049	3009152	3009277	t	116
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	050	3011604	3011689	a	97
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	051	3008900	3009014	 	32
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	052	3010772	3010862	p	112
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	053	3010684	3010811	y	121
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	054	3007724	3007846	t	116
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	055	3010802	3010884	h	104
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	056	3008160	3008227	o	111
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	057	3011408	3011544	n	110
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	058	3011918	3012004	 	32
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	059	3012788	3012855	l	108
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	060	3013505	3013587	a	97
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	061	3009380	3009449	z	122
+031	003	world brown brown programming over artificial data python lazy	world brown brown programming over artificial data python lazy	062	3009259	3009327	y	121
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	001	3003000	3003059	p	112
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	002	3003183	3003268	y	121
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	003	3003314	3003403	t	116
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	004	3003426	3003500	h	104
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	005	3003612	3003665	o	111
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	006	3003880	3003997	n	110
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	007	3004050	3004165	 	32
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	008	3003889	3003979	i	105
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	009	3003976	3004059	n	110
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	010	3004575	3004724	t	116
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	011	3004530	3004679	e	101
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	012	3004518	3004639	l	108
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	013	3004224	3004305	l	108
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	014	3004404	3004479	i	105
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	015	3005744	3005799	g	103
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	016	3004815	3004887	e	101
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	017	3005240	3005348	n	110
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	018	3006247	3006375	c	99
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	019	3004926	3005013	e	101
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	020	3006135	3006230	 	32
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	021	3005860	3005929	o	111
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	022	3005583	3005659	v	118
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	023	3006454	3006578	e	101
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	024	3006818	3006870	r	114
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	025	3006264	3006343	 	32
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	026	3006875	3007013	l	108
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	027	3006536	3006587	a	97
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	028	3006213	3006342	z	122
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	029	3007088	3007187	y	121
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	030	3006074	3006198	 	32
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	031	3007740	3007795	s	115
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	032	3006224	3006336	c	99
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	033	3006296	3006379	i	105
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	034	3008346	3008412	e	101
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	035	3007556	3007705	n	110
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	036	3009650	3009768	c	99
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	037	3009336	3009390	e	101
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	038	3008661	3008740	 	32
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	039	3007256	3007314	b	98
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	040	3009825	3009972	r	114
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	041	3007480	3007538	o	111
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	042	3010175	3010245	w	119
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	043	3009090	3009192	n	110
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	044	3008719	3008866	 	32
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	045	3007576	3007720	m	109
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	046	3007995	3008094	a	97
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	047	3010452	3010539	c	99
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	048	3009580	3009682	h	104
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	049	3011880	3012013	i	105
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	050	3010693	3010831	n	110
+031	004	python intelligence over lazy science brown machine	python intelligence over lazy science brown machine	051	3008000	3008068	e	101
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	001	3004000	3004069	i	105
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	002	3004189	3004251	n	110
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	003	3004356	3004427	t	116
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	004	3004492	3004614	e	101
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	005	3004664	3004743	l	108
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	006	3004750	3004863	l	108
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	007	3005116	3005243	i	105
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	008	3005127	3005247	g	103
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	009	3005488	3005599	e	101
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	010	3005548	3005697	n	110
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	011	3005250	3005369	c	99
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	012	3006035	3006097	e	101
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	013	3005428	3005523	 	32
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	014	3005417	3005514	o	111
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	015	3006646	3006705	v	118
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	016	3005665	3005790	e	101
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	017	3007024	3007151	r	114
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	018	3005972	3006065	 	32
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	019	3007042	3007140	q	113
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	020	3007154	3007233	u	117
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	021	3006940	3006993	i	105
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	022	3006604	3006662	c	99
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	023	3006200	3006319	k	107
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	024	3008531	3008624	 	32
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	025	3007864	3007975	b	98
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	026	3008350	3008463	r	114
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	027	3008862	3008986	o	111
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	028	3008482	3008627	w	119
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	029	3008592	3008712	n	110
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	030	3007480	3007623	 	32
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	031	3007030	3007105	i	105
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	032	3009735	3009788	n	110
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	033	3008000	3008060	t	116
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	034	3007399	3007457	e	101
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	035	3010630	3010685	l	108
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	036	3008270	3008371	l	108
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	037	3008752	3008822	i	105
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	038	3008625	3008724	g	103
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	039	3008940	3009014	e	101
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	040	3009616	3009722	n	110
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	041	3010640	3010777	c	99
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	042	3011052	3011166	e	101
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	043	3009712	3009784	 	32
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	044	3011740	3011837	t	116
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	045	3010556	3010663	h	104
+031	005	intelligence over quick brown intelligence the	intelligence over quick brown intelligence the	046	3010570	3010646	e	101
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	001	3005000	3005119	i	105
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	002	3005125	3005197	n	110
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	003	3005370	3005442	t	116
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	004	3005420	3005483	e	101
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	005	3005760	3005837	l	108
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	006	3005910	3005975	l	108
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	007	3005696	3005834	i	105
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	008	3006169	3006283	g	103
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	009	3006040	3006161	e	101
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	010	3006692	3006745	n	110
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	011	3006370	3006433	c	99
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	012	3007046	3007108	e	101
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	013	3006308	3006403	 	32
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	014	3006664	3006812	o	111
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	015	3007380	3007448	v	118
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	016	3007355	3007423	e	101
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	017	3007480	3007576	r	114
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	018	3008043	3008161	 	32
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	019	3007394	3007464	w	119
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	020	3006957	3007086	o	111
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	021	3008060	3008111	r	114
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	022	3007184	3007323	l	108
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	023	3007574	3007650	d	100
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	024	3009094	3009217	 	32
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	025	3008384	3008501	l	108
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	026	3009450	3009553	a	97
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	027	3008614	3008681	z	122
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	028	3009590	3009697	y	121
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	029	3009452	3009504	 	32
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	030	3010713	3010767	m	109
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	031	3009830	3009883	a	97
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	032	3008317	3008408	c	99
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	033	3009224	3009333	h	104
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	034	3011303	3011367	i	105
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	035	3011698	3011785	n	110
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	036	3009305	3009420	e	101
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	037	3011588	3011695	 	32
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	038	3009847	3009967	p	112
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	039	3009940	3010041	r	114
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	040	3008939	3009072	o	111
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	041	3009160	3009299	g	103
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	042	3011929	3011993	r	114
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	043	3012938	3012994	a	97
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	044	3012181	3012239	m	109
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	045	3011160	3011214	m	109
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	046	3013280	3013373	i	105
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	047	3013326	3013430	n	110
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	048	3014259	3014324	g	103
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	049	3009848	3009995	 	32
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	050	3011272	3011363	l	108
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	051	3013800	3013940	a	97
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	052	3014486	3014550	z	122
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	053	3012072	3012124	y	121
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	054	3010671	3010782	 	32
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	055	3014774	3014853	q	113
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	056	3010500	3010611	u	117
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	057	3016144	3016258	i	105
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	058	3014063	3014170	c	99
+031	006	intelligence over world lazy machine programming lazy quick	intelligence over world lazy machine programming lazy quick	059	3016194	3016249	k	107
+031	007	data learning over over quick learning	data learning over over quick learning	001	3006000	3006053	d	100
+031	007	data learning over over quick learning	data learning over over quick learning	002	3006133	3006196	a	97
+031	007	data learning over over quick learning	data learning over over quick learning	003	3006220	3006364	t	116
+031	007	data learning over over quick learning	data learning over over quick learning	004	3006570	3006659	a	97
+031	007	data learning over over quick learning	data learning over over quick learning	005	3006584	3006668	 	32
+031	007	data learning over over quick learning	data learning over over quick learning	006	3006925	3007053	l	108
+031	007	data learning over over quick learning	data learning over over quick learning	007	3006996	3007052	e	101
+031	007	data learning over over quick learning	data learning over over quick learning	008	3007274	3007423	a	97
+031	007	data learning over over quick learning	data learning over over quick learning	009	3007504	3007570	r	114
+031	007	data learning over over quick learning	data learning over over quick learning	010	3007629	3007744	n	110
+031	007	data learning over over quick learning	data learning over over quick learning	011	3007050	3007144	i	105
+031	007	data learning over over quick learning	data learning over over quick learning	012	3007694	3007842	n	110
+031	007	data learning over over quick learning	data learning over over quick learning	013	3008220	3008274	g	103
+031	007	data learning over over quick learning	data learning over over quick learning	014	3008210	3008282	 	32
+031	007	data learning over over quick learning	data learning over over quick learning	015	3008590	3008710	o	111
+031	007	data learning over over quick learning	data learning over over quick learning	016	3008640	3008727	v	118
+031	007	data learning over over quick learning	data learning over over quick learning	017	3007616	3007707	e	101
+031	007	data learning over over quick learning	data learning over over quick learning	018	3008329	3008467	r	114
+031	007	data learning over over quick learning	data learning over over quick learning	019	3008088	3008204	 	32
+031	007	data learning over over quick learning	data learning over over quick learning	020	3009781	3009834	o	111
+031	007	data learning over over quick learning	data learning over over quick learning	021	3009820	3009893	v	118
+031	007	data learning over over quick learning	data learning over over quick learning	022	3009906	3010001	e	101
+031	007	data learning over over quick learning	data learning over over quick learning	023	3009014	3009139	r	114
+031	007	data learning over over quick learning	data learning over over quick learning	024	3009404	3009461	 	32
+031	007	data learning over over quick learning	data learning over over quick learning	025	3010032	3010112	q	113
+031	007	data learning over over quick learning	data learning over over quick learning	026	3010850	3010991	u	117
+031	007	data learning over over quick learning	data learning over over quick learning	027	3011044	3011140	i	105
+031	007	data learning over over quick learning	data learning over over quick learning	028	3010725	3010786	c	99
+031	007	data learning over over quick learning	data learning over over quick learning	029	3011516	3011581	k	107
+031	007	data learning over over quick learning	data learning over over quick learning	030	3009161	3009211	 	32
+031	007	data learning over over quick learning	data learning over over quick learning	031	3009270	3009349	l	108
+031	007	data learning over over quick learning	data learning over over quick learning	032	3011270	3011337	e	101
+031	007	data learning over over quick learning	data learning over over quick learning	033	3011952	3012017	a	97
+031	007	data learning over over quick learning	data learning over over quick learning	034	3011049	3011112	r	114
+031	007	data learning over over quick learning	data learning over over quick learning	035	3010216	3010280	n	110
+031	007	data learning over over quick learning	data learning over over quick learning	036	3011040	3011156	i	105
+031	007	data learning over over quick learning	data learning over over quick learning	037	3012876	3012938	n	110
+031	007	data learning over over quick learning	data learning over over quick learning	038	3012105	3012206	g	103
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	001	3007000	3007119	i	105
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	002	3007173	3007249	n	110
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	003	3007374	3007428	t	116
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	004	3007552	3007635	e	101
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	005	3007432	3007575	l	108
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	006	3007755	3007813	l	108
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	007	3007666	3007759	i	105
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	008	3008288	3008397	g	103
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	009	3008384	3008475	e	101
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	010	3008458	3008550	n	110
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	011	3008740	3008808	c	99
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	012	3008397	3008539	e	101
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	013	3009040	3009092	 	32
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	014	3009405	3009509	b	98
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	015	3009380	3009440	r	114
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	016	3009760	3009841	o	111
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	017	3008968	3009113	w	119
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	018	3009907	3009964	n	110
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	019	3010474	3010537	 	32
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	020	3009071	3009219	a	97
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	021	3009520	3009606	r	114
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	022	3010318	3010409	t	116
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	023	3010168	3010272	i	105
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	024	3011462	3011550	f	102
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	025	3011224	3011312	i	105
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	026	3011700	3011822	c	99
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	027	3011836	3011969	i	105
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	028	3010537	3010646	a	97
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	029	3010584	3010645	l	108
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	030	3011379	3011517	 	32
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	031	3010540	3010628	p	112
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	032	3010720	3010856	y	121
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	033	3010648	3010786	t	116
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	034	3010960	3011080	h	104
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	035	3013154	3013204	o	111
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	036	3011900	3012034	n	110
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	037	3013156	3013251	 	32
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	038	3014104	3014162	d	100
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	039	3012092	3012217	o	111
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	040	3011368	3011465	g	103
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	041	3012240	3012340	 	32
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	042	3014913	3015001	s	115
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	043	3014308	3014402	c	99
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	044	3015041	3015094	i	105
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	045	3012148	3012214	e	101
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	046	3012670	3012728	n	110
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	047	3013946	3014086	c	99
+031	008	intelligence brown artificial python dog science	intelligence brown artificial python dog science	048	3012687	3012813	e	101
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	001	3008000	3008142	h	104
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	002	3008131	3008232	e	101
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	003	3008364	3008499	l	108
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	004	3008330	3008432	l	108
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	005	3008676	3008727	o	111
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	006	3008855	3008908	 	32
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	007	3009050	3009182	l	108
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	008	3008938	3008989	e	101
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	009	3009520	3009643	a	97
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	010	3009629	3009692	r	114
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	011	3009800	3009888	n	110
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	012	3009463	3009543	i	105
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	013	3009596	3009656	n	110
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	014	3010275	3010334	g	103
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	015	3009526	3009582	 	32
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	016	3010850	3010966	s	115
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	017	3009904	3009972	c	99
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	018	3009802	3009897	i	105
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	019	3010052	3010139	e	101
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	020	3010090	3010146	n	110
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	021	3011080	3011152	c	99
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	022	3012158	3012277	e	101
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	023	3011872	3011996	 	32
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	024	3010967	3011038	p	112
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	025	3012584	3012658	r	114
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	026	3011650	3011757	o	111
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	027	3011848	3011990	g	103
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	028	3012212	3012334	r	114
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	029	3012900	3012972	a	97
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	030	3012495	3012566	m	109
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	031	3013580	3013637	m	109
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	032	3011813	3011942	i	105
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	033	3011808	3011955	n	110
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	034	3013214	3013303	g	103
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	035	3013848	3013948	 	32
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	036	3012200	3012253	w	119
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	037	3013940	3014061	o	111
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	038	3014586	3014684	r	114
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	039	3014346	3014410	l	108
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	040	3015566	3015677	d	100
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	041	3012200	3012260	 	32
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	042	3012305	3012451	b	98
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	043	3012788	3012902	r	114
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	044	3014192	3014335	o	111
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	045	3015260	3015380	w	119
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	046	3015470	3015595	n	110
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	047	3013290	3013350	 	32
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	048	3013640	3013720	f	102
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	049	3013376	3013491	o	111
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	050	3013586	3013717	x	120
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	051	3014850	3014934	 	32
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	052	3015599	3015668	p	112
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	053	3016320	3016433	y	121
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	054	3018388	3018531	t	116
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	055	3013940	3014013	h	104
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	056	3013610	3013687	o	111
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	057	3018192	3018337	n	110
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	058	3016607	3016720	 	32
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	059	3015598	3015709	p	112
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	060	3019328	3019434	y	121
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	061	3018680	3018792	t	116
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	062	3019041	3019131	h	104
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	063	3020028	3020098	o	111
+031	009	hello learning science programming world brown fox python python	hello learning science programming world brown fox python python	064	3018836	3018902	n	110
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	001	3009000	3009064	m	109
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	002	3009116	3009202	a	97
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	003	3009362	3009509	c	99
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	004	3009465	3009548	h	104
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	005	3009628	3009699	i	105
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	006	3009610	3009718	n	110
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	007	3009828	3009902	e	101
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	008	3009847	3009906	 	32
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	009	3010552	3010634	l	108
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	010	3010341	3010490	e	101
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	011	3010190	3010245	a	97
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	012	3010694	3010797	r	114
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	013	3011220	3011291	n	110
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	014	3010885	3011002	i	105
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	015	3011562	3011632	n	110
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	016	3010830	3010954	g	103
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	017	3011976	3012087	 	32
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	018	3010904	3010979	h	104
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	019	3011700	3011817	e	101
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	020	3011983	3012077	l	108
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	021	3012080	3012160	l	108
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	022	3013116	3013247	o	111
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	023	3012432	3012484	 	32
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	024	3012864	3012925	t	116
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	025	3011952	3012093	h	104
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	026	3012650	3012735	e	101
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	027	3013186	3013256	 	32
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	028	3013428	3013484	b	98
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	029	3013900	3014027	r	114
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	030	3013176	3013310	o	111
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	031	3013290	3013436	w	119
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	032	3014239	3014371	n	110
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	033	3015016	3015124	 	32
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	034	3013059	3013135	a	97
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	035	3015732	3015844	r	114
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	036	3013550	3013602	t	116
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	037	3012816	3012924	i	105
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	038	3013958	3014056	f	102
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	039	3013978	3014084	i	105
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	040	3015240	3015357	c	99
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	041	3014680	3014738	i	105
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	042	3015109	3015167	a	97
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	043	3013830	3013899	l	108
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	044	3013902	3013957	 	32
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	045	3017580	3017723	d	100
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	046	3017955	3018059	o	111
+031	010	machine learning hello the brown artificial dog	machine learning hello the brown artificial dog	047	3016820	3016926	g	103

@@ -1,0 +1,520 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	001	900000	900146	q	113
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	002	900148	900227	u	117
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	003	900322	900402	i	105
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	004	900561	900653	c	99
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	005	900756	900872	k	107
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	006	900690	900801	 	32
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	007	901008	901111	t	116
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	008	900889	900947	h	104
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	009	901056	901144	e	101
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	010	901143	901255	 	32
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	011	901520	901662	l	108
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	012	901232	901367	e	101
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	013	901884	901974	a	97
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	014	901300	901421	r	114
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	015	901750	901834	n	110
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	016	902595	902648	i	105
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	017	902640	902743	n	110
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	018	902533	902657	g	103
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	019	902592	902708	 	32
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	020	902508	902648	p	112
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	021	902480	902571	y	121
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	022	903591	903740	t	116
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	023	902992	903093	h	104
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	024	902645	902720	o	111
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	025	903432	903581	n	110
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	026	904350	904422	 	32
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	027	902730	902815	d	100
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	028	904455	904547	o	111
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	029	904256	904319	g	103
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	030	903944	904007	 	32
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	031	903090	903167	i	105
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	032	903224	903306	n	110
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	033	903680	903810	t	116
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	034	904818	904918	e	101
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	035	904964	905058	l	108
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	036	906650	906767	l	108
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	037	906768	906891	i	105
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	038	904329	904457	g	103
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	039	905434	905545	e	101
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	040	907761	907899	n	110
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	041	904520	904615	c	99
+010	001	quick the learning python dog intelligence	quick the learning python dog intelligence	042	904838	904956	e	101
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	001	901000	901133	d	100
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	002	901166	901239	o	111
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	003	901314	901447	g	103
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	004	901366	901483	 	32
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	005	901468	901582	s	115
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	006	901665	901766	c	99
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	007	902014	902144	i	105
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	008	902309	902425	e	101
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	009	902064	902170	n	110
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	010	902314	902421	c	99
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	011	902340	902399	e	101
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	012	902518	902593	 	32
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	013	902860	902924	a	97
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	014	902599	902663	r	114
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	015	903268	903320	t	116
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	016	903595	903680	i	105
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	017	902664	902772	f	102
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	018	904009	904154	i	105
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	019	903268	903384	c	99
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	020	903831	903966	i	105
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	021	904600	904696	a	97
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	022	903415	903471	l	108
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	023	903244	903374	 	32
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	024	905301	905386	q	113
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	025	905368	905451	u	117
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	026	904875	904998	i	105
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	027	905966	906021	c	99
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	028	905563	905690	k	107
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	029	906516	906664	 	32
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	030	904393	904504	a	97
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	031	906340	906468	r	114
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	032	907076	907138	t	116
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	033	906760	906813	i	105
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	034	907567	907682	f	102
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	035	906372	906513	i	105
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	036	906880	906966	c	99
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	037	906652	906760	i	105
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	038	906994	907069	a	97
+010	002	dog science artificial quick artificial	dog science artificial quick artificial	039	905674	905801	l	108
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	001	902000	902071	q	113
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	002	902154	902269	u	117
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	003	902394	902495	i	105
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	004	902330	902464	c	99
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	005	902480	902589	k	107
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	006	902790	902862	 	32
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	007	903086	903188	s	115
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	008	902917	903016	c	99
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	009	903416	903539	i	105
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	010	902990	903050	e	101
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	011	903160	903212	n	110
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	012	904046	904124	c	99
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	013	903860	903947	e	101
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	014	904262	904319	 	32
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	015	904772	904864	l	108
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	016	904085	904183	a	97
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	017	904800	904938	z	122
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	018	905349	905472	y	121
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	019	905006	905067	 	32
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	020	904375	904508	o	111
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	021	905740	905796	v	118
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	022	904226	904297	e	101
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	023	904552	904668	r	114
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	024	905864	905973	 	32
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	025	905840	905989	t	116
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	026	905875	905992	h	104
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	027	906524	906650	e	101
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	028	905348	905486	 	32
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	029	905332	905424	p	112
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	030	906495	906627	r	114
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	031	906140	906220	o	111
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	032	905100	905176	g	103
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	033	906608	906712	r	114
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	034	905498	905581	a	97
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	035	905434	905579	m	109
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	036	906760	906885	m	109
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	037	906320	906454	i	105
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	038	907550	907640	n	110
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	039	907054	907191	g	103
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	040	906056	906189	 	32
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	041	909720	909779	l	108
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	042	908109	908225	e	101
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	043	908384	908438	a	97
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	044	908020	908119	r	114
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	045	907236	907359	n	110
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	046	909245	909376	i	105
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	047	910050	910161	n	110
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	048	907452	907569	g	103
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	049	908144	908252	 	32
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	050	910428	910544	b	98
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	051	909200	909330	r	114
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	052	908477	908599	o	111
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	053	911568	911692	w	119
+010	003	quick science lazy over the programming learning brown	quick science lazy over the programming learning brown	054	910003	910148	n	110
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	001	903000	903064	m	109
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	002	903127	903225	a	97
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	003	903286	903356	c	99
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	004	903420	903495	h	104
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	005	903620	903743	i	105
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	006	903770	903851	n	110
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	007	903882	903943	e	101
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	008	903707	903793	 	32
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	009	904136	904238	l	108
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	010	904404	904464	e	101
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	011	904170	904306	a	97
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	012	904122	904247	r	114
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	013	905184	905275	n	110
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	014	904859	904928	i	105
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	015	905100	905183	n	110
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	016	905745	905841	g	103
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	017	904632	904741	 	32
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	018	905771	905913	s	115
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	019	905844	905957	c	99
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	020	905850	905914	i	105
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	021	906440	906561	e	101
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	022	906339	906390	n	110
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	023	905772	905832	c	99
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	024	907393	907505	e	101
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	025	905760	905886	 	32
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	026	906925	907039	q	113
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	027	906094	906228	u	117
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	028	907698	907820	i	105
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	029	908544	908692	c	99
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	030	907756	907815	k	107
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	031	908340	908412	 	32
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	032	906906	906964	d	100
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	033	906776	906916	a	97
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	034	907488	907564	t	116
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	035	906570	906655	a	97
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	036	909615	909688	 	32
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	037	907248	907323	p	112
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	038	907440	907496	r	114
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	039	908206	908257	o	111
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	040	908889	909035	g	103
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	041	909040	909166	r	114
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	042	907633	907759	a	97
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	043	910644	910773	m	109
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	044	910181	910319	m	109
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	045	910128	910267	i	105
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	046	908085	908203	n	110
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	047	910130	910187	g	103
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	048	912259	912364	 	32
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	049	908904	908997	a	97
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	050	908978	909046	r	114
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	051	910400	910519	t	116
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	052	911619	911700	i	105
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	053	910696	910835	f	102
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	054	908777	908878	i	105
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	055	910614	910707	c	99
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	056	912350	912413	i	105
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	057	910728	910808	a	97
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	058	912063	912166	l	108
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	059	909322	909430	 	32
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	060	912322	912413	d	100
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	061	910680	910745	o	111
+010	004	machine learning science quick data programming artificial dog	machine learning science quick data programming artificial dog	062	912638	912734	g	103
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	001	904000	904144	a	97
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	002	904145	904227	r	114
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	003	904326	904379	t	116
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	004	904471	904528	i	105
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	005	904616	904678	f	102
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	006	904745	904816	i	105
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	007	904900	904965	c	99
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	008	905176	905254	i	105
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	009	905176	905239	a	97
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	010	905152	905233	l	108
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	011	905300	905358	 	32
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	012	905727	905862	f	102
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	013	905236	905334	o	111
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	014	905924	905975	x	120
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	015	905946	906067	 	32
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	016	906700	906800	d	100
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	017	907024	907111	a	97
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	018	905904	905964	t	116
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	019	907258	907392	a	97
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	020	906584	906635	 	32
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	021	907060	907165	b	98
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	022	906541	906660	r	114
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	023	906420	906555	o	111
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	024	908485	908582	w	119
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	025	907528	907658	n	110
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	026	907875	907950	 	32
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	027	907952	908071	o	111
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	028	909211	909287	v	118
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	029	908480	908579	e	101
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	030	908031	908085	r	114
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	031	907450	907598	 	32
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	032	909239	909302	l	108
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	033	909184	909237	a	97
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	034	908488	908565	z	122
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	035	907672	907762	y	121
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	036	908760	908862	 	32
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	037	908536	908673	m	109
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	038	909217	909272	a	97
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	039	910802	910933	c	99
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	040	911410	911475	h	104
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	041	911560	911619	i	105
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	042	908797	908898	n	110
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	043	912022	912155	e	101
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	044	911052	911168	 	32
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	045	910908	911038	p	112
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	046	912550	912679	r	114
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	047	912648	912769	o	111
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	048	912554	912654	g	103
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	049	912544	912634	r	114
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	050	909243	909319	a	97
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	051	909650	909760	m	109
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	052	909661	909715	m	109
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	053	911748	911874	i	105
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	054	912639	912752	n	110
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	055	914638	914749	g	103
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	056	913680	913756	 	32
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	057	912344	912426	m	109
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	058	911410	911490	a	97
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	059	915136	915273	c	99
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	060	915092	915235	h	104
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	061	915580	915635	i	105
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	062	915468	915524	n	110
+010	005	artificial fox data brown over lazy machine programming machine	artificial fox data brown over lazy machine programming machine	063	912742	912842	e	101
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	001	905000	905123	a	97
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	002	905119	905257	r	114
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	003	905232	905327	t	116
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	004	905390	905441	i	105
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	005	905656	905750	f	102
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	006	905715	905799	i	105
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	007	905882	905981	c	99
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	008	905833	905978	i	105
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	009	905832	905942	a	97
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	010	905945	906079	l	108
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	011	906290	906350	 	32
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	012	906892	906972	d	100
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	013	906524	906598	o	111
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	014	907041	907151	g	103
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	015	906428	906518	 	32
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	016	906665	906741	p	112
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	017	906760	906821	y	121
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	018	906819	906889	t	116
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	019	908276	908347	h	104
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	020	908211	908268	o	111
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	021	907520	907574	n	110
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	022	907856	907915	 	32
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	023	908410	908552	d	100
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	024	908289	908414	o	111
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	025	908024	908160	g	103
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	026	908000	908057	 	32
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	027	909082	909210	a	97
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	028	909779	909927	r	114
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	029	909956	910087	t	116
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	030	910249	910336	i	105
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	031	908210	908350	f	102
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	032	910983	911119	i	105
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	033	910472	910599	c	99
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	034	910379	910448	i	105
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	035	909352	909494	a	97
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	036	908640	908774	l	108
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	037	909716	909831	 	32
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	038	909588	909707	o	111
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	039	909218	909315	v	118
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	040	909446	909561	e	101
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	041	910840	910892	r	114
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	042	910084	910231	 	32
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	043	913190	913271	p	112
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	044	909429	909493	r	114
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	045	910676	910805	o	111
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	046	911570	911632	g	103
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	047	912038	912095	r	114
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	048	909982	910073	a	97
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	049	914216	914361	m	109
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	050	911517	911639	m	109
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	051	914300	914374	i	105
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	052	914027	914078	n	110
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	053	913320	913377	g	103
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	054	913745	913812	 	32
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	055	913748	913881	w	119
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	056	912315	912450	o	111
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	057	911888	912003	r	114
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	058	912125	912241	l	108
+010	006	artificial dog python dog artificial over programming world	artificial dog python dog artificial over programming world	059	914280	914341	d	100
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	001	906000	906072	d	100
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	002	906173	906305	o	111
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	003	906200	906287	g	103
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	004	906375	906496	 	32
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	005	906460	906568	l	108
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	006	906535	906600	e	101
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	007	906966	907051	a	97
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	008	906707	906840	r	114
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	009	906848	906974	n	110
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	010	907143	907260	i	105
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	011	907870	907942	n	110
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	012	907892	907976	g	103
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	013	907428	907488	 	32
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	014	908054	908141	l	108
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	015	908338	908417	e	101
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	016	908700	908796	a	97
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	017	908176	908278	r	114
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	018	908057	908183	n	110
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	019	908286	908424	i	105
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	020	908451	908543	n	110
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	021	909520	909648	g	103
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	022	909696	909824	 	32
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	023	908948	909059	a	97
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	024	909795	909941	r	114
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	025	909168	909245	t	116
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	026	909900	909953	i	105
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	027	909718	909776	f	102
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	028	908862	908942	i	105
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	029	911404	911499	c	99
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	030	911684	911818	i	105
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	031	911610	911672	a	97
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	032	909906	909973	l	108
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	033	911056	911174	 	32
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	034	910059	910150	a	97
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	035	909910	909990	r	114
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	036	909500	909641	t	116
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	037	911436	911508	i	105
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	038	911439	911578	f	102
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	039	911586	911728	i	105
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	040	912513	912637	c	99
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	041	910680	910809	i	105
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	042	912437	912526	a	97
+010	007	dog learning learning artificial artificial	dog learning learning artificial artificial	043	913098	913159	l	108
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	001	907000	907069	a	97
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	002	907118	907231	r	114
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	003	907262	907396	t	116
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	004	907462	907592	i	105
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	005	907600	907671	f	102
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	006	907865	907920	i	105
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	007	908104	908195	c	99
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	008	908267	908388	i	105
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	009	907800	907893	a	97
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	010	908395	908447	l	108
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	011	908620	908751	 	32
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	012	908430	908565	o	111
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	013	909316	909396	v	118
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	014	908339	908420	e	101
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	015	909450	909512	r	114
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	016	908755	908848	 	32
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	017	909096	909180	q	113
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	018	909652	909730	u	117
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	019	910510	910608	i	105
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	020	909793	909887	c	99
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	021	910980	911031	k	107
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	022	909415	909483	 	32
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	023	909860	909974	f	102
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	024	909990	910042	o	111
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	025	909760	909892	x	120
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	026	909600	909738	 	32
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	027	912070	912201	d	100
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	028	912373	912426	a	97
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	029	911172	911309	t	116
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	030	912046	912151	a	97
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	031	911530	911618	 	32
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	032	912425	912507	s	115
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	033	911576	911676	c	99
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	034	913105	913253	i	105
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	035	910842	910973	e	101
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	036	911165	911230	n	110
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	037	914020	914089	c	99
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	038	911144	911217	e	101
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	039	913612	913704	 	32
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	040	912811	912909	s	115
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	041	913000	913092	c	99
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	042	911592	911709	i	105
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	043	912628	912743	e	101
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	044	913450	913514	n	110
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	045	913336	913476	c	99
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	046	915505	915640	e	101
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	047	916016	916142	 	32
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	048	913486	913611	f	102
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	049	912376	912512	o	111
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	050	912733	912845	x	120
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	051	916300	916427	 	32
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	052	912865	912998	q	113
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	053	912668	912771	u	117
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	054	913890	913996	i	105
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	055	915262	915395	c	99
+010	008	artificial over quick fox data science science fox quick	artificial over quick fox data science science fox quick	056	915635	915727	k	107
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	001	908000	908067	s	115
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	002	908140	908264	c	99
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	003	908212	908346	i	105
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	004	908534	908620	e	101
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	005	908588	908717	n	110
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	006	908600	908738	c	99
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	007	908630	908769	e	101
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	008	909162	909228	 	32
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	009	908864	908943	d	100
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	010	909170	909250	a	97
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	011	909960	910029	t	116
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	012	909188	909313	a	97
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	013	910244	910358	 	32
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	014	910379	910449	l	108
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	015	910310	910455	a	97
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	016	909890	909945	z	122
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	017	910144	910216	y	121
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	018	910516	910608	 	32
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	019	910052	910106	l	108
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	020	910774	910863	a	97
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	021	910700	910768	z	122
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	022	911612	911755	y	121
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	023	912026	912162	 	32
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	024	910484	910622	w	119
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	025	911216	911330	o	111
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	026	912050	912136	r	114
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	027	911224	911371	l	108
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	028	911159	911234	d	100
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	029	911164	911227	 	32
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	030	911509	911641	h	104
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	031	911120	911217	e	101
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	032	911906	912003	l	108
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	033	914368	914487	l	108
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	034	914105	914179	o	111
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	035	913270	913383	 	32
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	036	913145	913245	p	112
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	037	911852	911903	y	121
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	038	912625	912703	t	116
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	039	912522	912582	h	104
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	040	914864	914985	o	111
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	041	915600	915658	n	110
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	042	913904	913991	 	32
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	043	913628	913679	s	115
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	044	915482	915594	c	99
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	045	914996	915095	i	105
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	046	915965	916030	e	101
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	047	915084	915156	n	110
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	048	913969	914070	c	99
+010	009	science data lazy lazy world hello python science	science data lazy lazy world hello python science	049	913904	914009	e	101
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	001	909000	909126	j	106
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	002	909164	909286	u	117
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	003	909234	909370	m	109
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	004	909333	909421	p	112
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	005	909620	909750	s	115
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	006	909790	909871	 	32
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	007	910026	910098	h	104
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	008	909994	910107	e	101
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	009	910232	910341	l	108
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	010	910305	910399	l	108
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	011	910600	910669	o	111
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	012	910837	910950	 	32
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	013	910824	910935	h	104
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	014	910794	910920	e	101
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	015	910722	910848	l	108
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	016	911265	911375	l	108
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	017	911448	911529	o	111
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	018	911584	911683	 	32
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	019	911934	912055	l	108
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	020	911242	911344	a	97
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	021	911220	911312	z	122
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	022	912108	912231	y	121
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	023	911838	911981	 	32
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	024	912013	912124	j	106
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	025	913392	913520	u	117
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	026	912825	912944	m	109
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	027	912224	912282	p	112
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	028	912969	913093	s	115
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	029	913088	913233	 	32
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	030	913785	913932	d	100
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	031	913200	913339	a	97
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	032	912255	912312	t	116
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	033	912680	912780	a	97
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	034	913620	913723	 	32
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	035	913148	913264	w	119
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	036	913935	914046	o	111
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	037	912708	912820	r	114
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	038	913070	913211	l	108
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	039	913066	913182	d	100
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	040	915162	915311	 	32
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	041	914280	914337	i	105
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	042	914822	914950	n	110
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	043	914880	914949	t	116
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	044	916955	917096	e	101
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	045	917184	917323	l	108
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	046	917640	917707	l	108
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	047	914106	914250	i	105
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	048	916144	916243	g	103
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	049	916008	916115	e	101
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	050	915370	915452	n	110
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	051	914950	915096	c	99
+010	010	jumps hello hello lazy jumps data world intelligence	jumps hello hello lazy jumps data world intelligence	052	916905	916992	e	101

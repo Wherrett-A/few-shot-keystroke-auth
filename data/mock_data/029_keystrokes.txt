@@ -1,0 +1,481 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	001	2800000	2800104	b	98
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	002	2800183	2800329	r	114
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	003	2800300	2800394	o	111
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	004	2800441	2800531	w	119
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	005	2800640	2800759	n	110
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	006	2800820	2800928	 	32
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	007	2801116	2801181	m	109
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	008	2800952	2801038	a	97
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	009	2801528	2801641	c	99
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	010	2801305	2801379	h	104
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	011	2801450	2801599	i	105
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	012	2802156	2802208	n	110
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	013	2802100	2802154	e	101
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	014	2802301	2802413	 	32
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	015	2801890	2801940	d	100
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	016	2802475	2802582	o	111
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	017	2801728	2801855	g	103
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	018	2803298	2803418	 	32
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	019	2803510	2803638	a	97
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	020	2803553	2803679	r	114
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	021	2803480	2803559	t	116
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	022	2802310	2802422	i	105
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	023	2803234	2803316	f	102
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	024	2803611	2803673	i	105
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	025	2804056	2804142	c	99
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	026	2802600	2802730	i	105
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	027	2803224	2803296	a	97
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	028	2803132	2803185	l	108
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	029	2804788	2804930	 	32
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	030	2802958	2803015	d	100
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	031	2804380	2804520	a	97
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	032	2805084	2805161	t	116
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	033	2805664	2805787	a	97
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	034	2805841	2805912	 	32
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	035	2803434	2803540	h	104
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	036	2803500	2803584	e	101
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	037	2805760	2805830	l	108
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	038	2805920	2805973	l	108
+029	001	brown machine dog artificial data hello	brown machine dog artificial data hello	039	2804218	2804274	o	111
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	001	2801000	2801105	l	108
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	002	2801155	2801261	e	101
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	003	2801290	2801365	a	97
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	004	2801489	2801617	r	114
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	005	2801444	2801557	n	110
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	006	2801895	2802002	i	105
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	007	2801606	2801715	n	110
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	008	2801945	2802038	g	103
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	009	2802272	2802372	 	32
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	010	2802530	2802642	o	111
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	011	2802470	2802564	v	118
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	012	2802276	2802346	e	101
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	013	2802908	2803010	r	114
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	014	2803093	2803241	 	32
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	015	2802638	2802693	h	104
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	016	2803040	2803160	e	101
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	017	2803752	2803830	l	108
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	018	2802717	2802795	l	108
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	019	2803988	2804105	o	111
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	020	2803223	2803357	 	32
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	021	2804000	2804091	f	102
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	022	2804570	2804661	o	111
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	023	2805026	2805128	x	120
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	024	2803668	2803726	 	32
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	025	2804072	2804157	d	100
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	026	2804000	2804068	o	111
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	027	2804900	2804953	g	103
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	028	2804753	2804837	 	32
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	029	2803884	2803951	i	105
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	030	2805901	2805953	n	110
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	031	2806460	2806514	t	116
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	032	2804348	2804450	e	101
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	033	2805992	2806071	l	108
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	034	2806214	2806332	l	108
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	035	2804774	2804898	i	105
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	036	2804605	2804752	g	103
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	037	2805824	2805926	e	101
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	038	2807216	2807268	n	110
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	039	2808334	2808468	c	99
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	040	2805875	2805947	e	101
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	041	2808360	2808480	 	32
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	042	2807724	2807794	d	100
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	043	2806334	2806405	o	111
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	044	2805730	2805877	g	103
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	045	2807600	2807710	 	32
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	046	2807885	2807964	d	100
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	047	2806014	2806101	a	97
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	048	2806969	2807104	t	116
+029	002	learning over hello fox dog intelligence dog data	learning over hello fox dog intelligence dog data	049	2807336	2807429	a	97
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	001	2802000	2802053	w	119
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	002	2802142	2802243	o	111
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	003	2802352	2802407	r	114
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	004	2802549	2802605	l	108
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	005	2802476	2802604	d	100
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	006	2802900	2802953	 	32
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	007	2802894	2803023	p	112
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	008	2802931	2803045	y	121
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	009	2802880	2802948	t	116
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	010	2803080	2803191	h	104
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	011	2803560	2803706	o	111
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	012	2804068	2804138	n	110
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	013	2803224	2803348	 	32
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	014	2803482	2803620	w	119
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	015	2804044	2804099	o	111
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	016	2803905	2804011	r	114
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	017	2805104	2805227	l	108
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	018	2804805	2804930	d	100
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	019	2804394	2804504	 	32
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	020	2805325	2805386	l	108
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	021	2805200	2805326	e	101
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	022	2805024	2805101	a	97
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	023	2804398	2804545	r	114
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	024	2804392	2804525	n	110
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	025	2806416	2806552	i	105
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	026	2806125	2806184	n	110
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	027	2805120	2805261	g	103
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	028	2805186	2805287	 	32
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	029	2807488	2807630	w	119
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	030	2804929	2805025	o	111
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	031	2806560	2806675	r	114
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	032	2806433	2806496	l	108
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	033	2808272	2808387	d	100
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	034	2806158	2806237	 	32
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	035	2806624	2806764	s	115
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	036	2805815	2805945	c	99
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	037	2807148	2807296	i	105
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	038	2805885	2805938	e	101
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	039	2807966	2808021	n	110
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	040	2808162	2808232	c	99
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	041	2807440	2807541	e	101
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	042	2806715	2806839	 	32
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	043	2807964	2808054	i	105
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	044	2807633	2807687	n	110
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	045	2810492	2810627	t	116
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	046	2810685	2810768	e	101
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	047	2808256	2808364	l	108
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	048	2811306	2811428	l	108
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	049	2810352	2810469	i	105
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	050	2807488	2807568	g	103
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	051	2808700	2808814	e	101
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	052	2808273	2808395	n	110
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	053	2808396	2808486	c	99
+029	003	world python world learning world science intelligence	world python world learning world science intelligence	054	2809897	2810008	e	101
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	001	2803000	2803066	o	111
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	002	2803151	2803205	v	118
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	003	2803204	2803335	e	101
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	004	2803573	2803667	r	114
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	005	2803480	2803566	 	32
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	006	2803995	2804099	f	102
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	007	2803786	2803848	o	111
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	008	2804071	2804171	x	120
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	009	2804128	2804227	 	32
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	010	2804656	2804794	i	105
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	011	2804930	2805077	n	110
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	012	2804716	2804815	t	116
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	013	2804548	2804693	e	101
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	014	2804820	2804959	l	108
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	015	2805758	2805891	l	108
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	016	2805160	2805302	i	105
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	017	2805016	2805097	g	103
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	018	2805618	2805752	e	101
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	019	2805538	2805636	n	110
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	020	2806648	2806793	c	99
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	021	2806880	2806956	e	101
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	022	2805604	2805725	 	32
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	023	2805464	2805590	l	108
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	024	2805622	2805738	e	101
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	025	2807728	2807814	a	97
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	026	2807625	2807734	r	114
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	027	2806068	2806138	n	110
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	028	2807482	2807624	i	105
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	029	2807816	2807958	n	110
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	030	2806770	2806906	g	103
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	031	2808880	2808932	 	32
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	032	2807030	2807174	m	109
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	033	2808440	2808555	a	97
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	034	2806498	2806594	c	99
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	035	2809732	2809836	h	104
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	036	2809545	2809662	i	105
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	037	2808976	2809074	n	110
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	038	2806885	2806980	e	101
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	039	2807066	2807192	 	32
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	040	2810371	2810448	t	116
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	041	2807800	2807882	h	104
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	042	2809806	2809944	e	101
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	043	2808502	2808613	 	32
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	044	2811299	2811388	l	108
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	045	2810920	2811046	a	97
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	046	2809795	2809915	z	122
+029	004	over fox intelligence learning machine the lazy	over fox intelligence learning machine the lazy	047	2811786	2811894	y	121
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	001	2804000	2804136	q	113
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	002	2804181	2804283	u	117
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	003	2804242	2804338	i	105
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	004	2804585	2804637	c	99
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	005	2804740	2804849	k	107
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	006	2804960	2805041	 	32
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	007	2805062	2805181	w	119
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	008	2805379	2805442	o	111
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	009	2805000	2805135	r	114
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	010	2805557	2805647	l	108
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	011	2805110	2805181	d	100
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	012	2805705	2805806	 	32
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	013	2805596	2805745	w	119
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	014	2806574	2806696	o	111
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	015	2806422	2806528	r	114
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	016	2806205	2806320	l	108
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	017	2806384	2806434	d	100
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	018	2806074	2806138	 	32
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	019	2805998	2806077	d	100
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	020	2807648	2807773	a	97
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	021	2806860	2806989	t	116
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	022	2807444	2807523	a	97
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	023	2808114	2808243	 	32
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	024	2806783	2806918	l	108
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	025	2806736	2806849	a	97
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	026	2806675	2806819	z	122
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	027	2809070	2809197	y	121
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	028	2808995	2809049	 	32
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	029	2808424	2808533	i	105
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	030	2808814	2808892	n	110
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	031	2808500	2808647	t	116
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	032	2808278	2808404	e	101
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	033	2807296	2807355	l	108
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	034	2807894	2808023	l	108
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	035	2809712	2809789	i	105
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	036	2808515	2808661	g	103
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	037	2809292	2809383	e	101
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	038	2808662	2808773	n	110
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	039	2809320	2809381	c	99
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	040	2810669	2810765	e	101
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	041	2811880	2811934	 	32
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	042	2811872	2811999	o	111
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	043	2808452	2808556	v	118
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	044	2811439	2811522	e	101
+029	005	quick world world data lazy intelligence over	quick world world data lazy intelligence over	045	2810908	2811025	r	114
+029	006	programming world over lazy science the	programming world over lazy science the	001	2805000	2805088	p	112
+029	006	programming world over lazy science the	programming world over lazy science the	002	2805170	2805309	r	114
+029	006	programming world over lazy science the	programming world over lazy science the	003	2805362	2805426	o	111
+029	006	programming world over lazy science the	programming world over lazy science the	004	2805396	2805488	g	103
+029	006	programming world over lazy science the	programming world over lazy science the	005	2805668	2805788	r	114
+029	006	programming world over lazy science the	programming world over lazy science the	006	2805660	2805720	a	97
+029	006	programming world over lazy science the	programming world over lazy science the	007	2805840	2805906	m	109
+029	006	programming world over lazy science the	programming world over lazy science the	008	2806379	2806513	m	109
+029	006	programming world over lazy science the	programming world over lazy science the	009	2806088	2806166	i	105
+029	006	programming world over lazy science the	programming world over lazy science the	010	2806035	2806150	n	110
+029	006	programming world over lazy science the	programming world over lazy science the	011	2806860	2806961	g	103
+029	006	programming world over lazy science the	programming world over lazy science the	012	2806617	2806728	 	32
+029	006	programming world over lazy science the	programming world over lazy science the	013	2806488	2806603	w	119
+029	006	programming world over lazy science the	programming world over lazy science the	014	2807522	2807609	o	111
+029	006	programming world over lazy science the	programming world over lazy science the	015	2807030	2807177	r	114
+029	006	programming world over lazy science the	programming world over lazy science the	016	2807340	2807468	l	108
+029	006	programming world over lazy science the	programming world over lazy science the	017	2806792	2806876	d	100
+029	006	programming world over lazy science the	programming world over lazy science the	018	2807839	2807906	 	32
+029	006	programming world over lazy science the	programming world over lazy science the	019	2807358	2807499	o	111
+029	006	programming world over lazy science the	programming world over lazy science the	020	2807375	2807485	v	118
+029	006	programming world over lazy science the	programming world over lazy science the	021	2808780	2808863	e	101
+029	006	programming world over lazy science the	programming world over lazy science the	022	2807163	2807288	r	114
+029	006	programming world over lazy science the	programming world over lazy science the	023	2807464	2807529	 	32
+029	006	programming world over lazy science the	programming world over lazy science the	024	2808588	2808735	l	108
+029	006	programming world over lazy science the	programming world over lazy science the	025	2808720	2808833	a	97
+029	006	programming world over lazy science the	programming world over lazy science the	026	2809900	2810000	z	122
+029	006	programming world over lazy science the	programming world over lazy science the	027	2809238	2809384	y	121
+029	006	programming world over lazy science the	programming world over lazy science the	028	2807862	2807937	 	32
+029	006	programming world over lazy science the	programming world over lazy science the	029	2810152	2810289	s	115
+029	006	programming world over lazy science the	programming world over lazy science the	030	2808016	2808086	c	99
+029	006	programming world over lazy science the	programming world over lazy science the	031	2808720	2808837	i	105
+029	006	programming world over lazy science the	programming world over lazy science the	032	2809340	2809431	e	101
+029	006	programming world over lazy science the	programming world over lazy science the	033	2810088	2810201	n	110
+029	006	programming world over lazy science the	programming world over lazy science the	034	2808696	2808815	c	99
+029	006	programming world over lazy science the	programming world over lazy science the	035	2808570	2808712	e	101
+029	006	programming world over lazy science the	programming world over lazy science the	036	2811545	2811636	 	32
+029	006	programming world over lazy science the	programming world over lazy science the	037	2811372	2811440	t	116
+029	006	programming world over lazy science the	programming world over lazy science the	038	2809070	2809126	h	104
+029	006	programming world over lazy science the	programming world over lazy science the	039	2809484	2809587	e	101
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	001	2806000	2806138	o	111
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	002	2806159	2806220	v	118
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	003	2806314	2806393	e	101
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	004	2806558	2806648	r	114
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	005	2806436	2806504	 	32
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	006	2806870	2806988	l	108
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	007	2807134	2807247	a	97
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	008	2807253	2807343	z	122
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	009	2806808	2806895	y	121
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	010	2807431	2807561	 	32
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	011	2807180	2807238	b	98
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	012	2807254	2807318	r	114
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	013	2807860	2807949	o	111
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	014	2808366	2808476	w	119
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	015	2807456	2807543	n	110
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	016	2808355	2808449	 	32
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	017	2808496	2808633	w	119
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	018	2808244	2808379	o	111
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	019	2809222	2809317	r	114
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	020	2809420	2809567	l	108
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	021	2809560	2809638	d	100
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	022	2808268	2808370	 	32
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	023	2808816	2808955	h	104
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	024	2809749	2809829	e	101
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	025	2808400	2808535	l	108
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	026	2808550	2808609	l	108
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	027	2809328	2809426	o	111
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	028	2810293	2810437	 	32
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	029	2810788	2810890	l	108
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	030	2809393	2809467	a	97
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	031	2809540	2809680	z	122
+029	007	over lazy brown world hello lazy	over lazy brown world hello lazy	032	2811642	2811764	y	121
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	001	2807000	2807131	l	108
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	002	2807125	2807219	e	101
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	003	2807358	2807501	a	97
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	004	2807363	2807492	r	114
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	005	2807420	2807482	n	110
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	006	2807615	2807689	i	105
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	007	2807714	2807852	n	110
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	008	2807805	2807913	g	103
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	009	2808264	2808326	 	32
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	010	2808134	2808201	a	97
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	011	2808710	2808853	r	114
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	012	2808463	2808561	t	116
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	013	2808704	2808844	i	105
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	014	2808534	2808640	f	102
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	015	2809030	2809086	i	105
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	016	2808845	2808981	c	99
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	017	2809160	2809257	i	105
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	018	2810298	2810409	a	97
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	019	2810312	2810427	l	108
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	020	2809223	2809314	 	32
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	021	2809800	2809946	l	108
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	022	2809604	2809752	e	101
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	023	2809574	2809662	a	97
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	024	2810036	2810156	r	114
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	025	2809856	2809932	n	110
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	026	2810825	2810966	i	105
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	027	2811576	2811712	n	110
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	028	2811023	2811133	g	103
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	029	2811844	2811903	 	32
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	030	2811727	2811872	p	112
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	031	2811590	2811735	r	114
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	032	2812363	2812454	o	111
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	033	2810776	2810880	g	103
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	034	2811950	2812038	r	114
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	035	2811080	2811197	a	97
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	036	2813860	2813931	m	109
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	037	2812580	2812650	m	109
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	038	2811958	2812010	i	105
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	039	2813688	2813813	n	110
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	040	2813240	2813314	g	103
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	041	2811520	2811623	 	32
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	042	2812658	2812798	m	109
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	043	2815274	2815340	a	97
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	044	2814783	2814851	c	99
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	045	2813776	2813898	h	104
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	046	2812805	2812946	i	105
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	047	2813532	2813634	n	110
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	048	2812452	2812541	e	101
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	049	2816504	2816564	 	32
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	050	2816457	2816517	b	98
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	051	2812150	2812200	r	114
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	052	2814599	2814737	o	111
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	053	2814176	2814284	w	119
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	054	2812830	2812935	n	110
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	055	2817638	2817744	 	32
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	056	2815250	2815349	o	111
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	057	2814896	2815005	v	118
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	058	2813612	2813696	e	101
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	059	2814540	2814604	r	114
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	060	2813490	2813601	 	32
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	061	2813000	2813119	p	112
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	062	2818956	2819069	y	121
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	063	2813634	2813745	t	116
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	064	2817458	2817546	h	104
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	065	2815064	2815159	o	111
+029	008	learning artificial learning programming machine brown over python	learning artificial learning programming machine brown over python	066	2819285	2819359	n	110
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	001	2808000	2808060	d	100
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	002	2808178	2808249	a	97
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	003	2808226	2808301	t	116
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	004	2808597	2808688	a	97
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	005	2808608	2808658	 	32
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	006	2808975	2809078	j	106
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	007	2809176	2809292	u	117
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	008	2809162	2809282	m	109
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	009	2808992	2809043	p	112
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	010	2809746	2809831	s	115
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	011	2809320	2809403	 	32
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	012	2809485	2809545	p	112
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	013	2810316	2810457	r	114
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	014	2810470	2810607	o	111
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	015	2809834	2809902	g	103
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	016	2809665	2809772	r	114
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	017	2810720	2810828	a	97
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	018	2810380	2810444	m	109
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	019	2810916	2811027	m	109
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	020	2811306	2811392	i	105
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	021	2811480	2811568	n	110
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	022	2811507	2811627	g	103
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	023	2810926	2811007	 	32
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	024	2812255	2812323	a	97
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	025	2811984	2812131	r	114
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	026	2810875	2811012	t	116
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	027	2811406	2811542	i	105
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	028	2811375	2811462	f	102
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	029	2811836	2811890	i	105
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	030	2812176	2812290	c	99
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	031	2811600	2811745	i	105
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	032	2813735	2813861	a	97
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	033	2814144	2814267	l	108
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	034	2812653	2812797	 	32
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	035	2811672	2811748	f	102
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	036	2811745	2811822	o	111
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	037	2814480	2814611	x	120
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	038	2812477	2812559	 	32
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	039	2814536	2814607	d	100
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	040	2815371	2815479	o	111
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	041	2814120	2814191	g	103
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	042	2814068	2814207	 	32
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	043	2814720	2814868	q	113
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	044	2812859	2812985	u	117
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	045	2815656	2815773	i	105
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	046	2816505	2816572	c	99
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	047	2817154	2817258	k	107
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	048	2813922	2814013	 	32
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	049	2816736	2816789	h	104
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	050	2815350	2815466	e	101
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	051	2814700	2814847	l	108
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	052	2816925	2817047	l	108
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	053	2814136	2814254	o	111
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	054	2815685	2815823	 	32
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	055	2814264	2814395	s	115
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	056	2817900	2818034	c	99
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	057	2815896	2816011	i	105
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	058	2815239	2815314	e	101
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	059	2813858	2813974	n	110
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	060	2817204	2817351	c	99
+029	009	data jumps programming artificial fox dog quick hello science	data jumps programming artificial fox dog quick hello science	061	2817780	2817903	e	101
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	001	2809000	2809127	t	116
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	002	2809179	2809269	h	104
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	003	2809322	2809435	e	101
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	004	2809462	2809592	 	32
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	005	2809416	2809502	h	104
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	006	2809555	2809654	e	101
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	007	2810092	2810189	l	108
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	008	2809847	2809985	l	108
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	009	2810536	2810666	o	111
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	010	2810053	2810190	 	32
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	011	2810420	2810543	i	105
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	012	2810727	2810826	n	110
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	013	2810284	2810395	t	116
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	014	2810976	2811037	e	101
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	015	2811114	2811234	l	108
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	016	2810905	2811043	l	108
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	017	2811416	2811489	i	105
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	018	2811227	2811295	g	103
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	019	2811736	2811882	e	101
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	020	2812686	2812785	n	110
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	021	2812440	2812522	c	99
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	022	2812507	2812619	e	101
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	023	2812432	2812510	 	32
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	024	2812841	2812959	d	100
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	025	2813680	2813752	a	97
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	026	2812800	2812892	t	116
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	027	2812978	2813113	a	97
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	028	2813644	2813714	 	32
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	029	2812640	2812721	p	112
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	030	2813408	2813486	y	121
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	031	2812870	2812973	t	116
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	032	2814363	2814435	h	104
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	033	2815272	2815340	o	111
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	034	2814676	2814778	n	110
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	035	2815290	2815343	 	32
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	036	2813655	2813771	m	109
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	037	2815768	2815862	a	97
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	038	2815253	2815381	c	99
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	039	2815650	2815720	h	104
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	040	2814343	2814465	i	105
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	041	2814120	2814193	n	110
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	042	2814617	2814750	e	101
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	043	2816140	2816257	 	32
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	044	2815966	2816108	w	119
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	045	2816436	2816552	o	111
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	046	2813815	2813929	r	114
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	047	2817510	2817566	l	108
+029	010	the hello intelligence data python machine world	the hello intelligence data python machine world	048	2817836	2817924	d	100

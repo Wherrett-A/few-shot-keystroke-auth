@@ -1,0 +1,437 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	001	1300000	1300131	m	109
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	002	1300177	1300236	a	97
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	003	1300236	1300301	c	99
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	004	1300522	1300654	h	104
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	005	1300460	1300515	i	105
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	006	1300645	1300718	n	110
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	007	1301134	1301191	e	101
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	008	1300847	1300986	 	32
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	009	1301472	1301552	a	97
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	010	1301197	1301309	r	114
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	011	1301530	1301674	t	116
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	012	1302189	1302299	i	105
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	013	1301236	1301309	f	102
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	014	1302197	1302333	i	105
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	015	1302394	1302541	c	99
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	016	1302325	1302431	i	105
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	017	1302704	1302815	a	97
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	018	1303315	1303437	l	108
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	019	1303024	1303110	 	32
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	020	1302584	1302697	l	108
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	021	1303500	1303570	e	101
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	022	1303612	1303694	a	97
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	023	1303938	1304002	r	114
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	024	1303795	1303920	n	110
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	025	1304464	1304543	i	105
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	026	1303425	1303550	n	110
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	027	1303900	1304038	g	103
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	028	1303186	1303287	 	32
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	029	1304760	1304893	p	112
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	030	1304495	1304640	y	121
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	031	1304260	1304362	t	116
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	032	1303937	1304023	h	104
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	033	1303616	1303737	o	111
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	034	1306369	1306493	n	110
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	035	1306596	1306668	 	32
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	036	1304305	1304389	q	113
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	037	1305256	1305384	u	117
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	038	1305291	1305419	i	105
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	039	1305244	1305357	c	99
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	040	1306864	1307002	k	107
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	041	1305600	1305745	 	32
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	042	1307790	1307850	h	104
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	043	1304452	1304530	e	101
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	044	1307439	1307512	l	108
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	045	1305764	1305847	l	108
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	046	1305670	1305762	o	111
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	047	1305842	1305972	 	32
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	048	1305875	1306018	p	112
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	049	1304992	1305096	r	114
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	050	1307252	1307335	o	111
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	051	1308800	1308904	g	103
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	052	1306579	1306713	r	114
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	053	1308060	1308188	a	97
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	054	1309805	1309898	m	109
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	055	1306264	1306388	m	109
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	056	1305555	1305647	i	105
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	057	1309352	1309482	n	110
+014	001	machine artificial learning python quick hello programming	machine artificial learning python quick hello programming	058	1310146	1310278	g	103
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	001	1301000	1301070	p	112
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	002	1301109	1301225	r	114
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	003	1301372	1301433	o	111
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	004	1301459	1301520	g	103
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	005	1301496	1301626	r	114
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	006	1301975	1302043	a	97
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	007	1302182	1302239	m	109
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	008	1301847	1301916	m	109
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	009	1302216	1302351	i	105
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	010	1302647	1302715	n	110
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	011	1302370	1302516	g	103
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	012	1303112	1303249	 	32
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	013	1302908	1303013	w	119
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	014	1302898	1303030	o	111
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	015	1302470	1302521	r	114
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	016	1302770	1302859	l	108
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	017	1304088	1304183	d	100
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	018	1303890	1303982	 	32
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	019	1302854	1302930	i	105
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	020	1304154	1304261	n	110
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	021	1304280	1304417	t	116
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	022	1303331	1303446	e	101
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	023	1303926	1304039	l	108
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	024	1303484	1303608	l	108
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	025	1304888	1305024	i	105
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	026	1305800	1305888	g	103
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	027	1305680	1305815	e	101
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	028	1303808	1303934	n	110
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	029	1304332	1304442	c	99
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	030	1306394	1306471	e	101
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	031	1304000	1304122	 	32
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	032	1306332	1306480	d	100
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	033	1304808	1304932	a	97
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	034	1307402	1307520	t	116
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	035	1305726	1305853	a	97
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	036	1305970	1306103	 	32
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	037	1305572	1305682	j	106
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	038	1304774	1304838	u	117
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	039	1304952	1305060	m	109
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	040	1304900	1304965	p	112
+014	002	programming world intelligence data jumps	programming world intelligence data jumps	041	1305440	1305495	s	115
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	001	1302000	1302128	w	119
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	002	1302164	1302269	o	111
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	003	1302336	1302483	r	114
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	004	1302537	1302683	l	108
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	005	1302440	1302553	d	100
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	006	1302700	1302778	 	32
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	007	1302816	1302934	a	97
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	008	1303057	1303182	r	114
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	009	1303216	1303352	t	116
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	010	1303062	1303115	i	105
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	011	1303510	1303642	f	102
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	012	1304013	1304147	i	105
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	013	1303728	1303817	c	99
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	014	1304496	1304548	i	105
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	015	1303848	1303967	a	97
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	016	1304355	1304464	l	108
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	017	1304752	1304890	 	32
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	018	1304941	1305036	t	116
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	019	1305348	1305490	h	104
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	020	1305458	1305561	e	101
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	021	1304460	1304556	 	32
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	022	1305675	1305803	h	104
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	023	1304706	1304840	e	101
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	024	1305059	1305132	l	108
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	025	1305360	1305464	l	108
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	026	1306925	1306983	o	111
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	027	1306732	1306864	 	32
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	028	1305159	1305285	a	97
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	029	1305920	1305982	r	114
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	030	1306669	1306791	t	116
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	031	1305810	1305908	i	105
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	032	1308169	1308316	f	102
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	033	1305616	1305727	i	105
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	034	1306521	1306589	c	99
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	035	1305706	1305768	i	105
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	036	1307110	1307211	a	97
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	037	1307004	1307061	l	108
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	038	1306181	1306294	 	32
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	039	1309182	1309311	d	100
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	040	1307382	1307487	o	111
+014	003	world artificial the hello artificial dog	world artificial the hello artificial dog	041	1307560	1307669	g	103
+014	004	the programming programming python world	the programming programming python world	001	1303000	1303080	t	116
+014	004	the programming programming python world	the programming programming python world	002	1303177	1303272	h	104
+014	004	the programming programming python world	the programming programming python world	003	1303308	1303434	e	101
+014	004	the programming programming python world	the programming programming python world	004	1303435	1303537	 	32
+014	004	the programming programming python world	the programming programming python world	005	1303680	1303814	p	112
+014	004	the programming programming python world	the programming programming python world	006	1303890	1304017	r	114
+014	004	the programming programming python world	the programming programming python world	007	1303762	1303830	o	111
+014	004	the programming programming python world	the programming programming python world	008	1303819	1303925	g	103
+014	004	the programming programming python world	the programming programming python world	009	1303904	1303956	r	114
+014	004	the programming programming python world	the programming programming python world	010	1304458	1304524	a	97
+014	004	the programming programming python world	the programming programming python world	011	1304640	1304752	m	109
+014	004	the programming programming python world	the programming programming python world	012	1304309	1304385	m	109
+014	004	the programming programming python world	the programming programming python world	013	1305388	1305455	i	105
+014	004	the programming programming python world	the programming programming python world	014	1304638	1304730	n	110
+014	004	the programming programming python world	the programming programming python world	015	1305422	1305520	g	103
+014	004	the programming programming python world	the programming programming python world	016	1305085	1305156	 	32
+014	004	the programming programming python world	the programming programming python world	017	1305256	1305358	p	112
+014	004	the programming programming python world	the programming programming python world	018	1305822	1305968	r	114
+014	004	the programming programming python world	the programming programming python world	019	1305520	1305617	o	111
+014	004	the programming programming python world	the programming programming python world	020	1306477	1306540	g	103
+014	004	the programming programming python world	the programming programming python world	021	1306580	1306666	r	114
+014	004	the programming programming python world	the programming programming python world	022	1307074	1307166	a	97
+014	004	the programming programming python world	the programming programming python world	023	1305904	1306044	m	109
+014	004	the programming programming python world	the programming programming python world	024	1307554	1307626	m	109
+014	004	the programming programming python world	the programming programming python world	025	1306312	1306367	i	105
+014	004	the programming programming python world	the programming programming python world	026	1306625	1306706	n	110
+014	004	the programming programming python world	the programming programming python world	027	1305756	1305808	g	103
+014	004	the programming programming python world	the programming programming python world	028	1306726	1306817	 	32
+014	004	the programming programming python world	the programming programming python world	029	1306724	1306825	p	112
+014	004	the programming programming python world	the programming programming python world	030	1307089	1307190	y	121
+014	004	the programming programming python world	the programming programming python world	031	1307020	1307070	t	116
+014	004	the programming programming python world	the programming programming python world	032	1307526	1307582	h	104
+014	004	the programming programming python world	the programming programming python world	033	1308152	1308257	o	111
+014	004	the programming programming python world	the programming programming python world	034	1309369	1309422	n	110
+014	004	the programming programming python world	the programming programming python world	035	1307692	1307804	 	32
+014	004	the programming programming python world	the programming programming python world	036	1309580	1309706	w	119
+014	004	the programming programming python world	the programming programming python world	037	1309732	1309876	o	111
+014	004	the programming programming python world	the programming programming python world	038	1308328	1308402	r	114
+014	004	the programming programming python world	the programming programming python world	039	1310334	1310386	l	108
+014	004	the programming programming python world	the programming programming python world	040	1309552	1309648	d	100
+014	005	over lazy brown fox fox	over lazy brown fox fox	001	1304000	1304073	o	111
+014	005	over lazy brown fox fox	over lazy brown fox fox	002	1304102	1304184	v	118
+014	005	over lazy brown fox fox	over lazy brown fox fox	003	1304342	1304403	e	101
+014	005	over lazy brown fox fox	over lazy brown fox fox	004	1304567	1304681	r	114
+014	005	over lazy brown fox fox	over lazy brown fox fox	005	1304728	1304822	 	32
+014	005	over lazy brown fox fox	over lazy brown fox fox	006	1304955	1305041	l	108
+014	005	over lazy brown fox fox	over lazy brown fox fox	007	1304672	1304774	a	97
+014	005	over lazy brown fox fox	over lazy brown fox fox	008	1304777	1304836	z	122
+014	005	over lazy brown fox fox	over lazy brown fox fox	009	1305032	1305144	y	121
+014	005	over lazy brown fox fox	over lazy brown fox fox	010	1305467	1305573	 	32
+014	005	over lazy brown fox fox	over lazy brown fox fox	011	1305460	1305548	b	98
+014	005	over lazy brown fox fox	over lazy brown fox fox	012	1305397	1305512	r	114
+014	005	over lazy brown fox fox	over lazy brown fox fox	013	1306268	1306366	o	111
+014	005	over lazy brown fox fox	over lazy brown fox fox	014	1305963	1306029	w	119
+014	005	over lazy brown fox fox	over lazy brown fox fox	015	1306688	1306830	n	110
+014	005	over lazy brown fox fox	over lazy brown fox fox	016	1306130	1306202	 	32
+014	005	over lazy brown fox fox	over lazy brown fox fox	017	1306416	1306505	f	102
+014	005	over lazy brown fox fox	over lazy brown fox fox	018	1305802	1305861	o	111
+014	005	over lazy brown fox fox	over lazy brown fox fox	019	1305854	1305949	x	120
+014	005	over lazy brown fox fox	over lazy brown fox fox	020	1307648	1307796	 	32
+014	005	over lazy brown fox fox	over lazy brown fox fox	021	1307900	1308029	f	102
+014	005	over lazy brown fox fox	over lazy brown fox fox	022	1308095	1308148	o	111
+014	005	over lazy brown fox fox	over lazy brown fox fox	023	1306464	1306556	x	120
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	001	1305000	1305146	d	100
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	002	1305137	1305234	o	111
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	003	1305254	1305353	g	103
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	004	1305471	1305570	 	32
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	005	1305452	1305583	i	105
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	006	1305705	1305818	n	110
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	007	1305936	1306018	t	116
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	008	1306372	1306434	e	101
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	009	1306184	1306244	l	108
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	010	1306737	1306869	l	108
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	011	1306260	1306345	i	105
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	012	1307090	1307232	g	103
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	013	1307172	1307319	e	101
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	014	1307067	1307198	n	110
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	015	1307408	1307479	c	99
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	016	1307160	1307247	e	101
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	017	1307032	1307132	 	32
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	018	1307465	1307516	d	100
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	019	1306854	1306929	o	111
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	020	1307983	1308099	g	103
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	021	1307460	1307602	 	32
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	022	1308423	1308503	l	108
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	023	1308080	1308168	a	97
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	024	1309094	1309217	z	122
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	025	1308792	1308860	y	121
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	026	1308825	1308940	 	32
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	027	1307886	1307952	d	100
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	028	1308645	1308750	a	97
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	029	1308332	1308421	t	116
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	030	1308857	1309004	a	97
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	031	1309440	1309560	 	32
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	032	1310208	1310355	w	119
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	033	1310312	1310388	o	111
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	034	1310808	1310883	r	114
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	035	1309998	1310134	l	108
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	036	1308850	1308985	d	100
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	037	1311804	1311860	 	32
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	038	1310032	1310171	q	113
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	039	1310168	1310265	u	117
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	040	1312722	1312819	i	105
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	041	1309680	1309819	c	99
+014	006	dog intelligence dog lazy data world quick	dog intelligence dog lazy data world quick	042	1312995	1313138	k	107
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	001	1306000	1306085	l	108
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	002	1306134	1306256	a	97
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	003	1306352	1306441	z	122
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	004	1306363	1306484	y	121
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	005	1306464	1306537	 	32
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	006	1306795	1306855	h	104
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	007	1306636	1306767	e	101
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	008	1306868	1306951	l	108
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	009	1306984	1307041	l	108
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	010	1307395	1307488	o	111
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	011	1307130	1307244	 	32
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	012	1308156	1308249	i	105
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	013	1307824	1307894	n	110
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	014	1308483	1308537	t	116
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	015	1307946	1308092	e	101
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	016	1307680	1307755	l	108
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	017	1308624	1308697	l	108
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	018	1308992	1309075	i	105
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	019	1307944	1308081	g	103
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	020	1309572	1309694	e	101
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	021	1309300	1309396	n	110
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	022	1308688	1308834	c	99
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	023	1309938	1310077	e	101
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	024	1310278	1310369	 	32
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	025	1308856	1308944	a	97
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	026	1310525	1310662	r	114
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	027	1308938	1309077	t	116
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	028	1309186	1309245	i	105
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	029	1311376	1311525	f	102
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	030	1310089	1310157	i	105
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	031	1309720	1309785	c	99
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	032	1310929	1311060	i	105
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	033	1310576	1310662	a	97
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	034	1311478	1311600	l	108
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	035	1312698	1312774	 	32
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	036	1310480	1310629	d	100
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	037	1311220	1311280	o	111
+014	007	lazy hello intelligence artificial dog	lazy hello intelligence artificial dog	038	1309737	1309800	g	103
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	001	1307000	1307054	p	112
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	002	1307100	1307212	y	121
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	003	1307314	1307437	t	116
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	004	1307396	1307508	h	104
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	005	1307624	1307769	o	111
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	006	1307830	1307960	n	110
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	007	1308038	1308155	 	32
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	008	1307777	1307880	p	112
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	009	1308512	1308644	y	121
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	010	1308152	1308229	t	116
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	011	1308750	1308891	h	104
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	012	1309057	1309145	o	111
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	013	1308776	1308853	n	110
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	014	1309197	1309327	 	32
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	015	1309478	1309619	p	112
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	016	1309130	1309198	y	121
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	017	1309496	1309590	t	116
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	018	1310230	1310308	h	104
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	019	1308944	1309040	o	111
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	020	1309280	1309351	n	110
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	021	1309680	1309733	 	32
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	022	1310528	1310630	w	119
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	023	1309222	1309284	o	111
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	024	1310979	1311076	r	114
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	025	1309808	1309918	l	108
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	026	1311950	1312064	d	100
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	027	1311732	1311829	 	32
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	028	1311833	1311929	a	97
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	029	1310024	1310163	r	114
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	030	1311814	1311951	t	116
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	031	1310630	1310724	i	105
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	032	1311712	1311818	f	102
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	033	1311800	1311900	i	105
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	034	1311653	1311792	c	99
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	035	1313188	1313295	i	105
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	036	1311900	1312044	a	97
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	037	1311752	1311858	l	108
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	038	1313179	1313262	 	32
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	039	1311788	1311857	p	112
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	040	1314761	1314838	y	121
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	041	1313000	1313118	t	116
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	042	1314708	1314845	h	104
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	043	1314224	1314274	o	111
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	044	1311472	1311561	n	110
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	045	1315008	1315107	 	32
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	046	1315550	1315613	d	100
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	047	1312934	1313082	a	97
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	048	1314144	1314209	t	116
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	049	1313672	1313776	a	97
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	050	1312782	1312921	 	32
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	051	1312050	1312108	b	98
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	052	1316180	1316270	r	114
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	053	1314436	1314581	o	111
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	054	1313784	1313916	w	119
+014	008	python python python world artificial python data brown	python python python world artificial python data brown	055	1316126	1316182	n	110
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	001	1308000	1308105	j	106
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	002	1308151	1308216	u	117
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	003	1308398	1308467	m	109
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	004	1308375	1308460	p	112
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	005	1308552	1308652	s	115
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	006	1308670	1308771	 	32
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	007	1309026	1309145	o	111
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	008	1308819	1308876	v	118
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	009	1309048	1309188	e	101
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	010	1309611	1309710	r	114
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	011	1309250	1309386	 	32
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	012	1310068	1310166	o	111
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	013	1310004	1310128	v	118
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	014	1310236	1310374	e	101
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	015	1310408	1310494	r	114
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	016	1310550	1310621	 	32
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	017	1310352	1310436	p	112
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	018	1309717	1309824	r	114
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	019	1310142	1310282	o	111
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	020	1310109	1310246	g	103
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	021	1311180	1311291	r	114
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	022	1312179	1312245	a	97
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	023	1310530	1310650	m	109
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	024	1312393	1312527	m	109
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	025	1311600	1311687	i	105
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	026	1311950	1312074	n	110
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	027	1311900	1311968	g	103
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	028	1313211	1313309	 	32
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	029	1313516	1313585	i	105
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	030	1311799	1311915	n	110
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	031	1313970	1314094	t	116
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	032	1311658	1311772	e	101
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	033	1313792	1313842	l	108
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	034	1312719	1312845	l	108
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	035	1313202	1313316	i	105
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	036	1312305	1312365	g	103
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	037	1313976	1314053	e	101
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	038	1312070	1312179	n	110
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	039	1311952	1312052	c	99
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	040	1314864	1315010	e	101
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	041	1313720	1313778	 	32
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	042	1313494	1313627	p	112
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	043	1315476	1315537	y	121
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	044	1312902	1313040	t	116
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	045	1315524	1315651	h	104
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	046	1314975	1315069	o	111
+014	009	jumps over over programming intelligence python	jumps over over programming intelligence python	047	1314808	1314923	n	110
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	001	1309000	1309127	q	113
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	002	1309111	1309184	u	117
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	003	1309220	1309360	i	105
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	004	1309354	1309481	c	99
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	005	1309700	1309758	k	107
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	006	1309825	1309906	 	32
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	007	1310032	1310145	l	108
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	008	1310169	1310229	a	97
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	009	1310440	1310563	z	122
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	010	1310566	1310640	y	121
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	011	1310000	1310053	 	32
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	012	1310287	1310384	p	112
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	013	1310584	1310643	y	121
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	014	1310872	1310953	t	116
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	015	1311422	1311526	h	104
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	016	1311985	1312051	o	111
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	017	1311016	1311120	n	110
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	018	1311941	1312083	 	32
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	019	1312258	1312351	d	100
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	020	1311679	1311815	o	111
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	021	1311480	1311602	g	103
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	022	1311226	1311344	 	32
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	023	1312784	1312838	l	108
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	024	1312588	1312672	e	101
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	025	1313440	1313520	a	97
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	026	1312450	1312562	r	114
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	027	1311990	1312070	n	110
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	028	1313455	1313601	i	105
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	029	1312500	1312570	n	110
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	030	1312219	1312321	g	103
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	031	1314760	1314904	 	32
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	032	1314704	1314770	p	112
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	033	1313512	1313567	r	114
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	034	1314247	1314304	o	111
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	035	1314678	1314760	g	103
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	036	1315195	1315318	r	114
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	037	1313536	1313587	a	97
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	038	1312922	1313057	m	109
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	039	1314662	1314784	m	109
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	040	1314070	1314190	i	105
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	041	1316120	1316244	n	110
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	042	1313715	1313798	g	103
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	043	1317022	1317097	 	32
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	044	1316611	1316661	l	108
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	045	1315512	1315644	e	101
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	046	1317865	1317964	a	97
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	047	1317832	1317959	r	114
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	048	1313888	1313974	n	110
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	049	1315144	1315276	i	105
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	050	1318702	1318768	n	110
+014	010	quick lazy python dog learning programming learning	quick lazy python dog learning programming learning	051	1314900	1314968	g	103

@@ -1,0 +1,370 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	001	4400000	4400112	l	108
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	002	4400141	4400235	a	97
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	003	4400282	4400356	z	122
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	004	4400447	4400576	y	121
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	005	4400628	4400751	 	32
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	006	4400770	4400847	f	102
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	007	4401164	4401255	o	111
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	008	4401078	4401154	x	120
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	009	4401280	4401338	 	32
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	010	4401026	4401169	b	98
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	011	4401930	4402034	r	114
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	012	4402167	4402250	o	111
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	013	4401728	4401851	w	119
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	014	4402470	4402592	n	110
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	015	4402562	4402649	 	32
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	016	4402220	4402366	a	97
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	017	4402320	4402394	r	114
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	018	4402074	4402212	t	116
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	019	4402826	4402907	i	105
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	020	4402888	4402963	f	102
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	021	4402380	4402511	i	105
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	022	4402709	4402834	c	99
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	023	4404158	4404248	i	105
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	024	4403427	4403550	a	97
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	025	4404656	4404791	l	108
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	026	4402875	4402944	 	32
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	027	4405096	4405167	l	108
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	028	4404833	4404932	e	101
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	029	4404424	4404562	a	97
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	030	4405104	4405218	r	114
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	031	4403870	4403940	n	110
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	032	4404836	4404893	i	105
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	033	4403360	4403416	n	110
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	034	4406402	4406484	g	103
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	035	4403434	4403528	 	32
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	036	4406615	4406715	m	109
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	037	4406192	4406281	a	97
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	038	4407067	4407190	c	99
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	039	4407296	4407409	h	104
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	040	4404641	4404694	i	105
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	041	4405680	4405787	n	110
+045	001	lazy fox brown artificial learning machine	lazy fox brown artificial learning machine	042	4406601	4406741	e	101
+045	002	brown machine dog machine machine	brown machine dog machine machine	001	4401000	4401144	b	98
+045	002	brown machine dog machine machine	brown machine dog machine machine	002	4401122	4401233	r	114
+045	002	brown machine dog machine machine	brown machine dog machine machine	003	4401240	4401316	o	111
+045	002	brown machine dog machine machine	brown machine dog machine machine	004	4401417	4401520	w	119
+045	002	brown machine dog machine machine	brown machine dog machine machine	005	4401644	4401725	n	110
+045	002	brown machine dog machine machine	brown machine dog machine machine	006	4401505	4401604	 	32
+045	002	brown machine dog machine machine	brown machine dog machine machine	007	4402074	4402165	m	109
+045	002	brown machine dog machine machine	brown machine dog machine machine	008	4401735	4401868	a	97
+045	002	brown machine dog machine machine	brown machine dog machine machine	009	4402264	4402358	c	99
+045	002	brown machine dog machine machine	brown machine dog machine machine	010	4402035	4402085	h	104
+045	002	brown machine dog machine machine	brown machine dog machine machine	011	4402140	4402212	i	105
+045	002	brown machine dog machine machine	brown machine dog machine machine	012	4402683	4402792	n	110
+045	002	brown machine dog machine machine	brown machine dog machine machine	013	4402728	4402807	e	101
+045	002	brown machine dog machine machine	brown machine dog machine machine	014	4402924	4403070	 	32
+045	002	brown machine dog machine machine	brown machine dog machine machine	015	4403450	4403532	d	100
+045	002	brown machine dog machine machine	brown machine dog machine machine	016	4403175	4403265	o	111
+045	002	brown machine dog machine machine	brown machine dog machine machine	017	4403976	4404060	g	103
+045	002	brown machine dog machine machine	brown machine dog machine machine	018	4403074	4403147	 	32
+045	002	brown machine dog machine machine	brown machine dog machine machine	019	4404366	4404440	m	109
+045	002	brown machine dog machine machine	brown machine dog machine machine	020	4403489	4403543	a	97
+045	002	brown machine dog machine machine	brown machine dog machine machine	021	4403860	4403964	c	99
+045	002	brown machine dog machine machine	brown machine dog machine machine	022	4404528	4404600	h	104
+045	002	brown machine dog machine machine	brown machine dog machine machine	023	4403662	4403743	i	105
+045	002	brown machine dog machine machine	brown machine dog machine machine	024	4405439	4405519	n	110
+045	002	brown machine dog machine machine	brown machine dog machine machine	025	4405488	4405575	e	101
+045	002	brown machine dog machine machine	brown machine dog machine machine	026	4403800	4403890	 	32
+045	002	brown machine dog machine machine	brown machine dog machine machine	027	4405940	4406041	m	109
+045	002	brown machine dog machine machine	brown machine dog machine machine	028	4405131	4405223	a	97
+045	002	brown machine dog machine machine	brown machine dog machine machine	029	4405452	4405558	c	99
+045	002	brown machine dog machine machine	brown machine dog machine machine	030	4406307	4406414	h	104
+045	002	brown machine dog machine machine	brown machine dog machine machine	031	4405770	4405859	i	105
+045	002	brown machine dog machine machine	brown machine dog machine machine	032	4406177	4406326	n	110
+045	002	brown machine dog machine machine	brown machine dog machine machine	033	4404904	4405052	e	101
+045	003	quick hello brown data hello	quick hello brown data hello	001	4402000	4402128	q	113
+045	003	quick hello brown data hello	quick hello brown data hello	002	4402127	4402251	u	117
+045	003	quick hello brown data hello	quick hello brown data hello	003	4402230	4402293	i	105
+045	003	quick hello brown data hello	quick hello brown data hello	004	4402546	4402621	c	99
+045	003	quick hello brown data hello	quick hello brown data hello	005	4402648	4402783	k	107
+045	003	quick hello brown data hello	quick hello brown data hello	006	4402915	4403023	 	32
+045	003	quick hello brown data hello	quick hello brown data hello	007	4403068	4403155	h	104
+045	003	quick hello brown data hello	quick hello brown data hello	008	4403323	4403412	e	101
+045	003	quick hello brown data hello	quick hello brown data hello	009	4402912	4402993	l	108
+045	003	quick hello brown data hello	quick hello brown data hello	010	4403629	4403752	l	108
+045	003	quick hello brown data hello	quick hello brown data hello	011	4403800	4403882	o	111
+045	003	quick hello brown data hello	quick hello brown data hello	012	4404002	4404077	 	32
+045	003	quick hello brown data hello	quick hello brown data hello	013	4403320	4403436	b	98
+045	003	quick hello brown data hello	quick hello brown data hello	014	4403599	4403698	r	114
+045	003	quick hello brown data hello	quick hello brown data hello	015	4404576	4404668	o	111
+045	003	quick hello brown data hello	quick hello brown data hello	016	4404970	4405090	w	119
+045	003	quick hello brown data hello	quick hello brown data hello	017	4403728	4403864	n	110
+045	003	quick hello brown data hello	quick hello brown data hello	018	4404516	4404567	 	32
+045	003	quick hello brown data hello	quick hello brown data hello	019	4405078	4405188	d	100
+045	003	quick hello brown data hello	quick hello brown data hello	020	4405439	4405541	a	97
+045	003	quick hello brown data hello	quick hello brown data hello	021	4404640	4404719	t	116
+045	003	quick hello brown data hello	quick hello brown data hello	022	4404289	4404376	a	97
+045	003	quick hello brown data hello	quick hello brown data hello	023	4404398	4404461	 	32
+045	003	quick hello brown data hello	quick hello brown data hello	024	4405174	4405299	h	104
+045	003	quick hello brown data hello	quick hello brown data hello	025	4405624	4405742	e	101
+045	003	quick hello brown data hello	quick hello brown data hello	026	4406400	4406541	l	108
+045	003	quick hello brown data hello	quick hello brown data hello	027	4405640	4405728	l	108
+045	003	quick hello brown data hello	quick hello brown data hello	028	4407130	4407181	o	111
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	001	4403000	4403072	h	104
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	002	4403143	4403229	e	101
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	003	4403392	4403473	l	108
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	004	4403447	4403589	l	108
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	005	4403604	4403670	o	111
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	006	4403625	4403690	 	32
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	007	4403672	4403808	q	113
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	008	4404085	4404137	u	117
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	009	4404264	4404355	i	105
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	010	4404665	4404749	c	99
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	011	4404910	4405038	k	107
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	012	4405024	4405127	 	32
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	013	4404776	4404918	f	102
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	014	4404599	4404715	o	111
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	015	4405478	4405543	x	120
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	016	4405820	4405890	 	32
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	017	4405304	4405416	l	108
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	018	4404734	4404792	e	101
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	019	4406168	4406272	a	97
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	020	4404900	4405017	r	114
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	021	4406500	4406618	n	110
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	022	4407095	4407168	i	105
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	023	4406718	4406836	n	110
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	024	4406818	4406901	g	103
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	025	4406048	4406196	 	32
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	026	4406950	4407000	h	104
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	027	4407576	4407681	e	101
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	028	4407644	4407738	l	108
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	029	4407620	4407717	l	108
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	030	4406654	4406795	o	111
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	031	4407560	4407689	 	32
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	032	4407154	4407290	p	112
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	033	4408824	4408918	y	121
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	034	4408346	4408396	t	116
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	035	4408542	4408611	h	104
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	036	4409370	4409501	o	111
+045	004	hello quick fox learning hello python	hello quick fox learning hello python	037	4406744	4406824	n	110
+045	005	science data learning python the over	science data learning python the over	001	4404000	4404057	s	115
+045	005	science data learning python the over	science data learning python the over	002	4404152	4404255	c	99
+045	005	science data learning python the over	science data learning python the over	003	4404300	4404445	i	105
+045	005	science data learning python the over	science data learning python the over	004	4404300	4404351	e	101
+045	005	science data learning python the over	science data learning python the over	005	4404604	4404730	n	110
+045	005	science data learning python the over	science data learning python the over	006	4404860	4404929	c	99
+045	005	science data learning python the over	science data learning python the over	007	4404780	4404920	e	101
+045	005	science data learning python the over	science data learning python the over	008	4405323	4405400	 	32
+045	005	science data learning python the over	science data learning python the over	009	4404960	4405073	d	100
+045	005	science data learning python the over	science data learning python the over	010	4405728	4405838	a	97
+045	005	science data learning python the over	science data learning python the over	011	4405780	4405901	t	116
+045	005	science data learning python the over	science data learning python the over	012	4405364	4405426	a	97
+045	005	science data learning python the over	science data learning python the over	013	4405620	4405745	 	32
+045	005	science data learning python the over	science data learning python the over	014	4406236	4406297	l	108
+045	005	science data learning python the over	science data learning python the over	015	4405946	4406030	e	101
+045	005	science data learning python the over	science data learning python the over	016	4405650	4405737	a	97
+045	005	science data learning python the over	science data learning python the over	017	4406240	4406314	r	114
+045	005	science data learning python the over	science data learning python the over	018	4407111	4407214	n	110
+045	005	science data learning python the over	science data learning python the over	019	4406700	4406787	i	105
+045	005	science data learning python the over	science data learning python the over	020	4406261	4406317	n	110
+045	005	science data learning python the over	science data learning python the over	021	4406440	4406495	g	103
+045	005	science data learning python the over	science data learning python the over	022	4407801	4407878	 	32
+045	005	science data learning python the over	science data learning python the over	023	4407256	4407355	p	112
+045	005	science data learning python the over	science data learning python the over	024	4407358	4407459	y	121
+045	005	science data learning python the over	science data learning python the over	025	4407840	4407968	t	116
+045	005	science data learning python the over	science data learning python the over	026	4407150	4407223	h	104
+045	005	science data learning python the over	science data learning python the over	027	4408680	4408786	o	111
+045	005	science data learning python the over	science data learning python the over	028	4408509	4408582	n	110
+045	005	science data learning python the over	science data learning python the over	029	4407948	4408004	 	32
+045	005	science data learning python the over	science data learning python the over	030	4408901	4409008	t	116
+045	005	science data learning python the over	science data learning python the over	031	4409700	4409765	h	104
+045	005	science data learning python the over	science data learning python the over	032	4408092	4408153	e	101
+045	005	science data learning python the over	science data learning python the over	033	4409792	4409859	 	32
+045	005	science data learning python the over	science data learning python the over	034	4409313	4409376	o	111
+045	005	science data learning python the over	science data learning python the over	035	4409508	4409643	v	118
+045	005	science data learning python the over	science data learning python the over	036	4408165	4408230	e	101
+045	005	science data learning python the over	science data learning python the over	037	4407960	4408091	r	114
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	001	4405000	4405079	f	102
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	002	4405146	4405198	o	111
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	003	4405346	4405413	x	120
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	004	4405336	4405413	 	32
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	005	4405404	4405496	p	112
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	006	4405860	4406005	r	114
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	007	4406128	4406273	o	111
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	008	4405945	4406056	g	103
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	009	4406280	4406364	r	114
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	010	4406566	4406661	a	97
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	011	4406950	4407050	m	109
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	012	4406936	4406998	m	109
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	013	4407196	4407263	i	105
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	014	4407080	4407211	n	110
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	015	4407072	4407195	g	103
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	016	4407070	4407196	 	32
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	017	4407208	4407346	i	105
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	018	4407992	4408141	n	110
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	019	4407142	4407231	t	116
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	020	4407755	4407826	e	101
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	021	4408100	4408172	l	108
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	022	4408192	4408340	l	108
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	023	4409334	4409396	i	105
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	024	4408473	4408548	g	103
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	025	4408792	4408938	e	101
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	026	4408550	4408699	n	110
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	027	4409264	4409403	c	99
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	028	4408672	4408735	e	101
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	029	4409060	4409132	 	32
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	030	4409060	4409196	p	112
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	031	4410520	4410602	y	121
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	032	4410177	4410270	t	116
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	033	4410376	4410433	h	104
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	034	4409554	4409636	o	111
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	035	4411562	4411628	n	110
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	036	4409270	4409388	 	32
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	037	4411732	4411798	l	108
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	038	4411697	4411841	a	97
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	039	4411764	4411835	z	122
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	040	4412605	4412687	y	121
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	041	4411360	4411442	 	32
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	042	4410535	4410655	q	113
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	043	4409368	4409517	u	117
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	044	4409386	4409481	i	105
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	045	4410016	4410074	c	99
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	046	4409905	4409961	k	107
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	047	4413142	4413254	 	32
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	048	4411392	4411519	h	104
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	049	4412632	4412764	e	101
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	050	4414261	4414315	l	108
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	051	4414500	4414564	l	108
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	052	4412803	4412949	o	111
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	053	4413528	4413600	 	32
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	054	4415494	4415595	q	113
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	055	4415530	4415638	u	117
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	056	4410555	4410636	i	105
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	057	4410880	4411020	c	99
+045	006	fox programming intelligence python lazy quick hello quick	fox programming intelligence python lazy quick hello quick	058	4415659	4415798	k	107
+045	007	the fox hello hello brown	the fox hello hello brown	001	4406000	4406067	t	116
+045	007	the fox hello hello brown	the fox hello hello brown	002	4406160	4406223	h	104
+045	007	the fox hello hello brown	the fox hello hello brown	003	4406354	4406483	e	101
+045	007	the fox hello hello brown	the fox hello hello brown	004	4406525	4406620	 	32
+045	007	the fox hello hello brown	the fox hello hello brown	005	4406452	4406582	f	102
+045	007	the fox hello hello brown	the fox hello hello brown	006	4406975	4407032	o	111
+045	007	the fox hello hello brown	the fox hello hello brown	007	4407014	4407161	x	120
+045	007	the fox hello hello brown	the fox hello hello brown	008	4406749	4406837	 	32
+045	007	the fox hello hello brown	the fox hello hello brown	009	4407072	4407158	h	104
+045	007	the fox hello hello brown	the fox hello hello brown	010	4406990	4407076	e	101
+045	007	the fox hello hello brown	the fox hello hello brown	011	4407940	4408024	l	108
+045	007	the fox hello hello brown	the fox hello hello brown	012	4408024	4408085	l	108
+045	007	the fox hello hello brown	the fox hello hello brown	013	4407956	4408050	o	111
+045	007	the fox hello hello brown	the fox hello hello brown	014	4407521	4407607	 	32
+045	007	the fox hello hello brown	the fox hello hello brown	015	4407498	4407644	h	104
+045	007	the fox hello hello brown	the fox hello hello brown	016	4407650	4407705	e	101
+045	007	the fox hello hello brown	the fox hello hello brown	017	4407744	4407859	l	108
+045	007	the fox hello hello brown	the fox hello hello brown	018	4408227	4408313	l	108
+045	007	the fox hello hello brown	the fox hello hello brown	019	4409186	4409326	o	111
+045	007	the fox hello hello brown	the fox hello hello brown	020	4408432	4408503	 	32
+045	007	the fox hello hello brown	the fox hello hello brown	021	4409000	4409125	b	98
+045	007	the fox hello hello brown	the fox hello hello brown	022	4408898	4408992	r	114
+045	007	the fox hello hello brown	the fox hello hello brown	023	4408882	4408989	o	111
+045	007	the fox hello hello brown	the fox hello hello brown	024	4408323	4408412	w	119
+045	007	the fox hello hello brown	the fox hello hello brown	025	4409816	4409957	n	110
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	001	4407000	4407135	b	98
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	002	4407179	4407231	r	114
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	003	4407204	4407286	o	111
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	004	4407390	4407530	w	119
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	005	4407456	4407535	n	110
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	006	4407680	4407828	 	32
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	007	4407834	4407910	h	104
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	008	4408015	4408116	e	101
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	009	4408336	4408443	l	108
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	010	4408566	4408643	l	108
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	011	4408090	4408200	o	111
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	012	4408958	4409087	 	32
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	013	4408656	4408716	d	100
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	014	4409392	4409461	o	111
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	015	4409408	4409466	g	103
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	016	4409790	4409885	 	32
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	017	4408888	4408983	j	106
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	018	4409669	4409729	u	117
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	019	4409448	4409568	m	109
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	020	4410363	4410464	p	112
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	021	4410640	4410692	s	115
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	022	4409415	4409483	 	32
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	023	4410124	4410203	q	113
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	024	4409737	4409803	u	117
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	025	4410072	4410144	i	105
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	026	4410925	4411016	c	99
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	027	4410614	4410711	k	107
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	028	4410051	4410106	 	32
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	029	4409884	4410008	j	106
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	030	4410683	4410738	u	117
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	031	4412400	4412496	m	109
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	032	4410348	4410437	p	112
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	033	4411192	4411266	s	115
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	034	4412379	4412441	 	32
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	035	4411148	4411296	f	102
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	036	4412635	4412730	o	111
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	037	4413840	4413930	x	120
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	038	4412735	4412858	 	32
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	039	4412700	4412761	q	113
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	040	4411719	4411852	u	117
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	041	4414720	4414798	i	105
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	042	4414954	4415097	c	99
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	043	4414392	4414457	k	107
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	044	4412848	4412902	 	32
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	045	4412236	4412342	t	116
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	046	4412805	4412924	h	104
+045	008	brown hello dog jumps quick jumps fox quick the	brown hello dog jumps quick jumps fox quick the	047	4412566	4412639	e	101
+045	009	world science machine fox python	world science machine fox python	001	4408000	4408077	w	119
+045	009	world science machine fox python	world science machine fox python	002	4408140	4408217	o	111
+045	009	world science machine fox python	world science machine fox python	003	4408290	4408385	r	114
+045	009	world science machine fox python	world science machine fox python	004	4408498	4408555	l	108
+045	009	world science machine fox python	world science machine fox python	005	4408688	4408776	d	100
+045	009	world science machine fox python	world science machine fox python	006	4408935	4409005	 	32
+045	009	world science machine fox python	world science machine fox python	007	4409056	4409184	s	115
+045	009	world science machine fox python	world science machine fox python	008	4408770	4408898	c	99
+045	009	world science machine fox python	world science machine fox python	009	4409328	4409446	i	105
+045	009	world science machine fox python	world science machine fox python	010	4409395	4409472	e	101
+045	009	world science machine fox python	world science machine fox python	011	4409210	4409337	n	110
+045	009	world science machine fox python	world science machine fox python	012	4409848	4409995	c	99
+045	009	world science machine fox python	world science machine fox python	013	4409260	4409386	e	101
+045	009	world science machine fox python	world science machine fox python	014	4410015	4410156	 	32
+045	009	world science machine fox python	world science machine fox python	015	4410562	4410624	m	109
+045	009	world science machine fox python	world science machine fox python	016	4410685	4410747	a	97
+045	009	world science machine fox python	world science machine fox python	017	4410256	4410340	c	99
+045	009	world science machine fox python	world science machine fox python	018	4410210	4410276	h	104
+045	009	world science machine fox python	world science machine fox python	019	4411222	4411280	i	105
+045	009	world science machine fox python	world science machine fox python	020	4409919	4410055	n	110
+045	009	world science machine fox python	world science machine fox python	021	4411460	4411580	e	101
+045	009	world science machine fox python	world science machine fox python	022	4411927	4412023	 	32
+045	009	world science machine fox python	world science machine fox python	023	4410838	4410983	f	102
+045	009	world science machine fox python	world science machine fox python	024	4411105	4411192	o	111
+045	009	world science machine fox python	world science machine fox python	025	4411840	4411970	x	120
+045	009	world science machine fox python	world science machine fox python	026	4411600	4411698	 	32
+045	009	world science machine fox python	world science machine fox python	027	4410652	4410741	p	112
+045	009	world science machine fox python	world science machine fox python	028	4411159	4411280	y	121
+045	009	world science machine fox python	world science machine fox python	029	4413460	4413522	t	116
+045	009	world science machine fox python	world science machine fox python	030	4411103	4411221	h	104
+045	009	world science machine fox python	world science machine fox python	031	4412410	4412484	o	111
+045	009	world science machine fox python	world science machine fox python	032	4411317	4411413	n	110
+045	010	artificial world over lazy fox	artificial world over lazy fox	001	4409000	4409111	a	97
+045	010	artificial world over lazy fox	artificial world over lazy fox	002	4409138	4409230	r	114
+045	010	artificial world over lazy fox	artificial world over lazy fox	003	4409236	4409286	t	116
+045	010	artificial world over lazy fox	artificial world over lazy fox	004	4409558	4409651	i	105
+045	010	artificial world over lazy fox	artificial world over lazy fox	005	4409572	4409638	f	102
+045	010	artificial world over lazy fox	artificial world over lazy fox	006	4409865	4409996	i	105
+045	010	artificial world over lazy fox	artificial world over lazy fox	007	4410098	4410160	c	99
+045	010	artificial world over lazy fox	artificial world over lazy fox	008	4410323	4410426	i	105
+045	010	artificial world over lazy fox	artificial world over lazy fox	009	4409936	4410051	a	97
+045	010	artificial world over lazy fox	artificial world over lazy fox	010	4410314	4410408	l	108
+045	010	artificial world over lazy fox	artificial world over lazy fox	011	4410360	4410500	 	32
+045	010	artificial world over lazy fox	artificial world over lazy fox	012	4411167	4411270	w	119
+045	010	artificial world over lazy fox	artificial world over lazy fox	013	4411196	4411267	o	111
+045	010	artificial world over lazy fox	artificial world over lazy fox	014	4410677	4410788	r	114
+045	010	artificial world over lazy fox	artificial world over lazy fox	015	4410890	4411005	l	108
+045	010	artificial world over lazy fox	artificial world over lazy fox	016	4410590	4410702	d	100
+045	010	artificial world over lazy fox	artificial world over lazy fox	017	4411400	4411469	 	32
+045	010	artificial world over lazy fox	artificial world over lazy fox	018	4411380	4411508	o	111
+045	010	artificial world over lazy fox	artificial world over lazy fox	019	4411448	4411555	v	118
+045	010	artificial world over lazy fox	artificial world over lazy fox	020	4411945	4412078	e	101
+045	010	artificial world over lazy fox	artificial world over lazy fox	021	4412940	4413022	r	114
+045	010	artificial world over lazy fox	artificial world over lazy fox	022	4411856	4411931	 	32
+045	010	artificial world over lazy fox	artificial world over lazy fox	023	4413180	4413257	l	108
+045	010	artificial world over lazy fox	artificial world over lazy fox	024	4413163	4413214	a	97
+045	010	artificial world over lazy fox	artificial world over lazy fox	025	4411808	4411864	z	122
+045	010	artificial world over lazy fox	artificial world over lazy fox	026	4411950	4412037	y	121
+045	010	artificial world over lazy fox	artificial world over lazy fox	027	4413420	4413524	 	32
+045	010	artificial world over lazy fox	artificial world over lazy fox	028	4414373	4414436	f	102
+045	010	artificial world over lazy fox	artificial world over lazy fox	029	4412164	4412219	o	111
+045	010	artificial world over lazy fox	artificial world over lazy fox	030	4412828	4412899	x	120

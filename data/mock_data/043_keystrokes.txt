@@ -1,0 +1,473 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	001	4200000	4200132	l	108
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	002	4200160	4200297	e	101
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	003	4200316	4200399	a	97
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	004	4200492	4200620	r	114
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	005	4200736	4200811	n	110
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	006	4200555	4200674	i	105
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	007	4201062	4201205	n	110
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	008	4201064	4201148	g	103
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	009	4200976	4201086	 	32
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	010	4201575	4201634	s	115
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	011	4201780	4201892	c	99
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	012	4201760	4201902	i	105
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	013	4201404	4201527	e	101
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	014	4201807	4201857	n	110
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	015	4201680	4201809	c	99
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	016	4202130	4202218	e	101
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	017	4203104	4203179	 	32
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	018	4202397	4202458	d	100
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	019	4203564	4203618	o	111
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	020	4202603	4202687	g	103
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	021	4203840	4203892	 	32
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	022	4203591	4203704	i	105
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	023	4203938	4204017	n	110
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	024	4204531	4204645	t	116
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	025	4204368	4204432	e	101
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	026	4204200	4204305	l	108
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	027	4204394	4204543	l	108
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	028	4203915	4203974	i	105
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	029	4203836	4203903	g	103
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	030	4204031	4204158	e	101
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	031	4204650	4204779	n	110
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	032	4205673	4205812	c	99
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	033	4204224	4204342	e	101
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	034	4203960	4204085	 	32
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	035	4204760	4204821	f	102
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	036	4205075	4205197	o	111
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	037	4204104	4204187	x	120
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	038	4204440	4204490	 	32
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	039	4207220	4207338	q	113
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	040	4204524	4204659	u	117
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	041	4207720	4207835	i	105
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	042	4205576	4205673	c	99
+043	001	learning science dog intelligence fox quick	learning science dog intelligence fox quick	043	4207938	4208042	k	107
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	001	4201000	4201070	p	112
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	002	4201174	4201292	y	121
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	003	4201384	4201444	t	116
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	004	4201534	4201593	h	104
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	005	4201516	4201641	o	111
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	006	4201730	4201835	n	110
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	007	4202104	4202246	 	32
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	008	4202008	4202128	p	112
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	009	4202104	4202223	r	114
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	010	4202125	4202233	o	111
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	011	4202290	4202420	g	103
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	012	4202947	4203073	r	114
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	013	4202980	4203070	a	97
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	014	4202859	4202936	m	109
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	015	4203366	4203451	m	109
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	016	4202800	4202917	i	105
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	017	4203464	4203527	n	110
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	018	4203992	4204120	g	103
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	019	4204312	4204403	 	32
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	020	4204401	4204486	l	108
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	021	4204060	4204170	a	97
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	022	4204213	4204344	z	122
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	023	4204454	4204591	y	121
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	024	4205232	4205344	 	32
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	025	4205272	4205406	l	108
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	026	4205875	4205999	e	101
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	027	4206148	4206258	a	97
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	028	4205104	4205188	r	114
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	029	4206124	4206270	n	110
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	030	4204596	4204698	i	105
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	031	4206970	4207052	n	110
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	032	4205278	4205343	g	103
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	033	4204808	4204909	 	32
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	034	4206874	4206957	p	112
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	035	4205080	4205146	r	114
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	036	4207825	4207897	o	111
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	037	4207300	4207418	g	103
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	038	4205588	4205699	r	114
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	039	4207992	4208079	a	97
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	040	4208527	4208602	m	109
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	041	4206880	4206977	m	109
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	042	4206576	4206699	i	105
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	043	4205578	4205677	n	110
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	044	4207020	4207119	g	103
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	045	4208436	4208498	 	32
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	046	4209640	4209734	f	102
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	047	4209740	4209840	o	111
+043	002	python programming lazy learning programming fox	python programming lazy learning programming fox	048	4209413	4209554	x	120
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	001	4202000	4202085	w	119
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	002	4202147	4202244	o	111
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	003	4202280	4202399	r	114
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	004	4202573	4202690	l	108
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	005	4202516	4202566	d	100
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	006	4202710	4202791	 	32
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	007	4202858	4202983	b	98
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	008	4202812	4202895	r	114
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	009	4203032	4203083	o	111
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	010	4203161	4203232	w	119
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	011	4203830	4203890	n	110
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	012	4203507	4203650	 	32
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	013	4204220	4204280	h	104
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	014	4203443	4203500	e	101
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	015	4203652	4203742	l	108
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	016	4204970	4205057	l	108
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	017	4204736	4204863	o	111
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	018	4203751	4203803	 	32
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	019	4205132	4205224	d	100
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	020	4205686	4205787	o	111
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	021	4205900	4205971	g	103
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	022	4204541	4204669	 	32
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	023	4204200	4204264	d	100
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	024	4204323	4204452	o	111
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	025	4206272	4206386	g	103
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	026	4206125	4206176	 	32
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	027	4205380	4205505	h	104
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	028	4206293	4206380	e	101
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	029	4207012	4207120	l	108
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	030	4206205	4206284	l	108
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	031	4207940	4208082	o	111
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	032	4208076	4208153	 	32
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	033	4205424	4205566	l	108
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	034	4208402	4208474	e	101
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	035	4206658	4206752	a	97
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	036	4208755	4208829	r	114
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	037	4207868	4207994	n	110
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	038	4207698	4207825	i	105
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	039	4207928	4207988	n	110
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	040	4209098	4209165	g	103
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	041	4209200	4209345	 	32
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	042	4208109	4208219	l	108
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	043	4207628	4207753	e	101
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	044	4208278	4208379	a	97
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	045	4206928	4207038	r	114
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	046	4209965	4210078	n	110
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	047	4207704	4207849	i	105
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	048	4210648	4210710	n	110
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	049	4209152	4209265	g	103
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	050	4210869	4210925	 	32
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	051	4211850	4211923	t	116
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	052	4211027	4211142	h	104
+043	003	world brown hello dog dog hello learning learning the	world brown hello dog dog hello learning learning the	053	4207928	4208020	e	101
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	001	4203000	4203091	s	115
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	002	4203123	4203272	c	99
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	003	4203324	4203414	i	105
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	004	4203501	4203621	e	101
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	005	4203492	4203630	n	110
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	006	4203790	4203912	c	99
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	007	4203600	4203737	e	101
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	008	4204015	4204160	 	32
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	009	4203944	4204056	i	105
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	010	4204233	4204309	n	110
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	011	4204580	4204684	t	116
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	012	4204430	4204543	e	101
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	013	4204692	4204803	l	108
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	014	4205392	4205499	l	108
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	015	4204834	4204891	i	105
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	016	4205265	4205345	g	103
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	017	4205928	4205984	e	101
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	018	4205822	4205936	n	110
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	019	4206096	4206172	c	99
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	020	4206591	4206674	e	101
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	021	4205260	4205310	 	32
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	022	4206843	4206894	d	100
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	023	4205574	4205714	a	97
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	024	4205576	4205675	t	116
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	025	4207608	4207708	a	97
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	026	4206975	4207026	 	32
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	027	4207108	4207188	p	112
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	028	4207887	4207999	r	114
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	029	4208264	4208324	o	111
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	030	4206857	4206957	g	103
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	031	4206300	4206419	r	114
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	032	4207216	4207359	a	97
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	033	4207512	4207621	m	109
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	034	4208808	4208949	m	109
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	035	4207692	4207744	i	105
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	036	4207795	4207914	n	110
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	037	4207320	4207453	g	103
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	038	4207440	4207549	 	32
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	039	4207788	4207888	o	111
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	040	4207758	4207889	v	118
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	041	4210480	4210627	e	101
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	042	4207879	4207935	r	114
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	043	4208754	4208898	 	32
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	044	4210267	4210400	t	116
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	045	4208280	4208341	h	104
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	046	4211370	4211442	e	101
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	047	4211142	4211289	 	32
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	048	4210473	4210613	h	104
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	049	4208664	4208744	e	101
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	050	4208537	4208638	l	108
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	051	4212400	4212527	l	108
+043	004	science intelligence data programming over the hello	science intelligence data programming over the hello	052	4212843	4212913	o	111
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	001	4204000	4204051	l	108
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	002	4204131	4204262	a	97
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	003	4204290	4204414	z	122
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	004	4204555	4204704	y	121
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	005	4204792	4204898	 	32
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	006	4204845	4204906	w	119
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	007	4205026	4205082	o	111
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	008	4205078	4205140	r	114
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	009	4205408	4205495	l	108
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	010	4205089	4205167	d	100
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	011	4205860	4205946	 	32
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	012	4205958	4206106	q	113
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	013	4205632	4205708	u	117
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	014	4205560	4205661	i	105
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	015	4206058	4206174	c	99
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	016	4206295	4206375	k	107
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	017	4205888	4205963	 	32
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	018	4206720	4206810	l	108
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	019	4207384	4207483	a	97
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	020	4207629	4207693	z	122
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	021	4206620	4206753	y	121
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	022	4207612	4207697	 	32
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	023	4206266	4206328	h	104
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	024	4208094	4208231	e	101
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	025	4207792	4207878	l	108
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	026	4208975	4209092	l	108
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	027	4208446	4208496	o	111
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	028	4207105	4207236	 	32
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	029	4207556	4207650	l	108
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	030	4207886	4208010	a	97
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	031	4207720	4207832	z	122
+043	005	lazy world quick lazy hello lazy	lazy world quick lazy hello lazy	032	4208092	4208181	y	121
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	001	4205000	4205118	a	97
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	002	4205142	4205192	r	114
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	003	4205280	4205340	t	116
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	004	4205477	4205571	i	105
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	005	4205756	4205818	f	102
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	006	4205905	4206051	i	105
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	007	4206050	4206123	c	99
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	008	4206120	4206193	i	105
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	009	4206576	4206678	a	97
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	010	4206764	4206866	l	108
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	011	4206630	4206705	 	32
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	012	4206683	4206817	d	100
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	013	4207016	4207119	a	97
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	014	4207561	4207624	t	116
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	015	4206806	4206869	a	97
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	016	4207730	4207836	 	32
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	017	4207576	4207666	j	106
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	018	4207210	4207262	u	117
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	019	4207556	4207656	m	109
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	020	4207584	4207704	p	112
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	021	4207500	4207623	s	115
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	022	4208570	4208654	 	32
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	023	4208586	4208724	j	106
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	024	4208404	4208488	u	117
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	025	4208120	4208238	m	109
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	026	4209125	4209230	p	112
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	027	4208562	4208689	s	115
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	028	4209320	4209430	 	32
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	029	4209452	4209597	w	119
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	030	4207987	4208082	o	111
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	031	4208180	4208296	r	114
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	032	4208596	4208698	l	108
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	033	4208456	4208557	d	100
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	034	4209620	4209693	 	32
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	035	4211664	4211799	l	108
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	036	4208920	4208991	a	97
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	037	4208708	4208855	z	122
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	038	4209070	4209216	y	121
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	039	4211308	4211444	 	32
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	040	4212293	4212376	f	102
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	041	4211040	4211169	o	111
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	042	4212175	4212255	x	120
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	043	4212728	4212871	 	32
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	044	4212482	4212557	l	108
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	045	4211600	4211665	a	97
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	046	4209545	4209612	z	122
+043	006	artificial data jumps jumps world lazy fox lazy	artificial data jumps jumps world lazy fox lazy	047	4210474	4210600	y	121
+043	007	hello learning learning learning world	hello learning learning learning world	001	4206000	4206092	h	104
+043	007	hello learning learning learning world	hello learning learning learning world	002	4206113	4206224	e	101
+043	007	hello learning learning learning world	hello learning learning learning world	003	4206302	4206427	l	108
+043	007	hello learning learning learning world	hello learning learning learning world	004	4206573	4206712	l	108
+043	007	hello learning learning learning world	hello learning learning learning world	005	4206524	4206632	o	111
+043	007	hello learning learning learning world	hello learning learning learning world	006	4206750	4206880	 	32
+043	007	hello learning learning learning world	hello learning learning learning world	007	4206846	4206937	l	108
+043	007	hello learning learning learning world	hello learning learning learning world	008	4207330	4207400	e	101
+043	007	hello learning learning learning world	hello learning learning learning world	009	4206952	4207036	a	97
+043	007	hello learning learning learning world	hello learning learning learning world	010	4207242	4207347	r	114
+043	007	hello learning learning learning world	hello learning learning learning world	011	4207620	4207769	n	110
+043	007	hello learning learning learning world	hello learning learning learning world	012	4207738	4207799	i	105
+043	007	hello learning learning learning world	hello learning learning learning world	013	4207308	4207430	n	110
+043	007	hello learning learning learning world	hello learning learning learning world	014	4207599	4207710	g	103
+043	007	hello learning learning learning world	hello learning learning learning world	015	4208072	4208202	 	32
+043	007	hello learning learning learning world	hello learning learning learning world	016	4208760	4208818	l	108
+043	007	hello learning learning learning world	hello learning learning learning world	017	4209040	4209131	e	101
+043	007	hello learning learning learning world	hello learning learning learning world	018	4208584	4208702	a	97
+043	007	hello learning learning learning world	hello learning learning learning world	019	4208160	4208218	r	114
+043	007	hello learning learning learning world	hello learning learning learning world	020	4207976	4208069	n	110
+043	007	hello learning learning learning world	hello learning learning learning world	021	4209100	4209243	i	105
+043	007	hello learning learning learning world	hello learning learning learning world	022	4208205	4208315	n	110
+043	007	hello learning learning learning world	hello learning learning learning world	023	4209718	4209805	g	103
+043	007	hello learning learning learning world	hello learning learning learning world	024	4210232	4210291	 	32
+043	007	hello learning learning learning world	hello learning learning learning world	025	4209576	4209721	l	108
+043	007	hello learning learning learning world	hello learning learning learning world	026	4210400	4210544	e	101
+043	007	hello learning learning learning world	hello learning learning learning world	027	4210212	4210322	a	97
+043	007	hello learning learning learning world	hello learning learning learning world	028	4210914	4210975	r	114
+043	007	hello learning learning learning world	hello learning learning learning world	029	4210480	4210621	n	110
+043	007	hello learning learning learning world	hello learning learning learning world	030	4209451	4209584	i	105
+043	007	hello learning learning learning world	hello learning learning learning world	031	4211640	4211753	n	110
+043	007	hello learning learning learning world	hello learning learning learning world	032	4210309	4210373	g	103
+043	007	hello learning learning learning world	hello learning learning learning world	033	4210352	4210424	 	32
+043	007	hello learning learning learning world	hello learning learning learning world	034	4210917	4211003	w	119
+043	007	hello learning learning learning world	hello learning learning learning world	035	4209434	4209522	o	111
+043	007	hello learning learning learning world	hello learning learning learning world	036	4211040	4211101	r	114
+043	007	hello learning learning learning world	hello learning learning learning world	037	4210932	4211053	l	108
+043	007	hello learning learning learning world	hello learning learning learning world	038	4210292	4210430	d	100
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	001	4207000	4207123	i	105
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	002	4207192	4207247	n	110
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	003	4207336	4207428	t	116
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	004	4207474	4207538	e	101
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	005	4207412	4207482	l	108
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	006	4207825	4207910	l	108
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	007	4207822	4207889	i	105
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	008	4208281	4208347	g	103
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	009	4208160	4208302	e	101
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	010	4208548	4208691	n	110
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	011	4208060	4208164	c	99
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	012	4208716	4208850	e	101
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	013	4208824	4208953	 	32
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	014	4209145	4209220	l	108
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	015	4208526	4208645	a	97
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	016	4208650	4208759	z	122
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	017	4209432	4209485	y	121
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	018	4209737	4209800	 	32
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	019	4210582	4210685	a	97
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	020	4209850	4209998	r	114
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	021	4210520	4210652	t	116
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	022	4210801	4210896	i	105
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	023	4211180	4211307	f	102
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	024	4210450	4210554	i	105
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	025	4209496	4209629	c	99
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	026	4210875	4210960	i	105
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	027	4210276	4210386	a	97
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	028	4210807	4210884	l	108
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	029	4210276	4210327	 	32
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	030	4210567	4210640	l	108
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	031	4211920	4211986	a	97
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	032	4211774	4211865	z	122
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	033	4211960	4212051	y	121
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	034	4213237	4213353	 	32
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	035	4212338	4212437	p	112
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	036	4211970	4212025	y	121
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	037	4214020	4214154	t	116
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	038	4213956	4214046	h	104
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	039	4211598	4211713	o	111
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	040	4210978	4211088	n	110
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	041	4214760	4214908	 	32
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	042	4213683	4213817	p	112
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	043	4215064	4215135	y	121
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	044	4214482	4214618	t	116
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	045	4212764	4212892	h	104
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	046	4212625	4212758	o	111
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	047	4211738	4211845	n	110
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	048	4213251	4213324	 	32
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	049	4213672	4213728	o	111
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	050	4214007	4214122	v	118
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	051	4216850	4216909	e	101
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	052	4213885	4213967	r	114
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	053	4216204	4216336	 	32
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	054	4213201	4213324	a	97
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	055	4214020	4214126	r	114
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	056	4216350	4216417	t	116
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	057	4216968	4217030	i	105
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	058	4213954	4214098	f	102
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	059	4216976	4217088	i	105
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	060	4216027	4216160	c	99
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	061	4216060	4216186	i	105
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	062	4216333	4216399	a	97
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	063	4217354	4217483	l	108
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	064	4218718	4218859	 	32
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	065	4218584	4218690	p	112
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	066	4219350	4219443	r	114
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	067	4213666	4213732	o	111
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	068	4214705	4214815	g	103
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	069	4217948	4217999	r	114
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	070	4219213	4219272	a	97
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	071	4217640	4217742	m	109
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	072	4218431	4218538	m	109
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	073	4214992	4215111	i	105
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	074	4221308	4221404	n	110
+043	008	intelligence lazy artificial lazy python python over artificial programming	intelligence lazy artificial lazy python python over artificial programming	075	4219062	4219192	g	103
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	001	4208000	4208066	d	100
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	002	4208173	4208289	o	111
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	003	4208298	4208405	g	103
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	004	4208378	4208473	 	32
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	005	4208588	4208726	h	104
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	006	4208575	4208656	e	101
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	007	4208624	4208734	l	108
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	008	4208987	4209085	l	108
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	009	4209328	4209436	o	111
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	010	4209728	4209874	 	32
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	011	4209220	4209286	p	112
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	012	4209848	4209987	r	114
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	013	4209260	4209322	o	111
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	014	4209846	4209929	g	103
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	015	4210226	4210345	r	114
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	016	4209605	4209675	a	97
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	017	4209712	4209860	m	109
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	018	4211162	4211228	m	109
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	019	4209890	4209955	i	105
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	020	4211268	4211381	n	110
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	021	4210640	4210708	g	103
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	022	4210268	4210383	 	32
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	023	4212268	4212404	a	97
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	024	4211841	4211962	r	114
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	025	4211624	4211766	t	116
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	026	4211650	4211773	i	105
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	027	4211406	4211474	f	102
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	028	4211591	4211672	i	105
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	029	4213376	4213491	c	99
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	030	4213742	4213881	i	105
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	031	4213160	4213278	a	97
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	032	4211906	4211995	l	108
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	033	4214240	4214313	 	32
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	034	4211597	4211718	l	108
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	035	4212658	4212801	a	97
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	036	4213390	4213533	z	122
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	037	4212932	4212984	y	121
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	038	4214660	4214756	 	32
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	039	4213244	4213353	a	97
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	040	4214513	4214658	r	114
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	041	4213920	4214045	t	116
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	042	4213002	4213146	i	105
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	043	4214426	4214479	f	102
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	044	4213977	4214072	i	105
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	045	4214732	4214788	c	99
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	046	4212545	4212669	i	105
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	047	4216188	4216279	a	97
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	048	4214110	4214222	l	108
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	049	4216160	4216226	 	32
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	050	4213782	4213853	h	104
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	051	4214400	4214458	e	101
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	052	4213355	4213466	l	108
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	053	4217828	4217902	l	108
+043	009	dog hello programming artificial lazy artificial hello	dog hello programming artificial lazy artificial hello	054	4214890	4215019	o	111
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	001	4209000	4209059	l	108
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	002	4209185	4209329	a	97
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	003	4209220	4209336	z	122
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	004	4209513	4209603	y	121
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	005	4209404	4209474	 	32
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	006	4209740	4209794	l	108
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	007	4209762	4209871	a	97
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	008	4209973	4210064	z	122
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	009	4209800	4209917	y	121
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	010	4209990	4210108	 	32
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	011	4210060	4210118	f	102
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	012	4211079	4211179	o	111
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	013	4210284	4210425	x	120
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	014	4211418	4211514	 	32
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	015	4210694	4210747	i	105
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	016	4211475	4211540	n	110
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	017	4212184	4212306	t	116
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	018	4210938	4211007	e	101
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	019	4212564	4212703	l	108
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	020	4212743	4212872	l	108
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	021	4211240	4211384	i	105
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	022	4212003	4212073	g	103
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	023	4213378	4213444	e	101
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	024	4211507	4211647	n	110
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	025	4211856	4211924	c	99
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	026	4213700	4213775	e	101
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	027	4211938	4212060	 	32
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	028	4213509	4213587	f	102
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	029	4212556	4212666	o	111
+043	010	lazy lazy fox intelligence fox	lazy lazy fox intelligence fox	030	4212857	4212997	x	120
