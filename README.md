@@ -15,12 +15,11 @@ This repository contains the implementation and research for "Using an Adaptive 
 [WIP](https://wherrett-a.github.io/few-shot-keystroke-auth/wip-presentation/)
 
 ### AI Usage Declaration
-The code behind this project is developed with assistance from locally hosted LLMs. (zai-org/glm-4.7-flash & qwen/qwen3-coder-30b) to accelerate development and improve the quality of the code.
+The code behind this project is developed with assistance from locally hosted LLMs. (qwen3.5 35B 3A) to accelerate development and improve the quality of the code.
 
 #### AI Tools
-- Provider: LM Studio (locally hosted)
-- Primary Model: zai-org/glm-4.7-flash *agentic coding, tool usage*
-- Secondary Model: qwen/qwen3-coder-30b *complex reasoning, long-context tasks*
+- Provider: llama.cpp
+- Model: Qwen 3.5 35B 3A
 
 #### AI-Assisted Development Areas
 - Code Generation
@@ -28,7 +27,7 @@ The code behind this project is developed with assistance from locally hosted LL
 - Documentation
 
 #### AI Interaction Tracking
-All key prompts are logged in [docs/PROMPT_JOURNAL.md](docs/PROMPT_JOURNAL.md), large prompts can also be found in the [docs/prompts/](docs/prompts/) directory. These large text prompts are stored in the format `yymmdd-hhmm.md`. There will also be a log from each session from the LM Studio Dev server, this will be found in [docs/ai-logs/](docs/ai-logs/)
+All key prompts are logged in [docs/PROMPT_JOURNAL.md](docs/PROMPT_JOURNAL.md), large text prompts can also be found in the [docs/prompts/](docs/prompts/) directory. These large text prompts are stored in the format `yymmdd-hhmm.md`.
 
 ## License
 This project is licensed under the terms specified in the [LICENSE](LICENSE) file.

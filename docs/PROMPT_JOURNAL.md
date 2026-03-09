@@ -9,9 +9,8 @@ This document serves as a journal for AI prompts used to assist the development 
 - **Code Generation**: Writing python scripts
 
 ### AI Tools and Models
-- **LM Studio** running 2 local models:
-  - zai-org/glm-4.7-flash *agentic coding, tool usage*
-  - qwen/qwen3-coder-30b *complex reasoning, long-context tasks*
+- **llama.cpp** backend server running 1 model:
+  - Qwen 3.5 35B 3A *agentic coding, tool usage, debugging*
 
 ---
 
