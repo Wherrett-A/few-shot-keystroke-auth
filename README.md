@@ -14,20 +14,21 @@ This repository contains the implementation and research for "Using an Adaptive 
 ### Presentations
 [WIP](https://wherrett-a.github.io/few-shot-keystroke-auth/wip-presentation/)
 
-### AI Usage Declaration
-The code behind this project is developed with assistance from locally hosted LLMs. (qwen3.5 35B 3A) to accelerate development and improve the quality of the code.
+### AI Usage
+This project leverages locally hosted LLMs to accelerate development and improve code quality.
 
-#### AI Tools
-- Provider: llama.cpp
-- Model: Qwen 3.5 35B 3A
+**Tools**
+- **Model**: Qwen 3.5 35B 3A
+- **Engine**: llama.cpp
+- **Harness**: oh-my-opencode
 
-#### AI-Assisted Development Areas
+**Areas**
 - Code Generation
 - Debugging
 - Documentation
 
-#### AI Interaction Tracking
-All key prompts are logged in [docs/PROMPT_JOURNAL.md](docs/PROMPT_JOURNAL.md), large text prompts can also be found in the [docs/prompts/](docs/prompts/) directory. These large text prompts are stored in the format `yymmdd-hhmm.md`.
+**Transcripts**
+AI interaction transcripts are available in [docs/ai-transcripts/](docs/ai-transcripts/).
 
 ## License
 This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
