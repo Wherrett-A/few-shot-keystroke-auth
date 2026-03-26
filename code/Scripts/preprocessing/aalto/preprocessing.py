@@ -6,6 +6,7 @@ import os
 import h5py
 import numpy as np
 import pandas as pd
+from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
 
@@ -32,13 +33,21 @@ def create_sliding_windows(session_features, user_label, window_size, stride):
     return windows, labels
 
 
-def process_and_save(input_dir, output_file, window_size, stride):
+def process_and_save(input_dir, output_file, window_size, stride, split_ratio=0.8):
     """
     Main function to process and save preprocessed data.
+
+    Args:
+        input_dir: Directory containing raw keystroke data files
+        output_file: Base path for output files (will be suffixed with :train and :test)
+        window_size: Size of sliding window for feature extraction
+        stride: Step size for sliding window
+        split_ratio: Ratio of data to use for training (default: 0.8)
     """
     print("==== Preprocessing ====")
     print(f"Window Size: {window_size}")
     print(f"Stride: {stride}")
+    print(f"Train/Test Split: {split_ratio * 100:.0f}:{(1 - split_ratio) * 100:.0f}")
 
     output_dir = os.path.dirname(output_file)
     if output_dir:
@@ -125,12 +134,33 @@ def process_and_save(input_dir, output_file, window_size, stride):
 
     print(f"Final data shape: x={x.shape}, y={y.shape}")
 
-    print(f"Saving data to {output_file}")
-    with h5py.File(output_file, "w") as f:
-        f.create_dataset("x", data=x)
-        f.create_dataset("y", data=y)
+    # Split into train/test using stratified split
+    print("Splitting data...")
+    x_train, x_test, y_train, y_test = train_test_split(
+        x, y, test_size=1 - split_ratio, stratify=y, random_state=42
+    )
+    print(f"Train: {x_train.shape[0]} samples, Test: {x_test.shape[0]} samples")
+
+    # Save train data
+    train_file = f"{output_file}:train"
+    print(f"Saving train data to {train_file}")
+    with h5py.File(train_file, "w") as f:
+        f.create_dataset("x", data=x_train)
+        f.create_dataset("y", data=y_train)
         f.attrs["user_map"] = json.dumps(user_map)
         f.attrs["window_size"] = window_size
         f.attrs["stride"] = stride
+        f.attrs["split"] = "train"
+
+    # Save test data
+    test_file = f"{output_file}:test"
+    print(f"Saving test data to {test_file}")
+    with h5py.File(test_file, "w") as f:
+        f.create_dataset("x", data=x_test)
+        f.create_dataset("y", data=y_test)
+        f.attrs["user_map"] = json.dumps(user_map)
+        f.attrs["window_size"] = window_size
+        f.attrs["stride"] = stride
+        f.attrs["split"] = "test"
 
     print("pre-processing complete")

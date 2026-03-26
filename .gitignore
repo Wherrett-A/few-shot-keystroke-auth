@@ -3,3 +3,5 @@ data/datasets/
 code/__pycache__/
 code/venv/
 .zed/
+.sisyphus/
+*cache/

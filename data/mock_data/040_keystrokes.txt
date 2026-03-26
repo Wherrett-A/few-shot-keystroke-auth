@@ -1,472 +1,473 @@
 PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	001	3900000	3900080	l	108
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	002	3900169	3900295	e	101
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	003	3900246	3900373	a	97
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	004	3900435	3900490	r	114
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	005	3900492	3900561	n	110
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	006	3900690	3900757	i	105
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	007	3900768	3900876	n	110
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	008	3900784	3900846	g	103
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	009	3900912	3900978	 	32
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	010	3901494	3901620	s	115
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	011	3901710	3901808	c	99
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	012	3901584	3901699	i	105
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	013	3902328	3902447	e	101
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	014	3901755	3901878	n	110
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	015	3901596	3901708	c	99
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	016	3902895	3902997	e	101
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	017	3902064	3902176	 	32
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	018	3901853	3901913	f	102
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	019	3902178	3902246	o	111
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	020	3901919	3902009	x	120
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	021	3902300	3902376	 	32
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	022	3902226	3902313	q	113
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	023	3902222	3902315	u	117
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	024	3902484	3902539	i	105
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	025	3903384	3903529	c	99
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	026	3903650	3903738	k	107
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	027	3903874	3903946	 	32
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	028	3902754	3902858	p	112
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	029	3904088	3904172	r	114
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	030	3903915	3903998	o	111
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	031	3905580	3905650	g	103
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	032	3906138	3906189	r	114
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	033	3903712	3903802	a	97
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	034	3903762	3903861	m	109
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	035	3906154	3906288	m	109
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	036	3904655	3904715	i	105
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	037	3907020	3907149	n	110
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	038	3906401	3906470	g	103
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	039	3904370	3904496	 	32
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	040	3907176	3907249	p	112
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	041	3907520	3907627	r	114
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	042	3908077	3908155	o	111
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	043	3905334	3905423	g	103
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	044	3907697	3907840	r	114
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	045	3905676	3905801	a	97
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	046	3904905	3905042	m	109
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	047	3905060	3905117	m	109
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	048	3907097	3907238	i	105
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	049	3905280	3905334	n	110
-040	001	learning science fox quick programming programming	learning science fox quick programming programming	050	3906958	3907073	g	103
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	001	3901000	3901058	b	98
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	002	3901157	3901219	r	114
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	003	3901352	3901405	o	111
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	004	3901531	3901674	w	119
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	005	3901432	3901528	n	110
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	006	3901985	3902089	 	32
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	007	3901822	3901872	b	98
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	008	3902162	3902282	r	114
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	009	3902136	3902232	o	111
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	010	3902278	3902355	w	119
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	011	3902880	3903022	n	110
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	012	3903046	3903148	 	32
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	013	3903352	3903437	s	115
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	014	3903561	3903670	c	99
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	015	3903324	3903399	i	105
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	016	3902845	3902965	e	101
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	017	3903624	3903724	n	110
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	018	3903635	3903718	c	99
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	019	3903106	3903203	e	101
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	020	3903033	3903146	 	32
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	021	3904380	3904490	i	105
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	022	3904486	3904565	n	110
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	023	3904058	3904201	t	116
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	024	3905186	3905269	e	101
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	025	3903832	3903930	l	108
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	026	3905900	3905978	l	108
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	027	3905368	3905471	i	105
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	028	3906184	3906329	g	103
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	029	3906320	3906446	e	101
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	030	3905524	3905586	n	110
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	031	3904060	3904122	c	99
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	032	3906735	3906812	e	101
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	033	3904200	3904293	 	32
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	034	3907237	3907326	m	109
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	035	3904842	3904977	a	97
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	036	3906635	3906696	c	99
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	037	3904816	3904933	h	104
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	038	3907512	3907611	i	105
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	039	3908182	3908270	n	110
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	040	3906382	3906502	e	101
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	041	3907880	3907984	 	32
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	042	3907847	3907978	d	100
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	043	3907426	3907479	o	111
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	044	3908224	3908351	g	103
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	045	3909228	3909352	 	32
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	046	3905725	3905845	o	111
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	047	3906336	3906410	v	118
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	048	3905982	3906033	e	101
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	049	3908200	3908318	r	114
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	050	3908546	3908643	 	32
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	051	3909500	3909598	o	111
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	052	3911098	3911149	v	118
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	053	3907032	3907106	e	101
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	054	3908208	3908263	r	114
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	055	3909694	3909822	 	32
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	056	3910625	3910676	l	108
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	057	3910912	3911015	a	97
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	058	3908638	3908733	z	122
-040	002	brown brown science intelligence machine dog over over lazy	brown brown science intelligence machine dog over over lazy	059	3907902	3907987	y	121
-040	003	jumps brown data brown over the	jumps brown data brown over the	001	3902000	3902149	j	106
-040	003	jumps brown data brown over the	jumps brown data brown over the	002	3902197	3902259	u	117
-040	003	jumps brown data brown over the	jumps brown data brown over the	003	3902388	3902488	m	109
-040	003	jumps brown data brown over the	jumps brown data brown over the	004	3902354	3902487	p	112
-040	003	jumps brown data brown over the	jumps brown data brown over the	005	3902680	3902773	s	115
-040	003	jumps brown data brown over the	jumps brown data brown over the	006	3902975	3903041	 	32
-040	003	jumps brown data brown over the	jumps brown data brown over the	007	3902870	3902966	b	98
-040	003	jumps brown data brown over the	jumps brown data brown over the	008	3903365	3903436	r	114
-040	003	jumps brown data brown over the	jumps brown data brown over the	009	3903384	3903487	o	111
-040	003	jumps brown data brown over the	jumps brown data brown over the	010	3902900	3902998	w	119
-040	003	jumps brown data brown over the	jumps brown data brown over the	011	3903010	3903061	n	110
-040	003	jumps brown data brown over the	jumps brown data brown over the	012	3903892	3904024	 	32
-040	003	jumps brown data brown over the	jumps brown data brown over the	013	3903944	3904083	d	100
-040	003	jumps brown data brown over the	jumps brown data brown over the	014	3904002	3904057	a	97
-040	003	jumps brown data brown over the	jumps brown data brown over the	015	3903806	3903882	t	116
-040	003	jumps brown data brown over the	jumps brown data brown over the	016	3903770	3903871	a	97
-040	003	jumps brown data brown over the	jumps brown data brown over the	017	3903856	3903973	 	32
-040	003	jumps brown data brown over the	jumps brown data brown over the	018	3903938	3904066	b	98
-040	003	jumps brown data brown over the	jumps brown data brown over the	019	3905222	3905325	r	114
-040	003	jumps brown data brown over the	jumps brown data brown over the	020	3905458	3905519	o	111
-040	003	jumps brown data brown over the	jumps brown data brown over the	021	3904400	3904528	w	119
-040	003	jumps brown data brown over the	jumps brown data brown over the	022	3905192	3905311	n	110
-040	003	jumps brown data brown over the	jumps brown data brown over the	023	3904926	3905019	 	32
-040	003	jumps brown data brown over the	jumps brown data brown over the	024	3905036	3905161	o	111
-040	003	jumps brown data brown over the	jumps brown data brown over the	025	3905888	3905959	v	118
-040	003	jumps brown data brown over the	jumps brown data brown over the	026	3904625	3904747	e	101
-040	003	jumps brown data brown over the	jumps brown data brown over the	027	3905874	3905984	r	114
-040	003	jumps brown data brown over the	jumps brown data brown over the	028	3907319	3907454	 	32
-040	003	jumps brown data brown over the	jumps brown data brown over the	029	3906900	3906955	t	116
-040	003	jumps brown data brown over the	jumps brown data brown over the	030	3905016	3905142	h	104
-040	003	jumps brown data brown over the	jumps brown data brown over the	031	3907580	3907707	e	101
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	001	3903000	3903117	l	108
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	002	3903177	3903228	a	97
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	003	3903276	3903375	z	122
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	004	3903498	3903572	y	121
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	005	3903468	3903611	 	32
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	006	3903740	3903803	i	105
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	007	3903792	3903917	n	110
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	008	3904365	3904449	t	116
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	009	3904536	3904621	e	101
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	010	3904323	3904402	l	108
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	011	3904780	3904894	l	108
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	012	3905156	3905232	i	105
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	013	3905232	3905299	g	103
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	014	3904586	3904715	e	101
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	015	3905324	3905454	n	110
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	016	3905175	3905302	c	99
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	017	3904728	3904869	e	101
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	018	3905873	3905990	 	32
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	019	3905394	3905518	h	104
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	020	3905774	3905891	e	101
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	021	3905800	3905916	l	108
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	022	3905268	3905409	l	108
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	023	3907004	3907076	o	111
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	024	3907554	3907672	 	32
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	025	3905784	3905843	j	106
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	026	3907500	3907620	u	117
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	027	3907810	3907929	m	109
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	028	3905862	3905944	p	112
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	029	3905996	3906072	s	115
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	030	3906509	3906594	 	32
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	031	3906930	3907053	i	105
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	032	3906348	3906456	n	110
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	033	3908952	3909026	t	116
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	034	3908016	3908113	e	101
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	035	3906978	3907043	l	108
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	036	3909615	3909739	l	108
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	037	3907176	3907314	i	105
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	038	3906959	3907089	g	103
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	039	3910258	3910400	e	101
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	040	3908421	3908510	n	110
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	041	3908960	3909051	c	99
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	042	3910134	3910212	e	101
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	043	3909174	3909240	 	32
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	044	3910611	3910674	p	112
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	045	3911052	3911103	y	121
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	046	3909390	3909443	t	116
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	047	3908336	3908463	h	104
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	048	3909486	3909627	o	111
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	049	3909720	3909867	n	110
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	050	3912212	3912265	 	32
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	051	3909450	3909518	l	108
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	052	3909477	3909601	a	97
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	053	3909656	3909717	z	122
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	054	3913335	3913393	y	121
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	055	3913044	3913162	 	32
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	056	3912240	3912371	o	111
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	057	3910056	3910130	v	118
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	058	3909555	3909684	e	101
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	059	3910540	3910651	r	114
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	060	3910257	3910321	 	32
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	061	3913200	3913274	q	113
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	062	3910991	3911135	u	117
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	063	3910626	3910725	i	105
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	064	3913143	3913219	c	99
-040	004	lazy intelligence hello jumps intelligence python lazy over quick	lazy intelligence hello jumps intelligence python lazy over quick	065	3911768	3911870	k	107
-040	005	dog data machine intelligence data	dog data machine intelligence data	001	3904000	3904127	d	100
-040	005	dog data machine intelligence data	dog data machine intelligence data	002	3904131	3904187	o	111
-040	005	dog data machine intelligence data	dog data machine intelligence data	003	3904350	3904474	g	103
-040	005	dog data machine intelligence data	dog data machine intelligence data	004	3904549	3904640	 	32
-040	005	dog data machine intelligence data	dog data machine intelligence data	005	3904712	3904819	d	100
-040	005	dog data machine intelligence data	dog data machine intelligence data	006	3904635	3904763	a	97
-040	005	dog data machine intelligence data	dog data machine intelligence data	007	3905002	3905091	t	116
-040	005	dog data machine intelligence data	dog data machine intelligence data	008	3905134	3905216	a	97
-040	005	dog data machine intelligence data	dog data machine intelligence data	009	3904904	3905050	 	32
-040	005	dog data machine intelligence data	dog data machine intelligence data	010	3904981	3905110	m	109
-040	005	dog data machine intelligence data	dog data machine intelligence data	011	3905250	3905350	a	97
-040	005	dog data machine intelligence data	dog data machine intelligence data	012	3905760	3905829	c	99
-040	005	dog data machine intelligence data	dog data machine intelligence data	013	3906124	3906206	h	104
-040	005	dog data machine intelligence data	dog data machine intelligence data	014	3905924	3906067	i	105
-040	005	dog data machine intelligence data	dog data machine intelligence data	015	3906114	3906241	n	110
-040	005	dog data machine intelligence data	dog data machine intelligence data	016	3906265	3906317	e	101
-040	005	dog data machine intelligence data	dog data machine intelligence data	017	3905984	3906110	 	32
-040	005	dog data machine intelligence data	dog data machine intelligence data	018	3907247	3907319	i	105
-040	005	dog data machine intelligence data	dog data machine intelligence data	019	3906466	3906534	n	110
-040	005	dog data machine intelligence data	dog data machine intelligence data	020	3907515	3907571	t	116
-040	005	dog data machine intelligence data	dog data machine intelligence data	021	3907560	3907649	e	101
-040	005	dog data machine intelligence data	dog data machine intelligence data	022	3906793	3906933	l	108
-040	005	dog data machine intelligence data	dog data machine intelligence data	023	3906970	3907038	l	108
-040	005	dog data machine intelligence data	dog data machine intelligence data	024	3906576	3906658	i	105
-040	005	dog data machine intelligence data	dog data machine intelligence data	025	3908344	3908481	g	103
-040	005	dog data machine intelligence data	dog data machine intelligence data	026	3907525	3907662	e	101
-040	005	dog data machine intelligence data	dog data machine intelligence data	027	3907198	3907286	n	110
-040	005	dog data machine intelligence data	dog data machine intelligence data	028	3907024	3907097	c	99
-040	005	dog data machine intelligence data	dog data machine intelligence data	029	3907696	3907820	e	101
-040	005	dog data machine intelligence data	dog data machine intelligence data	030	3906900	3907039	 	32
-040	005	dog data machine intelligence data	dog data machine intelligence data	031	3909820	3909923	d	100
-040	005	dog data machine intelligence data	dog data machine intelligence data	032	3910138	3910245	a	97
-040	005	dog data machine intelligence data	dog data machine intelligence data	033	3907712	3907773	t	116
-040	005	dog data machine intelligence data	dog data machine intelligence data	034	3908026	3908161	a	97
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	001	3905000	3905101	q	113
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	002	3905138	3905251	u	117
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	003	3905388	3905496	i	105
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	004	3905474	3905575	c	99
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	005	3905604	3905719	k	107
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	006	3905740	3905832	 	32
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	007	3906158	3906305	s	115
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	008	3905875	3906018	c	99
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	009	3906104	3906229	i	105
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	010	3906467	3906560	e	101
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	011	3906180	3906318	n	110
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	012	3907101	3907238	c	99
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	013	3906488	3906582	e	101
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	014	3906352	3906442	 	32
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	015	3906554	3906691	l	108
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	016	3907205	3907257	a	97
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	017	3907880	3907992	z	122
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	018	3907329	3907454	y	121
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	019	3907970	3908035	 	32
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	020	3907717	3907826	j	106
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	021	3908880	3908997	u	117
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	022	3908969	3909090	m	109
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	023	3908410	3908532	p	112
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	024	3908335	3908389	s	115
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	025	3908648	3908698	 	32
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	026	3908875	3909001	a	97
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	027	3908354	3908487	r	114
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	028	3909887	3909979	t	116
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	029	3908220	3908300	i	105
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	030	3908799	3908854	f	102
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	031	3909650	3909777	i	105
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	032	3909154	3909235	c	99
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	033	3909704	3909777	i	105
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	034	3909851	3909944	a	97
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	035	3908978	3909058	l	108
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	036	3909655	3909775	 	32
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	037	3909500	3909612	s	115
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	038	3910143	3910247	c	99
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	039	3909104	3909179	i	105
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	040	3910928	3911075	e	101
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	041	3911840	3911926	n	110
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	042	3912462	3912582	c	99
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	043	3909200	3909334	e	101
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	044	3909386	3909475	 	32
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	045	3909488	3909609	w	119
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	046	3912335	3912423	o	111
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	047	3913648	3913795	r	114
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	048	3910311	3910384	l	108
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	049	3910424	3910554	d	100
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	050	3911321	3911432	 	32
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	051	3912800	3912853	m	109
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	052	3913772	3913868	a	97
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	053	3912592	3912719	c	99
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	054	3914275	3914404	h	104
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	055	3914180	3914232	i	105
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	056	3910720	3910863	n	110
-040	006	quick science lazy jumps artificial science world machine	quick science lazy jumps artificial science world machine	057	3911328	3911435	e	101
-040	007	programming world fox hello quick	programming world fox hello quick	001	3906000	3906113	p	112
-040	007	programming world fox hello quick	programming world fox hello quick	002	3906114	3906244	r	114
-040	007	programming world fox hello quick	programming world fox hello quick	003	3906216	3906311	o	111
-040	007	programming world fox hello quick	programming world fox hello quick	004	3906339	3906412	g	103
-040	007	programming world fox hello quick	programming world fox hello quick	005	3906416	3906472	r	114
-040	007	programming world fox hello quick	programming world fox hello quick	006	3906500	3906632	a	97
-040	007	programming world fox hello quick	programming world fox hello quick	007	3906732	3906842	m	109
-040	007	programming world fox hello quick	programming world fox hello quick	008	3906735	3906803	m	109
-040	007	programming world fox hello quick	programming world fox hello quick	009	3907192	3907273	i	105
-040	007	programming world fox hello quick	programming world fox hello quick	010	3907602	3907675	n	110
-040	007	programming world fox hello quick	programming world fox hello quick	011	3907060	3907150	g	103
-040	007	programming world fox hello quick	programming world fox hello quick	012	3907320	3907465	 	32
-040	007	programming world fox hello quick	programming world fox hello quick	013	3907560	3907632	w	119
-040	007	programming world fox hello quick	programming world fox hello quick	014	3908366	3908427	o	111
-040	007	programming world fox hello quick	programming world fox hello quick	015	3908268	3908406	r	114
-040	007	programming world fox hello quick	programming world fox hello quick	016	3907800	3907857	l	108
-040	007	programming world fox hello quick	programming world fox hello quick	017	3908880	3908962	d	100
-040	007	programming world fox hello quick	programming world fox hello quick	018	3908414	3908539	 	32
-040	007	programming world fox hello quick	programming world fox hello quick	019	3909510	3909597	f	102
-040	007	programming world fox hello quick	programming world fox hello quick	020	3908584	3908634	o	111
-040	007	programming world fox hello quick	programming world fox hello quick	021	3909500	3909552	x	120
-040	007	programming world fox hello quick	programming world fox hello quick	022	3909507	3909635	 	32
-040	007	programming world fox hello quick	programming world fox hello quick	023	3910334	3910475	h	104
-040	007	programming world fox hello quick	programming world fox hello quick	024	3910416	3910548	e	101
-040	007	programming world fox hello quick	programming world fox hello quick	025	3910560	3910627	l	108
-040	007	programming world fox hello quick	programming world fox hello quick	026	3909025	3909078	l	108
-040	007	programming world fox hello quick	programming world fox hello quick	027	3910888	3910967	o	111
-040	007	programming world fox hello quick	programming world fox hello quick	028	3911184	3911278	 	32
-040	007	programming world fox hello quick	programming world fox hello quick	029	3909304	3909361	q	113
-040	007	programming world fox hello quick	programming world fox hello quick	030	3911133	3911188	u	117
-040	007	programming world fox hello quick	programming world fox hello quick	031	3910140	3910224	i	105
-040	007	programming world fox hello quick	programming world fox hello quick	032	3910588	3910669	c	99
-040	007	programming world fox hello quick	programming world fox hello quick	033	3909712	3909786	k	107
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	001	3907000	3907054	h	104
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	002	3907104	3907231	e	101
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	003	3907370	3907510	l	108
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	004	3907441	3907567	l	108
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	005	3907420	3907555	o	111
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	006	3907780	3907878	 	32
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	007	3907708	3907768	h	104
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	008	3908365	3908505	e	101
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	009	3908208	3908291	l	108
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	010	3907936	3908074	l	108
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	011	3908810	3908924	o	111
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	012	3909178	3909288	 	32
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	013	3909112	3909165	i	105
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	014	3908950	3909045	n	110
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	015	3908680	3908778	t	116
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	016	3909610	3909671	e	101
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	017	3909752	3909900	l	108
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	018	3910196	3910312	l	108
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	019	3908800	3908903	i	105
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	020	3909983	3910077	g	103
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	021	3910560	3910624	e	101
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	022	3910150	3910295	n	110
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	023	3909926	3910041	c	99
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	024	3911071	3911201	e	101
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	025	3910024	3910164	 	32
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	026	3910625	3910730	d	100
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	027	3910250	3910325	o	111
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	028	3911077	3911140	g	103
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	029	3909940	3910070	 	32
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	030	3910625	3910682	a	97
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	031	3911110	3911179	r	114
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	032	3911247	3911297	t	116
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	033	3912344	3912467	i	105
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	034	3913369	3913497	f	102
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	035	3911318	3911463	i	105
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	036	3910675	3910784	c	99
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	037	3913480	3913629	i	105
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	038	3912698	3912824	a	97
-040	008	hello hello intelligence dog artificial	hello hello intelligence dog artificial	039	3913460	3913559	l	108
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	001	3908000	3908137	l	108
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	002	3908182	3908251	a	97
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	003	3908236	3908318	z	122
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	004	3908501	3908596	y	121
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	005	3908532	3908602	 	32
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	006	3908915	3908974	s	115
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	007	3909170	3909244	c	99
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	008	3909078	3909141	i	105
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	009	3909320	3909438	e	101
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	010	3908990	3909044	n	110
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	011	3909510	3909576	c	99
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	012	3910057	3910117	e	101
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	013	3909848	3909986	 	32
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	014	3909664	3909751	i	105
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	015	3910030	3910112	n	110
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	016	3910460	3910563	t	116
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	017	3910560	3910709	e	101
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	018	3910975	3911095	l	108
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	019	3911078	3911189	l	108
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	020	3911724	3911820	i	105
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	021	3911720	3911789	g	103
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	022	3911129	3911189	e	101
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	023	3910970	3911071	n	110
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	024	3911082	3911194	c	99
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	025	3912440	3912507	e	101
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	026	3912725	3912797	 	32
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	027	3912030	3912145	a	97
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	028	3912050	3912155	r	114
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	029	3911248	3911328	t	116
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	030	3912234	3912343	i	105
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	031	3911180	3911302	f	102
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	032	3913890	3914021	i	105
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	033	3912736	3912852	c	99
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	034	3911300	3911350	i	105
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	035	3912420	3912487	a	97
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	036	3914545	3914664	l	108
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	037	3912968	3913100	 	32
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	038	3913439	3913565	p	112
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	039	3914840	3914922	r	114
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	040	3912446	3912583	o	111
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	041	3912920	3912990	g	103
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	042	3914232	3914373	r	114
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	043	3915434	3915566	a	97
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	044	3916127	3916205	m	109
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	045	3912972	3913116	m	109
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	046	3916235	3916310	i	105
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	047	3915958	3916020	n	110
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	048	3915520	3915649	g	103
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	049	3915728	3915788	 	32
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	050	3915791	3915857	f	102
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	051	3914850	3914990	o	111
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	052	3914528	3914596	x	120
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	053	3916996	3917139	 	32
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	054	3916427	3916562	d	100
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	055	3916532	3916674	o	111
-040	009	lazy science intelligence artificial programming fox dog	lazy science intelligence artificial programming fox dog	056	3917680	3917761	g	103
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	001	3909000	3909057	j	106
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	002	3909199	3909332	u	117
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	003	3909260	3909404	m	109
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	004	3909495	3909639	p	112
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	005	3909688	3909808	s	115
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	006	3909770	3909897	 	32
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	007	3910050	3910166	a	97
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	008	3909861	3910006	r	114
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	009	3909992	3910119	t	116
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	010	3910332	3910383	i	105
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	011	3910410	3910480	f	102
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	012	3910430	3910506	i	105
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	013	3910440	3910510	c	99
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	014	3911015	3911111	i	105
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	015	3911674	3911745	a	97
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	016	3911700	3911789	l	108
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	017	3910856	3910961	 	32
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	018	3911431	3911523	p	112
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	019	3912006	3912109	r	114
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	020	3911185	3911243	o	111
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	021	3911900	3911979	g	103
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	022	3911835	3911947	r	114
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	023	3911970	3912073	a	97
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	024	3912841	3912983	m	109
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	025	3912168	3912239	m	109
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	026	3913425	3913512	i	105
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	027	3913446	3913539	n	110
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	028	3912942	3913027	g	103
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	029	3912612	3912727	 	32
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	030	3913640	3913711	h	104
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	031	3912180	3912288	e	101
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	032	3914487	3914633	l	108
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	033	3912584	3912698	l	108
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	034	3913620	3913677	o	111
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	035	3914338	3914414	 	32
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	036	3913410	3913539	l	108
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	037	3913104	3913177	a	97
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	038	3913107	3913163	z	122
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	039	3914016	3914136	y	121
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	040	3912939	3913030	 	32
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	041	3913680	3913823	m	109
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	042	3915027	3915099	a	97
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	043	3913452	3913529	c	99
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	044	3914461	3914578	h	104
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	045	3913620	3913738	i	105
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	046	3916920	3917011	n	110
-040	010	jumps artificial programming hello lazy machine	jumps artificial programming hello lazy machine	047	3917188	3917290	e	101
+040	001	over programming programming brown science programming	over programming programming brown science programming	001	3900000	3900097	o	111
+040	001	over programming programming brown science programming	over programming programming brown science programming	002	3900154	3900298	v	118
+040	001	over programming programming brown science programming	over programming programming brown science programming	003	3900366	3900426	e	101
+040	001	over programming programming brown science programming	over programming programming brown science programming	004	3900321	3900387	r	114
+040	001	over programming programming brown science programming	over programming programming brown science programming	005	3900760	3900872	 	32
+040	001	over programming programming brown science programming	over programming programming brown science programming	006	3900580	3900632	p	112
+040	001	over programming programming brown science programming	over programming programming brown science programming	007	3900666	3900782	r	114
+040	001	over programming programming brown science programming	over programming programming brown science programming	008	3901288	3901353	o	111
+040	001	over programming programming brown science programming	over programming programming brown science programming	009	3901544	3901605	g	103
+040	001	over programming programming brown science programming	over programming programming brown science programming	010	3901773	3901905	r	114
+040	001	over programming programming brown science programming	over programming programming brown science programming	011	3901660	3901728	a	97
+040	001	over programming programming brown science programming	over programming programming brown science programming	012	3901782	3901872	m	109
+040	001	over programming programming brown science programming	over programming programming brown science programming	013	3902052	3902173	m	109
+040	001	over programming programming brown science programming	over programming programming brown science programming	014	3902106	3902247	i	105
+040	001	over programming programming brown science programming	over programming programming brown science programming	015	3901848	3901991	n	110
+040	001	over programming programming brown science programming	over programming programming brown science programming	016	3902295	3902437	g	103
+040	001	over programming programming brown science programming	over programming programming brown science programming	017	3902912	3902971	 	32
+040	001	over programming programming brown science programming	over programming programming brown science programming	018	3902567	3902682	p	112
+040	001	over programming programming brown science programming	over programming programming brown science programming	019	3903222	3903287	r	114
+040	001	over programming programming brown science programming	over programming programming brown science programming	020	3902774	3902903	o	111
+040	001	over programming programming brown science programming	over programming programming brown science programming	021	3903780	3903873	g	103
+040	001	over programming programming brown science programming	over programming programming brown science programming	022	3903822	3903886	r	114
+040	001	over programming programming brown science programming	over programming programming brown science programming	023	3903300	3903403	a	97
+040	001	over programming programming brown science programming	over programming programming brown science programming	024	3902392	3902468	m	109
+040	001	over programming programming brown science programming	over programming programming brown science programming	025	3903480	3903601	m	109
+040	001	over programming programming brown science programming	over programming programming brown science programming	026	3902875	3902982	i	105
+040	001	over programming programming brown science programming	over programming programming brown science programming	027	3902938	3902994	n	110
+040	001	over programming programming brown science programming	over programming programming brown science programming	028	3903753	3903879	g	103
+040	001	over programming programming brown science programming	over programming programming brown science programming	029	3902856	3902908	 	32
+040	001	over programming programming brown science programming	over programming programming brown science programming	030	3903045	3903128	b	98
+040	001	over programming programming brown science programming	over programming programming brown science programming	031	3904230	3904330	r	114
+040	001	over programming programming brown science programming	over programming programming brown science programming	032	3904898	3904952	o	111
+040	001	over programming programming brown science programming	over programming programming brown science programming	033	3904608	3904735	w	119
+040	001	over programming programming brown science programming	over programming programming brown science programming	034	3903993	3904097	n	110
+040	001	over programming programming brown science programming	over programming programming brown science programming	035	3905440	3905581	 	32
+040	001	over programming programming brown science programming	over programming programming brown science programming	036	3906860	3906963	s	115
+040	001	over programming programming brown science programming	over programming programming brown science programming	037	3903816	3903879	c	99
+040	001	over programming programming brown science programming	over programming programming brown science programming	038	3906882	3906981	i	105
+040	001	over programming programming brown science programming	over programming programming brown science programming	039	3904142	3904242	e	101
+040	001	over programming programming brown science programming	over programming programming brown science programming	040	3904290	3904385	n	110
+040	001	over programming programming brown science programming	over programming programming brown science programming	041	3906080	3906180	c	99
+040	001	over programming programming brown science programming	over programming programming brown science programming	042	3906396	3906497	e	101
+040	001	over programming programming brown science programming	over programming programming brown science programming	043	3905250	3905326	 	32
+040	001	over programming programming brown science programming	over programming programming brown science programming	044	3907052	3907149	p	112
+040	001	over programming programming brown science programming	over programming programming brown science programming	045	3905720	3905863	r	114
+040	001	over programming programming brown science programming	over programming programming brown science programming	046	3906030	3906083	o	111
+040	001	over programming programming brown science programming	over programming programming brown science programming	047	3908004	3908098	g	103
+040	001	over programming programming brown science programming	over programming programming brown science programming	048	3907661	3907804	r	114
+040	001	over programming programming brown science programming	over programming programming brown science programming	049	3908352	3908406	a	97
+040	001	over programming programming brown science programming	over programming programming brown science programming	050	3909163	3909264	m	109
+040	001	over programming programming brown science programming	over programming programming brown science programming	051	3905000	3905062	m	109
+040	001	over programming programming brown science programming	over programming programming brown science programming	052	3906375	3906482	i	105
+040	001	over programming programming brown science programming	over programming programming brown science programming	053	3908268	3908383	n	110
+040	001	over programming programming brown science programming	over programming programming brown science programming	054	3909328	3909426	g	103
+040	002	the world science the over	the world science the over	001	3901000	3901105	t	116
+040	002	the world science the over	the world science the over	002	3901134	3901262	h	104
+040	002	the world science the over	the world science the over	003	3901208	3901302	e	101
+040	002	the world science the over	the world science the over	004	3901444	3901496	 	32
+040	002	the world science the over	the world science the over	005	3901596	3901698	w	119
+040	002	the world science the over	the world science the over	006	3901915	3901973	o	111
+040	002	the world science the over	the world science the over	007	3901894	3901990	r	114
+040	002	the world science the over	the world science the over	008	3902365	3902512	l	108
+040	002	the world science the over	the world science the over	009	3902096	3902176	d	100
+040	002	the world science the over	the world science the over	010	3902647	3902793	 	32
+040	002	the world science the over	the world science the over	011	3902250	3902396	s	115
+040	002	the world science the over	the world science the over	012	3902452	3902534	c	99
+040	002	the world science the over	the world science the over	013	3902404	3902497	i	105
+040	002	the world science the over	the world science the over	014	3902495	3902577	e	101
+040	002	the world science the over	the world science the over	015	3903562	3903658	n	110
+040	002	the world science the over	the world science the over	016	3903940	3903991	c	99
+040	002	the world science the over	the world science the over	017	3903768	3903853	e	101
+040	002	the world science the over	the world science the over	018	3903431	3903537	 	32
+040	002	the world science the over	the world science the over	019	3903538	3903680	t	116
+040	002	the world science the over	the world science the over	020	3903660	3903714	h	104
+040	002	the world science the over	the world science the over	021	3904320	3904455	e	101
+040	002	the world science the over	the world science the over	022	3903814	3903888	 	32
+040	002	the world science the over	the world science the over	023	3903332	3903455	o	111
+040	002	the world science the over	the world science the over	024	3905462	3905553	v	118
+040	002	the world science the over	the world science the over	025	3905392	3905482	e	101
+040	002	the world science the over	the world science the over	026	3903750	3903822	r	114
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	001	3902000	3902080	t	116
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	002	3902192	3902291	h	104
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	003	3902214	3902352	e	101
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	004	3902393	3902451	 	32
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	005	3902788	3902909	p	112
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	006	3902570	3902708	r	114
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	007	3902738	3902790	o	111
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	008	3903148	3903216	g	103
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	009	3903464	3903552	r	114
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	010	3902918	3903034	a	97
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	011	3903900	3904048	m	109
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	012	3903826	3903956	m	109
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	013	3904328	3904439	i	105
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	014	3903885	3904033	n	110
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	015	3904072	3904140	g	103
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	016	3904625	3904677	 	32
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	017	3903696	3903808	i	105
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	018	3903802	3903877	n	110
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	019	3905186	3905269	t	116
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	020	3904850	3904999	e	101
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	021	3904880	3905014	l	108
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	022	3905738	3905820	l	108
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	023	3905410	3905462	i	105
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	024	3906462	3906584	g	103
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	025	3905960	3906042	e	101
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	026	3904975	3905073	n	110
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	027	3905484	3905591	c	99
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	028	3906455	3906524	e	101
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	029	3905780	3905886	 	32
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	030	3905364	3905507	s	115
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	031	3906230	3906295	c	99
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	032	3907828	3907952	i	105
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	033	3906096	3906201	e	101
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	034	3905696	3905772	n	110
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	035	3905536	3905669	c	99
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	036	3907355	3907460	e	101
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	037	3908048	3908120	 	32
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	038	3909326	3909383	l	108
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	039	3909486	3909604	a	97
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	040	3909254	3909310	z	122
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	041	3908720	3908853	y	121
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	042	3910036	3910093	 	32
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	043	3906872	3906952	s	115
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	044	3906902	3907003	c	99
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	045	3910536	3910684	i	105
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	046	3908390	3908472	e	101
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	047	3907612	3907710	n	110
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	048	3911259	3911395	c	99
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	049	3909824	3909949	e	101
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	050	3907341	3907487	 	32
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	051	3909050	3909144	s	115
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	052	3907253	3907330	c	99
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	053	3910736	3910862	i	105
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	054	3908095	3908238	e	101
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	055	3910478	3910573	n	110
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	056	3912945	3913006	c	99
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	057	3909280	3909341	e	101
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	058	3908897	3908976	 	32
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	059	3909888	3909959	d	100
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	060	3912266	3912332	a	97
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	061	3910280	3910374	t	116
+040	003	the programming intelligence science lazy science science data	the programming intelligence science lazy science science data	062	3910296	3910404	a	97
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	001	3903000	3903050	i	105
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	002	3903170	3903271	n	110
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	003	3903200	3903307	t	116
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	004	3903540	3903664	e	101
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	005	3903656	3903718	l	108
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	006	3903830	3903972	l	108
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	007	3903654	3903750	i	105
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	008	3903973	3904117	g	103
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	009	3904360	3904507	e	101
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	010	3904440	3904577	n	110
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	011	3904140	3904260	c	99
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	012	3904881	3905001	e	101
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	013	3905316	3905389	 	32
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	014	3904430	3904514	w	119
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	015	3905422	3905492	o	111
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	016	3905610	3905686	r	114
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	017	3906008	3906140	l	108
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	018	3904802	3904858	d	100
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	019	3905016	3905080	 	32
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	020	3905774	3905912	o	111
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	021	3905860	3905934	v	118
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	022	3905625	3905735	e	101
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	023	3907180	3907258	r	114
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	024	3907508	3907620	 	32
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	025	3907536	3907676	w	119
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	026	3907700	3907838	o	111
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	027	3906042	3906156	r	114
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	028	3908238	3908372	l	108
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	029	3908516	3908568	d	100
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	030	3906248	3906301	 	32
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	031	3908910	3908994	s	115
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	032	3908363	3908476	c	99
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	033	3906552	3906690	i	105
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	034	3907752	3907841	e	101
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	035	3907420	3907505	n	110
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	036	3909580	3909683	c	99
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	037	3906888	3906985	e	101
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	038	3907477	3907594	 	32
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	039	3909042	3909098	o	111
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	040	3907212	3907334	v	118
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	041	3907680	3907775	e	101
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	042	3909191	3909280	r	114
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	043	3907998	3908094	 	32
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	044	3909106	3909157	t	116
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	045	3911404	3911540	h	104
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	046	3909390	3909465	e	101
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	047	3910912	3910979	 	32
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	048	3911742	3911799	d	100
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	049	3907944	3908065	o	111
+040	004	intelligence world over world science over the dog	intelligence world over world science over the dog	050	3908096	3908176	g	103
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	001	3904000	3904144	l	108
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	002	3904124	3904225	a	97
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	003	3904304	3904444	z	122
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	004	3904465	3904543	y	121
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	005	3904464	3904581	 	32
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	006	3904835	3904922	l	108
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	007	3905122	3905259	e	101
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	008	3905239	3905350	a	97
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	009	3904864	3904915	r	114
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	010	3905512	3905615	n	110
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	011	3905530	3905666	i	105
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	012	3905320	3905403	n	110
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	013	3905920	3906043	g	103
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	014	3906158	3906286	 	32
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	015	3905792	3905853	d	100
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	016	3906340	3906462	o	111
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	017	3906048	3906178	g	103
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	018	3906856	3906939	 	32
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	019	3906862	3906959	o	111
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	020	3907553	3907612	v	118
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	021	3906180	3906257	e	101
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	022	3907570	3907655	r	114
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	023	3907212	3907339	 	32
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	024	3907059	3907152	l	108
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	025	3908320	3908385	a	97
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	026	3908125	3908185	z	122
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	027	3907588	3907718	y	121
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	028	3909184	3909317	 	32
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	029	3909124	3909184	t	116
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	030	3907393	3907464	h	104
+040	005	lazy learning dog over lazy the	lazy learning dog over lazy the	031	3908410	3908529	e	101
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	001	3905000	3905128	q	113
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	002	3905103	3905187	u	117
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	003	3905312	3905394	i	105
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	004	3905570	3905624	c	99
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	005	3905568	3905708	k	107
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	006	3905795	3905866	 	32
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	007	3905738	3905817	l	108
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	008	3905798	3905922	a	97
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	009	3906112	3906253	z	122
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	010	3906782	3906881	y	121
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	011	3906200	3906274	 	32
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	012	3907013	3907129	m	109
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	013	3906740	3906886	a	97
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	014	3907288	3907395	c	99
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	015	3907100	3907236	h	104
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	016	3907580	3907729	i	105
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	017	3907400	3907530	n	110
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	018	3906989	3907046	e	101
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	019	3907466	3907569	 	32
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	020	3907774	3907913	w	119
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	021	3907980	3908114	o	111
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	022	3908507	3908561	r	114
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	023	3908982	3909080	l	108
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	024	3908266	3908327	d	100
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	025	3907568	3907669	 	32
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	026	3908475	3908581	b	98
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	027	3908978	3909119	r	114
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	028	3910076	3910220	o	111
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	029	3909032	3909178	w	119
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	030	3909669	3909794	n	110
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	031	3908570	3908665	 	32
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	032	3910704	3910800	d	100
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	033	3911176	3911250	o	111
+040	006	quick lazy machine world brown dog	quick lazy machine world brown dog	034	3909125	3909242	g	103
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	001	3906000	3906090	q	113
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	002	3906121	3906248	u	117
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	003	3906364	3906475	i	105
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	004	3906420	3906504	c	99
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	005	3906788	3906846	k	107
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	006	3906525	3906624	 	32
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	007	3907002	3907108	l	108
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	008	3906805	3906937	e	101
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	009	3907232	3907366	a	97
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	010	3907575	3907704	r	114
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	011	3907160	3907224	n	110
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	012	3908068	3908209	i	105
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	013	3908184	3908305	n	110
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	014	3907378	3907476	g	103
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	015	3908646	3908781	 	32
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	016	3908445	3908550	h	104
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	017	3908608	3908751	e	101
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	018	3908958	3909014	l	108
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	019	3909240	3909305	l	108
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	020	3909610	3909757	o	111
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	021	3909000	3909097	 	32
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	022	3908688	3908742	l	108
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	023	3908882	3908934	e	101
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	024	3909059	3909208	a	97
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	025	3909192	3909246	r	114
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	026	3910375	3910495	n	110
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	027	3910446	3910538	i	105
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	028	3910563	3910661	n	110
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	029	3910368	3910477	g	103
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	030	3910930	3911072	 	32
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	031	3910680	3910737	l	108
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	032	3911208	3911344	e	101
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	033	3911888	3912030	a	97
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	034	3909696	3909827	r	114
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	035	3911542	3911646	n	110
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	036	3909920	3909988	i	105
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	037	3909708	3909769	n	110
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	038	3910551	3910685	g	103
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	039	3911700	3911770	 	32
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	040	3910797	3910905	p	112
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	041	3910160	3910239	r	114
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	042	3914159	3914275	o	111
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	043	3912468	3912520	g	103
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	044	3914385	3914499	r	114
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	045	3910796	3910846	a	97
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	046	3912705	3912840	m	109
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	047	3914694	3914798	m	109
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	048	3913990	3914115	i	105
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	049	3915264	3915391	n	110
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	050	3912468	3912565	g	103
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	051	3911700	3911782	 	32
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	052	3912987	3913077	m	109
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	053	3913540	3913649	a	97
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	054	3914321	3914395	c	99
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	055	3912804	3912877	h	104
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	056	3912105	3912226	i	105
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	057	3912888	3913010	n	110
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	058	3913353	3913495	e	101
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	059	3916614	3916692	 	32
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	060	3916561	3916656	t	116
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	061	3913440	3913586	h	104
+040	007	quick learning hello learning learning programming machine the	quick learning hello learning learning programming machine the	062	3914357	3914459	e	101
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	001	3907000	3907120	a	97
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	002	3907148	3907214	r	114
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	003	3907268	3907327	t	116
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	004	3907354	3907471	i	105
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	005	3907652	3907793	f	102
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	006	3907570	3907706	i	105
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	007	3908122	3908217	c	99
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	008	3907742	3907860	i	105
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	009	3907872	3907981	a	97
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	010	3908746	3908873	l	108
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	011	3908190	3908251	 	32
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	012	3909123	3909248	p	112
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	013	3909064	3909203	r	114
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	014	3909080	3909184	o	111
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	015	3908792	3908884	g	103
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	016	3909490	3909592	r	114
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	017	3909368	3909457	a	97
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	018	3910145	3910252	m	109
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	019	3909934	3910080	m	109
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	020	3908919	3908992	i	105
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	021	3909600	3909737	n	110
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	022	3910885	3911020	g	103
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	023	3911136	3911186	 	32
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	024	3911048	3911147	l	108
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	025	3910024	3910165	e	101
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	026	3911300	3911396	a	97
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	027	3911550	3911649	r	114
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	028	3910510	3910605	n	110
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	029	3911732	3911827	i	105
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	030	3911292	3911366	n	110
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	031	3910270	3910408	g	103
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	032	3910255	3910314	 	32
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	033	3912856	3912951	j	106
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	034	3910366	3910490	u	117
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	035	3913732	3913860	m	109
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	036	3912845	3912991	p	112
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	037	3911788	3911887	s	115
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	038	3912994	3913108	 	32
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	039	3911028	3911100	l	108
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	040	3912655	3912748	e	101
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	041	3912880	3912994	a	97
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	042	3913970	3914074	r	114
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	043	3912334	3912435	n	110
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	044	3912977	3913032	i	105
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	045	3913600	3913720	n	110
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	046	3914605	3914684	g	103
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	047	3913118	3913189	 	32
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	048	3915554	3915692	s	115
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	049	3913192	3913267	c	99
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	050	3914644	3914790	i	105
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	051	3914600	3914673	e	101
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	052	3916741	3916802	n	110
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	053	3917296	3917387	c	99
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	054	3913678	3913799	e	101
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	055	3912616	3912715	 	32
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	056	3916020	3916101	j	106
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	057	3916912	3916996	u	117
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	058	3916747	3916800	m	109
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	059	3917440	3917546	p	112
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	060	3916853	3916956	s	115
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	061	3918640	3918698	 	32
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	062	3913100	3913236	p	112
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	063	3918470	3918586	y	121
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	064	3913300	3913384	t	116
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	065	3918200	3918296	h	104
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	066	3918115	3918214	o	111
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	067	3918946	3919064	n	110
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	068	3917720	3917862	 	32
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	069	3918084	3918202	l	108
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	070	3915073	3915159	e	101
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	071	3914560	3914616	a	97
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	072	3914952	3915060	r	114
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	073	3917872	3917976	n	110
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	074	3916928	3917036	i	105
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	075	3918766	3918864	n	110
+040	008	artificial programming learning jumps learning science jumps python learning	artificial programming learning jumps learning science jumps python learning	076	3915175	3915239	g	103
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	001	3908000	3908109	o	111
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	002	3908106	3908189	v	118
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	003	3908268	3908410	e	101
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	004	3908309	3908391	r	114
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	005	3908700	3908800	 	32
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	006	3908535	3908590	f	102
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	007	3908774	3908913	o	111
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	008	3908980	3909058	x	120
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	009	3909400	3909540	 	32
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	010	3909395	3909505	i	105
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	011	3909810	3909948	n	110
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	012	3909507	3909639	t	116
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	013	3910148	3910266	e	101
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	014	3910028	3910161	l	108
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	015	3910786	3910893	l	108
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	016	3910130	3910242	i	105
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	017	3910896	3911024	g	103
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	018	3910822	3910921	e	101
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	019	3911258	3911315	n	110
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	020	3909976	3910070	c	99
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	021	3911020	3911147	e	101
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	022	3911402	3911452	 	32
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	023	3912224	3912333	l	108
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	024	3911910	3912033	a	97
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	025	3910640	3910699	z	122
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	026	3912925	3913034	y	121
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	027	3912472	3912541	 	32
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	028	3912428	3912507	l	108
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	029	3913292	3913402	a	97
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	030	3912060	3912177	z	122
+040	009	over fox intelligence lazy lazy	over fox intelligence lazy lazy	031	3913790	3913918	y	121
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	001	3909000	3909098	s	115
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	002	3909153	3909293	c	99
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	003	3909226	3909328	i	105
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	004	3909414	3909479	e	101
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	005	3909728	3909813	n	110
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	006	3909660	3909785	c	99
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	007	3909948	3910006	e	101
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	008	3910281	3910358	 	32
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	009	3909976	3910112	h	104
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	010	3910638	3910776	e	101
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	011	3910070	3910187	l	108
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	012	3911145	3911251	l	108
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	013	3910596	3910650	o	111
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	014	3910469	3910592	 	32
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	015	3910540	3910653	q	113
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	016	3911025	3911114	u	117
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	017	3911016	3911122	i	105
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	018	3910717	3910832	c	99
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	019	3912222	3912350	k	107
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	020	3911128	3911219	 	32
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	021	3912580	3912687	b	98
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	022	3913032	3913155	r	114
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	023	3911354	3911470	o	111
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	024	3912128	3912195	w	119
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	025	3912696	3912840	n	110
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	026	3912850	3912938	 	32
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	027	3914018	3914137	i	105
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	028	3913671	3913757	n	110
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	029	3912584	3912657	t	116
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	030	3912625	3912774	e	101
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	031	3914640	3914744	l	108
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	032	3914549	3914644	l	108
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	033	3914952	3915088	i	105
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	034	3915435	3915560	g	103
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	035	3915392	3915532	e	101
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	036	3914775	3914909	n	110
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	037	3914112	3914183	c	99
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	038	3914587	3914689	e	101
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	039	3913256	3913358	 	32
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	040	3913446	3913498	d	100
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	041	3914920	3915011	o	111
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	042	3914576	3914710	g	103
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	043	3915132	3915258	 	32
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	044	3913515	3913639	f	102
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	045	3915072	3915165	o	111
+040	010	science hello quick brown intelligence dog fox	science hello quick brown intelligence dog fox	046	3915165	3915307	x	120

@@ -1,463 +1,475 @@
 PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	001	2200000	2200071	f	102
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	002	2200128	2200231	o	111
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	003	2200398	2200506	x	120
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	004	2200591	2200662	 	32
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	005	2200772	2200834	m	109
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	006	2200740	2200886	a	97
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	007	2201086	2201228	c	99
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	008	2201274	2201389	h	104
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	009	2201552	2201700	i	105
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	010	2201179	2201314	n	110
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	011	2201530	2201580	e	101
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	012	2201826	2201919	 	32
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	013	2201548	2201671	o	111
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	014	2202457	2202556	v	118
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	015	2202198	2202308	e	101
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	016	2201635	2201685	r	114
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	017	2202144	2202283	 	32
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	018	2202448	2202519	j	106
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	019	2202070	2202162	u	117
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	020	2202565	2202659	m	109
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	021	2203500	2203580	p	112
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	022	2203339	2203450	s	115
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	023	2202266	2202326	 	32
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	024	2203381	2203462	p	112
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	025	2203072	2203157	r	114
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	026	2203825	2203973	o	111
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	027	2203952	2204031	g	103
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	028	2204239	2204371	r	114
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	029	2204088	2204189	a	97
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	030	2203509	2203627	m	109
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	031	2205340	2205392	m	109
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	032	2206138	2206241	i	105
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	033	2203488	2203549	n	110
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	034	2206402	2206544	g	103
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	035	2205032	2205133	 	32
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	036	2205845	2205989	d	100
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	037	2203744	2203805	o	111
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	038	2204477	2204534	g	103
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	039	2206384	2206464	 	32
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	040	2206747	2206838	l	108
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	041	2207160	2207243	a	97
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	042	2204469	2204566	z	122
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	043	2208106	2208214	y	121
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	044	2206450	2206563	 	32
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	045	2204796	2204889	q	113
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	046	2204815	2204925	u	117
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	047	2204646	2204739	i	105
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	048	2208507	2208645	c	99
-023	001	fox machine over jumps programming dog lazy quick	fox machine over jumps programming dog lazy quick	049	2205328	2205430	k	107
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	001	2201000	2201146	d	100
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	002	2201131	2201192	o	111
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	003	2201300	2201380	g	103
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	004	2201339	2201425	 	32
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	005	2201616	2201742	w	119
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	006	2201710	2201833	o	111
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	007	2202164	2202220	r	114
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	008	2201763	2201827	l	108
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	009	2201912	2201976	d	100
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	010	2202089	2202168	 	32
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	011	2202190	2202264	t	116
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	012	2202793	2202855	h	104
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	013	2203256	2203372	e	101
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	014	2202729	2202865	 	32
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	015	2202708	2202799	j	106
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	016	2203175	2203266	u	117
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	017	2202680	2202739	m	109
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	018	2203108	2203159	p	112
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	019	2203034	2203147	s	115
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	020	2202919	2203041	 	32
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	021	2204180	2204235	s	115
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	022	2204948	2205049	c	99
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	023	2205334	2205429	i	105
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	024	2204979	2205078	e	101
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	025	2204576	2204628	n	110
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	026	2205125	2205196	c	99
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	027	2205706	2205828	e	101
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	028	2206292	2206366	 	32
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	029	2206012	2206124	o	111
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	030	2206191	2206301	v	118
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	031	2206280	2206388	e	101
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	032	2204627	2204751	r	114
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	033	2204264	2204391	 	32
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	034	2204531	2204600	o	111
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	035	2205760	2205878	v	118
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	036	2205550	2205650	e	101
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	037	2204744	2204866	r	114
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	038	2206254	2206340	 	32
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	039	2208220	2208297	t	116
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	040	2207123	2207257	h	104
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	041	2208480	2208586	e	101
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	042	2205510	2205579	 	32
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	043	2209358	2209471	i	105
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	044	2207665	2207748	n	110
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	045	2208744	2208851	t	116
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	046	2207075	2207190	e	101
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	047	2209418	2209507	l	108
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	048	2210165	2210252	l	108
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	049	2206184	2206273	i	105
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	050	2208399	2208521	g	103
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	051	2206700	2206782	e	101
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	052	2209721	2209867	n	110
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	053	2209372	2209474	c	99
-023	002	dog world the jumps science over over the intelligence	dog world the jumps science over over the intelligence	054	2207943	2208040	e	101
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	001	2202000	2202127	b	98
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	002	2202181	2202314	r	114
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	003	2202314	2202393	o	111
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	004	2202558	2202668	w	119
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	005	2202512	2202633	n	110
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	006	2202955	2203006	 	32
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	007	2202834	2202906	d	100
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	008	2202980	2203032	o	111
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	009	2203128	2203202	g	103
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	010	2203017	2203095	 	32
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	011	2203590	2203714	j	106
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	012	2203562	2203670	u	117
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	013	2203404	2203455	m	109
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	014	2203612	2203730	p	112
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	015	2203792	2203935	s	115
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	016	2203530	2203674	 	32
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	017	2204992	2205076	d	100
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	018	2203734	2203835	a	97
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	019	2204286	2204360	t	116
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	020	2205401	2205452	a	97
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	021	2205240	2205386	 	32
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	022	2205234	2205355	f	102
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	023	2205432	2205501	o	111
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	024	2205979	2206120	x	120
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	025	2206056	2206165	 	32
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	026	2205400	2205452	b	98
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	027	2207070	2207126	r	114
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	028	2205537	2205668	o	111
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	029	2207432	2207517	w	119
-023	003	brown dog jumps data fox brown	brown dog jumps data fox brown	030	2206031	2206172	n	110
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	001	2203000	2203061	p	112
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	002	2203145	2203264	y	121
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	003	2203238	2203319	t	116
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	004	2203339	2203471	h	104
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	005	2203484	2203548	o	111
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	006	2203960	2204067	n	110
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	007	2203822	2203945	 	32
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	008	2204106	2204174	j	106
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	009	2203968	2204117	u	117
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	010	2204332	2204462	m	109
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	011	2204030	2204151	p	112
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	012	2204738	2204813	s	115
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	013	2204584	2204732	 	32
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	014	2205314	2205387	j	106
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	015	2205618	2205709	u	117
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	016	2205970	2206021	m	109
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	017	2205976	2206077	p	112
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	018	2204938	2205047	s	115
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	019	2205016	2205154	 	32
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	020	2205527	2205630	f	102
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	021	2205380	2205479	o	111
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	022	2206717	2206784	x	120
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	023	2207378	2207433	 	32
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	024	2206956	2207032	w	119
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	025	2206960	2207048	o	111
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	026	2207750	2207839	r	114
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	027	2208096	2208150	l	108
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	028	2206618	2206757	d	100
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	029	2206360	2206477	 	32
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	030	2207901	2207978	w	119
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	031	2208610	2208720	o	111
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	032	2208487	2208614	r	114
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	033	2207160	2207279	l	108
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	034	2206432	2206486	d	100
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	035	2208474	2208529	 	32
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	036	2209615	2209674	d	100
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	037	2209120	2209195	a	97
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	038	2209549	2209676	t	116
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	039	2208890	2208982	a	97
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	040	2208850	2208996	 	32
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	041	2207160	2207269	b	98
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	042	2208740	2208866	r	114
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	043	2210308	2210457	o	111
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	044	2211084	2211181	w	119
-023	004	python jumps jumps fox world world data brown	python jumps jumps fox world world data brown	045	2208588	2208645	n	110
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	001	2204000	2204130	b	98
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	002	2204172	2204266	r	114
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	003	2204278	2204367	o	111
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	004	2204453	2204574	w	119
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	005	2204788	2204870	n	110
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	006	2204895	2205000	 	32
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	007	2204774	2204863	t	116
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	008	2205344	2205492	h	104
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	009	2205152	2205222	e	101
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	010	2205332	2205431	 	32
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	011	2205370	2205480	m	109
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	012	2205925	2206045	a	97
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	013	2205608	2205754	c	99
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	014	2206054	2206195	h	104
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	015	2206604	2206697	i	105
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	016	2206715	2206824	n	110
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	017	2207056	2207136	e	101
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	018	2206074	2206170	 	32
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	019	2207474	2207610	d	100
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	020	2206565	2206631	o	111
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	021	2206900	2206959	g	103
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	022	2206625	2206769	 	32
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	023	2207696	2207758	a	97
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	024	2207933	2208078	r	114
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	025	2208056	2208204	t	116
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	026	2207950	2208010	i	105
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	027	2206834	2206954	f	102
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	028	2208806	2208893	i	105
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	029	2208200	2208280	c	99
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	030	2208814	2208961	i	105
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	031	2207000	2207133	a	97
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	032	2208185	2208300	l	108
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	033	2207680	2207754	 	32
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	034	2209973	2210046	d	100
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	035	2208386	2208489	o	111
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	036	2209880	2209959	g	103
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	037	2208284	2208399	 	32
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	038	2209328	2209458	p	112
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	039	2210726	2210786	y	121
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	040	2208056	2208111	t	116
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	041	2211240	2211303	h	104
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	042	2210888	2210949	o	111
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	043	2209502	2209634	n	110
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	044	2210321	2210427	 	32
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	045	2210688	2210837	b	98
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	046	2210390	2210486	r	114
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	047	2212878	2213004	o	111
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	048	2211990	2212125	w	119
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	049	2212208	2212337	n	110
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	050	2210076	2210143	 	32
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	051	2212950	2213018	j	106
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	052	2212160	2212306	u	117
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	053	2213984	2214111	m	109
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	054	2212904	2213018	p	112
-023	005	brown the machine dog artificial dog python brown jumps	brown the machine dog artificial dog python brown jumps	055	2214260	2214395	s	115
-023	006	world dog machine lazy world world	world dog machine lazy world world	001	2205000	2205086	w	119
-023	006	world dog machine lazy world world	world dog machine lazy world world	002	2205189	2205301	o	111
-023	006	world dog machine lazy world world	world dog machine lazy world world	003	2205244	2205310	r	114
-023	006	world dog machine lazy world world	world dog machine lazy world world	004	2205408	2205478	l	108
-023	006	world dog machine lazy world world	world dog machine lazy world world	005	2205664	2205786	d	100
-023	006	world dog machine lazy world world	world dog machine lazy world world	006	2205855	2205993	 	32
-023	006	world dog machine lazy world world	world dog machine lazy world world	007	2205840	2205945	d	100
-023	006	world dog machine lazy world world	world dog machine lazy world world	008	2205819	2205869	o	111
-023	006	world dog machine lazy world world	world dog machine lazy world world	009	2205920	2206061	g	103
-023	006	world dog machine lazy world world	world dog machine lazy world world	010	2206521	2206619	 	32
-023	006	world dog machine lazy world world	world dog machine lazy world world	011	2206750	2206806	m	109
-023	006	world dog machine lazy world world	world dog machine lazy world world	012	2206727	2206824	a	97
-023	006	world dog machine lazy world world	world dog machine lazy world world	013	2206632	2206745	c	99
-023	006	world dog machine lazy world world	world dog machine lazy world world	014	2206300	2206362	h	104
-023	006	world dog machine lazy world world	world dog machine lazy world world	015	2207604	2207663	i	105
-023	006	world dog machine lazy world world	world dog machine lazy world world	016	2207760	2207827	n	110
-023	006	world dog machine lazy world world	world dog machine lazy world world	017	2207192	2207293	e	101
-023	006	world dog machine lazy world world	world dog machine lazy world world	018	2207924	2208067	 	32
-023	006	world dog machine lazy world world	world dog machine lazy world world	019	2207556	2207620	l	108
-023	006	world dog machine lazy world world	world dog machine lazy world world	020	2208439	2208579	a	97
-023	006	world dog machine lazy world world	world dog machine lazy world world	021	2207580	2207716	z	122
-023	006	world dog machine lazy world world	world dog machine lazy world world	022	2208507	2208565	y	121
-023	006	world dog machine lazy world world	world dog machine lazy world world	023	2208058	2208154	 	32
-023	006	world dog machine lazy world world	world dog machine lazy world world	024	2208496	2208586	w	119
-023	006	world dog machine lazy world world	world dog machine lazy world world	025	2208792	2208880	o	111
-023	006	world dog machine lazy world world	world dog machine lazy world world	026	2209675	2209814	r	114
-023	006	world dog machine lazy world world	world dog machine lazy world world	027	2208406	2208520	l	108
-023	006	world dog machine lazy world world	world dog machine lazy world world	028	2209212	2209334	d	100
-023	006	world dog machine lazy world world	world dog machine lazy world world	029	2210348	2210419	 	32
-023	006	world dog machine lazy world world	world dog machine lazy world world	030	2208654	2208772	w	119
-023	006	world dog machine lazy world world	world dog machine lazy world world	031	2208900	2209048	o	111
-023	006	world dog machine lazy world world	world dog machine lazy world world	032	2210270	2210329	r	114
-023	006	world dog machine lazy world world	world dog machine lazy world world	033	2208456	2208547	l	108
-023	006	world dog machine lazy world world	world dog machine lazy world world	034	2210016	2210100	d	100
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	001	2206000	2206057	j	106
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	002	2206119	2206194	u	117
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	003	2206314	2206423	m	109
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	004	2206483	2206628	p	112
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	005	2206740	2206851	s	115
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	006	2206770	2206821	 	32
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	007	2207002	2207089	w	119
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	008	2207106	2207166	o	111
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	009	2207376	2207499	r	114
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	010	2207512	2207598	l	108
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	011	2207090	2207208	d	100
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	012	2207980	2208117	 	32
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	013	2207428	2207509	t	116
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	014	2207300	2207370	h	104
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	015	2207890	2208038	e	101
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	016	2208520	2208584	 	32
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	017	2208512	2208658	l	108
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	018	2209077	2209208	a	97
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	019	2208592	2208728	z	122
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	020	2208128	2208188	y	121
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	021	2208220	2208336	 	32
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	022	2208919	2208990	d	100
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	023	2208706	2208840	o	111
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	024	2210531	2210628	g	103
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	025	2210008	2210126	 	32
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	026	2210700	2210834	i	105
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	027	2209952	2210010	n	110
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	028	2210563	2210681	t	116
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	029	2210088	2210234	e	101
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	030	2209335	2209470	l	108
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	031	2211340	2211447	l	108
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	032	2211301	2211404	i	105
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	033	2210704	2210845	g	103
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	034	2211544	2211689	e	101
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	035	2211644	2211728	n	110
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	036	2210095	2210171	c	99
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	037	2212912	2213048	e	101
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	038	2211735	2211799	 	32
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	039	2211016	2211154	i	105
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	040	2213605	2213676	n	110
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	041	2213800	2213881	t	116
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	042	2211002	2211118	e	101
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	043	2210788	2210852	l	108
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	044	2212708	2212802	l	108
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	045	2213920	2214040	i	105
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	046	2211085	2211172	g	103
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	047	2214096	2214236	e	101
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	048	2214413	2214511	n	110
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	049	2213968	2214104	c	99
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	050	2215555	2215652	e	101
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	051	2214900	2215020	 	32
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	052	2211814	2211886	h	104
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	053	2211512	2211577	e	101
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	054	2213950	2214054	l	108
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	055	2213398	2213466	l	108
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	056	2216505	2216607	o	111
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	057	2214568	2214622	 	32
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	058	2217343	2217457	t	116
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	059	2214062	2214145	h	104
-023	007	jumps world the lazy dog intelligence intelligence hello the	jumps world the lazy dog intelligence intelligence hello the	060	2216325	2216444	e	101
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	001	2207000	2207088	h	104
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	002	2207134	2207232	e	101
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	003	2207350	2207454	l	108
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	004	2207321	2207373	l	108
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	005	2207788	2207849	o	111
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	006	2207585	2207667	 	32
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	007	2207858	2207991	p	112
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	008	2207952	2208022	r	114
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	009	2208248	2208367	o	111
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	010	2208269	2208321	g	103
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	011	2208170	2208239	r	114
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	012	2209068	2209127	a	97
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	013	2208356	2208443	m	109
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	014	2208456	2208535	m	109
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	015	2209380	2209473	i	105
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	016	2209430	2209569	n	110
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	017	2209960	2210020	g	103
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	018	2210349	2210415	 	32
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	019	2209646	2209777	q	113
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	020	2209147	2209252	u	117
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	021	2210900	2210997	i	105
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	022	2210213	2210331	c	99
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	023	2210960	2211102	k	107
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	024	2210795	2210874	 	32
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	025	2211392	2211509	a	97
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	026	2209825	2209898	r	114
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	027	2210224	2210274	t	116
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	028	2210321	2210465	i	105
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	029	2211676	2211732	f	102
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	030	2212481	2212571	i	105
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	031	2212550	2212667	c	99
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	032	2211805	2211920	i	105
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	033	2211256	2211346	a	97
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	034	2212412	2212497	l	108
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	035	2211488	2211566	 	32
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	036	2211830	2211944	d	100
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	037	2212364	2212445	a	97
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	038	2212069	2212179	t	116
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	039	2212586	2212687	a	97
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	040	2211563	2211699	 	32
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	041	2213800	2213885	p	112
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	042	2214298	2214432	r	114
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	043	2211284	2211373	o	111
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	044	2212375	2212497	g	103
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	045	2214832	2214929	r	114
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	046	2211590	2211658	a	97
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	047	2213762	2213871	m	109
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	048	2213486	2213560	m	109
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	049	2213240	2213377	i	105
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	050	2216604	2216657	n	110
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	051	2212750	2212889	g	103
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	052	2216486	2216541	 	32
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	053	2212356	2212444	m	109
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	054	2213731	2213850	a	97
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	055	2216990	2217139	c	99
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	056	2213545	2213629	h	104
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	057	2215904	2216005	i	105
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	058	2215265	2215316	n	110
-023	008	hello programming quick artificial data programming machine	hello programming quick artificial data programming machine	059	2218020	2218129	e	101
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	001	2208000	2208056	l	108
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	002	2208100	2208233	e	101
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	003	2208378	2208523	a	97
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	004	2208552	2208614	r	114
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	005	2208620	2208765	n	110
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	006	2208855	2208999	i	105
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	007	2208702	2208797	n	110
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	008	2209057	2209187	g	103
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	009	2209032	2209125	 	32
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	010	2209539	2209687	f	102
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	011	2209550	2209693	o	111
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	012	2209672	2209758	x	120
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	013	2210112	2210246	 	32
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	014	2209300	2209379	d	100
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	015	2210520	2210633	o	111
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	016	2210505	2210628	g	103
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	017	2210384	2210508	 	32
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	018	2210924	2210999	j	106
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	019	2210916	2211011	u	117
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	020	2211553	2211656	m	109
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	021	2210540	2210666	p	112
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	022	2210940	2211005	s	115
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	023	2211916	2212018	 	32
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	024	2211956	2212027	m	109
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	025	2211360	2211475	a	97
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	026	2211525	2211609	c	99
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	027	2212134	2212275	h	104
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	028	2211564	2211678	i	105
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	029	2213320	2213372	n	110
-023	009	learning fox dog jumps machine	learning fox dog jumps machine	030	2211132	2211241	e	101
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	001	2209000	2209128	p	112
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	002	2209198	2209282	r	114
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	003	2209206	2209322	o	111
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	004	2209348	2209488	g	103
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	005	2209792	2209898	r	114
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	006	2209860	2209993	a	97
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	007	2209864	2209936	m	109
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	008	2209763	2209871	m	109
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	009	2210584	2210728	i	105
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	010	2210323	2210409	n	110
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	011	2210340	2210398	g	103
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	012	2211189	2211241	 	32
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	013	2210572	2210678	m	109
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	014	2211470	2211603	a	97
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	015	2211016	2211163	c	99
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	016	2210815	2210950	h	104
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	017	2210616	2210696	i	105
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	018	2211873	2211978	n	110
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	019	2210836	2210914	e	101
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	020	2211565	2211711	 	32
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	021	2211500	2211554	d	100
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	022	2211457	2211542	a	97
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	023	2213202	2213346	t	116
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	024	2213048	2213171	a	97
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	025	2211616	2211727	 	32
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	026	2212250	2212307	w	119
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	027	2213004	2213079	o	111
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	028	2213509	2213578	r	114
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	029	2211884	2211976	l	108
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	030	2213205	2213273	d	100
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	031	2214220	2214270	 	32
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	032	2213061	2213171	f	102
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	033	2213288	2213396	o	111
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	034	2215072	2215151	x	120
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	035	2213318	2213399	 	32
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	036	2214740	2214846	q	113
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	037	2214040	2214098	u	117
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	038	2214069	2214171	i	105
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	039	2215384	2215481	c	99
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	040	2214226	2214352	k	107
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	041	2214760	2214871	 	32
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	042	2213961	2214034	b	98
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	043	2214544	2214600	r	114
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	044	2214160	2214245	o	111
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	045	2217668	2217725	w	119
-023	010	programming machine data world fox quick brown	programming machine data world fox quick brown	046	2216560	2216694	n	110
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	001	2200000	2200134	m	109
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	002	2200175	2200280	a	97
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	003	2200306	2200408	c	99
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	004	2200414	2200504	h	104
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	005	2200540	2200652	i	105
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	006	2200870	2200926	n	110
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	007	2200804	2200870	e	101
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	008	2201309	2201428	 	32
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	009	2201584	2201713	p	112
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	010	2201404	2201489	r	114
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	011	2201760	2201830	o	111
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	012	2202024	2202100	g	103
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	013	2201608	2201670	r	114
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	014	2202223	2202317	a	97
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	015	2202758	2202894	m	109
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	016	2202070	2202135	m	109
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	017	2202128	2202222	i	105
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	018	2201768	2201893	n	110
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	019	2202340	2202434	g	103
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	020	2202622	2202766	 	32
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	021	2203500	2203633	f	102
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	022	2202541	2202633	o	111
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	023	2203432	2203577	x	120
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	024	2202645	2202784	 	32
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	025	2203432	2203485	i	105
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	026	2204625	2204750	n	110
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	027	2203822	2203890	t	116
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	028	2204698	2204810	e	101
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	029	2204816	2204918	l	108
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	030	2205713	2205828	l	108
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	031	2204140	2204242	i	105
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	032	2204898	2204960	g	103
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	033	2206208	2206326	e	101
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	034	2206435	2206561	n	110
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	035	2205406	2205503	c	99
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	036	2205040	2205124	e	101
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	037	2205724	2205811	 	32
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	038	2205328	2205408	p	112
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	039	2206460	2206576	y	121
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	040	2206630	2206705	t	116
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	041	2205520	2205579	h	104
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	042	2204387	2204500	o	111
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	043	2204536	2204665	n	110
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	044	2207439	2207502	 	32
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	045	2204796	2204888	o	111
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	046	2206615	2206746	v	118
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	047	2208878	2209016	e	101
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	048	2208225	2208364	r	114
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	049	2205856	2205948	 	32
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	050	2209653	2209767	h	104
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	051	2205800	2205908	e	101
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	052	2209435	2209509	l	108
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	053	2208424	2208512	l	108
+023	001	machine programming fox intelligence python over hello	machine programming fox intelligence python over hello	054	2207685	2207757	o	111
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	001	2201000	2201087	q	113
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	002	2201196	2201310	u	117
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	003	2201368	2201427	i	105
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	004	2201438	2201502	c	99
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	005	2201640	2201769	k	107
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	006	2201590	2201657	 	32
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	007	2201984	2202077	i	105
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	008	2202288	2202413	n	110
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	009	2202192	2202293	t	116
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	010	2202638	2202751	e	101
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	011	2202120	2202184	l	108
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	012	2202881	2203009	l	108
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	013	2203208	2203331	i	105
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	014	2202391	2202490	g	103
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	015	2202652	2202713	e	101
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	016	2203880	2203987	n	110
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	017	2203896	2203998	c	99
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	018	2204060	2204188	e	101
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	019	2203232	2203361	 	32
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	020	2204553	2204686	o	111
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	021	2203520	2203616	v	118
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	022	2204066	2204173	e	101
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	023	2204542	2204659	r	114
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	024	2203461	2203583	 	32
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	025	2204240	2204298	p	112
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	026	2204075	2204166	y	121
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	027	2203782	2203931	t	116
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	028	2204213	2204357	h	104
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	029	2205648	2205734	o	111
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	030	2205292	2205383	n	110
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	031	2204420	2204558	 	32
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	032	2206177	2206234	i	105
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	033	2206344	2206469	n	110
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	034	2205191	2205340	t	116
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	035	2206916	2207044	e	101
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	036	2204710	2204801	l	108
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	037	2207300	2207414	l	108
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	038	2205440	2205539	i	105
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	039	2207346	2207416	g	103
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	040	2208137	2208197	e	101
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	041	2205240	2205297	n	110
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	042	2207068	2207179	c	99
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	043	2209358	2209499	e	101
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	044	2208998	2209125	 	32
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	045	2206060	2206199	f	102
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	046	2209640	2209788	o	111
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	047	2207164	2207277	x	120
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	048	2207251	2207338	 	32
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	049	2209640	2209690	q	113
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	050	2210310	2210429	u	117
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	051	2209900	2209959	i	105
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	052	2207324	2207387	c	99
+023	002	quick intelligence over python intelligence fox quick	quick intelligence over python intelligence fox quick	053	2209892	2210022	k	107
+023	003	fox programming python brown learning	fox programming python brown learning	001	2202000	2202137	f	102
+023	003	fox programming python brown learning	fox programming python brown learning	002	2202106	2202166	o	111
+023	003	fox programming python brown learning	fox programming python brown learning	003	2202386	2202511	x	120
+023	003	fox programming python brown learning	fox programming python brown learning	004	2202366	2202450	 	32
+023	003	fox programming python brown learning	fox programming python brown learning	005	2202560	2202648	p	112
+023	003	fox programming python brown learning	fox programming python brown learning	006	2202960	2203083	r	114
+023	003	fox programming python brown learning	fox programming python brown learning	007	2202906	2203010	o	111
+023	003	fox programming python brown learning	fox programming python brown learning	008	2203351	2203439	g	103
+023	003	fox programming python brown learning	fox programming python brown learning	009	2203400	2203491	r	114
+023	003	fox programming python brown learning	fox programming python brown learning	010	2202990	2203096	a	97
+023	003	fox programming python brown learning	fox programming python brown learning	011	2203840	2203918	m	109
+023	003	fox programming python brown learning	fox programming python brown learning	012	2203188	2203279	m	109
+023	003	fox programming python brown learning	fox programming python brown learning	013	2203380	2203496	i	105
+023	003	fox programming python brown learning	fox programming python brown learning	014	2204535	2204657	n	110
+023	003	fox programming python brown learning	fox programming python brown learning	015	2204730	2204872	g	103
+023	003	fox programming python brown learning	fox programming python brown learning	016	2203905	2204052	 	32
+023	003	fox programming python brown learning	fox programming python brown learning	017	2203728	2203871	p	112
+023	003	fox programming python brown learning	fox programming python brown learning	018	2204533	2204603	y	121
+023	003	fox programming python brown learning	fox programming python brown learning	019	2204700	2204756	t	116
+023	003	fox programming python brown learning	fox programming python brown learning	020	2205667	2205750	h	104
+023	003	fox programming python brown learning	fox programming python brown learning	021	2204200	2204311	o	111
+023	003	fox programming python brown learning	fox programming python brown learning	022	2204562	2204681	n	110
+023	003	fox programming python brown learning	fox programming python brown learning	023	2204992	2205067	 	32
+023	003	fox programming python brown learning	fox programming python brown learning	024	2205496	2205600	b	98
+023	003	fox programming python brown learning	fox programming python brown learning	025	2206104	2206222	r	114
+023	003	fox programming python brown learning	fox programming python brown learning	026	2206700	2206802	o	111
+023	003	fox programming python brown learning	fox programming python brown learning	027	2206290	2206432	w	119
+023	003	fox programming python brown learning	fox programming python brown learning	028	2207184	2207280	n	110
+023	003	fox programming python brown learning	fox programming python brown learning	029	2205948	2206056	 	32
+023	003	fox programming python brown learning	fox programming python brown learning	030	2206466	2206591	l	108
+023	003	fox programming python brown learning	fox programming python brown learning	031	2206320	2206406	e	101
+023	003	fox programming python brown learning	fox programming python brown learning	032	2206371	2206513	a	97
+023	003	fox programming python brown learning	fox programming python brown learning	033	2206384	2206485	r	114
+023	003	fox programming python brown learning	fox programming python brown learning	034	2208435	2208547	n	110
+023	003	fox programming python brown learning	fox programming python brown learning	035	2206454	2206545	i	105
+023	003	fox programming python brown learning	fox programming python brown learning	036	2206690	2206795	n	110
+023	003	fox programming python brown learning	fox programming python brown learning	037	2208084	2208207	g	103
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	001	2203000	2203057	f	102
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	002	2203127	2203187	o	111
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	003	2203296	2203408	x	120
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	004	2203414	2203485	 	32
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	005	2203668	2203743	l	108
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	006	2203625	2203689	a	97
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	007	2203888	2204010	z	122
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	008	2204085	2204161	y	121
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	009	2203888	2203998	 	32
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	010	2204188	2204267	s	115
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	011	2204190	2204307	c	99
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	012	2204254	2204345	i	105
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	013	2204572	2204718	e	101
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	014	2204781	2204833	n	110
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	015	2204806	2204859	c	99
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	016	2205235	2205364	e	101
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	017	2206120	2206240	 	32
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	018	2204802	2204879	f	102
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	019	2205124	2205217	o	111
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	020	2205869	2205972	x	120
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	021	2206280	2206404	 	32
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	022	2205457	2205596	f	102
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	023	2207202	2207309	o	111
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	024	2205622	2205747	x	120
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	025	2206864	2206929	 	32
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	026	2206475	2206605	i	105
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	027	2207654	2207713	n	110
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	028	2207266	2207327	t	116
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	029	2207032	2207145	e	101
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	030	2206480	2206539	l	108
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	031	2208340	2208466	l	108
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	032	2207464	2207522	i	105
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	033	2208248	2208370	g	103
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	034	2207026	2207136	e	101
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	035	2208780	2208927	n	110
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	036	2209720	2209783	c	99
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	037	2209084	2209160	e	101
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	038	2207033	2207088	 	32
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	039	2209498	2209549	w	119
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	040	2210488	2210592	o	111
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	041	2207160	2207257	r	114
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	042	2207756	2207878	l	108
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	043	2208250	2208315	d	100
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	044	2210095	2210205	 	32
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	045	2207928	2208075	l	108
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	046	2209435	2209485	a	97
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	047	2207646	2207697	z	122
+023	004	fox lazy science fox fox intelligence world lazy	fox lazy science fox fox intelligence world lazy	048	2211554	2211625	y	121
+023	005	jumps dog the world over the the	jumps dog the world over the the	001	2204000	2204084	j	106
+023	005	jumps dog the world over the the	jumps dog the world over the the	002	2204102	2204156	u	117
+023	005	jumps dog the world over the the	jumps dog the world over the the	003	2204358	2204492	m	109
+023	005	jumps dog the world over the the	jumps dog the world over the the	004	2204561	2204666	p	112
+023	005	jumps dog the world over the the	jumps dog the world over the the	005	2204400	2204529	s	115
+023	005	jumps dog the world over the the	jumps dog the world over the the	006	2204635	2204710	 	32
+023	005	jumps dog the world over the the	jumps dog the world over the the	007	2204774	2204897	d	100
+023	005	jumps dog the world over the the	jumps dog the world over the the	008	2204854	2204932	o	111
+023	005	jumps dog the world over the the	jumps dog the world over the the	009	2205240	2205369	g	103
+023	005	jumps dog the world over the the	jumps dog the world over the the	010	2205791	2205869	 	32
+023	005	jumps dog the world over the the	jumps dog the world over the the	011	2205500	2205569	t	116
+023	005	jumps dog the world over the the	jumps dog the world over the the	012	2205672	2205803	h	104
+023	005	jumps dog the world over the the	jumps dog the world over the the	013	2205800	2205866	e	101
+023	005	jumps dog the world over the the	jumps dog the world over the the	014	2206184	2206238	 	32
+023	005	jumps dog the world over the the	jumps dog the world over the the	015	2206492	2206545	w	119
+023	005	jumps dog the world over the the	jumps dog the world over the the	016	2206820	2206937	o	111
+023	005	jumps dog the world over the the	jumps dog the world over the the	017	2206624	2206759	r	114
+023	005	jumps dog the world over the the	jumps dog the world over the the	018	2206193	2206327	l	108
+023	005	jumps dog the world over the the	jumps dog the world over the the	019	2206322	2206377	d	100
+023	005	jumps dog the world over the the	jumps dog the world over the the	020	2207572	2207718	 	32
+023	005	jumps dog the world over the the	jumps dog the world over the the	021	2207480	2207558	o	111
+023	005	jumps dog the world over the the	jumps dog the world over the the	022	2206856	2206967	v	118
+023	005	jumps dog the world over the the	jumps dog the world over the the	023	2208026	2208137	e	101
+023	005	jumps dog the world over the the	jumps dog the world over the the	024	2207772	2207851	r	114
+023	005	jumps dog the world over the the	jumps dog the world over the the	025	2207384	2207446	 	32
+023	005	jumps dog the world over the the	jumps dog the world over the the	026	2206750	2206822	t	116
+023	005	jumps dog the world over the the	jumps dog the world over the the	027	2207874	2207967	h	104
+023	005	jumps dog the world over the the	jumps dog the world over the the	028	2209319	2209413	e	101
+023	005	jumps dog the world over the the	jumps dog the world over the the	029	2208676	2208752	 	32
+023	005	jumps dog the world over the the	jumps dog the world over the the	030	2206958	2207052	t	116
+023	005	jumps dog the world over the the	jumps dog the world over the the	031	2208200	2208289	h	104
+023	005	jumps dog the world over the the	jumps dog the world over the the	032	2207689	2207828	e	101
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	001	2205000	2205066	s	115
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	002	2205152	2205250	c	99
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	003	2205306	2205376	i	105
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	004	2205402	2205458	e	101
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	005	2205404	2205527	n	110
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	006	2205835	2205924	c	99
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	007	2206188	2206251	e	101
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	008	2206225	2206302	 	32
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	009	2206144	2206194	d	100
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	010	2206755	2206885	o	111
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	011	2206310	2206372	g	103
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	012	2206441	2206567	 	32
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	013	2206668	2206738	j	106
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	014	2206417	2206511	u	117
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	015	2206666	2206775	m	109
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	016	2207490	2207591	p	112
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	017	2208152	2208293	s	115
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	018	2207737	2207796	 	32
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	019	2207376	2207517	h	104
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	020	2207489	2207578	e	101
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	021	2208460	2208590	l	108
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	022	2207583	2207651	l	108
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	023	2209334	2209421	o	111
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	024	2208013	2208162	 	32
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	025	2209104	2209178	p	112
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	026	2209150	2209258	y	121
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	027	2209576	2209671	t	116
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	028	2208699	2208828	h	104
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	029	2208556	2208615	o	111
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	030	2210336	2210432	n	110
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	031	2210220	2210346	 	32
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	032	2208255	2208319	a	97
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	033	2210120	2210250	r	114
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	034	2208927	2208986	t	116
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	035	2209692	2209804	i	105
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	036	2211300	2211410	f	102
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	037	2209248	2209326	i	105
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	038	2212178	2212319	c	99
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	039	2210814	2210949	i	105
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	040	2209056	2209162	a	97
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	041	2209400	2209496	l	108
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	042	2212011	2212116	 	32
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	043	2211384	2211501	l	108
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	044	2210289	2210367	a	97
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	045	2212084	2212188	z	122
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	046	2209635	2209766	y	121
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	047	2211808	2211891	 	32
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	048	2212285	2212418	p	112
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	049	2210664	2210766	r	114
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	050	2213526	2213648	o	111
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	051	2214350	2214472	g	103
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	052	2211732	2211800	r	114
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	053	2214984	2215054	a	97
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	054	2214063	2214119	m	109
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	055	2214288	2214387	m	109
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	056	2211655	2211738	i	105
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	057	2211888	2211968	n	110
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	058	2214462	2214611	g	103
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	059	2214106	2214174	 	32
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	060	2213437	2213580	p	112
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	061	2211720	2211865	r	114
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	062	2215614	2215752	o	111
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	063	2212440	2212518	g	103
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	064	2211867	2211978	r	114
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	065	2215176	2215252	a	97
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	066	2216245	2216316	m	109
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	067	2214570	2214680	m	109
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	068	2215988	2216070	i	105
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	069	2214248	2214353	n	110
+023	006	science dog jumps hello python artificial lazy programming programming	science dog jumps hello python artificial lazy programming programming	070	2212314	2212417	g	103
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	001	2206000	2206094	s	115
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	002	2206122	2206217	c	99
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	003	2206278	2206401	i	105
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	004	2206567	2206707	e	101
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	005	2206412	2206507	n	110
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	006	2206815	2206916	c	99
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	007	2206756	2206865	e	101
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	008	2207211	2207317	 	32
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	009	2207168	2207306	h	104
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	010	2207314	2207374	e	101
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	011	2207830	2207906	l	108
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	012	2207749	2207890	l	108
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	013	2208196	2208246	o	111
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	014	2208548	2208672	 	32
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	015	2208352	2208445	p	112
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	016	2208595	2208684	y	121
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	017	2208640	2208717	t	116
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	018	2207768	2207900	h	104
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	019	2208502	2208564	o	111
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	020	2209059	2209133	n	110
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	021	2208080	2208141	 	32
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	022	2208436	2208535	m	109
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	023	2208442	2208586	a	97
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	024	2209105	2209250	c	99
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	025	2209336	2209396	h	104
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	026	2209725	2209870	i	105
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	027	2208704	2208773	n	110
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	028	2210752	2210838	e	101
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	029	2209388	2209444	 	32
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	030	2209422	2209537	f	102
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	031	2209930	2210032	o	111
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	032	2211983	2212081	x	120
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	033	2211120	2211235	 	32
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	034	2210125	2210198	o	111
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	035	2210250	2210373	v	118
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	036	2209850	2209986	e	101
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	037	2211616	2211745	r	114
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	038	2211217	2211335	 	32
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	039	2209952	2210052	j	106
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	040	2212591	2212663	u	117
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	041	2211400	2211475	m	109
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	042	2210264	2210356	p	112
+023	007	science hello python machine fox over jumps	science hello python machine fox over jumps	043	2214064	2214198	s	115
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	001	2207000	2207130	f	102
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	002	2207182	2207255	o	111
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	003	2207274	2207341	x	120
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	004	2207441	2207518	 	32
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	005	2207508	2207577	a	97
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	006	2207910	2208042	r	114
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	007	2207786	2207905	t	116
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	008	2208218	2208320	i	105
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	009	2208200	2208335	f	102
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	010	2208485	2208603	i	105
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	011	2208230	2208289	c	99
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	012	2208386	2208524	i	105
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	013	2209016	2209089	a	97
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	014	2209145	2209261	l	108
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	015	2208890	2208965	 	32
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	016	2209265	2209383	f	102
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	017	2209496	2209562	o	111
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	018	2209805	2209918	x	120
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	019	2210222	2210371	 	32
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	020	2209527	2209579	l	108
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	021	2210960	2211101	a	97
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	022	2209730	2209809	z	122
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	023	2209882	2209976	y	121
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	024	2210427	2210549	 	32
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	025	2211776	2211890	m	109
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	026	2209600	2209730	a	97
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	027	2211810	2211951	c	99
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	028	2211347	2211423	h	104
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	029	2211844	2211923	i	105
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	030	2210451	2210573	n	110
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	031	2212610	2212662	e	101
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	032	2210193	2210308	 	32
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	033	2213336	2213439	d	100
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	034	2211884	2211984	o	111
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	035	2211114	2211254	g	103
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	036	2213055	2213142	 	32
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	037	2212076	2212139	l	108
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	038	2213586	2213666	a	97
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	039	2212054	2212188	z	122
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	040	2214293	2214428	y	121
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	041	2213400	2213522	 	32
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	042	2211879	2211977	d	100
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	043	2212418	2212560	o	111
+023	008	fox artificial fox lazy machine dog lazy dog	fox artificial fox lazy machine dog lazy dog	044	2215557	2215693	g	103
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	001	2208000	2208116	f	102
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	002	2208131	2208217	o	111
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	003	2208210	2208345	x	120
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	004	2208513	2208642	 	32
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	005	2208704	2208796	p	112
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	006	2208995	2209099	y	121
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	007	2209086	2209231	t	116
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	008	2209274	2209400	h	104
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	009	2209304	2209430	o	111
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	010	2209701	2209815	n	110
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	011	2209080	2209187	 	32
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	012	2210101	2210166	l	108
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	013	2209536	2209644	a	97
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	014	2210483	2210617	z	122
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	015	2210464	2210546	y	121
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	016	2210940	2210990	 	32
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	017	2210640	2210755	w	119
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	018	2210822	2210899	o	111
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	019	2210880	2210967	r	114
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	020	2210888	2211035	l	108
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	021	2211540	2211663	d	100
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	022	2211234	2211367	 	32
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	023	2210244	2210325	m	109
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	024	2212370	2212502	a	97
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	025	2212320	2212466	c	99
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	026	2211575	2211718	h	104
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	027	2210886	2211014	i	105
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	028	2212644	2212789	n	110
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	029	2212200	2212306	e	101
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	030	2211625	2211737	 	32
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	031	2211960	2212068	t	116
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	032	2212929	2213039	h	104
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	033	2213856	2213951	e	101
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	034	2213874	2214010	 	32
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	035	2213950	2214025	m	109
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	036	2214510	2214597	a	97
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	037	2213472	2213584	c	99
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	038	2215030	2215083	h	104
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	039	2211876	2211984	i	105
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	040	2215059	2215152	n	110
+023	009	fox python lazy world machine the machine	fox python lazy world machine the machine	041	2213000	2213101	e	101
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	001	2209000	2209094	o	111
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	002	2209199	2209252	v	118
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	003	2209240	2209349	e	101
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	004	2209564	2209702	r	114
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	005	2209480	2209577	 	32
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	006	2209580	2209699	p	112
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	007	2209624	2209747	y	121
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	008	2210246	2210307	t	116
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	009	2210016	2210120	h	104
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	010	2210746	2210815	o	111
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	011	2210570	2210628	n	110
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	012	2210749	2210828	 	32
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	013	2211220	2211368	d	100
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	014	2211587	2211687	a	97
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	015	2210540	2210611	t	116
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	016	2211610	2211706	a	97
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	017	2210904	2210999	 	32
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	018	2212043	2212094	l	108
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	019	2210998	2211131	a	97
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	020	2211527	2211650	z	122
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	021	2211780	2211882	y	121
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	022	2212276	2212399	 	32
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	023	2212058	2212204	j	106
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	024	2213439	2213500	u	117
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	025	2212816	2212867	m	109
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	026	2212425	2212567	p	112
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	027	2213966	2214026	s	115
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	028	2211835	2211966	 	32
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	029	2213592	2213716	m	109
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	030	2213060	2213192	a	97
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	031	2212780	2212876	c	99
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	032	2213526	2213601	h	104
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	033	2215304	2215443	i	105
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	034	2214016	2214075	n	110
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	035	2214984	2215051	e	101
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	036	2215720	2215785	 	32
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	037	2215696	2215832	a	97
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	038	2214180	2214294	r	114
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	039	2212914	2212985	t	116
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	040	2215513	2215656	i	105
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	041	2216160	2216223	f	102
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	042	2215642	2215712	i	105
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	043	2214544	2214610	c	99
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	044	2217127	2217259	i	105
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	045	2213840	2213903	a	97
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	046	2213725	2213785	l	108
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	047	2216222	2216307	 	32
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	048	2216849	2216909	w	119
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	049	2216632	2216743	o	111
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	050	2214733	2214857	r	114
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	051	2216050	2216153	l	108
+023	010	over python data lazy jumps machine artificial world	over python data lazy jumps machine artificial world	052	2216752	2216820	d	100

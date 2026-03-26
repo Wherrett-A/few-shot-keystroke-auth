@@ -17,6 +17,17 @@ if __name__ == "__main__":
     parser.add_argument("-t", "--test", action="store_true", help="Generate mock data")
     args = parser.parse_args()
 
+    parser.add_argument(
+        "-r",
+        "--ratio",
+        type=float,
+        default=None,
+        help="Train/test split ratio (default: 0.8)",
+    )
+    args = parser.parse_args()
+
+    split_ratio = args.ratio if args.ratio else config.SPLIT_RATIO
+
     if args.test:
         print("==== Test Mode Enabled ====")
         print("Generating mock data...")
@@ -30,4 +41,5 @@ if __name__ == "__main__":
         output_file=output_file,
         window_size=window_size,
         stride=stride,
+        split_ratio=split_ratio,
     )

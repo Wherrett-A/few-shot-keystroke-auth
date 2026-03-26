@@ -10,3 +10,6 @@ MOCK_INPUT_DATA_DIR = "data/mock_data"
 MOCK_OUTPUT_DATA_FILE = "data/mock_output/aalto_mock.h5"
 NUM_MOCK_USERS = 50
 SESSIONS_PER_MOCK_USER = 10
+
+# Train/test split ratio (default 80:20)
+SPLIT_RATIO = 0.8

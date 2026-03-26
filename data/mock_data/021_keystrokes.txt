@@ -1,519 +1,499 @@
 PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	001	2000000	2000059	i	105
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	002	2000184	2000312	n	110
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	003	2000224	2000361	t	116
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	004	2000303	2000413	e	101
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	005	2000700	2000760	l	108
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	006	2000640	2000710	l	108
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	007	2000660	2000721	i	105
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	008	2001365	2001444	g	103
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	009	2001536	2001599	e	101
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	010	2000936	2001055	n	110
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	011	2001300	2001405	c	99
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	012	2001100	2001234	e	101
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	013	2001368	2001468	 	32
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	014	2001716	2001845	h	104
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	015	2002310	2002449	e	101
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	016	2002985	2003057	l	108
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	017	2001632	2001698	l	108
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	018	2003298	2003375	o	111
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	019	2001962	2002021	 	32
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	020	2003002	2003088	q	113
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	021	2002060	2002128	u	117
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	022	2004053	2004155	i	105
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	023	2002992	2003102	c	99
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	024	2003450	2003540	k	107
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	025	2003216	2003311	 	32
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	026	2004050	2004140	l	108
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	027	2004342	2004421	e	101
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	028	2004671	2004734	a	97
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	029	2004536	2004639	r	114
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	030	2005771	2005899	n	110
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	031	2004860	2004970	i	105
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	032	2003193	2003283	n	110
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	033	2005088	2005224	g	103
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	034	2003333	2003451	 	32
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	035	2005508	2005645	p	112
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	036	2003745	2003882	r	114
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	037	2004752	2004859	o	111
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	038	2005217	2005343	g	103
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	039	2005510	2005610	r	114
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	040	2004836	2004938	a	97
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	041	2005600	2005662	m	109
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	042	2004838	2004940	m	109
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	043	2004536	2004673	i	105
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	044	2005848	2005994	n	110
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	045	2007304	2007430	g	103
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	046	2007290	2007360	 	32
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	047	2007360	2007497	t	116
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	048	2008883	2008954	h	104
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	049	2008256	2008379	e	101
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	050	2008575	2008628	 	32
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	051	2008800	2008935	t	116
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	052	2009639	2009777	h	104
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	053	2008528	2008634	e	101
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	054	2009328	2009421	 	32
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	055	2006156	2006214	p	112
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	056	2009735	2009862	r	114
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	057	2006608	2006664	o	111
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	058	2006669	2006727	g	103
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	059	2009106	2009211	r	114
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	060	2007434	2007571	a	97
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	061	2008760	2008854	m	109
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	062	2007930	2008021	m	109
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	063	2007440	2007523	i	105
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	064	2010080	2010187	n	110
-021	001	intelligence hello quick learning programming the the programming	intelligence hello quick learning programming the the programming	065	2010112	2010251	g	103
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	001	2001000	2001107	w	119
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	002	2001129	2001260	o	111
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	003	2001356	2001409	r	114
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	004	2001432	2001535	l	108
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	005	2001532	2001678	d	100
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	006	2001790	2001880	 	32
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	007	2001924	2001982	q	113
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	008	2001952	2002005	u	117
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	009	2002368	2002512	i	105
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	010	2002530	2002623	c	99
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	011	2002120	2002251	k	107
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	012	2002551	2002613	 	32
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	013	2002968	2003087	h	104
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	014	2003353	2003450	e	101
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	015	2003128	2003263	l	108
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	016	2003010	2003089	l	108
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	017	2002680	2002768	o	111
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	018	2003856	2003991	 	32
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	019	2003016	2003114	j	106
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	020	2003489	2003622	u	117
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	021	2004240	2004365	m	109
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	022	2005053	2005195	p	112
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	023	2004740	2004864	s	115
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	024	2004956	2005070	 	32
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	025	2003736	2003857	l	108
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	026	2005425	2005538	a	97
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	027	2004640	2004748	z	122
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	028	2006238	2006364	y	121
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	029	2005004	2005071	 	32
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	030	2005901	2005992	p	112
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	031	2006730	2006875	y	121
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	032	2004565	2004677	t	116
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	033	2007240	2007309	h	104
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	034	2007534	2007640	o	111
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	035	2004808	2004875	n	110
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	036	2006215	2006360	 	32
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	037	2006400	2006484	d	100
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	038	2005181	2005275	a	97
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	039	2007384	2007447	t	116
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	040	2007240	2007384	a	97
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	041	2005480	2005586	 	32
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	042	2008585	2008661	i	105
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	043	2006544	2006612	n	110
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	044	2006762	2006841	t	116
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	045	2007952	2008012	e	101
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	046	2007795	2007847	l	108
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	047	2008958	2009031	l	108
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	048	2006217	2006343	i	105
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	049	2006568	2006632	g	103
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	050	2008154	2008276	e	101
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	051	2006950	2007048	n	110
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	052	2011098	2011193	c	99
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	053	2009476	2009526	e	101
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	054	2007890	2008006	 	32
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	055	2011746	2011873	i	105
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	056	2008810	2008909	n	110
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	057	2011976	2012069	t	116
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	058	2011032	2011130	e	101
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	059	2011614	2011673	l	108
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	060	2007962	2008028	l	108
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	061	2007240	2007290	i	105
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	062	2007161	2007291	g	103
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	063	2008502	2008613	e	101
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	064	2011962	2012063	n	110
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	065	2008744	2008824	c	99
-021	002	world quick hello jumps lazy python data intelligence intelligence	world quick hello jumps lazy python data intelligence intelligence	066	2013805	2013856	e	101
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	001	2002000	2002087	m	109
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	002	2002105	2002253	a	97
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	003	2002316	2002422	c	99
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	004	2002426	2002485	h	104
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	005	2002564	2002637	i	105
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	006	2002850	2002941	n	110
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	007	2002852	2002972	e	101
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	008	2002966	2003082	 	32
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	009	2003472	2003583	o	111
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	010	2003269	2003359	v	118
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	011	2003170	2003239	e	101
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	012	2003738	2003856	r	114
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	013	2004016	2004104	 	32
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	014	2003729	2003807	q	113
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	015	2004478	2004557	u	117
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	016	2004445	2004539	i	105
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	017	2004864	2004938	c	99
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	018	2004941	2005082	k	107
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	019	2004322	2004440	 	32
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	020	2004261	2004369	d	100
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	021	2004180	2004259	a	97
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	022	2005780	2005908	t	116
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	023	2004200	2004256	a	97
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	024	2006071	2006146	 	32
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	025	2006176	2006261	l	108
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	026	2005250	2005353	a	97
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	027	2005484	2005619	z	122
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	028	2006509	2006616	y	121
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	029	2007320	2007426	 	32
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	030	2007771	2007841	p	112
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	031	2006470	2006601	r	114
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	032	2006557	2006703	o	111
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	033	2007152	2007273	g	103
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	034	2007973	2008082	r	114
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	035	2006284	2006354	a	97
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	036	2006410	2006549	m	109
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	037	2009056	2009119	m	109
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	038	2009141	2009270	i	105
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	039	2007320	2007436	n	110
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	040	2009332	2009399	g	103
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	041	2006840	2006968	 	32
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	042	2008765	2008823	t	116
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	043	2009560	2009699	h	104
-021	003	machine over quick data lazy programming the	machine over quick data lazy programming the	044	2008149	2008227	e	101
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	001	2003000	2003143	h	104
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	002	2003122	2003189	e	101
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	003	2003222	2003363	l	108
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	004	2003498	2003560	l	108
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	005	2003464	2003549	o	111
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	006	2003835	2003897	 	32
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	007	2003672	2003787	f	102
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	008	2004127	2004253	o	111
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	009	2004184	2004242	x	120
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	010	2003927	2004065	 	32
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	011	2004130	2004244	a	97
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	012	2004650	2004712	r	114
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	013	2005136	2005204	t	116
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	014	2004924	2004978	i	105
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	015	2004918	2004981	f	102
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	016	2004710	2004792	i	105
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	017	2006008	2006074	c	99
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	018	2004836	2004936	i	105
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	019	2005322	2005375	a	97
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	020	2005546	2005641	l	108
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	021	2005360	2005490	 	32
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	022	2005583	2005700	p	112
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	023	2006652	2006712	r	114
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	024	2006795	2006862	o	111
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	025	2006192	2006254	g	103
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	026	2006275	2006379	r	114
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	027	2007992	2008105	a	97
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	028	2007374	2007440	m	109
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	029	2008012	2008065	m	109
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	030	2006799	2006896	i	105
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	031	2007380	2007498	n	110
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	032	2008642	2008704	g	103
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	033	2009080	2009227	 	32
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	034	2007422	2007489	o	111
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	035	2008712	2008847	v	118
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	036	2009020	2009169	e	101
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	037	2007968	2008053	r	114
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	038	2008735	2008787	 	32
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	039	2006990	2007044	t	116
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	040	2010488	2010578	h	104
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	041	2009920	2010028	e	101
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	042	2007715	2007826	 	32
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	043	2008544	2008644	a	97
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	044	2011471	2011609	r	114
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	045	2007928	2008044	t	116
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	046	2010830	2010884	i	105
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	047	2009256	2009379	f	102
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	048	2012212	2012286	i	105
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	049	2007992	2008135	c	99
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	050	2008782	2008856	i	105
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	051	2010600	2010736	a	97
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	052	2008100	2008232	l	108
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	053	2008252	2008379	 	32
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	054	2009413	2009556	h	104
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	055	2012288	2012359	e	101
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	056	2008500	2008570	l	108
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	057	2010112	2010261	l	108
-021	004	hello fox artificial programming over the artificial hello	hello fox artificial programming over the artificial hello	058	2012918	2013056	o	111
-021	005	quick data science brown artificial python	quick data science brown artificial python	001	2004000	2004083	q	113
-021	005	quick data science brown artificial python	quick data science brown artificial python	002	2004146	2004204	u	117
-021	005	quick data science brown artificial python	quick data science brown artificial python	003	2004210	2004329	i	105
-021	005	quick data science brown artificial python	quick data science brown artificial python	004	2004384	2004457	c	99
-021	005	quick data science brown artificial python	quick data science brown artificial python	005	2004752	2004802	k	107
-021	005	quick data science brown artificial python	quick data science brown artificial python	006	2004525	2004632	 	32
-021	005	quick data science brown artificial python	quick data science brown artificial python	007	2004906	2005046	d	100
-021	005	quick data science brown artificial python	quick data science brown artificial python	008	2005197	2005279	a	97
-021	005	quick data science brown artificial python	quick data science brown artificial python	009	2005160	2005224	t	116
-021	005	quick data science brown artificial python	quick data science brown artificial python	010	2005656	2005718	a	97
-021	005	quick data science brown artificial python	quick data science brown artificial python	011	2005330	2005391	 	32
-021	005	quick data science brown artificial python	quick data science brown artificial python	012	2005683	2005825	s	115
-021	005	quick data science brown artificial python	quick data science brown artificial python	013	2005536	2005641	c	99
-021	005	quick data science brown artificial python	quick data science brown artificial python	014	2005365	2005503	i	105
-021	005	quick data science brown artificial python	quick data science brown artificial python	015	2006408	2006536	e	101
-021	005	quick data science brown artificial python	quick data science brown artificial python	016	2005845	2005983	n	110
-021	005	quick data science brown artificial python	quick data science brown artificial python	017	2005680	2005821	c	99
-021	005	quick data science brown artificial python	quick data science brown artificial python	018	2005955	2006066	e	101
-021	005	quick data science brown artificial python	quick data science brown artificial python	019	2007006	2007071	 	32
-021	005	quick data science brown artificial python	quick data science brown artificial python	020	2007249	2007361	b	98
-021	005	quick data science brown artificial python	quick data science brown artificial python	021	2006860	2006918	r	114
-021	005	quick data science brown artificial python	quick data science brown artificial python	022	2006247	2006358	o	111
-021	005	quick data science brown artificial python	quick data science brown artificial python	023	2007080	2007216	w	119
-021	005	quick data science brown artificial python	quick data science brown artificial python	024	2008025	2008084	n	110
-021	005	quick data science brown artificial python	quick data science brown artificial python	025	2007048	2007166	 	32
-021	005	quick data science brown artificial python	quick data science brown artificial python	026	2006875	2006927	a	97
-021	005	quick data science brown artificial python	quick data science brown artificial python	027	2007952	2008088	r	114
-021	005	quick data science brown artificial python	quick data science brown artificial python	028	2008968	2009106	t	116
-021	005	quick data science brown artificial python	quick data science brown artificial python	029	2008060	2008196	i	105
-021	005	quick data science brown artificial python	quick data science brown artificial python	030	2006929	2006985	f	102
-021	005	quick data science brown artificial python	quick data science brown artificial python	031	2007600	2007705	i	105
-021	005	quick data science brown artificial python	quick data science brown artificial python	032	2008278	2008331	c	99
-021	005	quick data science brown artificial python	quick data science brown artificial python	033	2009984	2010118	i	105
-021	005	quick data science brown artificial python	quick data science brown artificial python	034	2008092	2008203	a	97
-021	005	quick data science brown artificial python	quick data science brown artificial python	035	2008080	2008151	l	108
-021	005	quick data science brown artificial python	quick data science brown artificial python	036	2008375	2008516	 	32
-021	005	quick data science brown artificial python	quick data science brown artificial python	037	2010516	2010609	p	112
-021	005	quick data science brown artificial python	quick data science brown artificial python	038	2011067	2011198	y	121
-021	005	quick data science brown artificial python	quick data science brown artificial python	039	2010726	2010831	t	116
-021	005	quick data science brown artificial python	quick data science brown artificial python	040	2008953	2009093	h	104
-021	005	quick data science brown artificial python	quick data science brown artificial python	041	2009720	2009770	o	111
-021	005	quick data science brown artificial python	quick data science brown artificial python	042	2011380	2011459	n	110
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	001	2005000	2005141	d	100
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	002	2005103	2005173	a	97
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	003	2005334	2005384	t	116
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	004	2005324	2005467	a	97
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	005	2005420	2005503	 	32
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	006	2005960	2006058	w	119
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	007	2005714	2005791	o	111
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	008	2005756	2005854	r	114
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	009	2005928	2006057	l	108
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	010	2006080	2006201	d	100
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	011	2006180	2006267	 	32
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	012	2006936	2006996	l	108
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	013	2006416	2006508	a	97
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	014	2007496	2007635	z	122
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	015	2007478	2007580	y	121
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	016	2007940	2008088	 	32
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	017	2006680	2006768	i	105
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	018	2006870	2006928	n	110
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	019	2007178	2007249	t	116
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	020	2007394	2007480	e	101
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	021	2008380	2008494	l	108
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	022	2007961	2008089	l	108
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	023	2007508	2007614	i	105
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	024	2009347	2009464	g	103
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	025	2008696	2008833	e	101
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	026	2008750	2008869	n	110
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	027	2007730	2007819	c	99
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	028	2009347	2009403	e	101
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	029	2008808	2008889	 	32
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	030	2009553	2009635	a	97
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	031	2008330	2008408	r	114
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	032	2009774	2009888	t	116
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	033	2009256	2009369	i	105
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	034	2010478	2010612	f	102
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	035	2009046	2009101	i	105
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	036	2009725	2009775	c	99
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	037	2008816	2008911	i	105
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	038	2010032	2010127	a	97
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	039	2009256	2009341	l	108
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	040	2009017	2009098	 	32
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	041	2010560	2010643	o	111
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	042	2010371	2010424	v	118
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	043	2011174	2011296	e	101
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	044	2011579	2011670	r	114
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	045	2010940	2011054	 	32
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	046	2013145	2013226	w	119
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	047	2010290	2010370	o	111
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	048	2014212	2014318	r	114
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	049	2014168	2014226	l	108
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	050	2014408	2014485	d	100
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	051	2011200	2011314	 	32
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	052	2011579	2011712	q	113
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	053	2014360	2014425	u	117
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	054	2014222	2014286	i	105
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	055	2011588	2011656	c	99
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	056	2012810	2012956	k	107
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	057	2014464	2014520	 	32
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	058	2016286	2016426	l	108
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	059	2016368	2016451	e	101
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	060	2013555	2013634	a	97
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	061	2011480	2011545	r	114
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	062	2015248	2015369	n	110
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	063	2011200	2011279	i	105
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	064	2011552	2011630	n	110
-021	006	data world lazy intelligence artificial over world quick learning	data world lazy intelligence artificial over world quick learning	065	2012552	2012614	g	103
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	001	2006000	2006147	f	102
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	002	2006144	2006260	o	111
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	003	2006396	2006487	x	120
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	004	2006456	2006516	 	32
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	005	2006528	2006672	f	102
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	006	2006765	2006902	o	111
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	007	2006792	2006909	x	120
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	008	2007365	2007424	 	32
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	009	2007152	2007278	j	106
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	010	2007737	2007815	u	117
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	011	2007850	2007912	m	109
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	012	2007870	2007989	p	112
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	013	2008064	2008184	s	115
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	014	2008431	2008500	 	32
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	015	2007652	2007750	p	112
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	016	2007920	2007995	y	121
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	017	2007904	2007990	t	116
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	018	2008754	2008901	h	104
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	019	2007890	2007977	o	111
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	020	2008223	2008279	n	110
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	021	2008940	2009006	 	32
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	022	2010053	2010163	a	97
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	023	2008860	2008923	r	114
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	024	2008622	2008685	t	116
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	025	2009456	2009602	i	105
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	026	2009575	2009671	f	102
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	027	2009510	2009648	i	105
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	028	2009537	2009678	c	99
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	029	2010508	2010622	i	105
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	030	2010814	2010935	a	97
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	031	2009900	2009982	l	108
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	032	2009627	2009734	 	32
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	033	2009968	2010065	f	102
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	034	2009828	2009909	o	111
-021	007	fox fox jumps python artificial fox	fox fox jumps python artificial fox	035	2012256	2012380	x	120
-021	008	programming over quick world data	programming over quick world data	001	2007000	2007135	p	112
-021	008	programming over quick world data	programming over quick world data	002	2007186	2007259	r	114
-021	008	programming over quick world data	programming over quick world data	003	2007286	2007386	o	111
-021	008	programming over quick world data	programming over quick world data	004	2007363	2007456	g	103
-021	008	programming over quick world data	programming over quick world data	005	2007556	2007633	r	114
-021	008	programming over quick world data	programming over quick world data	006	2007945	2008074	a	97
-021	008	programming over quick world data	programming over quick world data	007	2008086	2008217	m	109
-021	008	programming over quick world data	programming over quick world data	008	2008162	2008229	m	109
-021	008	programming over quick world data	programming over quick world data	009	2007824	2007887	i	105
-021	008	programming over quick world data	programming over quick world data	010	2008323	2008390	n	110
-021	008	programming over quick world data	programming over quick world data	011	2008850	2008921	g	103
-021	008	programming over quick world data	programming over quick world data	012	2009068	2009181	 	32
-021	008	programming over quick world data	programming over quick world data	013	2008548	2008600	o	111
-021	008	programming over quick world data	programming over quick world data	014	2009067	2009164	v	118
-021	008	programming over quick world data	programming over quick world data	015	2008596	2008743	e	101
-021	008	programming over quick world data	programming over quick world data	016	2008815	2008885	r	114
-021	008	programming over quick world data	programming over quick world data	017	2008696	2008785	 	32
-021	008	programming over quick world data	programming over quick world data	018	2009193	2009309	q	113
-021	008	programming over quick world data	programming over quick world data	019	2009718	2009846	u	117
-021	008	programming over quick world data	programming over quick world data	020	2009603	2009693	i	105
-021	008	programming over quick world data	programming over quick world data	021	2009200	2009287	c	99
-021	008	programming over quick world data	programming over quick world data	022	2010318	2010376	k	107
-021	008	programming over quick world data	programming over quick world data	023	2011290	2011437	 	32
-021	008	programming over quick world data	programming over quick world data	024	2009875	2009951	w	119
-021	008	programming over quick world data	programming over quick world data	025	2009592	2009739	o	111
-021	008	programming over quick world data	programming over quick world data	026	2010625	2010720	r	114
-021	008	programming over quick world data	programming over quick world data	027	2010484	2010621	l	108
-021	008	programming over quick world data	programming over quick world data	028	2010753	2010869	d	100
-021	008	programming over quick world data	programming over quick world data	029	2011592	2011642	 	32
-021	008	programming over quick world data	programming over quick world data	030	2010422	2010516	d	100
-021	008	programming over quick world data	programming over quick world data	031	2011710	2011776	a	97
-021	008	programming over quick world data	programming over quick world data	032	2012735	2012793	t	116
-021	008	programming over quick world data	programming over quick world data	033	2011672	2011814	a	97
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	001	2008000	2008141	m	109
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	002	2008165	2008242	a	97
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	003	2008398	2008483	c	99
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	004	2008372	2008485	h	104
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	005	2008676	2008801	i	105
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	006	2008675	2008817	n	110
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	007	2009110	2009256	e	101
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	008	2009204	2009319	 	32
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	009	2008832	2008947	d	100
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	010	2009017	2009157	o	111
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	011	2009610	2009684	g	103
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	012	2009265	2009359	 	32
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	013	2009296	2009440	t	116
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	014	2010223	2010326	h	104
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	015	2010478	2010531	e	101
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	016	2009665	2009733	 	32
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	017	2011040	2011189	s	115
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	018	2010958	2011036	c	99
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	019	2011546	2011686	i	105
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	020	2009995	2010052	e	101
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	021	2011140	2011207	n	110
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	022	2011906	2011982	c	99
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	023	2011542	2011662	e	101
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	024	2010714	2010832	 	32
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	025	2012128	2012207	p	112
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	026	2010725	2010868	y	121
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	027	2010704	2010755	t	116
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	028	2010916	2011004	h	104
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	029	2010828	2010970	o	111
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	030	2011219	2011302	n	110
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	031	2013250	2013326	 	32
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	032	2013735	2013863	m	109
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	033	2012768	2012840	a	97
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	034	2011927	2012028	c	99
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	035	2012862	2012997	h	104
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	036	2014475	2014525	i	105
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	037	2014840	2014966	n	110
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	038	2014475	2014596	e	101
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	039	2014574	2014697	 	32
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	040	2015410	2015469	f	102
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	041	2015120	2015224	o	111
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	042	2012141	2012242	x	120
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	043	2014510	2014599	 	32
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	044	2014235	2014329	b	98
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	045	2012532	2012675	r	114
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	046	2016280	2016332	o	111
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	047	2013934	2014008	w	119
-021	009	machine dog the science python machine fox brown	machine dog the science python machine fox brown	048	2014298	2014388	n	110
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	001	2009000	2009128	f	102
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	002	2009168	2009236	o	111
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	003	2009396	2009510	x	120
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	004	2009489	2009606	 	32
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	005	2009680	2009759	i	105
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	006	2009535	2009621	n	110
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	007	2010008	2010099	t	116
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	008	2010218	2010323	e	101
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	009	2009880	2009936	l	108
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	010	2010620	2010680	l	108
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	011	2010420	2010541	i	105
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	012	2010760	2010900	g	103
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	013	2011112	2011189	e	101
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	014	2010586	2010692	n	110
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	015	2011352	2011482	c	99
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	016	2011340	2011442	e	101
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	017	2011368	2011509	 	32
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	018	2012026	2012167	h	104
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	019	2012150	2012276	e	101
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	020	2012724	2012842	l	108
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	021	2012380	2012472	l	108
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	022	2011562	2011626	o	111
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	023	2011376	2011518	 	32
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	024	2011944	2012089	s	115
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	025	2012600	2012692	c	99
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	026	2012500	2012587	i	105
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	027	2011912	2012054	e	101
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	028	2012051	2012149	n	110
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	029	2014264	2014327	c	99
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	030	2013669	2013785	e	101
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	031	2012390	2012521	 	32
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	032	2014983	2015096	l	108
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	033	2014664	2014806	e	101
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	034	2012366	2012430	a	97
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	035	2015256	2015381	r	114
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	036	2013970	2014057	n	110
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	037	2014184	2014266	i	105
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	038	2014624	2014719	n	110
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	039	2015650	2015779	g	103
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	040	2014460	2014544	 	32
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	041	2014280	2014413	h	104
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	042	2014453	2014556	e	101
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	043	2015846	2015968	l	108
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	044	2015794	2015914	l	108
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	045	2017360	2017422	o	111
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	046	2015030	2015142	 	32
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	047	2013830	2013898	m	109
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	048	2016896	2016948	a	97
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	049	2015576	2015648	c	99
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	050	2016448	2016534	h	104
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	051	2018800	2018878	i	105
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	052	2017874	2017929	n	110
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	053	2018932	2018995	e	101
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	054	2017056	2017117	 	32
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	055	2015426	2015569	d	100
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	056	2017470	2017592	o	111
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	057	2014880	2014999	g	103
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	058	2016353	2016455	 	32
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	059	2016366	2016449	o	111
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	060	2016670	2016735	v	118
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	061	2020460	2020570	e	101
-021	010	fox intelligence hello science learning hello machine dog over	fox intelligence hello science learning hello machine dog over	062	2019736	2019845	r	114
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	001	2000000	2000144	a	97
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	002	2000177	2000295	r	114
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	003	2000386	2000533	t	116
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	004	2000462	2000610	i	105
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	005	2000608	2000688	f	102
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	006	2000995	2001118	i	105
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	007	2000654	2000799	c	99
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	008	2001127	2001271	i	105
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	009	2001136	2001280	a	97
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	010	2001341	2001461	l	108
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	011	2001210	2001295	 	32
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	012	2002079	2002182	a	97
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	013	2002388	2002527	r	114
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	014	2002249	2002349	t	116
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	015	2001610	2001673	i	105
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	016	2001740	2001802	f	102
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	017	2002432	2002490	i	105
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	018	2002006	2002149	c	99
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	019	2002250	2002371	i	105
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	020	2003762	2003813	a	97
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	021	2002820	2002886	l	108
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	022	2003759	2003813	 	32
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	023	2003234	2003303	l	108
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	024	2002990	2003113	e	101
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	025	2003096	2003188	a	97
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	026	2002725	2002837	r	114
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	027	2004472	2004539	n	110
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	028	2002754	2002887	i	105
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	029	2003612	2003684	n	110
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	030	2005626	2005719	g	103
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	031	2004800	2004858	 	32
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	032	2003410	2003510	j	106
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	033	2005312	2005380	u	117
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	034	2006105	2006224	m	109
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	035	2006766	2006869	p	112
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	036	2006090	2006226	s	115
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	037	2004968	2005045	 	32
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	038	2006771	2006906	f	102
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	039	2004446	2004573	o	111
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	040	2005187	2005281	x	120
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	041	2006760	2006897	 	32
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	042	2005412	2005518	p	112
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	043	2008106	2008171	y	121
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	044	2007740	2007830	t	116
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	045	2008272	2008323	h	104
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	046	2005625	2005680	o	111
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	047	2005198	2005342	n	110
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	048	2008178	2008309	 	32
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	049	2006912	2006979	i	105
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	050	2009751	2009818	n	110
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	051	2008350	2008410	t	116
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	052	2009792	2009894	e	101
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	053	2008528	2008629	l	108
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	054	2008109	2008215	l	108
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	055	2008154	2008210	i	105
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	056	2009130	2009252	g	103
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	057	2009688	2009776	e	101
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	058	2009690	2009757	n	110
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	059	2009338	2009449	c	99
+021	001	artificial artificial learning jumps fox python intelligence	artificial artificial learning jumps fox python intelligence	060	2006549	2006689	e	101
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	001	2001000	2001082	h	104
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	002	2001125	2001236	e	101
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	003	2001382	2001450	l	108
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	004	2001426	2001553	l	108
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	005	2001412	2001503	o	111
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	006	2001860	2001999	 	32
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	007	2002182	2002244	t	116
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	008	2002008	2002124	h	104
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	009	2002136	2002201	e	101
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	010	2002242	2002318	 	32
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	011	2002190	2002257	o	111
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	012	2002221	2002360	v	118
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	013	2002632	2002685	e	101
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	014	2002664	2002794	r	114
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	015	2002526	2002613	 	32
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	016	2003595	2003744	d	100
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	017	2002776	2002909	o	111
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	018	2002887	2002970	g	103
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	019	2004312	2004377	 	32
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	020	2003508	2003615	p	112
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	021	2003180	2003295	y	121
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	022	2004948	2005046	t	116
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	023	2003266	2003335	h	104
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	024	2003300	2003423	o	111
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	025	2005224	2005330	n	110
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	026	2003975	2004105	 	32
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	027	2005680	2005745	p	112
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	028	2006238	2006316	r	114
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	029	2004360	2004410	o	111
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	030	2006133	2006237	g	103
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	031	2004780	2004831	r	114
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	032	2005402	2005457	a	97
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	033	2005832	2005883	m	109
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	034	2007534	2007593	m	109
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	035	2005862	2005944	i	105
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	036	2004955	2005101	n	110
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	037	2006148	2006277	g	103
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	038	2005440	2005507	 	32
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	039	2007232	2007344	d	100
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	040	2007786	2007839	a	97
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	041	2008080	2008223	t	116
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	042	2008544	2008658	a	97
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	043	2007006	2007098	 	32
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	044	2007278	2007360	f	102
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	045	2008260	2008373	o	111
+021	002	hello the over dog python programming data fox	hello the over dog python programming data fox	046	2009955	2010079	x	120
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	001	2002000	2002087	p	112
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	002	2002186	2002286	y	121
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	003	2002396	2002506	t	116
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	004	2002531	2002668	h	104
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	005	2002444	2002575	o	111
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	006	2002985	2003039	n	110
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	007	2003032	2003171	 	32
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	008	2003379	2003443	o	111
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	009	2002976	2003044	v	118
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	010	2003467	2003570	e	101
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	011	2003280	2003355	r	114
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	012	2003408	2003522	 	32
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	013	2003860	2003951	w	119
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	014	2004301	2004377	o	111
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	015	2003512	2003594	r	114
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	016	2004850	2004991	l	108
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	017	2004656	2004789	d	100
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	018	2005060	2005148	 	32
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	019	2004106	2004210	h	104
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	020	2004052	2004138	e	101
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	021	2004400	2004537	l	108
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	022	2004142	2004254	l	108
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	023	2004640	2004700	o	111
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	024	2005726	2005844	 	32
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	025	2004640	2004712	l	108
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	026	2004775	2004917	e	101
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	027	2005770	2005912	a	97
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	028	2005456	2005594	r	114
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	029	2007040	2007141	n	110
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	030	2005625	2005715	i	105
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	031	2006890	2006986	n	110
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	032	2005875	2005982	g	103
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	033	2006672	2006794	 	32
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	034	2008237	2008361	o	111
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	035	2008494	2008584	v	118
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	036	2007040	2007188	e	101
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	037	2007904	2008050	r	114
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	038	2008586	2008733	 	32
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	039	2007548	2007671	a	97
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	040	2008942	2009032	r	114
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	041	2006240	2006317	t	116
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	042	2007658	2007794	i	105
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	043	2008594	2008661	f	102
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	044	2007074	2007181	i	105
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	045	2007896	2007956	c	99
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	046	2007670	2007802	i	105
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	047	2007934	2008034	a	97
+021	003	python over world hello learning over artificial	python over world hello learning over artificial	048	2009426	2009515	l	108
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	001	2003000	2003072	a	97
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	002	2003187	2003311	r	114
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	003	2003258	2003346	t	116
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	004	2003342	2003433	i	105
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	005	2003716	2003854	f	102
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	006	2003745	2003809	i	105
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	007	2003990	2004049	c	99
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	008	2003973	2004051	i	105
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	009	2004048	2004178	a	97
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	010	2004449	2004530	l	108
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	011	2004160	2004293	 	32
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	012	2004606	2004672	p	112
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	013	2005316	2005373	y	121
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	014	2004612	2004750	t	116
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	015	2005352	2005485	h	104
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	016	2005490	2005601	o	111
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	017	2005960	2006050	n	110
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	018	2005873	2005933	 	32
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	019	2006330	2006455	d	100
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	020	2006135	2006248	o	111
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	021	2005600	2005748	g	103
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	022	2006507	2006598	 	32
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	023	2006718	2006770	f	102
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	024	2005346	2005490	o	111
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	025	2005904	2005984	x	120
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	026	2007550	2007611	 	32
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	027	2006068	2006185	a	97
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	028	2007779	2007876	r	114
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	029	2006948	2007043	t	116
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	030	2008278	2008385	i	105
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	031	2007800	2007930	f	102
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	032	2007743	2007816	i	105
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	033	2008248	2008335	c	99
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	034	2008874	2009016	i	105
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	035	2006536	2006615	a	97
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	036	2008005	2008062	l	108
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	037	2008832	2008967	 	32
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	038	2007810	2007948	w	119
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	039	2008472	2008593	o	111
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	040	2008772	2008848	r	114
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	041	2008080	2008147	l	108
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	042	2009232	2009296	d	100
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	043	2007830	2007883	 	32
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	044	2011299	2011371	p	112
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	045	2010172	2010294	y	121
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	046	2008400	2008473	t	116
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	047	2010406	2010546	h	104
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	048	2010990	2011133	o	111
+021	004	artificial python dog fox artificial world python	artificial python dog fox artificial world python	049	2009816	2009926	n	110
+021	005	learning intelligence python world data world	learning intelligence python world data world	001	2004000	2004092	l	108
+021	005	learning intelligence python world data world	learning intelligence python world data world	002	2004181	2004253	e	101
+021	005	learning intelligence python world data world	learning intelligence python world data world	003	2004378	2004526	a	97
+021	005	learning intelligence python world data world	learning intelligence python world data world	004	2004402	2004472	r	114
+021	005	learning intelligence python world data world	learning intelligence python world data world	005	2004584	2004638	n	110
+021	005	learning intelligence python world data world	learning intelligence python world data world	006	2004590	2004700	i	105
+021	005	learning intelligence python world data world	learning intelligence python world data world	007	2004966	2005069	n	110
+021	005	learning intelligence python world data world	learning intelligence python world data world	008	2005169	2005256	g	103
+021	005	learning intelligence python world data world	learning intelligence python world data world	009	2005472	2005609	 	32
+021	005	learning intelligence python world data world	learning intelligence python world data world	010	2005755	2005854	i	105
+021	005	learning intelligence python world data world	learning intelligence python world data world	011	2005440	2005578	n	110
+021	005	learning intelligence python world data world	learning intelligence python world data world	012	2005551	2005670	t	116
+021	005	learning intelligence python world data world	learning intelligence python world data world	013	2005872	2005932	e	101
+021	005	learning intelligence python world data world	learning intelligence python world data world	014	2006574	2006661	l	108
+021	005	learning intelligence python world data world	learning intelligence python world data world	015	2006100	2006225	l	108
+021	005	learning intelligence python world data world	learning intelligence python world data world	016	2006085	2006168	i	105
+021	005	learning intelligence python world data world	learning intelligence python world data world	017	2006560	2006704	g	103
+021	005	learning intelligence python world data world	learning intelligence python world data world	018	2006295	2006430	e	101
+021	005	learning intelligence python world data world	learning intelligence python world data world	019	2006466	2006538	n	110
+021	005	learning intelligence python world data world	learning intelligence python world data world	020	2006375	2006498	c	99
+021	005	learning intelligence python world data world	learning intelligence python world data world	021	2007200	2007262	e	101
+021	005	learning intelligence python world data world	learning intelligence python world data world	022	2008053	2008146	 	32
+021	005	learning intelligence python world data world	learning intelligence python world data world	023	2008268	2008399	p	112
+021	005	learning intelligence python world data world	learning intelligence python world data world	024	2008232	2008329	y	121
+021	005	learning intelligence python world data world	learning intelligence python world data world	025	2008440	2008557	t	116
+021	005	learning intelligence python world data world	learning intelligence python world data world	026	2008350	2008422	h	104
+021	005	learning intelligence python world data world	learning intelligence python world data world	027	2009174	2009308	o	111
+021	005	learning intelligence python world data world	learning intelligence python world data world	028	2007564	2007706	n	110
+021	005	learning intelligence python world data world	learning intelligence python world data world	029	2009376	2009464	 	32
+021	005	learning intelligence python world data world	learning intelligence python world data world	030	2009394	2009523	w	119
+021	005	learning intelligence python world data world	learning intelligence python world data world	031	2008620	2008756	o	111
+021	005	learning intelligence python world data world	learning intelligence python world data world	032	2007658	2007770	r	114
+021	005	learning intelligence python world data world	learning intelligence python world data world	033	2008320	2008377	l	108
+021	005	learning intelligence python world data world	learning intelligence python world data world	034	2008092	2008236	d	100
+021	005	learning intelligence python world data world	learning intelligence python world data world	035	2010154	2010293	 	32
+021	005	learning intelligence python world data world	learning intelligence python world data world	036	2009495	2009567	d	100
+021	005	learning intelligence python world data world	learning intelligence python world data world	037	2008536	2008634	a	97
+021	005	learning intelligence python world data world	learning intelligence python world data world	038	2011215	2011267	t	116
+021	005	learning intelligence python world data world	learning intelligence python world data world	039	2007914	2007988	a	97
+021	005	learning intelligence python world data world	learning intelligence python world data world	040	2008251	2008378	 	32
+021	005	learning intelligence python world data world	learning intelligence python world data world	041	2010800	2010947	w	119
+021	005	learning intelligence python world data world	learning intelligence python world data world	042	2008797	2008887	o	111
+021	005	learning intelligence python world data world	learning intelligence python world data world	043	2009502	2009584	r	114
+021	005	learning intelligence python world data world	learning intelligence python world data world	044	2010063	2010160	l	108
+021	005	learning intelligence python world data world	learning intelligence python world data world	045	2010292	2010420	d	100
+021	006	the hello fox fox the	the hello fox fox the	001	2005000	2005051	t	116
+021	006	the hello fox fox the	the hello fox fox the	002	2005118	2005168	h	104
+021	006	the hello fox fox the	the hello fox fox the	003	2005246	2005358	e	101
+021	006	the hello fox fox the	the hello fox fox the	004	2005474	2005530	 	32
+021	006	the hello fox fox the	the hello fox fox the	005	2005460	2005523	h	104
+021	006	the hello fox fox the	the hello fox fox the	006	2005825	2005896	e	101
+021	006	the hello fox fox the	the hello fox fox the	007	2005702	2005799	l	108
+021	006	the hello fox fox the	the hello fox fox the	008	2006001	2006128	l	108
+021	006	the hello fox fox the	the hello fox fox the	009	2006552	2006641	o	111
+021	006	the hello fox fox the	the hello fox fox the	010	2006683	2006755	 	32
+021	006	the hello fox fox the	the hello fox fox the	011	2006080	2006141	f	102
+021	006	the hello fox fox the	the hello fox fox the	012	2006276	2006326	o	111
+021	006	the hello fox fox the	the hello fox fox the	013	2006224	2006357	x	120
+021	006	the hello fox fox the	the hello fox fox the	014	2006963	2007061	 	32
+021	006	the hello fox fox the	the hello fox fox the	015	2006848	2006961	f	102
+021	006	the hello fox fox the	the hello fox fox the	016	2006515	2006659	o	111
+021	006	the hello fox fox the	the hello fox fox the	017	2007432	2007544	x	120
+021	006	the hello fox fox the	the hello fox fox the	018	2008009	2008065	 	32
+021	006	the hello fox fox the	the hello fox fox the	019	2007034	2007090	t	116
+021	006	the hello fox fox the	the hello fox fox the	020	2008135	2008236	h	104
+021	006	the hello fox fox the	the hello fox fox the	021	2008340	2008411	e	101
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	001	2006000	2006057	f	102
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	002	2006123	2006198	o	111
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	003	2006286	2006369	x	120
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	004	2006303	2006451	 	32
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	005	2006696	2006814	h	104
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	006	2006785	2006894	e	101
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	007	2006966	2007043	l	108
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	008	2007316	2007414	l	108
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	009	2007256	2007388	o	111
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	010	2007287	2007392	 	32
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	011	2007920	2008059	w	119
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	012	2007276	2007350	o	111
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	013	2007992	2008141	r	114
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	014	2007391	2007473	l	108
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	015	2008212	2008269	d	100
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	016	2008025	2008166	 	32
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	017	2009136	2009258	o	111
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	018	2009145	2009205	v	118
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	019	2008574	2008663	e	101
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	020	2009439	2009560	r	114
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	021	2009040	2009139	 	32
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	022	2009297	2009444	l	108
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	023	2010158	2010247	e	101
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	024	2010508	2010646	a	97
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	025	2008592	2008727	r	114
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	026	2009950	2010095	n	110
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	027	2010914	2011037	i	105
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	028	2008916	2008970	n	110
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	029	2009360	2009486	g	103
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	030	2009219	2009362	 	32
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	031	2011490	2011626	d	100
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	032	2012107	2012193	a	97
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	033	2011152	2011254	t	116
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	034	2009894	2010041	a	97
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	035	2010794	2010877	 	32
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	036	2011355	2011459	b	98
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	037	2010680	2010813	r	114
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	038	2012660	2012773	o	111
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	039	2009838	2009891	w	119
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	040	2010641	2010741	n	110
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	041	2013080	2013198	 	32
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	042	2013339	2013483	b	98
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	043	2012636	2012713	r	114
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	044	2010902	2010966	o	111
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	045	2013788	2013884	w	119
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	046	2012525	2012580	n	110
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	047	2011198	2011254	 	32
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	048	2013332	2013420	l	108
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	049	2012240	2012328	a	97
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	050	2015359	2015456	z	122
+021	007	fox hello world over learning data brown brown lazy	fox hello world over learning data brown brown lazy	051	2014050	2014171	y	121
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	001	2007000	2007085	p	112
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	002	2007178	2007299	r	114
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	003	2007310	2007360	o	111
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	004	2007546	2007674	g	103
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	005	2007620	2007682	r	114
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	006	2007990	2008113	a	97
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	007	2008092	2008241	m	109
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	008	2007994	2008080	m	109
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	009	2008552	2008604	i	105
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	010	2007900	2007993	n	110
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	011	2008460	2008537	g	103
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	012	2008727	2008818	 	32
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	013	2008860	2008952	l	108
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	014	2009561	2009683	e	101
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	015	2008540	2008654	a	97
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	016	2009925	2010045	r	114
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	017	2008888	2008997	n	110
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	018	2008802	2008876	i	105
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	019	2009844	2009989	n	110
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	020	2010173	2010307	g	103
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	021	2010740	2010846	 	32
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	022	2009625	2009707	l	108
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	023	2009288	2009370	e	101
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	024	2011301	2011439	a	97
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	025	2010168	2010222	r	114
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	026	2010375	2010447	n	110
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	027	2010250	2010359	i	105
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	028	2012049	2012183	n	110
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	029	2012012	2012136	g	103
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	030	2012133	2012229	 	32
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	031	2011860	2011939	m	109
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	032	2011526	2011582	a	97
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	033	2012472	2012598	c	99
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	034	2011125	2011219	h	104
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	035	2012882	2012991	i	105
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	036	2011690	2011777	n	110
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	037	2011464	2011544	e	101
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	038	2011440	2011515	 	32
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	039	2012472	2012542	p	112
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	040	2013669	2013798	r	114
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	041	2014200	2014312	o	111
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	042	2013478	2013549	g	103
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	043	2012796	2012855	r	114
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	044	2014654	2014744	a	97
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	045	2013688	2013788	m	109
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	046	2015595	2015728	m	109
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	047	2013900	2014040	i	105
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	048	2013768	2013909	n	110
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	049	2013672	2013805	g	103
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	050	2016653	2016726	 	32
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	051	2012850	2012907	t	116
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	052	2015466	2015581	h	104
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	053	2016828	2016965	e	101
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	054	2016222	2016318	 	32
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	055	2015532	2015667	l	108
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	056	2015910	2015992	a	97
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	057	2014280	2014350	z	122
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	058	2014524	2014647	y	121
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	059	2013496	2013622	 	32
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	060	2016617	2016676	l	108
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	061	2018640	2018696	e	101
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	062	2013344	2013428	a	97
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	063	2014812	2014908	r	114
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	064	2017836	2017923	n	110
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	065	2015896	2015950	i	105
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	066	2013565	2013660	n	110
+021	008	programming learning learning machine programming the lazy learning	programming learning learning machine programming the lazy learning	067	2017362	2017425	g	103
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	001	2008000	2008124	f	102
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	002	2008153	2008237	o	111
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	003	2008212	2008307	x	120
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	004	2008318	2008397	 	32
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	005	2008440	2008513	p	112
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	006	2008850	2008998	r	114
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	007	2008666	2008796	o	111
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	008	2009036	2009169	g	103
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	009	2009520	2009637	r	114
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	010	2009683	2009827	a	97
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	011	2009400	2009459	m	109
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	012	2009793	2009913	m	109
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	013	2009500	2009631	i	105
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	014	2009703	2009832	n	110
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	015	2010506	2010561	g	103
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	016	2010475	2010603	 	32
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	017	2010768	2010862	f	102
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	018	2010686	2010798	o	111
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	019	2010808	2010894	x	120
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	020	2009957	2010090	 	32
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	021	2010580	2010666	l	108
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	022	2011801	2011946	e	101
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	023	2011872	2012010	a	97
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	024	2010530	2010587	r	114
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	025	2010688	2010798	n	110
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	026	2011225	2011374	i	105
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	027	2013174	2013224	n	110
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	028	2011564	2011699	g	103
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	029	2012368	2012499	 	32
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	030	2011277	2011395	i	105
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	031	2012050	2012185	n	110
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	032	2013301	2013415	t	116
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	033	2011776	2011847	e	101
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	034	2012488	2012546	l	108
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	035	2012726	2012777	l	108
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	036	2013705	2013771	i	105
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	037	2011816	2011926	g	103
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	038	2011811	2011863	e	101
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	039	2012598	2012651	n	110
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	040	2012641	2012707	c	99
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	041	2012360	2012479	e	101
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	042	2013125	2013250	 	32
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	043	2014510	2014592	p	112
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	044	2015052	2015188	y	121
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	045	2014424	2014547	t	116
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	046	2015335	2015438	h	104
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	047	2013290	2013375	o	111
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	048	2016977	2017099	n	110
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	049	2014960	2015070	 	32
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	050	2016036	2016122	l	108
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	051	2013750	2013845	e	101
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	052	2015344	2015481	a	97
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	053	2015020	2015133	r	114
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	054	2015102	2015165	n	110
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	055	2015506	2015611	i	105
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	056	2017075	2017201	n	110
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	057	2019032	2019162	g	103
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	058	2016379	2016452	 	32
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	059	2015250	2015339	f	102
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	060	2016142	2016209	o	111
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	061	2016100	2016228	x	120
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	062	2016540	2016626	 	32
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	063	2015130	2015221	q	113
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	064	2017135	2017251	u	117
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	065	2019456	2019575	i	105
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	066	2014695	2014806	c	99
+021	009	fox programming fox learning intelligence python learning fox quick	fox programming fox learning intelligence python learning fox quick	067	2017504	2017617	k	107
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	001	2009000	2009116	j	106
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	002	2009142	2009252	u	117
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	003	2009396	2009460	m	109
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	004	2009546	2009687	p	112
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	005	2009472	2009561	s	115
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	006	2009995	2010109	 	32
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	007	2009684	2009825	p	112
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	008	2009994	2010137	r	114
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	009	2010176	2010307	o	111
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	010	2010494	2010621	g	103
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	011	2010150	2010206	r	114
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	012	2011068	2011140	a	97
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	013	2011136	2011284	m	109
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	014	2010833	2010949	m	109
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	015	2010806	2010954	i	105
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	016	2011985	2012109	n	110
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	017	2011976	2012097	g	103
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	018	2011856	2011978	 	32
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	019	2011196	2011286	l	108
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	020	2010938	2011024	a	97
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	021	2012160	2012219	z	122
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	022	2012885	2013004	y	121
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	023	2012520	2012664	 	32
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	024	2011415	2011503	f	102
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	025	2012816	2012957	o	111
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	026	2011950	2012006	x	120
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	027	2013966	2014029	 	32
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	028	2013104	2013226	j	106
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	029	2013704	2013764	u	117
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	030	2013785	2013885	m	109
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	031	2012420	2012502	p	112
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	032	2015107	2015193	s	115
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	033	2013928	2014014	 	32
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	034	2013620	2013755	p	112
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	035	2015766	2015910	r	114
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	036	2014285	2014397	o	111
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	037	2015372	2015501	g	103
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	038	2013810	2013875	r	114
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	039	2014054	2014190	a	97
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	040	2015123	2015220	m	109
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	041	2013680	2013751	m	109
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	042	2013879	2013952	i	105
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	043	2015426	2015505	n	110
+021	010	jumps programming lazy fox jumps programming	jumps programming lazy fox jumps programming	044	2013515	2013574	g	103
