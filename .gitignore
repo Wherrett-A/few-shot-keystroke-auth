@@ -1,6 +1,6 @@
 dissertation/build.bat
 data/datasets/
-code/__pycache__/
+**/__pycache__/
 code/venv/
 .zed/
 .sisyphus/
