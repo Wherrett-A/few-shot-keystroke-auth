@@ -1,13 +1,18 @@
+import csv
 import gc
 import glob
 import json
 import os
+import warnings
 
 import h5py
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
+
+# Suppress pandas ParserWarnings for cleaner output
+warnings.filterwarnings("ignore", category=pd.errors.ParserWarning)
 
 
 def create_sliding_windows(session_features, user_label, window_size, stride):
@@ -66,7 +71,14 @@ def process_and_save(input_dir, output_file, window_size, stride, split_ratio=0.
     all_participants = set()
     for raw_file in raw_files:
         try:
-            df = pd.read_csv(raw_file, sep="\t")
+            df = pd.read_csv(
+                raw_file,
+                sep="\t",
+                quoting=csv.QUOTE_NONE,
+                escapechar="\\",
+                encoding="latin-1",
+                on_bad_lines="warn",
+            )
             if "PARTICIPANT_ID" in df.columns:
                 all_participants.update(df["PARTICIPANT_ID"].unique())
         except Exception as e:
@@ -81,11 +93,23 @@ def process_and_save(input_dir, output_file, window_size, stride, split_ratio=0.
 
     all_windows = []
     all_labels = []
+    success_count = 0
+    skip_count = 0
 
-    for raw_file in raw_files:
-        print(f"processing {os.path.basename(raw_file)}...")
+    for i, raw_file in enumerate(raw_files):
+        filename = os.path.basename(raw_file)
+        print(f"[{i + 1:6d}/{len(raw_files):6d}] processing {filename}...", flush=True)
+        if (i + 1) % 5000 == 0:
+            print(f"  -> Processed {i + 1} files so far...")
         try:
-            df = pd.read_csv(raw_file, sep="\t")
+            df = pd.read_csv(
+                raw_file,
+                sep="\t",
+                quoting=csv.QUOTE_NONE,
+                escapechar="\\",
+                encoding="latin-1",
+                on_bad_lines="error",
+            )
             if not all(
                 col in df.columns
                 for col in [
@@ -119,8 +143,10 @@ def process_and_save(input_dir, output_file, window_size, stride, split_ratio=0.
                 )
                 all_windows.extend(windows)
                 all_labels.extend(labels)
+                success_count += 1
         except Exception as e:
-            print(f"Error processing {raw_file}: {e}")
+            print(f"  SKIPPED: {os.path.basename(raw_file)} - {e}")
+            skip_count += 1
             continue
         del df
         gc.collect()
@@ -163,4 +189,8 @@ def process_and_save(input_dir, output_file, window_size, stride, split_ratio=0.
         f.attrs["stride"] = stride
         f.attrs["split"] = "test"
 
+    print(f"\n=== Summary ===")
+    print(f"Files processed: {success_count}")
+    print(f"Files skipped: {skip_count}")
+    print(f"Total files: {len(raw_files)}")
     print("pre-processing complete")
