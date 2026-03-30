@@ -7,8 +7,10 @@ import numpy as np
 import pandas as pd
 
 
-def create_mock_data_files():
+def create_mock_data_files() -> None:
     """Generates mock data and saves it to a mock data directory"""
+    # Ensure deterministic mock data across runs by fixing the RNG seed
+    np.random.seed(42)
     if os.path.exists(config.MOCK_INPUT_DATA_DIR):
         print(f"Mock data directory {config.MOCK_INPUT_DATA_DIR} exists.")
         return
