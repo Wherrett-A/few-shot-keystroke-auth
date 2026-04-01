@@ -115,6 +115,7 @@ def process_file(args: Tuple) -> Optional[List[Tuple]]:
             session_group["FLIGHT_TIME"] = (
                 session_group["NEXT_PRESS_TIME"] - session_group["RELEASE_TIME"]
             )
+            session_group = session_group.dropna(subset=["FLIGHT_TIME"])
             session_features = session_group[["HOLD_TIME", "FLIGHT_TIME"]].values
 
             windows, labels = create_sliding_windows(
@@ -281,6 +282,7 @@ def process_and_save(
                     session_group["FLIGHT_TIME"] = (
                         session_group["NEXT_PRESS_TIME"] - session_group["RELEASE_TIME"]
                     )
+                    session_group = session_group.dropna(subset=["FLIGHT_TIME"])
 
                     session_features = session_group[
                         ["HOLD_TIME", "FLIGHT_TIME"]
