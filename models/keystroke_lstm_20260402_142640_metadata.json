@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-04-02T14:26:40.000439",
+  "data_path": "data/preprocessed/aalto.h5",
+  "split": "train",
+  "embedding_dim": 128,
+  "lstm_units": 128,
+  "dropout_rate": 0.5,
+  "epochs": 100,
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "window_size": 20,
+  "stride": 5,
+  "num_users": 168608
+}
