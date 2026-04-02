@@ -131,11 +131,13 @@ class TripletDataGenerator(keras.utils.Sequence):
         margin: float = 1.0,
         shuffle: bool = True,
         random_state: int = 42,
+        max_triplets_per_epoch: int = 30000,
     ):
         self.features = features
         self.labels = labels
         self.batch_size = batch_size
         self.margin = margin
+        self.max_triplets_per_epoch = max_triplets_per_epoch
         self.shuffle = shuffle
         self.rng = np.random.RandomState(random_state)
 
@@ -183,15 +185,14 @@ class TripletDataGenerator(keras.utils.Sequence):
         """Generate new triplets at the end of each epoch."""
         self.triplet_indices = []
         total_samples = len(self.features)
-
+        n_anchors = min(total_samples, self.max_triplets_per_epoch)
+        
+        all_indices = self.rng.choice(total_samples, n_anchors, replace=False)
         if self.shuffle:
-            all_indices = self.rng.permutation(total_samples)
-        else:
-            all_indices = np.arange(total_samples)
-
-        print(f"Generating triplets...", flush=True)
-
-        report_interval = max(1, total_samples // 10)
+            self.rng.shuffle(all_indices)
+        
+        print(f"Generating {n_anchors} triplets from {total_samples} total samples...", flush=True)
+        report_interval = max(1, n_anchors // 10)
 
         for i, anchor_idx in enumerate(all_indices):
             anchor_label = self.labels[anchor_idx]
@@ -214,19 +215,16 @@ class TripletDataGenerator(keras.utils.Sequence):
             self.triplet_indices.append((anchor_idx, positive_idx, negative_idx))
 
             if (i + 1) % report_interval == 0:
-                progress = (i + 1) / total_samples * 100
+                progress = (i + 1) / n_anchors * 100
                 print(
-                    f"  Progress: {progress:.1f}% ({i + 1}/{total_samples}) - {len(self.triplet_indices)} triplets",
+                    f"  Progress: {progress:.1f}% ({i + 1}/{n_anchors}) - {len(self.triplet_indices)} triplets",
                     flush=True,
                 )
 
         if self.shuffle:
             self.rng.shuffle(self.triplet_indices)
 
-        print(
-            f"Generated {len(self.triplet_indices)} triplets from {total_samples} samples",
-            flush=True,
-        )
+        print(f"Generated {len(self.triplet_indices)} triplets", flush=True)
 
 
 # ============================================================================
@@ -401,7 +399,28 @@ def main():
     )
     parser.add_argument("--batch-size", type=int, default=32, help="Batch size")
     parser.add_argument(
-        "--learning-rate", type=float, default=1e-3, help="Learning rate"
+        "--learning-rate",
+        type=float,
+        default=1e-4,
+        help="Learning rate (default: 1e-4 for stable triplet training)"
+    )
+    parser.add_argument(
+        "--margin",
+        type=float,
+        default=1.0,
+        help="Triplet loss margin (default: 1.0 for clearer separation)",
+    )
+    parser.add_argument(
+        "--patience",
+        type=int,
+        default=50,
+        help="Early stopping patience (default: 50)",
+    )
+    parser.add_argument(
+        "--max-triplets",
+        type=int,
+        default=30000,
+        help="Maximum triplets per epoch (default: 30000)",
     )
 
     # Output arguments
@@ -435,6 +454,14 @@ def main():
     features, labels, user_map, window_size, stride = load_data(
         args.data_path, args.split
     )
+    
+    # Remove any remaining NaN samples (defensive)
+    nan_mask = np.isnan(features).any(axis=(1, 2))
+    if nan_mask.any():
+        print(f"Removing {nan_mask.sum():,} samples with NaN ({100*nan_mask.sum()/len(features):.1f}%)")
+        features = features[~nan_mask]
+        labels = labels[~nan_mask]
+        print(f"Clean dataset: {len(features):,} samples")
 
     # Prepare data for training
     # Split into train/validation
@@ -459,7 +486,7 @@ def main():
 
     model.compile(
         optimizer=keras.optimizers.Adam(learning_rate=args.learning_rate),
-        loss=create_triplet_loss(anchor_dim=args.embedding_dim, margin=1.0),
+        loss=create_triplet_loss(anchor_dim=args.embedding_dim, margin=args.margin),
     )
 
     print("\nCreating dynamic triplet generators...")
@@ -467,23 +494,37 @@ def main():
         features=x_train,
         labels=y_train,
         batch_size=args.batch_size,
-        margin=1.0,
+        margin=args.margin,
         shuffle=True,
         random_state=42,
+        max_triplets_per_epoch=args.max_triplets,
     )
 
     val_generator = TripletDataGenerator(
         features=x_val,
         labels=y_val,
         batch_size=args.batch_size,
-        margin=1.0,
+        margin=args.margin,
         shuffle=False,
         random_state=42,
+        max_triplets_per_epoch=args.max_triplets,
     )
 
-    # Create training pipeline
-    loss_fn = create_triplet_loss(anchor_dim=args.embedding_dim)
-    model, callbacks = create_training_pipeline(model, loss_fn, args.learning_rate)
+    # Create callbacks
+    callbacks = [
+        keras.callbacks.EarlyStopping(
+            monitor="val_loss", patience=args.patience, restore_best_weights=True, verbose=1
+        ),
+        keras.callbacks.ReduceLROnPlateau(
+            monitor="val_loss", factor=0.5, patience=args.patience // 2, min_lr=1e-6, verbose=1
+        ),
+        keras.callbacks.ModelCheckpoint(
+            filepath="best_model.keras",
+            monitor="val_loss",
+            save_best_only=True,
+            verbose=1,
+        ),
+    ]
 
     # Generate model filename
     if args.model_name:
@@ -509,21 +550,6 @@ def main():
         "stride": stride,
         "num_users": len(user_map),
     }
-
-    callbacks = [
-        keras.callbacks.EarlyStopping(
-            monitor="val_loss", patience=10, restore_best_weights=True, verbose=1
-        ),
-        keras.callbacks.ReduceLROnPlateau(
-            monitor="val_loss", factor=0.5, patience=5, min_lr=1e-6, verbose=1
-        ),
-        keras.callbacks.ModelCheckpoint(
-            filepath="best_model.keras",
-            monitor="val_loss",
-            save_best_only=True,
-            verbose=1,
-        ),
-    ]
 
     # Train the model
     print("\n" + "=" * 60)
