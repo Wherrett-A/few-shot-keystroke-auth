@@ -100,7 +100,6 @@ def test_data_loading():
         print(f"  - Features shape: {features.shape}")
         print(f"  - Labels shape: {labels.shape}")
         print(f"  - Users: {list(user_map.keys())}")
-        return data_path
     except Exception as e:
         print(f"✗ Data loading test FAILED: {e}")
         raise
