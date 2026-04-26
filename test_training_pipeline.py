@@ -1,9 +1,11 @@
+import json
 import os
 import sys
-import json
 import tempfile
-import numpy as np
+from typing import Callable
+
 import h5py
+import numpy as np
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
@@ -11,6 +13,17 @@ from tensorflow.keras import layers
 # Suppress TensorFlow warnings for cleaner output
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 os.environ["CUDA_VISIBLE_DEVICES"] = ""  # Force CPU-only mode for testing
+
+# Import from actual train.py
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "code", "Scripts"))
+from train import (
+    build_lstm_model,
+    create_contrastive_loss,
+    create_triplet_loss,
+    load_data,
+    load_model,
+    save_model,
+)
 
 # Import config
 sys.path.insert(
@@ -21,87 +34,15 @@ sys.path.insert(
 )
 import config
 
-
 # ============================================================================
-# TEST COMPONENTS (copied from train.py)
+# LOCAL TEST HELPERS (not in train.py)
 # ============================================================================
-
-
-def build_lstm_model(
-    input_shape: tuple,
-    num_classes: int,
-    embedding_dim: int = 128,
-    num_lstm_units: int = 128,
-    dropout_rate: float = 0.5,
-) -> keras.Model:
-    model = keras.Sequential(
-        [
-            layers.LSTM(
-                num_lstm_units,
-                return_sequences=True,
-                input_shape=input_shape,
-                activation="tanh",
-            ),
-            layers.LSTM(num_lstm_units, return_sequences=False, activation="tanh"),
-            layers.Dropout(dropout_rate),
-            layers.Dense(embedding_dim, activation="linear"),
-            layers.Lambda(lambda x: tf.cast(x, tf.float32)),
-        ]
-    )
-    model.compile(
-        optimizer=keras.optimizers.Adam(learning_rate=1e-3),
-        loss=keras.losses.MeanSquaredError(),
-        metrics=["accuracy"],
-    )
-    return model
-
-
-def create_triplet_loss(anchor_dim: int, margin: float = 1.0) -> callable:
-    def triplet_loss(y_true, y_pred):
-        y_pred = tf.cast(tf.reshape(y_pred, (-1, anchor_dim)), tf.float32)
-        y_pred_sq = tf.reduce_sum(tf.square(y_pred), axis=1, keepdims=True)
-        dist_sq = (
-            y_pred_sq
-            + tf.transpose(y_pred_sq)
-            - 2 * tf.matmul(y_pred, y_pred, transpose_b=True)
-        )
-        dist_sq = tf.maximum(dist_sq, 1e-6)
-        distances = tf.sqrt(dist_sq)
-        y_true_float = tf.cast(y_true, tf.float32)
-        same_class_mask = tf.cast(
-            tf.equal(y_true_float[:, tf.newaxis], y_true_float[tf.newaxis, :]),
-            tf.float32,
-        )
-        margin_float = tf.constant(margin, dtype=tf.float32)
-        same_loss = tf.reduce_mean(
-            tf.maximum(0.0, distances - margin_float) * same_class_mask
-        )
-        diff_loss = tf.reduce_mean(
-            tf.maximum(0.0, margin_float - distances) * (1.0 - same_class_mask)
-        )
-        return same_loss + diff_loss
-
-    return triplet_loss
-
-
-def create_contrastive_loss(anchor_dim: int, margin: float = 1.0) -> callable:
-    def contrastive_loss(y_true, y_pred):
-        y_pred = tf.reshape(y_pred, (-1, anchor_dim))
-        distances = tf.reduce_sum(
-            tf.square(y_pred[:, np.newaxis] - y_pred[np.newaxis, :]), axis=2
-        )
-        margin_expanded = margin * tf.ones_like(distances)
-        loss = y_true * distances + (1 - y_true) * tf.square(
-            tf.maximum(0, margin_expanded - tf.sqrt(distances + 1e-6))
-        )
-        return tf.reduce_mean(loss)
-
-    return contrastive_loss
 
 
 def create_training_pipeline(
-    model: keras.Model, loss_fn: callable, learning_rate: float = 1e-3
+    model: keras.Model, loss_fn: Callable, learning_rate: float = 1e-3
 ) -> tuple:
+    """Create a training pipeline with optimizer, loss, and callbacks."""
     optimizer = keras.optimizers.Adam(learning_rate=learning_rate)
     optimizer.clipnorm = 1.0
     model.compile(optimizer=optimizer, loss=loss_fn, metrics=["accuracy"])
@@ -116,58 +57,10 @@ def create_training_pipeline(
     return model, callbacks
 
 
-def load_data(data_path: str, split: str = "train") -> tuple:
-    if split == "train":
-        hdf5_path = f"{data_path}:train"
-    elif split == "test":
-        hdf5_path = f"{data_path}:test"
-    else:
-        raise ValueError(f"Invalid split: {split}")
-    if not os.path.exists(hdf5_path):
-        raise FileNotFoundError(f"Data file not found: {hdf5_path}")
-    with h5py.File(hdf5_path, "r") as f:
-        features = f["x"][:]
-        labels = f["y"][:]
-        user_map = json.loads(f.attrs["user_map"])
-        window_size = int(f.attrs["window_size"])
-        stride = int(f.attrs["stride"])
-    print(f"Loaded {len(features)} samples from {hdf5_path}")
-    print(f"Features shape: {features.shape}")
-    print(f"Labels shape: {labels.shape}")
-    print(f"Number of users: {len(user_map)}")
-    return features, labels, user_map, window_size, stride
-
-
-def save_model(model: keras.Model, path: str, metadata: dict = None) -> None:
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    if path.endswith(".h5"):
-        path = path.replace(".h5", ".keras")
-    keras.models.save_model(model, path)
-    print(f"Model saved to {path}")
-    if metadata:
-        metadata_path = path.replace(".keras", "_metadata.json")
-        with open(metadata_path, "w") as f:
-            json.dump(metadata, f, indent=2)
-        print(f"Metadata saved to {metadata_path}")
-
-
-def load_model(model_path: str) -> keras.Model:
-    if not os.path.exists(model_path):
-        raise FileNotFoundError(f"Model file not found: {model_path}")
-    keras.config.enable_unsafe_deserialization()
-    model = keras.models.load_model(model_path)
-    print(f"Model loaded from {model_path}")
-    return model
-
-
-# ============================================================================
-# TEST FUNCTIONS
-# ============================================================================
-
-
 def generate_minimal_mock_data(
     n_samples=100, n_users=5, window_size=30, stride=15, output_path=None
 ):
+    """Generate minimal mock data for testing."""
     if output_path is None:
         output_path = tempfile.mktemp(suffix=".h5")
     print(f"Generating minimal mock data: {n_samples} samples, {n_users} users")
@@ -182,6 +75,11 @@ def generate_minimal_mock_data(
         f.attrs["stride"] = stride
     print(f"Mock data saved to: {output_path}")
     return output_path
+
+
+# ============================================================================
+# TEST FUNCTIONS
+# ============================================================================
 
 
 def test_data_loading():
@@ -250,9 +148,28 @@ def test_triplet_loss():
     anchor_dim = 128
     margin = 1.0
     loss_fn = create_triplet_loss(anchor_dim=anchor_dim, margin=margin)
+
+    # The real create_triplet_loss expects input shape (batch_size * 3, embedding_dim)
+    # where each group of 3 consecutive samples is (anchor, positive, negative)
     batch_size = 8
-    y_true = np.array([0, 0, 1, 1, 2, 2, 3, 3], dtype=np.int32)
-    y_pred = np.random.randn(batch_size, anchor_dim).astype(np.float32)
+    n_triplets = batch_size * 3  # 24 samples total
+
+    # Create triplet data: anchors, positives (close to anchors), negatives (far)
+    anchors = np.random.randn(batch_size, anchor_dim).astype(np.float32)
+    positives = (
+        anchors + np.random.randn(batch_size, anchor_dim).astype(np.float32) * 0.1
+    )
+    negatives = np.random.randn(batch_size, anchor_dim).astype(np.float32)
+
+    # Interleave: [a0, p0, n0, a1, p1, n1, ...]
+    y_pred = np.empty((n_triplets, anchor_dim), dtype=np.float32)
+    y_pred[0::3] = anchors
+    y_pred[1::3] = positives
+    y_pred[2::3] = negatives
+
+    # y_true is not used by the real triplet loss, but must match shape
+    y_true = np.zeros(n_triplets, dtype=np.int32)
+
     try:
         loss_value = loss_fn(y_true, y_pred)
         assert loss_value.shape == (), (
@@ -270,6 +187,9 @@ def test_triplet_loss():
                 anchor_dim=anchor_dim, margin=margin_test
             )
             loss_val = loss_fn_test(y_true, y_pred)
+            assert np.isfinite(loss_val.numpy()), (
+                f"Loss not finite for margin {margin_test}"
+            )
             print(f"  ✓ Margin {margin_test}: loss = {loss_val.numpy():.6f}")
         print("\n✓ Triplet loss test PASSED")
     except Exception as e:
@@ -320,11 +240,15 @@ def test_training_pipeline():
         )
         loss_fn = create_triplet_loss(anchor_dim=128)
         model, callbacks = create_training_pipeline(model, loss_fn, learning_rate=1e-3)
-        n_samples = 40
+
+        # Use n_samples divisible by 3 and batch_size divisible by 3
+        # because create_triplet_loss expects (batch_size * 3, embedding_dim) format
+        n_samples = 48
         n_users = 4
         window_size = 30
         features = np.random.randn(n_samples, window_size, 2).astype(np.float32)
         labels = np.repeat(np.arange(n_users), n_samples // n_users)
+
         from sklearn.model_selection import train_test_split
 
         x_train, x_val, y_train, y_val = train_test_split(
@@ -333,12 +257,13 @@ def test_training_pipeline():
         print(f"  Training samples: {len(x_train)}")
         print(f"  Validation samples: {len(x_val)}")
         print("  Training for 3 epochs...")
+
         history = model.fit(
             x_train,
             y_train,
             validation_data=(x_val, y_val),
             epochs=3,
-            batch_size=8,
+            batch_size=12,  # Must be divisible by 3 for triplet loss
             callbacks=callbacks,
             verbose=1,
         )

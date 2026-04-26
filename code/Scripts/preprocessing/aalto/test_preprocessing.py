@@ -18,16 +18,14 @@ import os
 import shutil
 from unittest.mock import patch
 
+import config
+import generate_mock_data
 import h5py
 import numpy as np
 import pandas as pd
-import pytest
-
-import config
 import preprocessing
-import generate_mock_data
+import pytest
 import run_preprocessing
-
 
 # ============================================================================
 # Test Argument Parsing
@@ -640,33 +638,77 @@ class TestMockDataGeneration:
 class TestEdgeCases:
     """Tests for edge cases and boundary conditions."""
 
+    @staticmethod
+    def _create_user_events(participant_id, n_sessions, n_keys, base_offset=0):
+        """Helper to create keystroke events for one user with multiple sessions."""
+        events = []
+        for session_id in range(1, n_sessions + 1):
+            base_time = base_offset + session_id * 10000
+            for k in range(n_keys):
+                events.append(
+                    {
+                        "PARTICIPANT_ID": participant_id,
+                        "TEST_SECTION_ID": f"s{session_id}",
+                        "PRESS_TIME": base_time + k * 100,
+                        "RELEASE_TIME": base_time + k * 100 + 50,
+                        "SENTENCE": "test",
+                        "USER_INPUT": "test",
+                        "KEYSTROKE_ID": f"{k:03d}",
+                        "LETTER": "a",
+                        "KEYCODE": 97,
+                    }
+                )
+        return events
+
     def test_session_shorter_than_window_produces_no_windows(self, tmp_path):
         """Sessions with fewer keystrokes than window_size should produce no windows."""
         input_dir = tmp_path / "input"
         input_dir.mkdir()
         output_file = str(tmp_path / "output" / "test")
 
-        # Create data with identical HOLD_TIME values (zero std)
+        # User 001: 4 sessions, but only 5 keystrokes per session (< window_size=10)
         events = []
-        for session_id in range(1, 5):  # 5 sessions per user
-            base_time = session_id * 1000
-            for k in range(30):
-                events.append({
-                    "PARTICIPANT_ID": "001",
-                    "TEST_SECTION_ID": f"s{session_id}",
-                    "PRESS_TIME": base_time + k * 100
-                    "RELEASE_TIME": base_time + k * 100 + 50
-                    "SENTENCE": "test",
-                    "USER_INPUT": "test",
-                    "KEYSTROKE_ID": f"{k:03d}",
-                    "LETTER": "a",
-                    "KEYCODE": 97,
-                })
-            df = pd.DataFrame(events)
-            df.to_csv(input_dir / "001_keystrokes.txt", sep="\t", index=False)
+        for session_id in range(1, 5):
+            base_time = session_id * 10000
+            for k in range(5):  # Only 5 keystrokes — too short for window_size=10
+                events.append(
+                    {
+                        "PARTICIPANT_ID": "001",
+                        "TEST_SECTION_ID": f"s{session_id}",
+                        "PRESS_TIME": base_time + k * 100,
+                        "RELEASE_TIME": base_time + k * 100 + 50,
+                        "SENTENCE": "test",
+                        "USER_INPUT": "test",
+                        "KEYSTROKE_ID": f"{k:03d}",
+                        "LETTER": "a",
+                        "KEYCODE": 97,
+                    }
+                )
+
+        # User 002: 4 sessions, also short
+        events2 = []
+        for session_id in range(1, 5):
+            base_time = 100000 + session_id * 10000
+            for k in range(5):
+                events2.append(
+                    {
+                        "PARTICIPANT_ID": "002",
+                        "TEST_SECTION_ID": f"s{session_id}",
+                        "PRESS_TIME": base_time + k * 100,
+                        "RELEASE_TIME": base_time + k * 100 + 50,
+                        "SENTENCE": "test",
+                        "USER_INPUT": "test",
+                        "KEYSTROKE_ID": f"{k:03d}",
+                        "LETTER": "b",
+                        "KEYCODE": 98,
+                    }
+                )
+
         df = pd.DataFrame(events)
-        df.to_csv(input_dir / "002_keystrokes.txt", sep="\t", index=False)
-            
+        df.to_csv(input_dir / "001_keystrokes.txt", sep="\t", index=False)
+        df2 = pd.DataFrame(events2)
+        df2.to_csv(input_dir / "002_keystrokes.txt", sep="\t", index=False)
+
         preprocessing.process_and_save(
             input_dir=str(input_dir),
             output_file=output_file,
@@ -675,141 +717,24 @@ class TestEdgeCases:
             split_ratio=0.5,
         )
 
-    def test_session_shorter_than_window_produces_no_windows(self, tmp_path):
-        """Sessions with fewer keystrokes than window_size should produce no windows."""
-        input_dir = tmp_path / "input"
-        input_dir.mkdir()
-        output_file = str(tmp_path / "output" / "test")
-
-        # Create session with only 5 keystrokes (less than window_size=10)
-        events = []
-        for session_id in range(1, 6):  # 6 sessions per user
-            base_time = session_id * 10000
-            for k in range(30):
-                events.append({
-                    "PARTICIPANT_ID": "001",
-                    "TEST_SECTION_ID": f"s{session_id}",
-                    "PRESS_TIME": base_time + k * 100
-                    "RELEASE_TIME": base_time + k * 100 + 50
-                    "SENTENCE": "test",
-                    "USER_INPUT": "test",
-                    "KEYSTROKE_ID": f"{k:03d}",
-                    "LETTER": "a",
-                    "KEYCODE": 97,
-                })
-        df = pd.DataFrame(events)
-        df.to_csv(input_dir / "001_keystrokes.txt", sep="\t", index=False)
-        df = pd.DataFrame(events2)
-        df.to_csv(input_dir / "002_keystrokes.txt", sep="\t", index=False)
-        # Process with small stride
-        output1 = tmp_path / "out1" / "test"
-        preprocessing.process_and_save(
-            input_dir=str(input_dir),
-            output_file=str(output1),
-            window_size=10,
-            stride=2,
-        )
-        
-        # Process with large stride
-        output2 = tmp_path / "out2" / "test")
-        preprocessing.process_and_save(
-            input_dir=str(input_dir),
-            output_file=str(output2),
-            window_size=10,
-            stride=20,
-        )
-        
-        with h5py.File(f"{output1}:train", "r") as f1:
-            count1 = f1["x"].shape[0]
-        
-        with h5py.File(f"{output2}:test", "r") as f2:
-            count2 = f2["x"].shape[0]
-
-        # Larger stride = fewer windows
-        assert count2 < count1
+        # All sessions are too short, so no output files should be created
+        assert not os.path.exists(f"{output_file}:train")
+        assert not os.path.exists(f"{output_file}:test")
 
     def test_large_stride_fewer_windows(self, tmp_path):
         """Larger stride should produce fewer windows."""
         input_dir = tmp_path / "input"
         input_dir.mkdir()
 
-        # Create enough data for multiple windows
-        # User 001: 3 sessions
-        events = []
-        for session_id in range(1, 4):
-            base_time = session_id * 10000
-            for k in range(30):
-                events.append({
-                    "PARTICIPANT_ID": "001",
-                    "TEST_SECTION_ID": f"s{session_id}",
-                    "PRESS_TIME": base_time + k * 100,
-                    "RELEASE_TIME": base_time + k * 100 + 50,
-                    "SENTENCE": "test",
-                    "USER_INPUT": "test",
-                    "KEYSTROKE_ID": f"{k:03d}",
-                    "LETTER": "a",
-                    "KEYCODE": 97,
-                })
-        
-        # User 002: 3 sessions
-        events2 = []
-        for session_id in range(1, 4):
-            base_time = 100000 + session_id * 1000
-            for k in range(30):
-                events2.append({
-                    "PARTICIPANT_ID": "002",
-                    "TEST_SECTION_ID": f"s{session_id}",
-                    "PRESS_TIME": base_time + k * 100,
-                    "RELEASE_TIME": base_time + k * 100 + 50
-                    "SENTENCE": "test",
-                    "USER_INPUT": "test",
-                    "KEYSTROKE_ID": f"{k:03d}",
-                    "LETTER": "b",
-                    "KEYCODE": 98,
-                })
-        
-        df = pd.DataFrame(events)
-        df.to_csv(input_dir / "001_keystrokes.txt", sep="\t", index=False)
-        
-        df2 = pd.DataFrame(events2)
-        df2.to_csv(input_dir / "002_keystrokes.txt", sep="\t", index=False)
-        
-        # Process with small stride
-        output1 = tmp_path / "out1" / "test"
-        preprocessing.process_and_save(
-            input_dir=str(input_dir),
-            output_file=str(output1),
-            window_size=10,
-            stride=2,
+        # User 001: 4 sessions, 30 keys each
+        events = self._create_user_events("001", n_sessions=4, n_keys=30, base_offset=0)
+        # User 002: 4 sessions, 30 keys each
+        events2 = self._create_user_events(
+            "002", n_sessions=4, n_keys=30, base_offset=500000
         )
-        
-        # Process with large stride
-        output2 = tmp_path / "out2" / "test"
-        preprocessing.process_and_save(
-            input_dir=str(input_dir),
-            output_file=str(output2),
-            window_size=10,
-            stride=20,
-        )
-        df = pd.DataFrame(events)
-        df.to_csv(input_dir / "001_keystrokes.txt", sep="\t", index=False)
 
-        # Create second user for test split
-        events2 = []
-        for k in range(100):
-            events2.append(
-                {
-                    "PARTICIPANT_ID": "002",
-                    "TEST_SECTION_ID": "s1",
-                    "PRESS_TIME": 10000 + k * 100,
-                    "RELEASE_TIME": 10060 + k * 100,
-                    "SENTENCE": "test",
-                    "USER_INPUT": "test",
-                    "KEYSTROKE_ID": f"{k:03d}",
-                    "LETTER": "b",
-                    "KEYCODE": 98,
-                }
-            )
+        df = pd.DataFrame(events)
+        df.to_csv(input_dir / "001_keystrokes.txt", sep="\t", index=False)
         df2 = pd.DataFrame(events2)
         df2.to_csv(input_dir / "002_keystrokes.txt", sep="\t", index=False)
 
@@ -848,42 +773,46 @@ class TestEdgeCases:
         input_dir.mkdir()
         output_file = str(tmp_path / "output" / "test")
 
-        # Create data with identical HOLD_TIME values (zero std)
+        # User 001: 4 sessions with identical HOLD_TIME values (zero std)
         events = []
-        for k in range(30):
-            events.append(
-                {
-                    "PARTICIPANT_ID": "001",
-                    "TEST_SECTION_ID": "s1",
-                    "PRESS_TIME": k * 100,
-                    "RELEASE_TIME": k * 100 + 50,  # All HOLD_TIME = 50
-                    "SENTENCE": "test",
-                    "USER_INPUT": "test",
-                    "KEYSTROKE_ID": f"{k:03d}",
-                    "LETTER": "a",
-                    "KEYCODE": 97,
-                }
-            )
+        for session_id in range(1, 5):
+            base_time = session_id * 10000
+            for k in range(30):
+                events.append(
+                    {
+                        "PARTICIPANT_ID": "001",
+                        "TEST_SECTION_ID": f"s{session_id}",
+                        "PRESS_TIME": base_time + k * 100,
+                        "RELEASE_TIME": base_time + k * 100 + 50,  # All HOLD_TIME = 50
+                        "SENTENCE": "test",
+                        "USER_INPUT": "test",
+                        "KEYSTROKE_ID": f"{k:03d}",
+                        "LETTER": "a",
+                        "KEYCODE": 97,
+                    }
+                )
+
+        # User 002: 4 sessions, same constant hold time
+        events2 = []
+        for session_id in range(1, 5):
+            base_time = 100000 + session_id * 10000
+            for k in range(30):
+                events2.append(
+                    {
+                        "PARTICIPANT_ID": "002",
+                        "TEST_SECTION_ID": f"s{session_id}",
+                        "PRESS_TIME": base_time + k * 100,
+                        "RELEASE_TIME": base_time + k * 100 + 50,
+                        "SENTENCE": "test",
+                        "USER_INPUT": "test",
+                        "KEYSTROKE_ID": f"{k:03d}",
+                        "LETTER": "b",
+                        "KEYCODE": 98,
+                    }
+                )
 
         df = pd.DataFrame(events)
         df.to_csv(input_dir / "001_keystrokes.txt", sep="\t", index=False)
-
-        # Add second user for test split
-        events2 = []
-        for k in range(30):
-            events2.append(
-                {
-                    "PARTICIPANT_ID": "002",
-                    "TEST_SECTION_ID": "s1",
-                    "PRESS_TIME": 10000 + k * 100,
-                    "RELEASE_TIME": 10000 + k * 100 + 50,
-                    "SENTENCE": "test",
-                    "USER_INPUT": "test",
-                    "KEYSTROKE_ID": f"{k:03d}",
-                    "LETTER": "b",
-                    "KEYCODE": 98,
-                }
-            )
         df2 = pd.DataFrame(events2)
         df2.to_csv(input_dir / "002_keystrokes.txt", sep="\t", index=False)
 
